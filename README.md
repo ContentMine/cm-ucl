@@ -7,6 +7,30 @@ the [EPPICentre at UCL, London](http://eppi.ioe.ac.uk/cms/) has sponsored a coll
 ## Goals
 The primary goal is to provide semantic material of high *measurable* quality for use in systematic reviews. The project involves technology development by ContentMine and measurement (metrics) of success by both parties.
 
+## Strategy 
+
+### Material 
+Articles will be chosen By UCL from the public scholarly literature to represent "typical" material for systematic reviews. This has been done to reflect the overall spread of publication technology in bio- and medical sciences (Clinical Trials and Neuroscience testing). Each article has a "PubStyle" determined by publisher technology (typsetting, structure, terminology, etc.). Within biomedical UCL has selected a wide a range of PubStyles consistent with project resources rather than cherry-picking PubStyles that are "easy" for the current technology.
+
+### source code
+ContentMine/PMR has developed tools for extracting data from PDFs, based on [Apache's PDFBox](https://pdfbox.apache.org/), currently in [SVG2XML](https://bitbucket.org/petermr/svg2xml/wiki/Home) and other modules in the toolchain. PMR has developed the AMI-table module, which will be used and refined here.
+
+### research and metrics
+[Chris Hartgerink](https://github.com/chartgerink) will oversee the precise research methodology to ensure that matrics and conclusions are formally justifiable. The primary discussion will occur on this site. As far as possible UCL will select material and CH will create metrics; with PMR deliberately not involved in choice of PubStyles.  The intention will be to give an "objective" assessment of the recall, precision and accuracy of AMI-table.
+
+Metrics will cover several levels:
+* conversion of the input stream to Unicode. This covers legacy undocumented fonts (codepoints), diacritics and normalization, ligatures, and other undiscovered problems.
+* retrieval of the table area. Too much, too little or "just right".
+* retrieval and naming of table sections. Currently we have: "title", "header", "body", "footer"
+* retrieval of sub-sections (column headers, row headers, columns, rows)
+* retrieval of sub-tables (indentation or sub-grids)
+* subscripts and superscripts.
+* line-break interpretation
+Some of these will may be categorical or Likert-like 
+
+### development
+We hope to have an agreed Open corpus by the end of 2017-01. This will be split into parts for development and metrics. Code will be developed against the development-corpus, while the testing corpus will be held back from PMR. Question? How does one do blinding in a n OpenNoteBook project.
+
 ## Open
 All software is Open, compliant with the [OSI license definitions](https://opensource.org/licenses). Software from TheContentMine ("AMI", and other packages ("getpapers", "quickscrape") is generally licenced Apache2 (see this project). Other software will normally be under similar Open Licences - where GPL is used it will be distinct modules that are linked by data files, not program APIs.
 
