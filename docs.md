@@ -33,4 +33,17 @@ find corpus-grobid -type f -name '*.tei.xml' -print0 | while IFS= read -r -d '' 
 done > data/grobid-tables.csv
 ```
 
-The filepaths in `grobid-tables.csv` were reverted to just the filenames without extension, so they could be matched with the manual coding.
+The filepaths in `grobid-tables.csv` were reverted to just the filenames without extension, so they could be matched with the manual coding
+
+# Manual table extraction
+
+apt-get install pdf2svg
+
+for path in $(ls corpus-oa);
+do
+ pdf2svg corpus-oa/$path/fulltext.pdf page-%d.svg all
+done
+
+After completing the table extraction
+
+rm corpus-oa/*/page*
