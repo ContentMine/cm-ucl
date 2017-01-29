@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="CKCICG+Shaker2Lancet-Bold"
+        family="Shaker2Lancet-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCICG+Shaker2Lancet-Bold"
+        bold="true" italic="false" symbol="true"/>
+        <font name="CKCICH+Shaker2Lancet-Regular"
+        family="Shaker2Lancet-Regular" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCICH+Shaker2Lancet-Regular"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CKCIDI+Shaker2Lancet-Italic"
+        family="Shaker2Lancet-Italic" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCIDI+Shaker2Lancet-Italic"
+        bold="false" italic="true" symbol="true"/>
+        <font name="CKCIDJ+ScalaLancetPro-Bold"
+        family="ScalaLancetPro-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCIDJ+ScalaLancetPro-Bold"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CKCIDK+ScalaLancetPro-BoldItalic"
+        family="ScalaLancetPro-BoldItalic"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="CKCIDK+ScalaLancetPro-BoldItalic"
+        bold="false" italic="true" symbol="true"/>
+        <font name="CKCIDL+ScalaLancetPro"
+        family="ScalaLancetPro" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCIDL+ScalaLancetPro"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CKCIDM+Shaker2Lancet-BoldItalic"
+        family="Shaker2Lancet-BoldItalic"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="CKCIDM+Shaker2Lancet-BoldItalic"
+        bold="true" italic="true" symbol="true"/>
+        <font name="CKCIGL+ScalaLancetPro-Italic"
+        family="ScalaLancetPro-Italic" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCIGL+ScalaLancetPro-Italic"
+        bold="false" italic="true" symbol="true"/>
+        <font name="CKCIIM+Shaker2Lancet-Regular"
+        family="Shaker2Lancet-Regular" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCIIM+Shaker2Lancet-Regular"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_S0140-6736(16)31590-2/fulltext.pdf"
+    pageCount="10">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+    </pdf>
+</pdfLog>

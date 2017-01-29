@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="NVOWKT+Corbel" family="Corbel"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="NVOWKT+Corbel"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LSPKIX+Corbel-Bold" family="Corbel-Bold"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LSPKIX+Corbel-Bold"
+        bold="false" italic="false" symbol="false"/>
+        <font name="QCCOAN+Corbel" family="Corbel"
+        type="Font" encoding="null" fontencoding="null"
+        basefont="QCCOAN+Corbel" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NLNWVT+Corbel-Bold" family="Corbel-Bold"
+        type="Font" encoding="null" fontencoding="null"
+        basefont="NLNWVT+Corbel-Bold" bold="false"
+        italic="false" symbol="true"/>
+        <font name="FZMVNJ+MinionPro-Regular"
+        family="MinionPro-Regular" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="FZMVNJ+MinionPro-Regular"
+        bold="false" italic="false" symbol="false"/>
+        <font name="YMAFTX+MinionPro-It"
+        family="MinionPro-It" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="YMAFTX+MinionPro-It" bold="false"
+        italic="true" symbol="false"/>
+        <font name="RZOPZL+EuclidSymbol"
+        family="EuclidSymbol" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="RZOPZL+EuclidSymbol" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PWPDXP+MinionPro-Bold"
+        family="MinionPro-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="PWPDXP+MinionPro-Bold"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LQMFTX+EuclidSymbol-Bold"
+        family="EuclidSymbol-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LQMFTX+EuclidSymbol-Bold"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1038_srep39471/fulltext.pdf"
+    pageCount="15">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+    </pdf>
+</pdfLog>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="OBPAFC+PbwwxhAdvTTe45e47d2"
+        family="PbwwxhAdvTTe45e47d2" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAFC+PbwwxhAdvTTe45e47d2"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAFD+PhclmtAdvTTb5929f4c"
+        family="PhclmtAdvTTb5929f4c" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAFD+PhclmtAdvTTb5929f4c"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAFE+NjtgbdAdvTT1b53b5fb.I"
+        family="NjtgbdAdvTT1b53b5fb.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAFE+NjtgbdAdvTT1b53b5fb.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAKD+PxnsqgAdvTT7329fd89.I"
+        family="PxnsqgAdvTT7329fd89.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAKD+PxnsqgAdvTT7329fd89.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAKE+FlcskpAdvTTaf7f9f4f.B"
+        family="FlcskpAdvTTaf7f9f4f.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAKE+FlcskpAdvTTaf7f9f4f.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAME+TfynmqAdvTT99c4c969"
+        family="TfynmqAdvTT99c4c969" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAME+TfynmqAdvTT99c4c969"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAMF+DshhvwAdvTTb5929f4c+20"
+        family="DshhvwAdvTTb5929f4c+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPAMF+DshhvwAdvTTb5929f4c+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPAMG+GpcpwcAdvTTb5929f4c+22"
+        family="GpcpwcAdvTTb5929f4c+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="OBPAMG+GpcpwcAdvTTb5929f4c+22"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPBDE+KspxjgAdvTT86d47313"
+        family="KspxjgAdvTT86d47313" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPBDE+KspxjgAdvTT86d47313"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPBEF+RdpbflAdvTT8861b38f.I"
+        family="RdpbflAdvTT8861b38f.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPBEF+RdpbflAdvTT8861b38f.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPBHF+TlfxvwAdvTT86d47313+20"
+        family="TlfxvwAdvTT86d47313+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPBHF+TlfxvwAdvTT86d47313+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPBKF+GwvbwgAdvTT86d47313+22"
+        family="GwvbwgAdvTT86d47313+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="OBPBKF+GwvbwgAdvTT86d47313+22"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OBPGFJ+KpvrkwAdvTTe45e47d2+22"
+        family="KpvrkwAdvTTe45e47d2+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="OBPGFJ+KpvrkwAdvTTe45e47d2+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="OBPPMA+NfcrllAdvTT83913201.I"
+        family="NfcrllAdvTT83913201.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OBPPMA+NfcrllAdvTT83913201.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OCAAAP+WkhnvlAdvTT99c4c969+20"
+        family="WkhnvlAdvTT99c4c969+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OCAAAP+WkhnvlAdvTT99c4c969+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OCAAEP+ClpkqhAdvTT1b53b5fb.I+20"
+        family="ClpkqhAdvTT1b53b5fb.I+20"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="OCAAEP+ClpkqhAdvTT1b53b5fb.I+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OCAAOM+MhhvpjFrutigerLTStd-Bold"
+        family="MhhvpjFrutigerLTStd-Bold"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="OCAAOM+MhhvpjFrutigerLTStd-Bold"
+        bold="true" italic="false" symbol="true"/>
+        <font name="OCABCL+LccsdlFrutigerLTStd-Roman"
+        family="LccsdlFrutigerLTStd-Roman"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="OCABCL+LccsdlFrutigerLTStd-Roman"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1186_1741-7015-11-207/fulltext.pdf"
+    pageCount="10">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+    </pdf>
+</pdfLog>

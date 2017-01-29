@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="PAFJDJ+AdvGulliv-R" family="AdvGulliv-R"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFJDJ+AdvGulliv-R" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFJGJ+AdvCORRESAST"
+        family="AdvCORRESAST" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="PAFJGJ+AdvCORRESAST" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFJGK+AdvGulliv-I" family="AdvGulliv-I"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFJGK+AdvGulliv-I" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFJGL+AdvGulliv-F" family="AdvGulliv-F"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFJGL+AdvGulliv-F" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFJGM+AdvPSSym" family="AdvPSSym"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFJGM+AdvPSSym" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFJHN+AdvGulliv-B" family="AdvGulliv-B"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFJHN+AdvGulliv-B" bold="true"
+        italic="false" symbol="true"/>
+        <font name="PAFJMM+AdvPSUnv" family="AdvPSUnv"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="PAFJMM+AdvPSUnv"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PAFKBL+Arial-BoldMT"
+        family="Arial-BoldMT" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PAFKBL+Arial-BoldMT" bold="false"
+        italic="false" symbol="false"/>
+        <font name="PAFKBM+Times-Roman" family="Times-Roman"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="PAFKBM+Times-Roman"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PAFLOB+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFLOB+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFLPC+AdvFENICE-L" family="AdvFENICE-L"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="PAFLPC+AdvFENICE-L"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PAFLPD+AdvPSMP1" family="AdvPSMP1"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFLPD+AdvPSMP1" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFMBD+AdvPSMSAM10" family="AdvPSMSAM10"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFMBD+AdvPSMSAM10" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PAFMBE+AdvPSMP4" family="AdvPSMP4"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="PAFMBE+AdvPSMP4"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PAFMFD+AdvMTSY" family="AdvMTSY"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="PAFMFD+AdvMTSY" bold="false"
+        italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_j.pain.2014.09.020/fulltext.pdf"
+    pageCount="10">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+    </pdf>
+</pdfLog>

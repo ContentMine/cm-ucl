@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="NJIKJL+AdvGulliv-R" family="AdvGulliv-R"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJIKJL+AdvGulliv-R" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NJIKML+AdvCORRESAST"
+        family="AdvCORRESAST" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="NJIKML+AdvCORRESAST" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NJIKMM+AdvGulliv-I" family="AdvGulliv-I"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJIKMM+AdvGulliv-I" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NJIKMN+AdvGulliv-F" family="AdvGulliv-F"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJIKMN+AdvGulliv-F" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NJIKNO+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJIKNO+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NJIKNP+AdvPSSym" family="AdvPSSym"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJIKNP+AdvPSSym" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NJIKOA+AdvGulliv-B" family="AdvGulliv-B"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJIKOA+AdvGulliv-B" bold="true"
+        italic="false" symbol="true"/>
+        <font name="NJIKOB+AdvPSUnv" family="AdvPSUnv"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="NJIKOB+AdvPSUnv"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NJILEP+AdvPSMP13" family="AdvPSMP13"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="NJILEP+AdvPSMP13"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NJJAOL+AdvMTSY" family="AdvMTSY"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NJJAOL+AdvMTSY" bold="false"
+        italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_j.pain.2014.09.033/fulltext.pdf"
+    pageCount="11">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+    </pdf>
+</pdfLog>

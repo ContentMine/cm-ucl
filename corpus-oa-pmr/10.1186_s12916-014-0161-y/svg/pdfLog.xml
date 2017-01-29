@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="IELGKB+WdtkvcAdvTTaf7f9f4f.B"
+        family="WdtkvcAdvTTaf7f9f4f.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IELGKB+WdtkvcAdvTTaf7f9f4f.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IELGKC+RpwkpxAdvTTe45e47d2"
+        family="RpwkpxAdvTTe45e47d2" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IELGKC+RpwkpxAdvTTe45e47d2"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IELGKD+GjndqfAdvTTb5929f4c"
+        family="GjndqfAdvTTb5929f4c" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IELGKD+GjndqfAdvTTb5929f4c"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IELGLE+RfqlnsAdvTT99c4c969"
+        family="RfqlnsAdvTT99c4c969" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IELGLE+RfqlnsAdvTT99c4c969"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IELGLF+JrwvcyAdvTTb5929f4c+22"
+        family="JrwvcyAdvTTb5929f4c+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="IELGLF+JrwvcyAdvTTb5929f4c+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="IELGMG+LrqpdfAdvTTb5929f4c+20"
+        family="LrqpdfAdvTTb5929f4c+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IELGMG+LrqpdfAdvTTb5929f4c+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IELOHH+TsfdpbMyriadPro-BoldIt"
+        family="TsfdpbMyriadPro-BoldIt" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="IELOHH+TsfdpbMyriadPro-BoldIt"
+        bold="true" italic="true" symbol="true"/>
+        <font name="IELOKH+VkxtcjAdvTT7329fd89.I"
+        family="VkxtcjAdvTT7329fd89.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IELOKH+VkxtcjAdvTT7329fd89.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMBBJ+RymptfAdvTT1b53b5fb.I"
+        family="RymptfAdvTT1b53b5fb.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMBBJ+RymptfAdvTT1b53b5fb.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMBCK+RmcfhnAdvTT86d47313"
+        family="RmcfhnAdvTT86d47313" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMBCK+RmcfhnAdvTT86d47313"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMBHJ+BktsjkAdvTT86d47313+20"
+        family="BktsjkAdvTT86d47313+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMBHJ+BktsjkAdvTT86d47313+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMBHK+LqtbnjAdvTT86d47313+22"
+        family="LqtbnjAdvTT86d47313+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="IEMBHK+LqtbnjAdvTT86d47313+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="IEMBIL+JpnjhkAdvTT83913201.I"
+        family="JpnjhkAdvTT83913201.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMBIL+JpnjhkAdvTT83913201.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMBMK+SjkvfkAdvP4C4E74"
+        family="SjkvfkAdvP4C4E74" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="IEMBMK+SjkvfkAdvP4C4E74"
+        bold="false" italic="false" symbol="true"/>
+        <font name="IEMBML+HhqprgAdvTT43ccf47d"
+        family="HhqprgAdvTT43ccf47d" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMBML+HhqprgAdvTT43ccf47d"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMCBK+RkhrtnAdvTT8861b38f.I"
+        family="RkhrtnAdvTT8861b38f.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMCBK+RkhrtnAdvTT8861b38f.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IEMJNM+DqksghAdvTTb5929f4c+03"
+        family="DqksghAdvTTb5929f4c+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="IEMJNM+DqksghAdvTTb5929f4c+03"
+        bold="false" italic="false" symbol="true"/>
+        <font name="IEMOBD+CgxtlrAdvTTe45e47d2+20"
+        family="CgxtlrAdvTTe45e47d2+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="IEMOBD+CgxtlrAdvTTe45e47d2+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="IENCII+WmnrbjFrutigerLTStd-Bold"
+        family="WmnrbjFrutigerLTStd-Bold"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="IENCII+WmnrbjFrutigerLTStd-Bold"
+        bold="true" italic="false" symbol="true"/>
+        <font name="IENDBG+FqqqkrFrutigerLTStd-Roman"
+        family="FqqqkrFrutigerLTStd-Roman"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="IENDBG+FqqqkrFrutigerLTStd-Roman"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1186_s12916-014-0161-y/fulltext.pdf"
+    pageCount="19">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4">
+            <character font="IEMBMK+SjkvfkAdvP4C4E74"
+            family="SjkvfkAdvP4C4E74" name="C15"
+            code="1">
+                <path stroke="black" fill="none"
+                d=" M 2.234375 -0.5 C 1.28125
+                -0.5 0.5 -1.28125 0.5 -2.234375
+                C 0.5 -3.28125 1.328125 -4.0
+                2.234375 -4.0 C 3.1875 -4.0
+                3.984375 -3.234375 3.984375
+                -2.265625 C 3.984375 -1.234375
+                3.15625 -0.5 2.234375 -0.5
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="IEMBMK+SjkvfkAdvP4C4E74"
+            family="SjkvfkAdvP4C4E74" name="C15"
+            code="1">
+                <path stroke="black" fill="none"
+                d=" M 2.234375 -0.5 C 1.28125
+                -0.5 0.5 -1.28125 0.5 -2.234375
+                C 0.5 -3.28125 1.328125 -4.0
+                2.234375 -4.0 C 3.1875 -4.0
+                3.984375 -3.234375 3.984375
+                -2.265625 C 3.984375 -1.234375
+                3.15625 -0.5 2.234375 -0.5
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="IEMBMK+SjkvfkAdvP4C4E74"
+            family="SjkvfkAdvP4C4E74" name="C15"
+            code="1">
+                <path stroke="black" fill="none"
+                d=" M 2.234375 -0.5 C 1.28125
+                -0.5 0.5 -1.28125 0.5 -2.234375
+                C 0.5 -3.28125 1.328125 -4.0
+                2.234375 -4.0 C 3.1875 -4.0
+                3.984375 -3.234375 3.984375
+                -2.265625 C 3.984375 -1.234375
+                3.15625 -0.5 2.234375 -0.5
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="IEMBMK+SjkvfkAdvP4C4E74"
+            family="SjkvfkAdvP4C4E74" name="C15"
+            code="1">
+                <path stroke="black" fill="none"
+                d=" M 2.234375 -0.5 C 1.28125
+                -0.5 0.5 -1.28125 0.5 -2.234375
+                C 0.5 -3.28125 1.328125 -4.0
+                2.234375 -4.0 C 3.1875 -4.0
+                3.984375 -3.234375 3.984375
+                -2.265625 C 3.984375 -1.234375
+                3.15625 -0.5 2.234375 -0.5
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="IEMBMK+SjkvfkAdvP4C4E74"
+            family="SjkvfkAdvP4C4E74" name="C15"
+            code="1">
+                <path stroke="black" fill="none"
+                d=" M 2.234375 -0.5 C 1.28125
+                -0.5 0.5 -1.28125 0.5 -2.234375
+                C 0.5 -3.28125 1.328125 -4.0
+                2.234375 -4.0 C 3.1875 -4.0
+                3.984375 -3.234375 3.984375
+                -2.265625 C 3.984375 -1.234375
+                3.15625 -0.5 2.234375 -0.5
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+        <page num="16"/>
+        <page num="17"/>
+        <page num="18"/>
+        <page num="19"/>
+    </pdf>
+</pdfLog>

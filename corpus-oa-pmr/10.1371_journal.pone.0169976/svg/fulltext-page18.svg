@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
+ <defs id="defs1">
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L612.0 0.0 L612.0 792.0 L0.0 792.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L0.0 792.0 L612.0 792.0 L612.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M36.0 242.646 L36.0 297.014 L90.425 297.014 L90.425 242.646 Z"/>
+  </clipPath>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M37.425 242.789 L36.958 242.883 L36.577 243.141 L36.319 243.522 L36.225 243.989 L36.225 295.589 L36.319 296.057 L36.577 296.438 L36.958 296.695 L37.425 296.789 L89.025 296.789 L89.492 296.695 L89.873 296.438 L90.131 296.057 L90.225 295.589 L90.225 243.989 L90.131 243.522 L89.873 243.141 L89.492 242.883 L89.025 242.789 Z"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
+   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
+  </marker>
+  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
+   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
+  </marker>
+ </defs>
+ <image transform="matrix(0.23994971470663629,-0.0,-0.0,0.2399777604369877,179.54649353027344,78.0094985961914)" xlink:href="fulltext.p18.i1.png" x="0.0" y="0.0" width="1652.0" height="2550.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <path stroke="black" clip-path="url(#clipPath2)" fill="#000000" stroke-width="0.0" d="M576.0 54.9 L36.0 54.9 L36.0 54.4 L576.0 54.4 "/>
+ <image transform="matrix(0.11979071995066803,-0.0,-0.0,0.1193984830110395,36.0,27.042572021484375)" xlink:href="fulltext.p18.i2.png" x="0.0" y="0.0" width="894.0" height="198.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="718.0" x="349.285" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">N</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="354.989" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="359.365" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="333.0" x="363.741" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="366.365" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">L</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="370.741" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="375.117" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="377.325" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="381.701" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="386.077" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="666.0" x="389.48" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="394.768" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="399.144" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="403.52" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="407.895" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="410.103" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="500.0" x="414.367" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">x</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="418.327" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="420.031" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="426.16" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">I</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="428.368" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="432.744" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">j</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="434.448" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="500.0" x="438.824" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="442.784" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="444.992" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="446.696" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="451.072" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="455.448" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">:</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="666.0" x="459.325" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">A</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="718.0" x="466.355" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="472.059" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="476.435" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="833.0" x="480.415" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">M</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="487.039" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="491.414" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="495.79" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="500.166" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="503.545" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="507.921" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="718.0" x="511.879" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">H</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="500.0" x="517.583" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="521.543" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="525.919" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="333.0" x="530.295" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="500.0" x="532.919" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="536.879" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="541.255" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="545.631" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="550.007" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="554.383" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="555.986" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="552.0" x="560.362" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="564.738" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="566.442" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="218.0" x="568.146" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="281.0" x="569.849" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="Helvetica" svgx:width="500.0" x="572.057" y="46.205" font-size="8.0" font-family="Helvetica" font-weight="normal">y</text>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#000000" stroke-width="0.0" d="M36.0 744.0 L576.0 744.0 L576.0 744.5 L36.0 744.5 "/>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="666.0" x="36.0" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="41.288" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">L</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="781.0" x="45.664" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">O</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="666.0" x="51.872" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="781.0" x="58.847" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">O</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="718.0" x="65.055" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">N</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="666.0" x="70.759" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="260.0" x="77.782" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">|</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="718.0" x="81.58" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">D</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="781.0" x="87.284" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">O</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="93.492" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">I</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="95.7" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">:</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="97.908" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="102.284" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="106.66" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="108.868" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="113.244" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="117.62" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">7</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="121.889" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="126.265" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">/</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="218.0" x="128.473" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">j</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="130.177" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="134.553" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="333.0" x="138.929" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="141.553" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="145.929" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="218.0" x="150.305" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="152.009" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="154.217" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="158.593" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="162.878" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="167.254" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="171.63" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="173.837" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="178.213" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="182.589" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">6</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="186.965" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">9</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="191.224" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">9</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="195.6" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">7</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="199.976" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">6</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="500.0" x="212.314" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">J</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="216.274" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="220.65" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="225.026" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="229.402" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="333.0" x="233.778" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="500.0" x="236.402" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="242.021" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="246.397" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="250.773" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="254.72" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="259.096" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="263.472" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="267.848" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">7</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="552.81" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="557.185" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="281.0" x="563.241" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">/</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="567.209" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="Helvetica" svgx:width="552.0" x="571.585" y="756.0" font-size="8.0" font-family="Helvetica" font-weight="normal">3</text>
+</svg>

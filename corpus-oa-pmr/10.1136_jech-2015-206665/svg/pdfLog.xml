@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="LHOBCB+AdvOT6520a694"
+        family="AdvOT6520a694" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOBCB+AdvOT6520a694" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LHOBCC+AdvOT6520a694+20"
+        family="AdvOT6520a694+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOBCC+AdvOT6520a694+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHOBCD+AdvOT6520a694+fb"
+        family="AdvOT6520a694+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHOBCD+AdvOT6520a694+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LHOBCE+AdvOT0231c847"
+        family="AdvOT0231c847" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOBCE+AdvOT0231c847" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LHOBCF+AdvOT8608a8d1+25"
+        family="AdvOT8608a8d1+25" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHOBCF+AdvOT8608a8d1+25"
+        bold="true" italic="false" symbol="true"/>
+        <font name="LHOBCG+AdvOTc9c0ed35.B"
+        family="AdvOTc9c0ed35.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOBCG+AdvOTc9c0ed35.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHOCCA+AdvOTbe4cb9cb"
+        family="AdvOTbe4cb9cb" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOCCA+AdvOTbe4cb9cb" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LHOCCB+AdvOT0231c847+20"
+        family="AdvOT0231c847+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOCCB+AdvOT0231c847+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHOCCC+AdvOT0231c847+fb"
+        family="AdvOT0231c847+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHOCCC+AdvOT0231c847+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LHOCCD+AdvTTb20e5d60"
+        family="AdvTTb20e5d60" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOCCD+AdvTTb20e5d60" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LHOCCE+AdvTTb20e5d60+20"
+        family="AdvTTb20e5d60+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOCCE+AdvTTb20e5d60+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHOCDF+AdvTTb20e5d60+fb"
+        family="AdvTTb20e5d60+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHOCDF+AdvTTb20e5d60+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LHOCJD+AdvTTb2d6d9f8.I"
+        family="AdvTTb2d6d9f8.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHOCJD+AdvTTb2d6d9f8.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHOCJE+AdvOT8608a8d1+22"
+        family="AdvOT8608a8d1+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHOCJE+AdvOT8608a8d1+22"
+        bold="true" italic="false" symbol="true"/>
+        <font name="LHPIIF+AdvOT0c2f268a.I"
+        family="AdvOT0c2f268a.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHPIIF+AdvOT0c2f268a.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHPIIG+AdvOTc9c0ed35.B+20"
+        family="AdvOTc9c0ed35.B+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHPIIG+AdvOTc9c0ed35.B+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHPILG+AdvOTbe4cb9cb+20"
+        family="AdvOTbe4cb9cb+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHPILG+AdvOTbe4cb9cb+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHPILH+AdvOTbe4cb9cb+fb"
+        family="AdvOTbe4cb9cb+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHPILH+AdvOTbe4cb9cb+fb"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1136_jech-2015-206665/fulltext.pdf"
+    pageCount="8">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+    </pdf>
+</pdfLog>
