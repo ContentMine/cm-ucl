@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="CKCDGE+Shaker2Lancet-Bold"
+        family="Shaker2Lancet-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCDGE+Shaker2Lancet-Bold"
+        bold="true" italic="false" symbol="true"/>
+        <font name="CKCDGF+Shaker2Lancet-Regular"
+        family="Shaker2Lancet-Regular" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCDGF+Shaker2Lancet-Regular"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CKCDGG+Shaker2Lancet-Italic"
+        family="Shaker2Lancet-Italic" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCDGG+Shaker2Lancet-Italic"
+        bold="false" italic="true" symbol="true"/>
+        <font name="CKCDHG+ScalaLancetPro-Bold"
+        family="ScalaLancetPro-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCDHG+ScalaLancetPro-Bold"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CKCDHH+ScalaLancetPro"
+        family="ScalaLancetPro" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCDHH+ScalaLancetPro"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CKCDII+Shaker2Lancet-BoldItalic"
+        family="Shaker2Lancet-BoldItalic"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="CKCDII+Shaker2Lancet-BoldItalic"
+        bold="true" italic="true" symbol="true"/>
+        <font name="CKCDIJ+ScalaLancetPro-Italic"
+        family="ScalaLancetPro-Italic" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CKCDIJ+ScalaLancetPro-Italic"
+        bold="false" italic="true" symbol="true"/>
+        <font name="CKCDMI+Shaker2Lancet-Regular"
+        family="Shaker2Lancet-Regular" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="CKCDMI+Shaker2Lancet-Regular"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_S0140-6736(16)32507-7/fulltext.pdf"
+    pageCount="9">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+    </pdf>
+</pdfLog>

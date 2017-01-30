@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="HNHMKN+AdvTT5235d5a9"
+        family="AdvTT5235d5a9" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNHMKN+AdvTT5235d5a9" bold="false"
+        italic="false" symbol="false"/>
+        <font name="HNHMKO+AdvTT5235d5a9+26"
+        family="AdvTT5235d5a9+26" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HNHMKO+AdvTT5235d5a9+26"
+        bold="false" italic="false" symbol="true"/>
+        <font name="HNHMLP+AdvTT5235d5a9+20"
+        family="AdvTT5235d5a9+20" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HNHMLP+AdvTT5235d5a9+20"
+        bold="false" italic="false" symbol="true"/>
+        <font name="HNHMMA+AdvTT94c8263f.I"
+        family="AdvTT94c8263f.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNHMMA+AdvTT94c8263f.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HNHMNB+AdvTT0f485e03"
+        family="AdvTT0f485e03" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNHMNB+AdvTT0f485e03" bold="false"
+        italic="false" symbol="false"/>
+        <font name="HNHMNC+AdvTT5235d5a9+fb"
+        family="AdvTT5235d5a9+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HNHMNC+AdvTT5235d5a9+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="HNHMND+AdvTT454a7a89"
+        family="AdvTT454a7a89" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNHMND+AdvTT454a7a89" bold="false"
+        italic="false" symbol="false"/>
+        <font name="HNHMOD+AdvTT5235d5a9+22"
+        family="AdvTT5235d5a9+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HNHMOD+AdvTT5235d5a9+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="HNHMOE+AdvTT28000ce1.B"
+        family="AdvTT28000ce1.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNHMOE+AdvTT28000ce1.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HNHNDD+AdvTTc8c83e50"
+        family="AdvTTc8c83e50" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNHNDD+AdvTTc8c83e50" bold="false"
+        italic="false" symbol="false"/>
+        <font name="HNICBG+AdvTT94c8263f.I+20"
+        family="AdvTT94c8263f.I+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HNICBG+AdvTT94c8263f.I+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HNICGF+AdvTT5235d5a9+03"
+        family="AdvTT5235d5a9+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HNICGF+AdvTT5235d5a9+03"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_j.ypmed.2016.09.005/fulltext.pdf"
+    pageCount="7">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+    </pdf>
+</pdfLog>

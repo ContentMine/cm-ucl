@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="COPHHO+Arial-BoldMT"
+        family="Arial-BoldMT" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPHHO+Arial-BoldMT" bold="false"
+        italic="false" symbol="false"/>
+        <font name="COPJBF+AdvTT5afe5d37.B"
+        family="AdvTT5afe5d37.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJBF+AdvTT5afe5d37.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="COPJBG+AdvOTa20b42a7"
+        family="AdvOTa20b42a7" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJBG+AdvOTa20b42a7" bold="false"
+        italic="false" symbol="false"/>
+        <font name="COPJBH+AdvOTa20b42a7+fb"
+        family="AdvOTa20b42a7+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="COPJBH+AdvOTa20b42a7+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="COPJBI+AdvTT6780a46b"
+        family="AdvTT6780a46b" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJBI+AdvTT6780a46b" bold="false"
+        italic="false" symbol="false"/>
+        <font name="COPJBJ+AdvTT6780a46b+20"
+        family="AdvTT6780a46b+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJBJ+AdvTT6780a46b+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="COPJBK+AdvOT3b30f6db.B"
+        family="AdvOT3b30f6db.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJBK+AdvOT3b30f6db.B"
+        bold="true" italic="false" symbol="false"/>
+        <font name="COPJCL+AdvOT46dcae81"
+        family="AdvOT46dcae81" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJCL+AdvOT46dcae81" bold="true"
+        italic="false" symbol="false"/>
+        <font name="COPJCM+AdvOT46dcae81+fb"
+        family="AdvOT46dcae81+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="COPJCM+AdvOT46dcae81+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="COPJCN+AdvOT65f8a23b.I"
+        family="AdvOT65f8a23b.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJCN+AdvOT65f8a23b.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="COPJCO+AdvEls-ent4" family="AdvEls-ent4"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="COPJCO+AdvEls-ent4"
+        bold="false" italic="false" symbol="false"/>
+        <font name="COPJCP+AdvOT46dcae81+20"
+        family="AdvOT46dcae81+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="COPJCP+AdvOT46dcae81+20"
+        bold="true" italic="false" symbol="false"/>
+        <font name="COPJFP+AdvOT46dcae81+03"
+        family="AdvOT46dcae81+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="COPJFP+AdvOT46dcae81+03"
+        bold="false" italic="false" symbol="true"/>
+        <font name="COPJGA+AdvPi1" family="AdvPi1"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="COPJGA+AdvPi1"
+        bold="false" italic="false" symbol="false"/>
+        <font name="CPAGFB+AdvOT919a0533.B"
+        family="AdvOT919a0533.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="CPAGFB+AdvOT919a0533.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="CPAHEM+AdvOT7d2ebc01"
+        family="AdvOT7d2ebc01" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="CPAHEM+AdvOT7d2ebc01" bold="false"
+        italic="false" symbol="false"/>
+        <font name="CPAOED+AdvTT6780a46b+fb"
+        family="AdvTT6780a46b+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CPAOED+AdvTT6780a46b+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CPAOIC+AdvOT8608a8d1+03"
+        family="AdvOT8608a8d1+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CPAOIC+AdvOT8608a8d1+03"
+        bold="false" italic="false" symbol="true"/>
+        <font name="CPAOKC+AdvOT8608a8d1"
+        family="AdvOT8608a8d1" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="CPAOKC+AdvOT8608a8d1" bold="false"
+        italic="false" symbol="false"/>
+        <font name="CPAOLD+AdvTT6780a46b+22"
+        family="AdvTT6780a46b+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="CPAOLD+AdvTT6780a46b+22"
+        bold="false" italic="false" symbol="false"/>
+        <font name="CPAPFA+ArialMT" family="ArialMT"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="CPAPFA+ArialMT"
+        bold="false" italic="false" symbol="false"/>
+        <font name="CPBBCG+AdvEls-ent3" family="AdvEls-ent3"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="CPBBCG+AdvEls-ent3"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1038_ejcn.2016.222/fulltext.pdf"
+    pageCount="8">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8">
+            <character font="CPBBCG+AdvEls-ent3"
+            family="AdvEls-ent3" name="s"
+            code="115">
+                <path stroke="black" fill="none"
+                d=" M 3.640625 -3.546875
+                L 2.9375 -3.546875 L 2.9375
+                -1.96875 L 3.375 -1.96875
+                C 3.890625 -1.96875 4.234375
+                -2.234375 4.28125 -2.671875
+                C 4.34375 -3.21875 4.109375
+                -3.546875 3.640625 -3.546875
+                Z M 1.765625 -3.546875 L
+                1.765625 -3.65625 L 3.8125
+                -3.65625 C 4.296875 -3.65625
+                4.671875 -3.453125 4.828125
+                -3.125 C 4.984375 -2.734375
+                4.828125 -2.3125 4.40625
+                -2.09375 C 4.234375 -2.015625
+                3.875 -1.9375 3.6875 -1.90625
+                C 4.3125 -1.765625 4.546875
+                -1.609375 4.640625 -1.296875
+                C 4.734375 -1.0 4.65625 -0.34375
+                4.890625 -0.234375 C 5.140625
+                -0.125 5.34375 -0.328125
+                5.34375 -0.671875 L 5.34375
+                -1.0 L 5.453125 -1.0 L 5.453125
+                -0.640625 C 5.453125 -0.203125
+                5.109375 0.046875 4.640625
+                -0.015625 C 4.265625 -0.078125
+                4.09375 -0.375 4.0625 -0.96875
+                C 4.0625 -1.046875 4.046875
+                -1.203125 4.046875 -1.28125
+                C 3.984375 -1.625 3.75 -1.84375
+                3.40625 -1.84375 L 2.9375
+                -1.84375 L 2.9375 -0.171875
+                L 3.59375 -0.171875 L 3.59375
+                -0.0625 L 1.765625 -0.0625
+                L 1.765625 -0.171875 L 2.3125
+                -0.171875 L 2.3125 -3.546875
+                Z M 3.375 -4.5625 C 2.203125
+                -4.484375 1.203125 -3.6875
+                0.875 -2.5625 C 0.359375
+                -0.859375 1.5 0.875 3.25
+                1.0625 C 4.09375 1.140625
+                4.9375 0.875 5.5 0.328125
+                C 6.125 -0.265625 6.453125
+                -1.109375 6.390625 -1.921875
+                C 6.265625 -3.515625 4.953125
+                -4.671875 3.375 -4.5625 Z
+                M 3.328125 -4.71875 C 5.015625
+                -4.84375 6.390625 -3.640625
+                6.53125 -1.890625 C 6.59375
+                -1.0625 6.1875 -0.125 5.5625
+                0.453125 C 4.953125 1.015625
+                4.0625 1.296875 3.203125
+                1.203125 C 1.34375 0.984375
+                0.21875 -0.828125 0.734375
+                -2.609375 C 1.046875 -3.765625
+                2.109375 -4.625 3.328125
+                -4.71875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+    </pdf>
+</pdfLog>

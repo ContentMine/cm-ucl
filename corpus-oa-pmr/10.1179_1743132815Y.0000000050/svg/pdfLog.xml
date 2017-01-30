@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="ECIEJC+OpenSans" family="OpenSans"
+        type="Font" encoding="null" fontencoding="null"
+        basefont="ECIEJC+OpenSans" bold="false"
+        italic="false" symbol="false"/>
+        <font name="ECIEJB+OpenSans-Semibold"
+        family="OpenSans-Semibold" type="Font"
+        encoding="null" fontencoding="null"
+        basefont="ECIEJB+OpenSans-Semibold"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOKC+AdvP3D129C" family="AdvP3D129C"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOKC+AdvP3D129C"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOKD+AdvP3D1278" family="AdvP3D1278"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOKD+AdvP3D1278"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLE+AdvM7651" family="AdvM7651"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOLE+AdvM7651"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLF+AdvP159C" family="AdvP159C"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="BIDOLF+AdvP159C"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLG+AdvP15B2" family="AdvP15B2"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOLG+AdvP15B2"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLH+AdvP4980C" family="AdvP4980C"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOLH+AdvP4980C"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLI+AdvP640B" family="AdvP640B"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="BIDOLI+AdvP640B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLJ+AdvP6EC0" family="AdvP6EC0"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOLJ+AdvP6EC0"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLK+AdvP497E2" family="AdvP497E2"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="BIDOLK+AdvP497E2"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOLL+AdvT377" family="AdvT377"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="BIDOLL+AdvT377" bold="false"
+        italic="false" symbol="true"/>
+        <font name="BIDOLM+AdvP3D1290" family="AdvP3D1290"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOLM+AdvP3D1290"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOMM+AdvP3D1298" family="AdvP3D1298"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="BIDOMM+AdvP3D1298"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDONN+AdvP7DA6" family="AdvP7DA6"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDONN+AdvP7DA6"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDONO+AdvP40798" family="AdvP40798"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDONO+AdvP40798"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDONP+AdvP497E3" family="AdvP497E3"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDONP+AdvP497E3"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOOA+AdvP44E6F4" family="AdvP44E6F4"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOOA+AdvP44E6F4"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOOB+AdvP3D128C" family="AdvP3D128C"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOOB+AdvP3D128C"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIDOPC+AdvPi1" family="AdvPi1"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIDOPC+AdvPi1"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIECML+AdvP7CCD" family="AdvP7CCD"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIECML+AdvP7CCD"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIECMM+AdvP7CD0" family="AdvP7CD0"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIECMM+AdvP7CD0"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIECMN+AdvTimes" family="AdvTimes"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BIECMN+AdvTimes"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BIEHJB+AdvP497E4" family="AdvP497E4"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="BIEHJB+AdvP497E4"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1179_1743132815Y.0000000050/fulltext.pdf"
+    pageCount="9">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4">
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="5"/>
+        <page num="6">
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="7">
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="BIDOPC+AdvPi1"
+            family="AdvPi1" name="plus" code="43">
+                <path stroke="black" fill="none"
+                d=" M 1.6875 -2.609375 L
+                1.6875 -3.046875 L 4.296875
+                -3.046875 L 4.296875 -5.65625
+                L 4.734375 -5.65625 L 4.75
+                -3.046875 L 7.3125 -3.046875
+                L 7.3125 -2.609375 L 4.734375
+                -2.59375 L 4.734375 0.0 L
+                4.296875 0.0 L 4.296875 -2.609375
+                Z M 7.3125 0.671875 L 7.3125
+                1.109375 L 1.671875 1.109375
+                L 1.671875 0.671875 Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="8"/>
+        <page num="9"/>
+    </pdf>
+</pdfLog>

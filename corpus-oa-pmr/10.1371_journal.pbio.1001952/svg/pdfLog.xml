@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="EPAKKK+AdvP40319B" family="AdvP40319B"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKKK+AdvP40319B"
+        bold="true" italic="false" symbol="false"/>
+        <font name="EPAKLK+AdvP41461E" family="AdvP41461E"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKLK+AdvP41461E"
+        bold="true" italic="false" symbol="false"/>
+        <font name="EPAKLL+AdvP3F206A" family="AdvP3F206A"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKLL+AdvP3F206A"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPAKLM+AdvP403A40" family="AdvP403A40"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKLM+AdvP403A40"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPAKMN+AdvP4041BD" family="AdvP4041BD"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKMN+AdvP4041BD"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPAKMO+AdvP3EAA99" family="AdvP3EAA99"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKMO+AdvP3EAA99"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPAKNP+AdvT377" family="AdvT377"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EPAKNP+AdvT377" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EPAKOA+AdvP49811" family="AdvP49811"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPAKOA+AdvP49811"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPALHN+AdvPECF830" family="AdvPECF830"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPALHN+AdvPECF830"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPALIN+AdvP7DA6" family="AdvP7DA6"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EPALIN+AdvP7DA6" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EPALJO+AdvP697C" family="AdvP697C"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EPALJO+AdvP697C" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EPDOCJ+AdvP4C4E40" family="AdvP4C4E40"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EPDOCJ+AdvP4C4E40" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EPDODJ+AdvP3D3256" family="AdvP3D3256"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPDODJ+AdvP3D3256"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPEGIH+AdvP43A417" family="AdvP43A417"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPEGIH+AdvP43A417"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPKMLE+AdvPi1" family="AdvPi1"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPKMLE+AdvPi1"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPKMMF+AdvP44E6F4" family="AdvP44E6F4"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPKMMF+AdvP44E6F4"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EPKMPF+AdvP4C4E59" family="AdvP4C4E59"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EPKMPF+AdvP4C4E59" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EPKNDE+AdvP4980F" family="AdvP4980F"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EPKNDE+AdvP4980F"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1371_journal.pbio.1001952/fulltext.pdf"
+    pageCount="16">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+        <page num="16"/>
+    </pdf>
+</pdfLog>

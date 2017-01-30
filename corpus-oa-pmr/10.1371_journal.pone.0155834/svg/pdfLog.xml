@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="GAKENM+AdvOT82c4f4c4"
+        family="AdvOT82c4f4c4" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKENM+AdvOT82c4f4c4" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKENN+AdvOT143277ab"
+        family="AdvOT143277ab" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKENN+AdvOT143277ab" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKENO+AdvOT143277ab+20"
+        family="AdvOT143277ab+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKENO+AdvOT143277ab+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKEOO+AdvOTf3919c9c.B"
+        family="AdvOTf3919c9c.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKEOO+AdvOTf3919c9c.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKEOP+AdvTT6aaf4c6d"
+        family="AdvTT6aaf4c6d" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKEOP+AdvTT6aaf4c6d" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKEPA+AdvOT08771266"
+        family="AdvOT08771266" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKEPA+AdvOT08771266" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKEPB+AdvOT82c4f4c4+20"
+        family="AdvOT82c4f4c4+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKEPB+AdvOT82c4f4c4+20"
+        bold="true" italic="false" symbol="false"/>
+        <font name="GAKEPC+AdvOT1ef757c0"
+        family="AdvOT1ef757c0" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKEPC+AdvOT1ef757c0" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKEPD+AdvOT7d6df7ab.I"
+        family="AdvOT7d6df7ab.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKEPD+AdvOT7d6df7ab.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKFIB+AdvTT153188ed"
+        family="AdvTT153188ed" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKFIB+AdvTT153188ed" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKFIC+AdvTT8921c9bc.B"
+        family="AdvTT8921c9bc.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKFIC+AdvTT8921c9bc.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKFID+AdvTT299aae20"
+        family="AdvTT299aae20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKFID+AdvTT299aae20" bold="false"
+        italic="false" symbol="false"/>
+        <font name="GAKFIE+AdvTT299aae20+20"
+        family="AdvTT299aae20+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKFIE+AdvTT299aae20+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKFJE+AdvOT1ef757c0+20"
+        family="AdvOT1ef757c0+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKFJE+AdvOT1ef757c0+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKFPD+AdvP4C4E51" family="AdvP4C4E51"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="GAKFPD+AdvP4C4E51"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKGAD+AdvOTb65e897d.B"
+        family="AdvOTb65e897d.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKGAD+AdvOTb65e897d.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKGAE+AdvOT82c4f4c4+fb"
+        family="AdvOT82c4f4c4+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="GAKGAE+AdvOT82c4f4c4+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="GAKGAF+AdvTT7d4973e5.I"
+        family="AdvTT7d4973e5.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="GAKGAF+AdvTT7d4973e5.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKGFE+AdvOT1ef757c0+03"
+        family="AdvOT1ef757c0+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="GAKGFE+AdvOT1ef757c0+03"
+        bold="false" italic="false" symbol="true"/>
+        <font name="GAKGLD+AdvTimes-bi" family="AdvTimes-bi"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="GAKGLD+AdvTimes-bi"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKGME+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="GAKGME+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="GAKGMF+AdvPi1" family="AdvPi1"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="GAKGMF+AdvPi1"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKGMG+AdvP4C4E40" family="AdvP4C4E40"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="GAKGMG+AdvP4C4E40"
+        bold="false" italic="false" symbol="false"/>
+        <font name="GAKGMH+AdvOTb65e897d.B+22"
+        family="AdvOTb65e897d.B+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="GAKGMH+AdvOTb65e897d.B+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="GALBJB+AdvTT153188ed+03"
+        family="AdvTT153188ed+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="GALBJB+AdvTT153188ed+03"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1371_journal.pone.0155834/fulltext.pdf"
+    pageCount="15">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+    </pdf>
+</pdfLog>

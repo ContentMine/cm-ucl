@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
+ <defs id="defs1">
+  <clipPath id="clipPath9">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 580.026 L100.6 580.926 L314.2 580.926 L314.2 580.026 Z"/>
+  </clipPath>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath6">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
+  </clipPath>
+  <clipPath id="clipPath10">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 622.926 L100.6 623.826 L314.2 623.826 L314.2 622.926 Z"/>
+  </clipPath>
+  <clipPath id="clipPath12">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L609.0 0.0 L609.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M14.4 801.1 L14.4 823.1 L619.4 823.1 L619.4 801.1 Z"/>
+  </clipPath>
+  <clipPath id="clipPath7">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 494.226 L100.6 495.126 L314.2 495.126 L314.2 494.226 Z"/>
+  </clipPath>
+  <clipPath id="clipPath11">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 665.826 L100.6 666.726 L314.2 666.726 L314.2 665.826 Z"/>
+  </clipPath>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath8">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
+  </clipPath>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M115.92 147.476 L115.92 148.476 L115.92 149.476 L540.72 149.476 L540.72 148.476 L540.72 147.476 Z"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
+   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
+  </marker>
+  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
+   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
+  </marker>
+ </defs>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHF+HelveticaNeueLTStd-Cn" svgx:width="480.0" x="49.896" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHF+HelveticaNeueLTStd-Cn" svgx:width="480.0" x="54.198" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal">7</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHF+HelveticaNeueLTStd-Cn" svgx:width="480.0" x="58.5" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="556.0" x="71.776" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">N</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="240.0" x="76.759" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="519.0" x="78.909" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">B</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="240.0" x="83.561" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="537.0" x="87.863" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">H</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="444.0" x="92.677" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="722.0" x="96.656" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="463.0" x="103.128" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="407.0" x="107.277" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="444.0" x="110.925" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="463.0" x="114.904" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="444.0" x="121.222" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="259.0" x="125.201" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="444.0" x="129.684" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="204.0" x="133.663" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="240.0" x="135.49" y="47.506" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <image transform="matrix(0.4799999948590994,-0.0,-0.0,0.48000000346917204,120.95999908447266,98.3709716796875)" xlink:href="fulltext.p4.i1.png" x="0.0" y="0.0" width="750.0" height="1177.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="656.0" x="120.96" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="126.188" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="500.0" x="128.348" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="132.333" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="136.9" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="139.889" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="552.0" x="145.199" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="149.599" y="681.088" font-size="7.97" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="677.0" x="157.907" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="500.0" x="163.639" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">x</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="167.872" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="865.0" x="171.927" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="179.252" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="184.001" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="186.295" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="396.0" x="190.266" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="195.289" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="311.0" x="199.878" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="582.0" x="204.189" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">fl</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="209.04" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="729.0" x="213.505" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">w</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="500.0" svgx:charCode="8211" svgx:hexCode="2013" x="219.677" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">&#8211;</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="223.91" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="227.798" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="232.387" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="234.681" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="865.0" x="239.532" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="246.857" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="252.5" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="256.471" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="261.322" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="264.841" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="268.729" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="396.0" x="272.7" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="277.731" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="281.702" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="333.0" x="285.68" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="288.499" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="500.0" x="292.47" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="296.703" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="301.292" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="304.64" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="436.0" x="306.934" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">z</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="310.626" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="314.596" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="321.13" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="396.0" x="325.186" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="330.208" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="719.0" x="333.468" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">A</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="339.555" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="344.479" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="349.33" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="353.919" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="865.0" x="357.348" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="364.672" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="368.728" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="371.022" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">;</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="375.171" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="688.0" x="378.43" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">B</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="384.256" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="396.0" x="389.188" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="392.544" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="729.0" x="396.432" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">w</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="333.0" x="402.606" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="405.425" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="410.014" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="333.0" x="414.603" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="417.422" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="422.172" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">;</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="426.322" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="781.0" x="429.581" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="436.194" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="441.126" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="443.42" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="729.0" x="447.885" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">w</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="635.0" x="455.724" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="677.0" x="461.1" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="656.0" x="466.833" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="719.0" x="472.387" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="478.475" y="681.088" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="120.96" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="124.136" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="128.107" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="132.858" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="136.033" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="140.623" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="145.475" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="150.328" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="154.299" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="156.594" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="161.345" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="163.64" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="167.611" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">;</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="172.444" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="177.034" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="182.56" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="844.0" x="185.818" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">D</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="385.0" x="192.965" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="198.581" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="200.876" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="729.0" x="205.34" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">w</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="635.0" x="213.873" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="677.0" x="219.246" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="656.0" x="224.979" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="719.0" x="230.534" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="236.623" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="241.447" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="246.299" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="333.0" x="250.889" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="256.064" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="259.241" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="263.213" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="267.964" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="271.139" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="275.729" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="573.0" x="280.581" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="285.434" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="289.405" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="291.7" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="296.451" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="298.746" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="302.717" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="635.0" x="307.55" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="677.0" x="312.923" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="656.0" x="318.656" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="719.0" x="324.211" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="330.3" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="335.133" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="339.883" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="343.855" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="510.0" x="347.911" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">k</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="354.581" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="500.0" x="358.552" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">x</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="561.0" x="362.786" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="271.0" x="367.537" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="369.832" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="373.007" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="333.0" x="376.986" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="379.806" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="384.395" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="387.915" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="582.0" x="394.323" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">fl</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="542.0" x="399.175" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="729.0" x="403.639" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">w</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="375.0" x="412.163" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="479.0" x="415.34" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="333.0" x="419.318" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="469.0" x="422.138" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCOG+PlantinStd" svgx:width="292.0" x="426.11" y="691.051" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="184.0" x="434.214" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">I</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="435.861" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="241.0" x="439.84" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="441.998" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="278.0" x="445.815" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="448.305" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="452.283" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="241.0" x="456.1" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="184.0" x="458.258" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="459.905" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="463.722" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="467.701" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="184.0" x="471.518" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="407.0" x="475.352" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">J</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="478.998" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="482.815" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="278.0" x="486.794" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="489.284" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="493.262" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="184.0" x="497.079" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="500.895" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="241.0" x="504.711" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="537.0" x="509.031" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">N</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="513.846" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="517.663" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="278.0" x="521.642" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="524.132" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="389.0" x="527.949" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="407.0" x="531.434" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="184.0" x="535.081" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="536.728" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="444.0" x="540.545" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="407.0" x="544.523" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ADADDK+HelveticaNeueLTStd-LtCnO" svgx:width="426.0" x="548.17" y="745.492" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+</svg>
