@@ -1,0 +1,76 @@
+---
+title: '`GROBID` table retrieval'
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+In an exploratory manner, we used the software package `GROBID` (GeneRation Of BIbliographic Data; [Github](https://github.com/kermitt2/grobid)) to determine whether tables could be automatically identified with out-of-the-box open-source software. The added benefit of automated retrieval is that it increases the scale of data extraction from tables at a later stage in the pipeline. The drawback is that any automated process will not be 100% and might require fine-tuning. This exploratory testing is to roughly estimate the baseline of automated retrieval.
+
+```bash
+# This is a dependency for grobid
+# Depending on your system you might need to add others
+sudo apt-get install libxml2
+
+# Get the latest stable release of GROBID
+wget https://github.com/kermitt2/grobid/archive/grobid-parent-0.4.1.zip
+unzip grobid-parent-0.4.1.zip
+
+# Build grobid
+cd grobid-parent-0.4.1/
+mvn clean install
+cd ../
+
+# find the jar file and test whether it runs
+java -jar grobid-grobid-parent-0.4.1/grobid-core/target/grobid-core-0.4.1.one-jar.jar
+
+# Input directory to read PDFs from
+DIR=""
+# Input directory to save to (if it doesn't exist, be sure to create it)
+SAVE=""
+java -jar grobid-grobid-parent-0.4.1/grobid-core/target/grobid-core-0.4.1.one-jar.jar
+-gH grobid-grobid-parent-0.4.1/grobid-home/
+-dIn $DIR -dOut $SAVE -exe processFullText
+```
+
+`GROBID` restructures PDF documents (amongst others) into structured and encoded text (in the [Text Encoding Initiative](http://www.tei-c.org/index.xml), TEI, format). It does this via machine learning algorithms and is specifically aimed at retrieving bibliographic information (e.g., title, author, date, affiliation, and abstract). However, it also restructures elements of a PDF such as the location of a table. This results in the following structured document. The TEI XML file as extracted by `GROBID` indicates coordinates of the content (for PMR: how does it map onto the svg file?) and can separate the table header from its contents. 
+
+![Excerpt of TEI XML code as extracted by `GROBID`](../figures/grobid-tei-example.png)
+
+# Retrieval rate
+
+After running `GROBID` on an initial, closed-access corpus, we retrieved the number of identified tables using the following `bash` script
+
+```bash
+find corpus-grobid -type f -name '*.tei.xml' -print0 | while IFS= read -r -d '' file; do
+	printf "%s,%s\n" "$file" $(grep 'type="table"' "$file" | wc -l);
+done > data/grobid-tables.csv
+```
+
+The information about the number of tables was then conjoined with the manual coding of the number of tables in each paper. As a result, as many tables were extracted from a paper when the difference between manual and `GROBID` identification was zero; too few tables were extracted if the difference was >0 and too many tables were extracted if the difference was <0. The tables identified were not matched manually to tables in the content; the above serves as a heuristic of evaluating the extracted tables. This might result in overestimating the performance of `GROBID`.
+
+```{r, eval = TRUE}
+x <- read.csv("../data/nr-tables.csv")
+
+fn <- sum(x$diff[x$diff > 0])
+fp <- abs(sum(x$diff[x$diff < 0]))
+tp <- sum(x$manual[x$diff == 0])
+
+precision <- tp / (tp + fp)
+recall <- tp / (tp + fn)
+```
+
+
+| | No table | Table | Total |
+|--|--|--|--|
+| 'No table' | - | `r fn` (`r round(fn/(fp+fn+tp),3)`) | `r fn` (`r round(fn/(fp+fn+tp), 3)`)|
+| 'Table' | `r fp` (`r round(fp/(fp+fn+tp), 3)`) | `r tp` (`r round(tp/(fp+fn+tp), 3)`) | `r fp+tp` (`r round((fp+tp)/(fp+fn+tp), 3)`) |
+| Total | `r fp` (`r round(fp/(fp+fn+tp), 3)`) | `r fn+tp` (`r round((fn+tp)/(fp+fn+tp), 3)`)| `r fp+fn+tp` (`r (fp+fn+tp)/(fp+fn+tp)`)|
+
+The precision of using `GROBID` to extract tables was `r round(precision, 3)` whereas the recall was `r round(recall, 3)`. The table above depicts the classification problem, with columns indicating the true situation and the rows indicating the result from `GROBID`. There were `r fp` false positives and `r tp` true positives, resulting in a estimated Positive Predictive Value (PPV) of `r round(tp / (fp+tp), 3)`. As such, it seems like `GROBID` has reasonable performance to extract tables automatically.
+
+Considering the limited corpus at the moment and the limited scope of the current project, this exploration is meant mainly as an illustration for the potential of `GROBID` or other automated retrieval of tables in future projects. As such, these out-of-the-box numbers are promising for effective retrieval of tables. For the current project, manual table extraction is preferred to keep the project on track. If there is remaining time at the end of the project, it is possible to pick up automated retrieval of tables.
+
+# Future possibilities
+
+`GROBID` is a machine learning library, which would allow a training set to be created to improve table detection (or other aspects of a paper). The documentation for the `GROBID` package is unclear (to CHJH) how this would work exactly and would require considerable additional work. Nonetheless, for scalability, this could prove crucial. Nonetheless, investing in using `GROBID` to this end would also flow back into future endeavours to train for example figure retrieval. Additionally, the `GROBID` library is used by for example CERN and HAL Research Archive, which would create additional value for any contributions made.
