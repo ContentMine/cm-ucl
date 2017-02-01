@@ -70,5 +70,10 @@ We intend that this project will be run as [Open Notebook Science](https://en.wi
 ... there is a URL to a laboratory notebook that is freely available and indexed on common search engines. It does not necessarily have to look like a paper notebook but it is essential that all of the information available to the researchers to make their conclusions is equally available to the rest of the world
 </blockquote>
 
+### Discourse channel
+For the narrative of the notebook rather than the data we are using the ContentMine Discuss server discuss.contentmine.org/t/ami-eppi-cm-ucl-table-extraction-project/322/ 
+ChrisH and I will post all relevant actions to this channel so that it should be possible to repeat the work with "no insider knowledge". More generally this should give a good account of what was done, the issues raised, etc. In principle this channel + Github + the AMI-table software (SVG2XML) should be a complete notebook and publication so that at the end of the project the work is ***de facto*** "published".
+
+
 ## copyright issues and choice of material
 Because the raw data is the scientific/scholarly literature most of it is copyrighted and the ownership transferred to "publishers". Many of these constructively wish their material to be re-used in new ways, but some oppose this type of mining activity and have threatened legal action or have cut off subscribers. We cannot then take a random selection of material (as we would like) because negotiating rights with publishers is slow, expensive, messy and drains energy. We have therefore selected "open" material and believe that the selection is legally sound. However we note that the scholarly publishing world has very little legal clarity and if we are required to remove material that the publisher claims is "their copyright" we will do so. This may affect the statistics and metrics of the final results. We therefore have to give it wide publicity to ensure that the project is Open.
