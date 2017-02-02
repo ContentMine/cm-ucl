@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg stroke="none" stroke-width="0.0" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="table1.svg" height="800.0" width="500.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-
+<svg stroke="none" stroke-width="0.0" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="table1.svg" height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <g class="metadata" id="metadata4967">
+  <g class="RDF">
+   <g class="Work" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <g class="format">image/svg+xml</g>
+    <g class="type" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <title stroke="black" stroke-width="1.0"/>
+   </g>
+  </g>
+ </g>
+ <g class="namedview" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1076" inkscape:window-height="838" id="namedview4965" showgrid="false" inkscape:zoom="0.77898437" inkscape:cx="300" inkscape:cy="400" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2"/> 
  <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" id="path3325" d="M306.142 78.958 L544.252 78.958 L544.252 78.391 L306.142 78.391 Z"/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" id="path3327" d="M306.142 343.26 L544.252 343.26 L544.252 342.693 L306.142 342.693 Z"/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" id="path3329" d="M306.142 119.663 L358.129 119.663 L358.129 119.096 L306.142 119.096 Z"/>
