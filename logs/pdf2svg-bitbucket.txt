@@ -1,0 +1,641 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.xml-cml:pdf2svg:jar:1.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ line 213, column 12
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building PDF2SVG 1.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ pdf2svg ---
+[INFO] Deleting /home/chjh/cm-build/pdf2svg-dev/target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ pdf2svg ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 493 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ pdf2svg ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 39 source files to /home/chjh/cm-build/pdf2svg-dev/target/classes
+[WARNING] /home/chjh/cm-build/pdf2svg-dev/src/main/java/org/xmlcml/pdf2svg/PDFPage2SVGConverter.java: Some input files use or override a deprecated API.
+[WARNING] /home/chjh/cm-build/pdf2svg-dev/src/main/java/org/xmlcml/pdf2svg/PDFPage2SVGConverter.java: Recompile with -Xlint:deprecation for details.
+[WARNING] /home/chjh/cm-build/pdf2svg-dev/src/main/java/org/xmlcml/pdf2svg/PDF2SVGConverter.java: /home/chjh/cm-build/pdf2svg-dev/src/main/java/org/xmlcml/pdf2svg/PDF2SVGConverter.java uses unchecked or unsafe operations.
+[WARNING] /home/chjh/cm-build/pdf2svg-dev/src/main/java/org/xmlcml/pdf2svg/PDF2SVGConverter.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ pdf2svg ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 120 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ pdf2svg ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 19 source files to /home/chjh/cm-build/pdf2svg-dev/target/test-classes
+[WARNING] /home/chjh/cm-build/pdf2svg-dev/src/test/java/org/xmlcml/pdf2svg/codepoints/defacto/MathPi1Test.java: Some input files use or override a deprecated API.
+[WARNING] /home/chjh/cm-build/pdf2svg-dev/src/test/java/org/xmlcml/pdf2svg/codepoints/defacto/MathPi1Test.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ pdf2svg ---
+[INFO] Surefire report directory: /home/chjh/cm-build/pdf2svg-dev/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Concurrency config is parallel='classes', perCoreThreadCount=true, threadCount=2, useUnlimitedThreads=true
+Running org.xmlcml.font.UnicodePointTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.146 sec
+Running org.xmlcml.font.FontFamilyTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+Running org.xmlcml.font.CodePointTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.296 sec
+Running org.xmlcml.font.FontFamilySetTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.273 sec
+Running org.xmlcml.font.CodePointSetTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.484 sec
+Running org.xmlcml.pdf2svg.MiscTest
+0    [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDF2SVGConverter  -  .. pages 1-8 (8) 
+1 = 1015 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: null
+1015 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+3145 [pool-1-thread-1] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: BDC
+3145 [pool-1-thread-1] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: i
+3166 [pool-1-thread-1] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: EMC
+3279 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+2 = 3389 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+3389 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+4827 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+3 = 4897 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+4897 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+5607 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+4 = 5635 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+5635 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+6182 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+5 = 6225 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+6225 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+6820 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+6 = 6857 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+6857 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+7481 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+7 = 7577 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+7577 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+8252 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+8 = 8293 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+8293 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+8494 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+8540 [pool-1-thread-1] DEBUG org.xmlcml.pdf2svg.PDF2SVGConverter  - Writing XML logger output to file '/home/chjh/cm-build/pdf2svg-dev/target/bmc/pdfLog.xml'.
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 8.854 sec
+Running org.xmlcml.pdf2svg.SVGSerializerTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+Running org.xmlcml.pdf2svg.SemiTest
+Tests run: 32, Failures: 0, Errors: 0, Skipped: 32, Time elapsed: 0 sec
+Running org.xmlcml.pdf2svg.codepoints.defacto.MathPi1Test
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+Running org.xmlcml.pdf2svg.text.TextStripperTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.64 sec
+Running org.xmlcml.pdf2svg.LogfileTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0 sec
+Running org.xmlcml.pdf2svg.XMLLoggerTest
+8613 [pool-1-thread-2] ERROR org.apache.pdfbox.pdfparser.NonSequentialPDFParser  - Can't find the object 2 65536 (origin offset 0)
+8625 [pool-1-thread-2] DEBUG org.xmlcml.pdf2svg.PDF2SVGConverter  -  .. pages 1 (1) 
+1 = 9421 [pool-1-thread-2] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: null
+9421 [pool-1-thread-2] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fraction
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fi
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fl
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name breve
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotaccent
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ring
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hungarumlaut
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ogonek
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name caron
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Lslash
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotlessi
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name lslash
+9425 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name minus
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fraction
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fi
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fl
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name breve
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotaccent
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ring
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hungarumlaut
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ogonek
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name caron
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Lslash
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotlessi
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name lslash
+9434 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name minus
+9437 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fraction
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fi
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fl
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name breve
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotaccent
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ring
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hungarumlaut
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ogonek
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name caron
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Lslash
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotlessi
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name lslash
+9438 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name minus
+9440 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fraction
+9440 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fi
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name fl
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name breve
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotaccent
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ring
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hungarumlaut
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ogonek
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name caron
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Lslash
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotlessi
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name lslash
+9441 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name minus
+9444 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrightBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketleftBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrightBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorleftBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorrightBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingleftBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingrightBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceleftBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerightBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketleftBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketrightBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name slashBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name backslashBigg
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name slashBig
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name backslashBig
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenlefttp
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrighttp
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketlefttp
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrighttp
+9445 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketleftbt
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrightbt
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketleftex
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrightex
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracelefttp
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerighttp
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceleftbt
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerightbt
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceleftmid
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerightmid
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceex
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowvertex
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenleftbt
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrightbt
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenleftex
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrightex
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketleftBig
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketrightBig
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name unionsqtext
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name unionsqdisplay
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name contintegraltext
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name contintegraldisplay
+9446 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circledottext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circledotdisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circleplustext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circleplusdisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circlemultiplytext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circlemultiplydisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name producttext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name integraltext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name uniontext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name intersectiontext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name unionmultitext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicalandtext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicalortext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name summationdisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name productdisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name integraldisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name uniondisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name intersectiondisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name unionmultidisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicalanddisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicalordisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name coproducttext
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name coproductdisplay
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hatwide
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hatwider
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name hatwidest
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name tildewide
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name tildewider
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name tildewidest
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketleftBig
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrightBig
+9447 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorleftBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorrightBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingleftBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingrightBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceleftBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerightBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicalbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicalBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicalbigg
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicalBigg
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicalbt
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicalvertex
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radicaltp
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracehtipdownleft
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracehtipdownright
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracehtipupleft
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracehtipupright
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radical
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenleftbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrightbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketleftbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrightbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorleftbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorrightbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingleftbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingrightbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceleftbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerightbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketleftbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketrightbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name vextendsingle
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name vextenddouble
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name slashbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name backslashbig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenleftBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrightBig
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenleftbigg
+9448 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenrightbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketleftbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracketrightbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorleftbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name floorrightbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingleftbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name ceilingrightbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name braceleftbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bracerightbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketleftbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketrightbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name slashbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name backslashbigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name parenleftBigg
+9449 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name nbspace
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name omega
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name epsilon
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name theta1
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name sigma1
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name phi1
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowlefttophalf
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowleftbothalf
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowrighttophalf
+9453 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowrightbothalf
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowhookleft
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowhookright
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Upsilon1
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name partialdiff
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name dotlessj
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name weierstrass
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Gamma
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Delta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Theta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Lambda
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Xi
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Pi
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Sigma
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Upsilon
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Phi
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Psi
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Omega
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name beta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name gamma
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name delta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name zeta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name eta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name theta
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name iota
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name kappa
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name lambda
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name mu
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name nu
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name xi
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name pi
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name rho
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name sigma
+9454 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name tau
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name upsilon
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name phi
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name chi
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name psi
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Nu
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Mu
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Kappa
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Beta
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Iota
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Alpha
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Zeta
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Eta
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Rho
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Chi
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Epsilon
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name omicron
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Omicron
+9455 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name Tau
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowright
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowup
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowdown
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowboth
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrownortheast
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowsoutheast
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowdblleft
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowdblright
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowdblup
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowdbldown
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowdblboth
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrownorthwest
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowsouthwest
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name proportional
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name infinity
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name element
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name universal
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name existential
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicalnot
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name emptyset
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name perpendicular
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name aleph
+9460 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name union
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name intersection
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicaland
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name logicalor
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketleft
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name angbracketright
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name bardbl
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name radical
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name nabla
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name integral
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name club
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name diamond
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name heart
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name divide
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name plusminus
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name minusplus
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circleplus
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circlemultiply
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name circlecopyrt
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name equivalence
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name reflexsubset
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name reflexsuperset
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name lessequal
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name similar
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name propersubset
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name propersuperset
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name precedes
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name arrowleft
+9461 [pool-1-thread-2] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name spade
+9470 [pool-1-thread-2] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: i
+9934 [pool-1-thread-2] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+9969 [pool-1-thread-2] DEBUG org.xmlcml.pdf2svg.PDF2SVGConverter  - Writing XML logger output to file '/home/chjh/cm-build/pdf2svg-dev/target/pdfLog.xml'.
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.418 sec
+Running org.xmlcml.pdf2svg.SamplesForTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0 sec
+
+Results :
+
+Tests run: 75, Failures: 0, Errors: 0, Skipped: 48
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ pdf2svg ---
+[INFO] Building jar: /home/chjh/cm-build/pdf2svg-dev/target/pdf2svg-1.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:2.4:single (make-assembly) @ pdf2svg ---
+[INFO] Building jar: /home/chjh/cm-build/pdf2svg-dev/target/pdf2svg-1.1-SNAPSHOT-jar-with-dependencies.jar
+[INFO] 
+[INFO] --- appassembler-maven-plugin:1.8.1:assemble (assembly) @ pdf2svg ---
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/pdfbox/pdfbox/1.8.8/pdfbox-1.8.8.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/pdfbox-1.8.8.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/pdfbox/fontbox/1.8.8/fontbox-1.8.8.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/fontbox-1.8.8.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/pdfbox/jempbox/1.8.8/jempbox-1.8.8.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jempbox-1.8.8.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/commons-logging-1.1.1.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/xml-cml/imageanalysis/0.1-SNAPSHOT/imageanalysis-0.1-SNAPSHOT.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/imageanalysis-0.1-SNAPSHOT.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/xml-cml/html/0.2-SNAPSHOT/html-0.2-SNAPSHOT.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/html-0.2-SNAPSHOT.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/xml-cml/svg/0.2-SNAPSHOT/svg-0.2-SNAPSHOT.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/svg-0.2-SNAPSHOT.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/xml-cml/euclid/1.1-SNAPSHOT/euclid-1.1-SNAPSHOT.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/euclid-1.1-SNAPSHOT.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/log4j-1.2.16.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/commons/commons-math/2.2/commons-math-2.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/commons-math-2.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/joda-time/joda-time/1.6.2/joda-time-1.6.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/joda-time-1.6.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xom/xom/1.2.5/xom-1.2.5.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xom-1.2.5.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/guava-18.0.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xml-apis-1.4.01.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jtidy-4aug2000r7-dev.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2/tagsoup-1.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/tagsoup-1.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jsoup-1.9.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.15/htmlunit-2.15.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/htmlunit-2.15.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xalan/xalan/2.7.1/xalan-2.7.1.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xalan-2.7.1.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xalan/serializer/2.7.1/serializer-2.7.1.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/serializer-2.7.1.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/commons-collections-3.2.1.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/commons-lang3-3.3.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/httpclient-4.3.3.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/httpcore-4.3.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/httpmime-4.3.3.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/commons-codec-1.9.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.15/htmlunit-core-js-2.15.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/htmlunit-core-js-2.15.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xercesImpl-2.11.0.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/nekohtml-1.9.21.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/cssparser-0.9.14.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/sac-1.3.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/commons-io-2.4.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jetty-websocket-8.1.15.v20140411.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jetty-util-8.1.15.v20140411.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jetty-io-8.1.15.v20140411.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/jetty-http-8.1.15.v20140411.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/io/0.17/io-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/io-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/ddogleg/ddogleg/0.5/ddogleg-0.5.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/ddogleg-0.5.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/ip/0.17/ip-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/ip-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xstream-1.4.7.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xmlpull-1.1.3.1.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/xpp3_min-1.1.4c.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/georegression/georegression/0.6/georegression-0.6.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/georegression-0.6.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/com/googlecode/efficient-java-matrix-library/ejml/0.25/ejml-0.25.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/ejml-0.25.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/feature/0.17/feature-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/feature-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/visualize/0.17/visualize-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/visualize-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/recognition/0.17/recognition-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/recognition-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/sfm/0.17/sfm-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/sfm-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/calibration/0.17/calibration-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/calibration-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/boofcv/geo/0.17/geo-0.17.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/geo-0.17.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/imgscalr-lib-4.2.jar
+[INFO] Installing artifact /home/chjh/.m2/repository/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/bcprov-jdk16-1.46.jar
+[INFO] Installing artifact /home/chjh/cm-build/pdf2svg-dev/target/pdf2svg-1.1-SNAPSHOT.jar to /home/chjh/cm-build/pdf2svg-dev/target/appassembler/repo/pdf2svg-1.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-failsafe-plugin:2.16:integration-test (default) @ pdf2svg ---
+[INFO] Failsafe report directory: /home/chjh/cm-build/pdf2svg-dev/target/failsafe-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running org.xmlcml.pdf2svg.CharactersInPDFIT
+0    [main] DEBUG org.xmlcml.pdf2svg.PDF2SVGConverter  -  .. pages 1-15 (15) 
+1 = 2711 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: null
+2711 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+2891 [main] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: BDC
+2891 [main] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: i
+4233 [main] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: EMC
+6200 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+2 = 6368 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+6369 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+6465 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+7562 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+3 = 7682 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+7682 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+7695 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+8634 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+4 = 8698 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+8698 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+8733 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+9469 [main] WARN  org.apache.pdfbox.pdmodel.font.PDSimpleFont  - Changing font on <α> from <LGFFIK+SymbolMT> to the default font
+10406 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+5 = 10477 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+10477 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+10494 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+11210 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+6 = 11295 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+11296 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+11319 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+12083 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+7 = 12120 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+12120 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+12144 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+12686 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+8 = 12720 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+12721 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+12734 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+13221 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+9 = 13264 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+13264 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+13277 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+13763 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+10 = 13799 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+13799 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+13838 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+14366 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+11 = 14402 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+14402 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+14424 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+15781 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+12 = 15838 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+15838 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+15875 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+16316 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+13 = 16361 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+16361 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+16379 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+16858 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+14 = 16888 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+16888 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+16913 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+17570 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+15 = 17604 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=612,height=792]
+17604 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+17717 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+18360 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+
+18529 [main] DEBUG org.xmlcml.pdf2svg.PDF2SVGConverter  -  .. pages 1-14 (14) 
+1 = 18530 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: null
+18530 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+18919 [main] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: BDC
+18920 [main] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: i
+18934 [main] INFO  org.apache.pdfbox.util.PDFStreamEngine  - unsupported/disabled operation: EMC
+19014 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+2 = 19042 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+19042 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+19560 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+3 = 19590 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+19590 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+19994 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+4 = 20013 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+20013 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+20478 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+5 = 20503 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+20503 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+20991 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+6 = 21013 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+21013 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+21334 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name space
+21524 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name quotedbl
+21524 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name zero
+21525 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name two
+21525 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name three
+21525 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name four
+21525 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name five
+21525 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name six
+21525 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name eight
+21526 [main] DEBUG org.apache.pdfbox.encoding.Encoding  - No character for name colon
+21528 [main] WARN  org.apache.pdfbox.pdmodel.font.PDSimpleFont  - Changing font on <> from <null> to the default font
+21730 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+7 = 21754 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+21754 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+22136 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+8 = 22156 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+22156 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+22205 [main] WARN  org.apache.pdfbox.pdmodel.font.PDSimpleFont  - Changing font on <㻜> from <KHHALP+MS-PGothic> to the default font
+22212 [main] WARN  org.apache.pdfbox.pdmodel.font.PDSimpleFont  - Changing font on <㻚> from <KHHALP+MS-PGothic> to the default font
+22213 [main] WARN  org.apache.pdfbox.pdmodel.font.PDSimpleFont  - Changing font on <㻝> from <KHHALP+MS-PGothic> to the default font
+22228 [main] WARN  org.apache.pdfbox.pdmodel.font.PDSimpleFont  - Changing font on <㻡> from <KHHALP+MS-PGothic> to the default font
+22298 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - endStream
+9 = 22303 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - pageSize: java.awt.Dimension[width=595,height=793]
+22303 [main] DEBUG org.xmlcml.pdf2svg.PDFPage2SVGConverter  - startStream
+/bin/sh: line 1:  9012 Aborted                 (core dumped) /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.121-1.b14.fc25.x86_64/jre/bin/java -jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefirebooter6972077000334058170.jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire7257414608800954305tmp /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire_05505029235936728130tmp
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 01:13 min
+[INFO] Finished at: 2017-02-04T14:25:15+01:00
+[INFO] Final Memory: 33M/633M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-failsafe-plugin:2.16:integration-test (default) on project pdf2svg: Execution default of goal org.apache.maven.plugins:maven-failsafe-plugin:2.16:integration-test failed: The forked VM terminated without saying properly goodbye. VM crash or System.exit called ?
+[ERROR] Command was/bin/sh -c cd /home/chjh/cm-build/pdf2svg-dev && /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.121-1.b14.fc25.x86_64/jre/bin/java -jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefirebooter6972077000334058170.jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire7257414608800954305tmp /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire_05505029235936728130tmp
+[ERROR] -> [Help 1]
+org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-failsafe-plugin:2.16:integration-test (default) on project pdf2svg: Execution default of goal org.apache.maven.plugins:maven-failsafe-plugin:2.16:integration-test failed: The forked VM terminated without saying properly goodbye. VM crash or System.exit called ?
+Command was/bin/sh -c cd /home/chjh/cm-build/pdf2svg-dev && /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.121-1.b14.fc25.x86_64/jre/bin/java -jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefirebooter6972077000334058170.jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire7257414608800954305tmp /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire_05505029235936728130tmp
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:153)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:145)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:116)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:80)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:51)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:307)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:863)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:289)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:229)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:415)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:356)
+Caused by: org.apache.maven.plugin.PluginExecutionException: Execution default of goal org.apache.maven.plugins:maven-failsafe-plugin:2.16:integration-test failed: The forked VM terminated without saying properly goodbye. VM crash or System.exit called ?
+Command was/bin/sh -c cd /home/chjh/cm-build/pdf2svg-dev && /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.121-1.b14.fc25.x86_64/jre/bin/java -jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefirebooter6972077000334058170.jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire7257414608800954305tmp /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire_05505029235936728130tmp
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:145)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:207)
+	... 20 more
+Caused by: java.lang.RuntimeException: The forked VM terminated without saying properly goodbye. VM crash or System.exit called ?
+Command was/bin/sh -c cd /home/chjh/cm-build/pdf2svg-dev && /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.121-1.b14.fc25.x86_64/jre/bin/java -jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefirebooter6972077000334058170.jar /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire7257414608800954305tmp /home/chjh/cm-build/pdf2svg-dev/target/surefire/surefire_05505029235936728130tmp
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter.fork(ForkStarter.java:485)
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter.fork(ForkStarter.java:352)
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter.run(ForkStarter.java:158)
+	at org.apache.maven.plugin.surefire.AbstractSurefireMojo.executeProvider(AbstractSurefireMojo.java:958)
+	at org.apache.maven.plugin.surefire.AbstractSurefireMojo.executeAfterPreconditionsChecked(AbstractSurefireMojo.java:822)
+	at org.apache.maven.plugin.surefire.AbstractSurefireMojo.execute(AbstractSurefireMojo.java:720)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:134)
+	... 21 more
+[ERROR] 
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginExecutionException
