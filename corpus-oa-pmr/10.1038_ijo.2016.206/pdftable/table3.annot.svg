@@ -711,17 +711,25 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OKLEDE+AdvTT6780a46b" svgx:width="520.0" x="209.625" y="405.111" font-size="7.472" font-family="Helvetica" font-weight="normal" id="text7557" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OKLEDE+AdvTT6780a46b" svgx:width="520.0" x="213.511" y="405.111" font-size="7.472" font-family="Helvetica" font-weight="normal" id="text7559" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OKLEDE+AdvTT6780a46b" svgx:width="208.0" x="217.396" y="405.111" font-size="7.472" font-family="Helvetica" font-weight="normal" id="text7561" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="47.0" y="279.573" width="511.0" height="125.53800000000001" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="47.0" y="279.573" width="511.0" height="125.53800000000001" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 47]}{[7.97 x 37, 7.472 x 5, 5.635 x 2, 5.283 x 2, 8.468]}{[normal x 46, bold]}{[null x 39, italic x 7, NORMAL]} //Table 3. Sensitivity analyses for missing primary outcomes =&gt;=&gt;=&gt;line: from((47.0,294.022)) to((558.0,294.022)) v((511.0,0.0))&lt;=&lt;=&lt;= Method N Mean weight change (kg) Difference 95% CI P-value =&gt;=&gt;=&gt;line: from((277.0,312.078)) to((382.0,312.078)) v((105.0,0.0))&lt;=&lt;=&lt;= Usual Care 10TT =&gt;=&gt;=&gt;line: from((47.0,334.501)) to((558.0,334.501)) v((511.0,0.0))&lt;=&lt;=&lt;= Primary analysis 383 −0.84 −1.68 −0.87 −1.47, −0.27 0.004 a Adjusted for baseline predictors of missingness 378 −0.83 −1.67 −0.94 −1.55, −0.33 0.003 b Multiple imputation 537 −0.78 −1.8 −1.03 −1.77, −0.30 0.006 Baseline observation carried forward 536 −0.61 −1.18 −0.58 −1.02, −0.14 0.01 =&gt;=&gt;=&gt;line: from((47.0,376.964)) to((558.0,376.964)) v((511.0,0.0))&lt;=&lt;=&lt;= a b Abbreviations: CI, confdence interval; 10TT, Ten Top Tips. Baseline weight, age, gender, deprivation and glucose level. Multiple imputation model including baseline sociodemographics and anthropometrics data, and other baseline variables possibly related to missingness and outcome. Imputations performed stratifed by trial arm. Number of imputations = 100. </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="47.0" y="279.573" width="511.0" height="125.53800000000001" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="47.0" y="279.573" width="511.0" height="125.53800000000001" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 47]}{[7.97 x 37, 7.472 x 5, 5.635 x 2, 5.283 x 2, 8.468]}{[normal x 46, bold]}{[null x 39, italic x 7, NORMAL]} //Table 3. Sensitivity analyses for missing primary outcomes =&gt;=&gt;=&gt;line: from((47.0,294.022)) to((558.0,294.022)) v((511.0,0.0))&lt;=&lt;=&lt;= Method N Mean weight change (kg) Difference 95% CI P-value =&gt;=&gt;=&gt;line: from((277.0,312.078)) to((382.0,312.078)) v((105.0,0.0))&lt;=&lt;=&lt;= Usual Care 10TT =&gt;=&gt;=&gt;line: from((47.0,334.501)) to((558.0,334.501)) v((511.0,0.0))&lt;=&lt;=&lt;= Primary analysis 383 −0.84 −1.68 −0.87 −1.47, −0.27 0.004 a Adjusted for baseline predictors of missingness 378 −0.83 −1.67 −0.94 −1.55, −0.33 0.003 b Multiple imputation 537 −0.78 −1.8 −1.03 −1.77, −0.30 0.006 Baseline observation carried forward 536 −0.61 −1.18 −0.58 −1.02, −0.14 0.01 =&gt;=&gt;=&gt;line: from((47.0,376.964)) to((558.0,376.964)) v((511.0,0.0))&lt;=&lt;=&lt;= a b Abbreviations: CI, confdence interval; 10TT, Ten Top Tips. Baseline weight, age, gender, deprivation and glucose level. Multiple imputation model including baseline sociodemographics and anthropometrics data, and other baseline variables possibly related to missingness and outcome. Imputations performed stratifed by trial arm. Number of imputations = 100. </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes"/>
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
 </svg>

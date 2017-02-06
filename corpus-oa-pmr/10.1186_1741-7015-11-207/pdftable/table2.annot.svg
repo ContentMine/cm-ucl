@@ -1109,379 +1109,225 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OBPAFC+PbwwxhAdvTTe45e47d2" svgx:width="541.0" x="265.271" y="306.235" font-size="7.0" font-family="Helvetica" font-weight="normal" id="text5961" xmlns:svgx="http://www.xml-cml.org/schema/svgx">B</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OBPAFC+PbwwxhAdvTTe45e47d2" svgx:width="531.0" x="269.058" y="306.235" font-size="7.0" font-family="Helvetica" font-weight="normal" id="text5963" xmlns:svgx="http://www.xml-cml.org/schema/svgx">P</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OBPAFC+PbwwxhAdvTTe45e47d2" svgx:width="197.0" x="272.775" y="306.235" font-size="7.0" font-family="Helvetica" font-weight="normal" id="text5965" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="56.693" y="86.791" width="479.164" height="19.998000000000005" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="184.706" y="111.942" width="353.91100000000006" height="8.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="56.692" y="125.095" width="475.721" height="134.028" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="56.693" y="265.276" width="345.259" height="40.959" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="56.693" y="86.791" width="479.164" height="19.998000000000005" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 2]}{[9.0 x 2]}{[bold x 2]}{[null x 2]} //Table 2 Mean differences in BP changes (mmHg) in the two intervention groups versus the control group after 4 years of follow-up (median follow-up 3.8 years) </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="56.693" y="86.791" width="479.164" height="19.998000000000005" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="184.706" y="111.942" width="353.91100000000006" height="8.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="56.692" y="125.095" width="475.721" height="134.028" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="56.693" y="265.276" width="345.259" height="40.959" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="56.693" y="86.791" width="479.164" height="19.998000000000005" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[9.0 x 2]}{[bold x 2]}{[null x 2]} //Table 2 Mean differences in BP changes (mmHg) in the two intervention groups versus the control group after 4 years of follow-up (median follow-up 3.8 years) </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="184.0" y="111.942" width="88.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">MD+EVOO versus control // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/MD+EVOO versus control // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="316.0" y="111.942" width="26.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">P value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/P value // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="386.0" y="111.942" width="83.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">MD+nuts versus control // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/MD+nuts versus control // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="513.0" y="111.942" width="25.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">P value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/P value // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="137.367" y="139.098" width="395.04600000000005" height="56.012" fill="yellow" opacity="0.2"/>
   <rect stroke="black" stroke-width="1.0" x="137.367" y="209.113" width="395.04600000000005" height="50.00999999999999" fill="red" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="56.0" y="125.095" width="84.0" height="134.028" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Systolic BP // Crude model // // Multivariate-adjusted 1 // b // Multivariate-adjusted 2 // c // Multivariate-adjusted 3 // Diastolic BP // Crude model // a // Multivariate-adjusted 1 // // b // Multivariate-adjusted 2 // d // Multivariate-adjusted 4 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Systolic BP // Crude model // // Multivariate-adjusted 1 // b // Multivariate-adjusted 2 // c // Multivariate-adjusted 3 // Diastolic BP // Crude model // a // Multivariate-adjusted 1 // // b // Multivariate-adjusted 2 // d // Multivariate-adjusted 4 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="137.0" y="125.095" width="2.0" height="134.028" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // // a // // // // // // // // // // // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // // a // // // // // // // // // // // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="193.0" y="125.095" width="71.0" height="134.028" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // 0.42 (−0.46 to 1.30) // // 0.40 (−0.46 to 1.27) // // 0.41 (−0.46 to 1.28) // // 0.39 (−0.48 to 1.26) // // −1.41 (−1.92 to −0.91) // // −1.49 (−1.98 to −1.00) // // // −1.49 (−1.97 to −1.00) // // −1.53 (−2.01 to −1.04) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/ // 0.42 (−0.46 to 1.30) // // 0.40 (−0.46 to 1.27) // // 0.41 (−0.46 to 1.28) // // 0.39 (−0.48 to 1.26) // // −1.41 (−1.92 to −0.91) // // −1.49 (−1.98 to −1.00) // // // −1.49 (−1.97 to −1.00) // // −1.53 (−2.01 to −1.04) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="318.0" y="125.095" width="22.0" height="134.028" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // 0.35 // // 0.36 // // 0.35 // // 0.38 // // &lt;0.001 // // &lt;0.001 // // // &lt;0.001 // // &lt;0.001 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/ // 0.35 // // 0.36 // // 0.35 // // 0.38 // // &lt;0.001 // // &lt;0.001 // // // &lt;0.001 // // &lt;0.001 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="392.0" y="125.095" width="71.0" height="134.028" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // −0.90 (−1.77 to −0.03) // // −0.73 (−1.58 to 0.13) // // −0.72 (−1.57 to 0.13) // // −0.72 (−1.58 to 0.13) // // −0.61 (−1.12 to −0.09) // // −0.65 (−1.15 to −0.14) // // // −0.64 (−1.15 to −0.14) // // −0.65 (−1.15 to −0.15) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/ // −0.90 (−1.77 to −0.03) // // −0.73 (−1.58 to 0.13) // // −0.72 (−1.57 to 0.13) // // −0.72 (−1.58 to 0.13) // // −0.61 (−1.12 to −0.09) // // −0.65 (−1.15 to −0.14) // // // −0.64 (−1.15 to −0.14) // // −0.65 (−1.15 to −0.15) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="519.0" y="125.095" width="13.0" height="134.028" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // 0.04 // // 0.10 // // 0.10 // // 0.10 // // 0.02 // // 0.01 // // // 0.01 // // 0.01 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/ // 0.04 // // 0.10 // // 0.10 // // 0.10 // // 0.02 // // 0.01 // // // 0.01 // // 0.01 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="56.692" y="125.095" width="33.907999999999994" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Systolic BP</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="56.692" y="125.095" width="33.907999999999994" height="8.0" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Systolic BP</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.685" y="139.098" width="42.05499999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Crude model</title>
+   <rect stroke="black" stroke-width="1.0" x="64.685" y="139.098" width="42.05499999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/Crude model</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="56.0" y="131.098" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="64.686" y="153.101" width="72.65799999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/Multivariate-adjusted 1</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.686" y="153.101" width="72.65799999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Multivariate-adjusted 1</title>
+   <rect stroke="black" stroke-width="1.0" x="137.367" y="165.876" width="3.059896000000009" height="5.656000000000006" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/b</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.367" y="165.876" width="3.059896000000009" height="5.656000000000006" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">b</title>
+   <rect stroke="black" stroke-width="1.0" x="64.686" y="167.104" width="72.65799999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/Multivariate-adjusted 2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.686" y="167.104" width="72.65799999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Multivariate-adjusted 2</title>
+   <rect stroke="black" stroke-width="1.0" x="137.367" y="179.88" width="2.4716720000000123" height="5.656000000000006" fill="red" opacity="0.2" class="cell.0.6">
+    <title stroke="black" stroke-width="1.0">0.6/c</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.367" y="179.88" width="2.4716720000000123" height="5.656000000000006" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">c</title>
+   <rect stroke="black" stroke-width="1.0" x="64.686" y="181.107" width="72.65799999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/Multivariate-adjusted 3</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.686" y="181.107" width="72.65799999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Multivariate-adjusted 3</title>
+   <rect stroke="black" stroke-width="1.0" x="56.693" y="195.11" width="37.14" height="8.0" fill="red" opacity="0.2" class="cell.0.8">
+    <title stroke="black" stroke-width="1.0">0.8/Diastolic BP</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="56.693" y="195.11" width="37.14" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Diastolic BP</title>
+   <rect stroke="black" stroke-width="1.0" x="64.686" y="209.113" width="42.05499999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/Crude model</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.686" y="209.113" width="42.05499999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Crude model</title>
+   <rect stroke="black" stroke-width="1.0" x="137.367" y="221.88899999999998" width="2.5282320000000027" height="5.656000000000006" fill="red" opacity="0.2" class="cell.0.10">
+    <title stroke="black" stroke-width="1.0">0.10/a</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.367" y="221.88899999999998" width="2.5282320000000027" height="5.656000000000006" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">a</title>
+   <rect stroke="black" stroke-width="1.0" x="64.686" y="223.116" width="72.65799999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.11">
+    <title stroke="black" stroke-width="1.0">0.11/Multivariate-adjusted 1</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.686" y="223.116" width="72.65799999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Multivariate-adjusted 1</title>
+   <rect stroke="black" stroke-width="1.0" x="137.367" y="235.892" width="3.059896000000009" height="5.656000000000006" fill="red" opacity="0.2" class="cell.0.13">
+    <title stroke="black" stroke-width="1.0">0.13/b</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="56.0" y="215.116" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="64.687" y="237.12" width="72.658" height="8.0" fill="red" opacity="0.2" class="cell.0.14">
+    <title stroke="black" stroke-width="1.0">0.14/Multivariate-adjusted 2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.367" y="235.892" width="3.059896000000009" height="5.656000000000006" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">b</title>
+   <rect stroke="black" stroke-width="1.0" x="137.367" y="249.89499999999998" width="3.059896000000009" height="5.656000000000006" fill="red" opacity="0.2" class="cell.0.15">
+    <title stroke="black" stroke-width="1.0">0.15/d</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.687" y="237.12" width="72.658" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Multivariate-adjusted 2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.367" y="249.89499999999998" width="3.059896000000009" height="5.656000000000006" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">d</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.687" y="251.123" width="72.658" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Multivariate-adjusted 4</title>
+   <rect stroke="black" stroke-width="1.0" x="64.687" y="251.123" width="72.658" height="8.0" fill="red" opacity="0.2" class="cell.0.16">
+    <title stroke="black" stroke-width="1.0">0.16/Multivariate-adjusted 4</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="117.095" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="117.095" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.367" y="151.873" width="2.5282320000000027" height="5.656000000000006" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">a</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="143.873" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="145.101" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="157.876" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="159.104" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="171.88" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="173.107" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="187.11" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="201.113" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="213.88899999999998" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="215.116" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="215.117" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="227.892" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="229.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="241.89499999999998" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="137.367" y="151.873" width="2.5282320000000027" height="5.656000000000006" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/a</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="117.095" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="198.197" y="139.098" width="61.108000000000004" height="8.0" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/0.42 (−0.46 to 1.30)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="198.197" y="139.098" width="61.108000000000004" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.42 (−0.46 to 1.30)</title>
+   <rect stroke="black" stroke-width="1.0" x="198.198" y="153.101" width="61.107999999999976" height="8.0" fill="red" opacity="0.2" class="cell.2.3">
+    <title stroke="black" stroke-width="1.0">2.3/0.40 (−0.46 to 1.27)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="131.098" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="198.198" y="167.104" width="61.107999999999976" height="8.0" fill="red" opacity="0.2" class="cell.2.5">
+    <title stroke="black" stroke-width="1.0">2.5/0.41 (−0.46 to 1.28)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="198.198" y="153.101" width="61.107999999999976" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.40 (−0.46 to 1.27)</title>
+   <rect stroke="black" stroke-width="1.0" x="198.198" y="181.107" width="61.107999999999976" height="8.0" fill="red" opacity="0.2" class="cell.2.7">
+    <title stroke="black" stroke-width="1.0">2.7/0.39 (−0.48 to 1.26)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="145.101" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="193.435" y="209.113" width="70.63299999999998" height="8.0" fill="red" opacity="0.2" class="cell.2.9">
+    <title stroke="black" stroke-width="1.0">2.9/−1.41 (−1.92 to −0.91)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="198.198" y="167.104" width="61.107999999999976" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.41 (−0.46 to 1.28)</title>
+   <rect stroke="black" stroke-width="1.0" x="193.436" y="223.117" width="70.63299999999995" height="8.0" fill="red" opacity="0.2" class="cell.2.11">
+    <title stroke="black" stroke-width="1.0">2.11/−1.49 (−1.98 to −1.00)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="159.104" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="193.436" y="237.12" width="70.63299999999995" height="8.0" fill="red" opacity="0.2" class="cell.2.14">
+    <title stroke="black" stroke-width="1.0">2.14/−1.49 (−1.97 to −1.00)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="198.198" y="181.107" width="61.107999999999976" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.39 (−0.48 to 1.26)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="173.107" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.435" y="209.113" width="70.63299999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−1.41 (−1.92 to −0.91)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="201.113" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.436" y="223.117" width="70.63299999999995" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−1.49 (−1.98 to −1.00)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="215.116" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="215.117" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.436" y="237.12" width="70.63299999999995" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−1.49 (−1.97 to −1.00)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.0" y="229.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.436" y="251.123" width="70.63299999999995" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−1.53 (−2.01 to −1.04)</title>
+   <rect stroke="black" stroke-width="1.0" x="193.436" y="251.123" width="70.63299999999995" height="8.0" fill="red" opacity="0.2" class="cell.2.16">
+    <title stroke="black" stroke-width="1.0">2.16/−1.53 (−2.01 to −1.04)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="117.095" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="323.034" y="139.098" width="12.824000000000012" height="8.0" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/0.35</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.034" y="139.098" width="12.824000000000012" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.35</title>
+   <rect stroke="black" stroke-width="1.0" x="323.035" y="153.101" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.3.3">
+    <title stroke="black" stroke-width="1.0">3.3/0.36</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="131.098" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="323.035" y="167.104" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.3.5">
+    <title stroke="black" stroke-width="1.0">3.5/0.35</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.035" y="153.101" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.36</title>
+   <rect stroke="black" stroke-width="1.0" x="323.035" y="181.107" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.3.7">
+    <title stroke="black" stroke-width="1.0">3.7/0.38</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="145.101" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="318.783" y="209.113" width="21.399" height="8.0" fill="red" opacity="0.2" class="cell.3.9">
+    <title stroke="black" stroke-width="1.0">3.9/&lt;0.001</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.035" y="167.104" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.35</title>
+   <rect stroke="black" stroke-width="1.0" x="318.783" y="223.117" width="21.399999999999977" height="8.0" fill="red" opacity="0.2" class="cell.3.11">
+    <title stroke="black" stroke-width="1.0">3.11/&lt;0.001</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="159.104" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="318.783" y="237.12" width="21.399999999999977" height="8.0" fill="red" opacity="0.2" class="cell.3.14">
+    <title stroke="black" stroke-width="1.0">3.14/&lt;0.001</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.035" y="181.107" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.38</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="173.107" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.783" y="209.113" width="21.399" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">&lt;0.001</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="201.113" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.783" y="223.117" width="21.399999999999977" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">&lt;0.001</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="215.116" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="215.117" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.783" y="237.12" width="21.399999999999977" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">&lt;0.001</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.0" y="229.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="318.783" y="251.123" width="21.399999999999977" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">&lt;0.001</title>
+   <rect stroke="black" stroke-width="1.0" x="318.783" y="251.123" width="21.399999999999977" height="8.0" fill="red" opacity="0.2" class="cell.3.16">
+    <title stroke="black" stroke-width="1.0">3.16/&lt;0.001</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="117.095" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="392.426" y="139.098" width="70.63299999999998" height="8.0" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/−0.90 (−1.77 to −0.03)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.426" y="139.098" width="70.63299999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.90 (−1.77 to −0.03)</title>
+   <rect stroke="black" stroke-width="1.0" x="394.808" y="153.101" width="65.87" height="8.0" fill="red" opacity="0.2" class="cell.4.3">
+    <title stroke="black" stroke-width="1.0">4.3/−0.73 (−1.58 to 0.13)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="131.098" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="394.808" y="167.104" width="65.87" height="8.0" fill="red" opacity="0.2" class="cell.4.5">
+    <title stroke="black" stroke-width="1.0">4.5/−0.72 (−1.57 to 0.13)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="394.808" y="153.101" width="65.87" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.73 (−1.58 to 0.13)</title>
+   <rect stroke="black" stroke-width="1.0" x="394.808" y="181.107" width="65.87" height="8.0" fill="red" opacity="0.2" class="cell.4.7">
+    <title stroke="black" stroke-width="1.0">4.7/−0.72 (−1.58 to 0.13)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="145.101" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="392.426" y="209.113" width="70.63299999999998" height="8.0" fill="red" opacity="0.2" class="cell.4.9">
+    <title stroke="black" stroke-width="1.0">4.9/−0.61 (−1.12 to −0.09)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="394.808" y="167.104" width="65.87" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.72 (−1.57 to 0.13)</title>
+   <rect stroke="black" stroke-width="1.0" x="392.427" y="223.117" width="70.63299999999998" height="8.0" fill="red" opacity="0.2" class="cell.4.11">
+    <title stroke="black" stroke-width="1.0">4.11/−0.65 (−1.15 to −0.14)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="159.104" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="392.427" y="237.12" width="70.63299999999998" height="8.0" fill="red" opacity="0.2" class="cell.4.14">
+    <title stroke="black" stroke-width="1.0">4.14/−0.64 (−1.15 to −0.14)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="394.808" y="181.107" width="65.87" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.72 (−1.58 to 0.13)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="173.107" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.426" y="209.113" width="70.63299999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.61 (−1.12 to −0.09)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="201.113" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.427" y="223.117" width="70.63299999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.65 (−1.15 to −0.14)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="215.116" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="215.117" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.427" y="237.12" width="70.63299999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.64 (−1.15 to −0.14)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.0" y="229.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="392.427" y="251.123" width="70.63299999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">−0.65 (−1.15 to −0.15)</title>
+   <rect stroke="black" stroke-width="1.0" x="392.427" y="251.123" width="70.63299999999998" height="8.0" fill="red" opacity="0.2" class="cell.4.16">
+    <title stroke="black" stroke-width="1.0">4.16/−0.65 (−1.15 to −0.15)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="117.095" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.5">
+   <rect stroke="black" stroke-width="1.0" x="519.588" y="139.098" width="12.82400000000007" height="8.0" fill="red" opacity="0.2" class="cell.5.1">
+    <title stroke="black" stroke-width="1.0">5.1/0.04</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.588" y="139.098" width="12.82400000000007" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.04</title>
+   <rect stroke="black" stroke-width="1.0" x="519.589" y="153.101" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.5.3">
+    <title stroke="black" stroke-width="1.0">5.3/0.10</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="131.098" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="519.589" y="167.104" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.5.5">
+    <title stroke="black" stroke-width="1.0">5.5/0.10</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.589" y="153.101" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.10</title>
+   <rect stroke="black" stroke-width="1.0" x="519.589" y="181.107" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.5.7">
+    <title stroke="black" stroke-width="1.0">5.7/0.10</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="145.101" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="519.588" y="209.113" width="12.82400000000007" height="8.0" fill="red" opacity="0.2" class="cell.5.9">
+    <title stroke="black" stroke-width="1.0">5.9/0.02</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.589" y="167.104" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.10</title>
+   <rect stroke="black" stroke-width="1.0" x="519.589" y="223.117" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.5.11">
+    <title stroke="black" stroke-width="1.0">5.11/0.01</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="159.104" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="519.589" y="237.12" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.5.14">
+    <title stroke="black" stroke-width="1.0">5.14/0.01</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.589" y="181.107" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.10</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="173.107" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.588" y="209.113" width="12.82400000000007" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.02</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="201.113" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.589" y="223.117" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.01</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="215.116" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="215.117" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.589" y="237.12" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.01</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.0" y="229.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="519.589" y="251.123" width="12.823999999999955" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.01</title>
+   <rect stroke="black" stroke-width="1.0" x="519.589" y="251.123" width="12.823999999999955" height="8.0" fill="red" opacity="0.2" class="cell.5.16">
+    <title stroke="black" stroke-width="1.0">5.16/0.01</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="56.693" y="265.276" width="345.259" height="40.959" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 9]}{[7.0 x 5, 4.949 x 4]}{[normal x 9]}{[null x 9]} //BP, blood pressure; MD+EVOO, Mediterranean diet plus extra virgin olive oil; MD+nuts, Mediterranean diet plus nuts. a Adjusted for center, age, sex and diabetes. b Multivariate-adjusted 1 + additional adjustment for number of baseline anti-hypertensive drugs. c Multivariate-adjusted 2 + additional adjustment for baseline systolic BP. d Multivariate-adjusted 2 + additional adjustment for baseline diastolic BP. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 9]}{[7.0 x 5, 4.949 x 4]}{[normal x 9]}{[null x 9]} //BP, blood pressure; MD+EVOO, Mediterranean diet plus extra virgin olive oil; MD+nuts, Mediterranean diet plus nuts. a Adjusted for center, age, sex and diabetes. b Multivariate-adjusted 1 + additional adjustment for number of baseline anti-hypertensive drugs. c Multivariate-adjusted 2 + additional adjustment for baseline systolic BP. d Multivariate-adjusted 2 + additional adjustment for baseline diastolic BP. </title>
   </rect>
  </g>
 </svg>

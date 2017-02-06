@@ -1253,39 +1253,97 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GAKFID+AdvTT299aae20" svgx:width="447.0" x="136.808" y="464.434" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text4965" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GAKFID+AdvTT299aae20" svgx:width="447.0" x="140.384" y="464.434" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text4967" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GAKFID+AdvTT299aae20" svgx:width="447.0" x="143.899" y="464.434" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text4969" xmlns:svgx="http://www.xml-cml.org/schema/svgx">3</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
+  </rect>
  </g>
- <g/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2"/>
+ <g class="title.title"/>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="35.0" y="140.933" width="543.0" height="311.222" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 24</title>
+  </rect>
  </g>
 </svg>

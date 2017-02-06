@@ -651,93 +651,95 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="KGGDJF+AdvOT82c4f4c4" svgx:width="500.0" x="234.033" y="732.679" font-size="8.0" font-family="TimesNewRoman" font-weight="normal" id="text8757" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="KGGDJF+AdvOT82c4f4c4" svgx:width="500.0" x="238.033" y="732.679" font-size="8.0" font-family="TimesNewRoman" font-weight="normal" id="text8759" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="KGGDJF+AdvOT82c4f4c4" svgx:width="270.0" x="242.033" y="732.679" font-size="8.0" font-family="TimesNewRoman" font-weight="normal" id="text8761" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="599.181" width="475.472" height="19.99899999999991" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="193.606" y="624.693" width="353.341" height="30.99700000000007" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="662.223" width="465.6569999999999" height="30.996000000000095" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="697.693" width="475.087" height="34.98599999999999" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="599.181" width="475.472" height="19.99899999999991" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 2, Helvetica]}{[9.0 x 3]}{[normal x 2, bold]}{[null x 3]} //Table 3 HRs from shared frailty Cox proportional hazards model for household members in masks versus control arms (n=597)* </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="599.181" width="475.472" height="19.99899999999991" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="193.606" y="624.693" width="353.341" height="30.99700000000007" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="662.223" width="465.6569999999999" height="30.996000000000095" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="697.693" width="475.087" height="34.98599999999999" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="599.181" width="475.472" height="19.99899999999991" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2, Helvetica]}{[9.0 x 3]}{[normal x 2, bold]}{[null x 3]} //Table 3 HRs from shared frailty Cox proportional hazards model for household members in masks versus control arms (n=597)* </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="193.0" y="624.693" width="58.0" height="30.99700000000007" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">CRI // HR (95% CI)† // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/CRI // HR (95% CI)† // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="314.0" y="624.693" width="58.0" height="30.99700000000007" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">ILI // HR (95% CI)† // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/ILI // HR (95% CI)† // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="435.0" y="624.693" width="111.0" height="30.99700000000007" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Laboratory-confirmed // viral respiratory infections // HR (95% CI)† // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Laboratory-confirmed // viral respiratory infections // HR (95% CI)† // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.0" y="662.223" width="97.0" height="30.996000000000095" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Masks arm (index case) // Control arm (index case) // Age (household) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Masks arm (index case) // Control arm (index case) // Age (household) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="193.0" y="662.223" width="73.0" height="30.996000000000095" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">0.61 (0.18 to 2.13) // Ref // 1.03 (1.01 to 1.05) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/0.61 (0.18 to 2.13) // Ref // 1.03 (1.01 to 1.05) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="314.0" y="662.223" width="73.0" height="30.996000000000095" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">0.32 (0.03 to 3.13) // Ref // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/0.32 (0.03 to 3.13) // Ref // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="435.0" y="662.223" width="78.0" height="30.996000000000095" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">0.97 (0.06 to 15.54) // Ref // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/0.97 (0.06 to 15.54) // Ref // // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="48.302" y="662.223" width="95.14000000000001" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Masks arm (index case)</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="48.302" y="662.223" width="95.14000000000001" height="9.0" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Masks arm (index case)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.302" y="673.221" width="97.577" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Control arm (index case)</title>
+   <rect stroke="black" stroke-width="1.0" x="48.302" y="673.221" width="97.577" height="9.0" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/Control arm (index case)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.302" y="684.219" width="65.68699999999998" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Age (household)</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="193.609" y="662.223" width="73.299" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.61 (0.18 to 2.13)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.608" y="673.221" width="13.691000000000003" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Ref</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="193.608" y="684.219" width="73.29900000000004" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.03 (1.01 to 1.05)</title>
+   <rect stroke="black" stroke-width="1.0" x="48.302" y="684.219" width="65.68699999999998" height="9.0" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/Age (household)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="314.651" y="662.223" width="73.29900000000004" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.32 (0.03 to 3.13)</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="193.609" y="662.223" width="73.299" height="9.0" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/0.61 (0.18 to 2.13)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="314.647" y="673.221" width="13.691000000000031" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Ref</title>
+   <rect stroke="black" stroke-width="1.0" x="193.608" y="673.221" width="13.691000000000003" height="9.0" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/Ref</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="314.0" y="665.221" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="193.608" y="684.219" width="73.29900000000004" height="9.0" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/1.03 (1.01 to 1.05)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="435.749" y="662.223" width="78.20999999999992" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.97 (0.06 to 15.54)</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="314.651" y="662.223" width="73.29900000000004" height="9.0" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/0.32 (0.03 to 3.13)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="435.743" y="673.221" width="13.634000000000015" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Ref</title>
+   <rect stroke="black" stroke-width="1.0" x="314.647" y="673.221" width="13.691000000000031" height="9.0" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/Ref</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="435.0" y="665.221" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  </g>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="435.749" y="662.223" width="78.20999999999992" height="9.0" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/0.97 (0.06 to 15.54)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="435.743" y="673.221" width="13.634000000000015" height="9.0" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/Ref</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.302" y="697.693" width="475.087" height="34.98599999999999" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 3, Helvetica]}{[8.0 x 4]}{[normal x 3, NORMAL]}{[null x 4]} //*Household members (mask arm 302 and control arm 295). †Multivariate analysis was performed as there were 10 cases of CRI and age was also significant in the univariate analysis. Multivariate analyses were not performed for ILI and laboratory-confirmed viral respiratory infections due to the low number of cases. CRI, clinical respiratory illness; ILI, influenza-like illness. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 3, Helvetica]}{[8.0 x 4]}{[normal x 3, NORMAL]}{[null x 4]} //*Household members (mask arm 302 and control arm 295). †Multivariate analysis was performed as there were 10 cases of CRI and age was also significant in the univariate analysis. Multivariate analyses were not performed for ILI and laboratory-confirmed viral respiratory infections due to the low number of cases. CRI, clinical respiratory illness; ILI, influenza-like illness. </title>
   </rect>
  </g>
 </svg>

@@ -1080,59 +1080,75 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="LFPMGC+AdvTT336784a7" svgx:width="572.0" x="194.917" y="512.178" font-size="7.5" font-family="Helvetica" font-weight="normal" id="text5028" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="LFPMGC+AdvTT336784a7" svgx:width="229.0" x="199.339" y="512.178" font-size="7.5" font-family="Helvetica" font-weight="normal" id="text5030" xmlns:svgx="http://www.xml-cml.org/schema/svgx">l</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="LFPMGC+AdvTT336784a7" svgx:width="281.0" x="201.155" y="512.178" font-size="7.5" font-family="Helvetica" font-weight="normal" id="text5032" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.009" y="58.69" width="185.90500000000003" height="24.49300000000001" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="383.988" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="51.477" y="493.552" width="151.78549999999998" height="18.625999999999976" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.009" y="58.69" width="185.90500000000003" height="24.49300000000001" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 2]}{[8.0, 11.0]}{[normal x 2]}{[null x 2]} //Table 1 Parameters of different types of colonic contractions </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.009" y="58.69" width="185.90500000000003" height="24.49300000000001" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="383.988" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="51.477" y="493.552" width="151.78549999999998" height="18.625999999999976" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.009" y="58.69" width="185.90500000000003" height="24.49300000000001" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[11.0, 8.0]}{[normal x 2]}{[null x 2]} //Table 1 Parameters of different types of colonic contractions </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="127.432" width="138.0" height="361.219" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">All contractions // Frequency (contractions/10 min) // Speed (mm/s) // CMMCs // Proportion (%) // Frequency (contractions/10 min) // Speed (mm/s) // Short contractions // Proportion (%) // Frequency (contractions/10 min) // -1 // Speed (mm·s // ) // Distal anterograde short contraction // frequency (per 10 min) // Distal retrograde short contraction // frequency (per 10 min) // Fragmented contractions // Proportion (%) // Frequency (contractions/10 min) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/All contractions // Frequency (contractions/10 min) // Speed (mm/s) // CMMCs // Proportion (%) // Frequency (contractions/10 min) // Speed (mm/s) // Short contractions // Proportion (%) // Frequency (contractions/10 min) // -1 // Speed (mm·s // ) // Distal anterograde short contraction // frequency (per 10 min) // Distal retrograde short contraction // frequency (per 10 min) // Fragmented contractions // Proportion (%) // Frequency (contractions/10 min) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="253.0" y="127.432" width="27.0" height="361.219" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // Control // L-NNA // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="343.0" y="127.432" width="42.0" height="361.219" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">33.8 ± 2.4 // 31.6 ± 3.9 // 1.8 ± 0.1 // 3.4 ± 0.5 // 27.8 ± 3.5 // 32.4 ± 5.9 // 9.0 ± 0.9 // 9.8 ± 2.2 // 2.2 ± 0.3 // a // 3.5 ± 0.8 // 66.2 ± 2.4 // a // 55.5 ± 3.9 // 22.7 ± 2.4 // 17.6 ± 2.3 // 1.6 ± 0.1 // a // 2.8 ± 0.6 // 14.5 ± 1.5 // 10.3 ± 1.5 // 2.0 ± 0.6 // 1.0 ± 0.3 // 6.0 ± 2.1 // 12.1 ± 3.1 // 2.1 ± 0.7 // 4.2 ± 1.2 // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/33.8 ± 2.4 // 31.6 ± 3.9 // 1.8 ± 0.1 // 3.4 ± 0.5 // 27.8 ± 3.5 // 32.4 ± 5.9 // 9.0 ± 0.9 // 9.8 ± 2.2 // 2.2 ± 0.3 // a // 3.5 ± 0.8 // 66.2 ± 2.4 // a // 55.5 ± 3.9 // 22.7 ± 2.4 // 17.6 ± 2.3 // 1.6 ± 0.1 // a // 2.8 ± 0.6 // 14.5 ± 1.5 // 10.3 ± 1.5 // 2.0 ± 0.6 // 1.0 ± 0.3 // 6.0 ± 2.1 // 12.1 ± 3.1 // 2.1 ± 0.7 // 4.2 ± 1.2 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="463.0" y="127.432" width="42.0" height="361.219" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">a // 21.7 ± 2.9 // 21.8 ± 3.9 // 1.3 ± 0.2 // 2.1 ± 0.4 // a // 9.4 ± 3.7 // b // 31.0 ± 6.4 // a // 2.5 ± 1.0 // b // 6.0 ± 1.2 // 2.0 ± 0.5 // 1.9 ± 0.5 // 58.5 ± 6.9 // 42.2 ± 6.2 // a // 13.0 ± 2.0 // 9.8 ± 1.9 // a // 0.8 ± 0.1 // 1.2 ± 0.2 // a // 6.4 ± 1.5 // 4.8 ± 1.4 // a // 0.1 ± 0.1 // 0.3 ± 0.1 // a // 32.1 ± 6.1 // 26.8 ± 5.2 // a // 6.2 ± 1.2 // 6.0 ± 1.1 // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/a // 21.7 ± 2.9 // 21.8 ± 3.9 // 1.3 ± 0.2 // 2.1 ± 0.4 // a // 9.4 ± 3.7 // b // 31.0 ± 6.4 // a // 2.5 ± 1.0 // b // 6.0 ± 1.2 // 2.0 ± 0.5 // 1.9 ± 0.5 // 58.5 ± 6.9 // 42.2 ± 6.2 // a // 13.0 ± 2.0 // 9.8 ± 1.9 // a // 0.8 ± 0.1 // 1.2 ± 0.2 // a // 6.4 ± 1.5 // 4.8 ± 1.4 // a // 0.1 ± 0.1 // 0.3 ± 0.1 // a // 32.1 ± 6.1 // 26.8 ± 5.2 // a // 6.2 ± 1.2 // 6.0 ± 1.1 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2"/>
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="41.0" y="104.663" width="512.0" height="22.769000000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>
+  </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="54.935" y="494.7" width="148.3275" height="8.830000000000041" fill="yellow" opacity="0.2"/>
   <rect stroke="black" stroke-width="1.0" x="54.935" y="504.678" width="148.3275" height="7.5" fill="red" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="493.552" width="152.0" height="18.625999999999976" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">a // P &lt; 0.05 compared with sham-control. // b // P &lt; 0.05 compared with oxaliplatin-control. // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/a // P &lt; 0.05 compared with sham-control. // b // P &lt; 0.05 compared with oxaliplatin-control. // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="51.477" y="493.552" width="2.6514999999999986" height="5.302999999999997" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">a</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="51.477" y="493.552" width="2.6514999999999986" height="5.302999999999997" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/a</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="54.425" y="494.7" width="131.3005" height="7.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">P &lt; 0.05 compared with sham-control.</title>
+   <rect stroke="black" stroke-width="1.0" x="54.425" y="494.7" width="131.3005" height="7.5" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/P &lt; 0.05 compared with sham-control.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="51.477" y="503.53000000000003" width="3.1446790000000036" height="5.302999999999997" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">b</title>
+   <rect stroke="black" stroke-width="1.0" x="51.477" y="503.53000000000003" width="3.1446790000000036" height="5.302999999999997" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/b</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="54.935" y="504.678" width="148.3275" height="7.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">P &lt; 0.05 compared with oxaliplatin-control.</title>
+   <rect stroke="black" stroke-width="1.0" x="54.935" y="504.678" width="148.3275" height="7.5" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/P &lt; 0.05 compared with oxaliplatin-control.</title>
    </rect>
   </g>
  </g>

@@ -1210,183 +1210,191 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLM+AdvP403A40" svgx:width="510.0" x="165.631" y="730.359" font-size="6.974" font-family="Helvetica" font-weight="normal" id="text5403" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLM+AdvP403A40" svgx:width="510.0" x="169.188" y="730.359" font-size="6.974" font-family="Helvetica" font-weight="normal" id="text5405" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLM+AdvP403A40" svgx:width="510.0" x="172.744" y="730.359" font-size="6.974" font-family="Helvetica" font-weight="normal" id="text5407" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="64.063" y="491.787" width="217.89592800000003" height="8.966000000000008" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="64.063" y="531.14099862" width="425.744" height="0.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="64.063" y="539.077" width="446.54674" height="131.52800000000002" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="64.061" y="681.036" width="490.11438799999996" height="49.32300000000009" fill="blue" opacity="0.2"/>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="64.063" y="491.787" width="217.89592800000003" height="8.966000000000008" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="64.063" y="531.14099862" width="425.744" height="0.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="64.063" y="539.077" width="446.54674" height="131.52800000000002" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="64.061" y="681.036" width="490.11438799999996" height="49.32300000000009" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
+  </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.063" y="491.787" width="217.89592800000003" height="8.966000000000008" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[8.966]}{[bold]}{[null]} //Table 2. Hormonal status of the three affected patients. </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica]}{[8.966]}{[bold]}{[null]} //Table 2. Hormonal status of the three affected patients. </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.0" y="531.14099862" width="425.0" height="0.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Patient#123#124#125 // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Patient#123#124#125 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.0" y="539.077" width="146.0" height="131.52800000000002" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Age (years) // Plasma testosterone concentration (ng/ml) // FSH (IU/l) basal–peak (after GnRH administration) // LH (IU/l) basal–peak (after GnRH administration) // Inhibin B (pg/ml) // FT4 (pmol/l) // TSH (mIU/l) basal and TRH test // Prolactin (ng/ml) // HbA1c % // Insulinemia (mU/l) (IGTT, T1+T3 min) // C-peptide (nmol/l), fasting concentration // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Age (years) // Plasma testosterone concentration (ng/ml) // FSH (IU/l) basal–peak (after GnRH administration) // LH (IU/l) basal–peak (after GnRH administration) // Inhibin B (pg/ml) // FT4 (pmol/l) // TSH (mIU/l) basal and TRH test // Prolactin (ng/ml) // HbA1c % // Insulinemia (mU/l) (IGTT, T1+T3 min) // C-peptide (nmol/l), fasting concentration // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="323.0" y="539.077" width="37.0" height="131.52800000000002" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">21.4 // 1.6 // 6.2–16.2 // 6.2–57 // 65 // 8.5 // 1.7–21.9–7.2 // 13 // 11 // 11 // 0.31 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/21.4 // 1.6 // 6.2–16.2 // 6.2–57 // 65 // 8.5 // 1.7–21.9–7.2 // 13 // 11 // 11 // 0.31 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="402.0" y="539.077" width="31.0" height="131.52800000000002" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">20 // 1.9 // 8.3–28 // 4.5–71 // 87 // 8.3 // 1.5–14–5.6 // 12 // 11.7 // 29 // 0.93 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/20 // 1.9 // 8.3–28 // 4.5–71 // 87 // 8.3 // 1.5–14–5.6 // 12 // 11.7 // 29 // 0.93 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="475.0" y="539.077" width="35.0" height="131.52800000000002" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">16.8 // 3.0 // — // — // 163 // 8.8 // 5.5–29–12.4 // — // 7.1 // 9 // 0.33 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/16.8 // 3.0 // — // — // 163 // 8.8 // 5.5–29–12.4 // — // 7.1 // 9 // 0.33 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="539.077" width="33.013694" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Age (years)</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="539.077" width="33.013694" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Age (years)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="551.549" width="126.75669400000002" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Plasma testosterone concentration (ng/ml)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="551.549" width="126.75669400000002" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/Plasma testosterone concentration (ng/ml)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="564.0219999999999" width="146.33869400000003" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">FSH (IU/l) basal–peak (after GnRH administration)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="564.0219999999999" width="146.33869400000003" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/FSH (IU/l) basal–peak (after GnRH administration)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="576.4369999999999" width="142.76669400000003" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">LH (IU/l) basal–peak (after GnRH administration)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="576.4369999999999" width="142.76669400000003" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/LH (IU/l) basal–peak (after GnRH administration)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="588.91" width="50.48169399999999" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Inhibin B (pg/ml)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="588.91" width="50.48169399999999" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/Inhibin B (pg/ml)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="601.3829999999999" width="35.965694" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">FT4 (pmol/l)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="601.3829999999999" width="35.965694" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/FT4 (pmol/l)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="613.798" width="91.952342" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">TSH (mIU/l) basal and TRH test</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="613.798" width="91.952342" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.6">
+    <title stroke="black" stroke-width="1.0">0.6/TSH (mIU/l) basal and TRH test</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="626.271" width="49.49069399999999" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Prolactin (ng/ml)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="626.271" width="49.49069399999999" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/Prolactin (ng/ml)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="638.7429999999999" width="27.400434000000004" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">HbA1c %</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="638.7429999999999" width="27.400434000000004" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.8">
+    <title stroke="black" stroke-width="1.0">0.8/HbA1c %</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="651.159" width="108.80169400000001" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Insulinemia (mU/l) (IGTT, T1+T3 min)</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="651.159" width="108.80169400000001" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/Insulinemia (mU/l) (IGTT, T1+T3 min)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="663.631" width="121.180648" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">C-peptide (nmol/l), fasting concentration</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="323.83" y="539.077" width="12.120740000000012" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">21.4</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.82" y="551.549" width="8.564739999999972" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.6</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.821" y="564.0219999999999" width="24.247739999999965" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">6.2–16.2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.82" y="576.4369999999999" width="19.16374000000002" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">6.2–57</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.827" y="588.91" width="7.113740000000007" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">65</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.83" y="601.3829999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">8.5</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.825" y="613.798" width="36.29874000000001" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.7–21.9–7.2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.826" y="626.271" width="7.11373999999995" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">13</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.83" y="638.7429999999999" width="7.113740000000007" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">11</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.831" y="651.159" width="7.11373999999995" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">11</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="323.82" y="663.631" width="12.121739999999988" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.31</title>
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="663.631" width="121.180648" height="6.974000000000046" fill="red" opacity="0.2" class="cell.0.10">
+    <title stroke="black" stroke-width="1.0">0.10/C-peptide (nmol/l), fasting concentration</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="402.236" y="539.077" width="7.112739999999974" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">20</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="323.83" y="539.077" width="12.120740000000012" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/21.4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.226" y="551.549" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.9</title>
+   <rect stroke="black" stroke-width="1.0" x="323.82" y="551.549" width="8.564739999999972" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/1.6</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.226" y="564.0219999999999" width="19.164739999999995" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">8.3–28</title>
+   <rect stroke="black" stroke-width="1.0" x="323.821" y="564.0219999999999" width="24.247739999999965" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/6.2–16.2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.225" y="576.4369999999999" width="19.16373999999996" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">4.5–71</title>
+   <rect stroke="black" stroke-width="1.0" x="323.82" y="576.4369999999999" width="19.16374000000002" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/6.2–57</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.233" y="588.91" width="7.113740000000007" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">87</title>
+   <rect stroke="black" stroke-width="1.0" x="323.827" y="588.91" width="7.113740000000007" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/65</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.236" y="601.3829999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">8.3</title>
+   <rect stroke="black" stroke-width="1.0" x="323.83" y="601.3829999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.5">
+    <title stroke="black" stroke-width="1.0">1.5/8.5</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.228" y="613.798" width="31.29674" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.5–14–5.6</title>
+   <rect stroke="black" stroke-width="1.0" x="323.825" y="613.798" width="36.29874000000001" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.6">
+    <title stroke="black" stroke-width="1.0">1.6/1.7–21.9–7.2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.232" y="626.271" width="7.11373999999995" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">12</title>
+   <rect stroke="black" stroke-width="1.0" x="323.826" y="626.271" width="7.11373999999995" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.7">
+    <title stroke="black" stroke-width="1.0">1.7/13</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.236" y="638.7429999999999" width="12.120740000000012" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">11.7</title>
+   <rect stroke="black" stroke-width="1.0" x="323.83" y="638.7429999999999" width="7.113740000000007" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.8">
+    <title stroke="black" stroke-width="1.0">1.8/11</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.237" y="651.159" width="7.114739999999983" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">29</title>
+   <rect stroke="black" stroke-width="1.0" x="323.831" y="651.159" width="7.11373999999995" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.9">
+    <title stroke="black" stroke-width="1.0">1.9/11</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.227" y="663.631" width="12.120740000000012" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.93</title>
+   <rect stroke="black" stroke-width="1.0" x="323.82" y="663.631" width="12.121739999999988" height="6.974000000000046" fill="red" opacity="0.2" class="cell.1.10">
+    <title stroke="black" stroke-width="1.0">1.10/0.31</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="475.766" y="539.077" width="12.120739999999955" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">16.8</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="402.236" y="539.077" width="7.112739999999974" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/20</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.756" y="551.549" width="8.564740000000029" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">3.0</title>
+   <rect stroke="black" stroke-width="1.0" x="402.226" y="551.549" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/1.9</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.755" y="564.0219999999999" width="5.230500000000006" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">—</title>
+   <rect stroke="black" stroke-width="1.0" x="402.226" y="564.0219999999999" width="19.164739999999995" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/8.3–28</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.754" y="576.4369999999999" width="5.230500000000006" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">—</title>
+   <rect stroke="black" stroke-width="1.0" x="402.225" y="576.4369999999999" width="19.16373999999996" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.3">
+    <title stroke="black" stroke-width="1.0">2.3/4.5–71</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.763" y="588.91" width="10.670740000000023" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">163</title>
+   <rect stroke="black" stroke-width="1.0" x="402.233" y="588.91" width="7.113740000000007" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.4">
+    <title stroke="black" stroke-width="1.0">2.4/87</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.766" y="601.3829999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">8.8</title>
+   <rect stroke="black" stroke-width="1.0" x="402.236" y="601.3829999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.5">
+    <title stroke="black" stroke-width="1.0">2.5/8.3</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.757" y="613.798" width="34.85273999999998" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">5.5–29–12.4</title>
+   <rect stroke="black" stroke-width="1.0" x="402.228" y="613.798" width="31.29674" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.6">
+    <title stroke="black" stroke-width="1.0">2.6/1.5–14–5.6</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.763" y="626.271" width="5.230500000000006" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">—</title>
+   <rect stroke="black" stroke-width="1.0" x="402.232" y="626.271" width="7.11373999999995" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.7">
+    <title stroke="black" stroke-width="1.0">2.7/12</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.766" y="638.7429999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">7.1</title>
+   <rect stroke="black" stroke-width="1.0" x="402.236" y="638.7429999999999" width="12.120740000000012" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.8">
+    <title stroke="black" stroke-width="1.0">2.8/11.7</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.768" y="651.159" width="3.5567399999999907" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">9</title>
+   <rect stroke="black" stroke-width="1.0" x="402.237" y="651.159" width="7.114739999999983" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.9">
+    <title stroke="black" stroke-width="1.0">2.9/29</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="475.756" y="663.631" width="12.121740000000045" height="6.974000000000046" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.33</title>
+   <rect stroke="black" stroke-width="1.0" x="402.227" y="663.631" width="12.120740000000012" height="6.974000000000046" fill="red" opacity="0.2" class="cell.2.10">
+    <title stroke="black" stroke-width="1.0">2.10/0.93</title>
+   </rect>
+  </g>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="475.766" y="539.077" width="12.120739999999955" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/16.8</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.756" y="551.549" width="8.564740000000029" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/3.0</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.755" y="564.0219999999999" width="5.230500000000006" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/—</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.754" y="576.4369999999999" width="5.230500000000006" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.3">
+    <title stroke="black" stroke-width="1.0">3.3/—</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.763" y="588.91" width="10.670740000000023" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.4">
+    <title stroke="black" stroke-width="1.0">3.4/163</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.766" y="601.3829999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.5">
+    <title stroke="black" stroke-width="1.0">3.5/8.8</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.757" y="613.798" width="34.85273999999998" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.6">
+    <title stroke="black" stroke-width="1.0">3.6/5.5–29–12.4</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.763" y="626.271" width="5.230500000000006" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.7">
+    <title stroke="black" stroke-width="1.0">3.7/—</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.766" y="638.7429999999999" width="8.563739999999996" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.8">
+    <title stroke="black" stroke-width="1.0">3.8/7.1</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.768" y="651.159" width="3.5567399999999907" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.9">
+    <title stroke="black" stroke-width="1.0">3.9/9</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="475.756" y="663.631" width="12.121740000000045" height="6.974000000000046" fill="red" opacity="0.2" class="cell.3.10">
+    <title stroke="black" stroke-width="1.0">3.10/0.33</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.061" y="681.036" width="490.11438799999996" height="49.32300000000009" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 6]}{[6.974 x 6]}{[normal x 6]}{[null x 6]} //Testosterone, 3–12 ng/ml; GnRH test (100 μg i.v.): normal values for FSH, 1–8.5 IU/l; LH, 1.5–8 IU/l. 60 minutes after GnRH administration, LH and FSH basal concentrations should have increased by factors of 4.5 and 2, respectively. TRH test (200 μg i.v.): normal values for TSH, 0.5–6, 1467 and ,8 mU/l for basal, peak, and 120-min post-TRH. Inhibin B, normal values in young adults 135–350 pg/ml; Free T4 (FT4), normal values 11–21 pmol/l; Prolactin, normal values ,20 ng/ml; HbA1c, normal values,5.8%. Insulin concentrations in an intravenous glucose tolerance test (IGTT) at T1+T3 min after glucose administration; normal values .40 mU/l. C-peptide, normal basal values: 0.3–1.3 nmol/l. doi:10.1371/journal.pbio.1001952.t002 </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 6]}{[6.974 x 6]}{[normal x 6]}{[null x 6]} //Testosterone, 3–12 ng/ml; GnRH test (100 μg i.v.): normal values for FSH, 1–8.5 IU/l; LH, 1.5–8 IU/l. 60 minutes after GnRH administration, LH and FSH basal concentrations should have increased by factors of 4.5 and 2, respectively. TRH test (200 μg i.v.): normal values for TSH, 0.5–6, 1467 and ,8 mU/l for basal, peak, and 120-min post-TRH. Inhibin B, normal values in young adults 135–350 pg/ml; Free T4 (FT4), normal values 11–21 pmol/l; Prolactin, normal values ,20 ng/ml; HbA1c, normal values,5.8%. Insulin concentrations in an intravenous glucose tolerance test (IGTT) at T1+T3 min after glucose administration; normal values .40 mU/l. C-peptide, normal basal values: 0.3–1.3 nmol/l. doi:10.1371/journal.pbio.1001952.t002 </title>
   </rect>
  </g>
 </svg>

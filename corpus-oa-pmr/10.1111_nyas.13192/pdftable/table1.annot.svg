@@ -3260,130 +3260,120 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="HLFIHG+Minion-Regular" svgx:width="447.0" x="321.615" y="641.371" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text6600" xmlns:svgx="http://www.xml-cml.org/schema/svgx">y</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="HLFIHG+Minion-Regular" svgx:width="240.0" x="324.685" y="641.371" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text6602" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="HLFIHG+Minion-Regular" svgx:width="342.0" svgx:charCode="8221" svgx:hexCode="201d" x="326.601" y="641.371" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text6604" xmlns:svgx="http://www.xml-cml.org/schema/svgx">”</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.113" width="191.53701999999998" height="8.966000000000001" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="69.38199999999999" width="394.57067500000005" height="6.575000000000003" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="82.252" width="418.381625" height="23.710000000000008" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="107.955" width="415.205625" height="83.67899999999999" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.113" width="191.53701999999998" height="8.966000000000001" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[7.97]}{[bold]}{[null]} //Table 1. Questions on aspects of naming complexity </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.113" width="191.53701999999998" height="8.966000000000001" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="69.38199999999999" width="394.57067500000005" height="6.575000000000003" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="82.252" width="418.381625" height="23.710000000000008" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="107.955" width="415.205625" height="83.67899999999999" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.113" width="191.53701999999998" height="8.966000000000001" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica]}{[7.97]}{[bold]}{[null]} //Table 1. Questions on aspects of naming complexity </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.0" y="69.38199999999999" width="47.0" height="6.575000000000003" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Aspect of naming // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Aspect of naming // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="101.0" y="69.38199999999999" width="31.0" height="6.575000000000003" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Property of // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Property of // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="171.0" y="69.38199999999999" width="33.0" height="6.575000000000003" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Modified by // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Modified by // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="242.0" y="69.38199999999999" width="19.0" height="6.575000000000003" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Affects // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/Affects // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="306.0" y="69.38199999999999" width="53.0" height="6.575000000000003" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Potential questions // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/Potential questions // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="389.0" y="69.38199999999999" width="48.0" height="6.575000000000003" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Potential answers // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/Potential answers // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.0" y="82.252" width="31.0" height="23.710000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Explicitness // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Explicitness // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="101.0" y="82.252" width="29.0" height="23.710000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Part, whole // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/Part, whole // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="171.0" y="82.252" width="52.0" height="23.710000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">User relevance and // ease; authority // defines standards // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/User relevance and // ease; authority // defines standards // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="242.0" y="82.252" width="14.0" height="23.710000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Users // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/Users // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="306.0" y="82.252" width="70.0" height="23.710000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">How many interesting // details from lower levels // of content are packed // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/How many interesting // details from lower levels // of content are packed // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="389.0" y="82.252" width="72.0" height="23.710000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">List some or all elements of // the set that is being // named // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/List some or all elements of // the set that is being // named // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="42.633" y="82.252" width="31.15212499999999" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Explicitness</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="74.252" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="82.82" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="42.633" y="82.252" width="31.15212499999999" height="6.575000000000003" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Explicitness</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="101.214" y="82.252" width="29.760500000000008" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Part, whole</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="101.0" y="74.252" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="101.0" y="82.82" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="101.214" y="82.252" width="29.760500000000008" height="6.575000000000003" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/Part, whole</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="171.747" y="82.252" width="49.45059999999998" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">User relevance and</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="171.747" y="82.252" width="49.45059999999998" height="6.575000000000003" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/User relevance and</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="178.317" y="90.82" width="38.42602499999998" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">ease; authority</title>
+   <rect stroke="black" stroke-width="1.0" x="178.317" y="90.82" width="38.42602499999998" height="6.575000000000003" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/ease; authority</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="178.317" y="99.387" width="45.309124999999995" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">defines standards</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="242.28" y="82.252" width="14.358125000000001" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Users</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="242.0" y="74.252" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="242.0" y="82.82" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="178.317" y="99.387" width="45.309124999999995" height="6.575000000000003" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/defines standards</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="306.837" y="82.252" width="58.21120000000002" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">How many interesting</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="313.416" y="90.82" width="63.10012499999999" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">details from lower levels</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="313.416" y="99.387" width="56.17760000000004" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">of content are packed</title>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="242.28" y="82.252" width="14.358125000000001" height="6.575000000000003" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/Users</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="389.331" y="82.252" width="71.68362499999995" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">List some or all elements of</title>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="306.837" y="82.252" width="58.21120000000002" height="6.575000000000003" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/How many interesting</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="395.901" y="90.82" width="50.51419999999996" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">the set that is being</title>
+   <rect stroke="black" stroke-width="1.0" x="313.416" y="90.82" width="63.10012499999999" height="6.575000000000003" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/details from lower levels</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="395.901" y="99.387" width="18.12360000000001" height="6.575000000000003" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">named</title>
+   <rect stroke="black" stroke-width="1.0" x="313.416" y="99.387" width="56.17760000000004" height="6.575000000000003" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/of content are packed</title>
+   </rect>
+  </g>
+  <g class="col.5">
+   <rect stroke="black" stroke-width="1.0" x="389.331" y="82.252" width="71.68362499999995" height="6.575000000000003" fill="red" opacity="0.2" class="cell.5.0">
+    <title stroke="black" stroke-width="1.0">5.0/List some or all elements of</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="395.901" y="90.82" width="50.51419999999996" height="6.575000000000003" fill="red" opacity="0.2" class="cell.5.1">
+    <title stroke="black" stroke-width="1.0">5.1/the set that is being</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="395.901" y="99.387" width="18.12360000000001" height="6.575000000000003" fill="red" opacity="0.2" class="cell.5.2">
+    <title stroke="black" stroke-width="1.0">5.2/named</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.633" y="107.955" width="415.205625" height="83.67899999999999" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 26]}{[6.575 x 26]}{[normal x 26]}{[null x 26]} //into the Name? Clutter Whole As above Users How many uninteresting Listing the elements of details from lower levels subsets of subsets . . . of content are included? makes for tedious reading, even though it increases precision (see “Form Filling” mode of computing) Audience External Experience of the Perceptive naming How will the names be Differ for different (intended) naming authority, authorities used? As predicted by authorities </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 26]}{[6.575 x 26]}{[normal x 26]}{[null x 26]} //into the Name? Clutter Whole As above Users How many uninteresting Listing the elements of details from lower levels subsets of subsets . . . of content are included? makes for tedious reading, even though it increases precision (see “Form Filling” mode of computing) Audience External Experience of the Perceptive naming How will the names be Differ for different (intended) naming authority, authorities used? As predicted by authorities </title>
   </rect>
  </g>
 </svg>

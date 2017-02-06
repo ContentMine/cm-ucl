@@ -613,143 +613,122 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="396.0" x="193.784" y="189.139" font-size="8.468" font-family="TimesNewRoman" font-weight="normal" id="text1344" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="271.0" x="197.137" y="189.139" font-size="8.468" font-family="TimesNewRoman" font-weight="normal" id="text1346" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="396.0" x="199.432" y="189.139" font-size="8.468" font-family="TimesNewRoman" font-weight="normal" id="text1348" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
- <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="292.0" x="202.618" y="189.139" font-size="8.468" font-family="TimesNewRoman" font-weight="normal" id="text1350" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="250.0" transform="matrix(0.0,-1.0,1.0,0.0,-542.19423,678.37804)" x="68.092" y="610.286" font-size="8.38" font-family="TimesNewRoman" font-weight="bold" id="text2948" xmlns:svgx="http://www.xml-cml.org/schema/svgx"/>
- <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="250.0" transform="matrix(0.0,-1.0,1.0,0.0,-515.89613,652.07994)" x="68.092" y="583.988" font-size="8.38" font-family="TimesNewRoman" font-weight="bold" id="text2962" xmlns:svgx="http://www.xml-cml.org/schema/svgx"/>
- <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="250.0" transform="matrix(0.0,-1.0,1.0,0.0,-487.75526,623.93907)" x="68.092" y="555.847" font-size="8.38" font-family="TimesNewRoman" font-weight="bold" id="text2976" xmlns:svgx="http://www.xml-cml.org/schema/svgx"/>
- <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="250.0" transform="matrix(0.0,-1.0,1.0,0.0,-271.17987,933.03485)" x="330.927" y="602.107" font-size="8.174" font-family="TimesNewRoman" font-weight="bold" id="text4796" xmlns:svgx="http://www.xml-cml.org/schema/svgx"/>
- <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="250.0" transform="matrix(0.0,-1.0,1.0,0.0,-245.52759,907.38257)" x="330.927" y="576.455" font-size="8.174" font-family="TimesNewRoman" font-weight="bold" id="text4810" xmlns:svgx="http://www.xml-cml.org/schema/svgx"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="93.06" y="66.056" width="122.91665599999999" height="8.468000000000004" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="307.998" y="84.119" width="220.18949200000003" height="8.468000000000004" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="93.06" y="102.344" width="428.751336" height="38.357" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="93.06" y="150.782" width="435.14782800000006" height="451.32584999999995" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="93.06" y="66.056" width="122.91665599999999" height="8.468000000000004" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman]}{[8.468]}{[normal]}{[null]} //Table 2. On-study MRI changes. </title>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="292.0" x="202.618" y="189.139" font-size="8.468" font-family="TimesNewRoman" font-weight="normal" id="text1350" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text> 
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="93.06" y="66.056" width="122.91665599999999" height="8.468000000000004" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="307.998" y="84.119" width="220.18949200000003" height="8.468000000000004" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="93.06" y="102.344" width="428.751336" height="38.357" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="93.06" y="150.782" width="435.14782800000006" height="451.32584999999995" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="93.06" y="66.056" width="122.91665599999999" height="8.468000000000004" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman]}{[8.468]}{[normal]}{[null]} //Table 2. On-study MRI changes. </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="307.0" y="84.119" width="31.0" height="8.468000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Baseline // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Baseline // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="419.0" y="84.119" width="38.0" height="8.468000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Follow-up // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Follow-up // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="501.0" y="84.119" width="27.0" height="8.468000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">p Value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/p Value // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="93.0" y="102.344" width="166.0" height="38.357" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Cerebral gray matter volume (ml) // Cerebral gray matter fraction // Brain parenchymal fraction // // Cerebral T2 hyperintense lesion volume (ml) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Cerebral gray matter volume (ml) // Cerebral gray matter fraction // Brain parenchymal fraction // // Cerebral T2 hyperintense lesion volume (ml) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="259.0" y="102.344" width="2.0" height="38.357" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // // // ∗ // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // // // ∗ // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="268.0" y="102.344" width="109.0" height="38.357" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">664.0 ± 56.4 (606.0– 781.6) // 0.481 ± 0.022 (0.437– 0.523) // 0.846 ± 0.04 (0.727– 0.895) // // 11.5 ± 9.3 (1.4– 33.9) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/664.0 ± 56.4 (606.0– 781.6) // 0.481 ± 0.022 (0.437– 0.523) // 0.846 ± 0.04 (0.727– 0.895) // // 11.5 ± 9.3 (1.4– 33.9) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="383.0" y="102.344" width="109.0" height="38.357" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">663.9 ± 60.2 (590.3– 820.3) // 0.481 ± 0.023 (0.445– 0.533) // 0.844 ± 0.037 (0.740– 0.886) // // 10.6 ± 9.0 (1.7– 31.4) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/663.9 ± 60.2 (590.3– 820.3) // 0.481 ± 0.023 (0.445– 0.533) // 0.844 ± 0.037 (0.740– 0.886) // // 10.6 ± 9.0 (1.7– 31.4) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="505.0" y="102.344" width="16.0" height="38.357" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">0.94 // 0.92 // 0.64 // // 0.10 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/0.94 // 0.92 // 0.64 // // 0.10 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="93.06" y="102.344" width="124.14617999999999" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Cerebral gray matter volume (ml)</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="93.06" y="102.344" width="124.14617999999999" height="8.468000000000004" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Cerebral gray matter volume (ml)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="93.061" y="112.307" width="107.10716399999998" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Cerebral gray matter fraction</title>
+   <rect stroke="black" stroke-width="1.0" x="93.061" y="112.307" width="107.10716399999998" height="8.468000000000004" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/Cerebral gray matter fraction</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="93.061" y="122.27" width="100.39816399999998" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Brain parenchymal fraction</title>
+   <rect stroke="black" stroke-width="1.0" x="93.061" y="122.27" width="100.39816399999998" height="8.468000000000004" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/Brain parenchymal fraction</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="93.0" y="114.27" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="93.061" y="132.233" width="166.13618" height="8.46799999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Cerebral T2 hyperintense lesion volume (ml)</title>
+   <rect stroke="black" stroke-width="1.0" x="93.061" y="132.233" width="166.13618" height="8.46799999999999" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/Cerebral T2 hyperintense lesion volume (ml)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="259.0" y="94.344" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="259.0" y="94.344" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="259.0" y="104.307" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="259.191" y="131.704" width="1.9740239999999858" height="5.927999999999997" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">∗</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="259.0" y="123.70400000000001" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="259.191" y="131.704" width="1.9740239999999858" height="5.927999999999997" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/∗</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="271.105" y="102.344" width="104.41217999999998" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">664.0 ± 56.4 (606.0– 781.6)</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="271.105" y="102.344" width="104.41217999999998" height="8.468000000000004" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/664.0 ± 56.4 (606.0– 781.6)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="268.747" y="112.307" width="109.10017999999997" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.481 ± 0.022 (0.437– 0.523)</title>
+   <rect stroke="black" stroke-width="1.0" x="268.747" y="112.307" width="109.10017999999997" height="8.468000000000004" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/0.481 ± 0.022 (0.437– 0.523)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="271.091" y="122.27" width="104.41517999999996" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.846 ± 0.04 (0.727– 0.895)</title>
+   <rect stroke="black" stroke-width="1.0" x="271.091" y="122.27" width="104.41517999999996" height="8.468000000000004" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/0.846 ± 0.04 (0.727– 0.895)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="268.0" y="114.27" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="282.78" y="132.233" width="81.04918000000004" height="8.46799999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">11.5 ± 9.3 (1.4– 33.9)</title>
+   <rect stroke="black" stroke-width="1.0" x="282.78" y="132.233" width="81.04918000000004" height="8.46799999999999" fill="red" opacity="0.2" class="cell.2.4">
+    <title stroke="black" stroke-width="1.0">2.4/11.5 ± 9.3 (1.4– 33.9)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="386.18" y="102.344" width="104.42518000000001" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">663.9 ± 60.2 (590.3– 820.3)</title>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="386.18" y="102.344" width="104.42518000000001" height="8.468000000000004" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/663.9 ± 60.2 (590.3– 820.3)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="383.839" y="112.307" width="109.09517999999997" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.481 ± 0.023 (0.445– 0.533)</title>
+   <rect stroke="black" stroke-width="1.0" x="383.839" y="112.307" width="109.09517999999997" height="8.468000000000004" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/0.481 ± 0.023 (0.445– 0.533)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="383.838" y="122.27" width="109.09517999999997" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.844 ± 0.037 (0.740– 0.886)</title>
+   <rect stroke="black" stroke-width="1.0" x="383.838" y="122.27" width="109.09517999999997" height="8.468000000000004" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/0.844 ± 0.037 (0.740– 0.886)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="383.0" y="114.27" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="397.865" y="132.233" width="81.04917999999998" height="8.46799999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">10.6 ± 9.0 (1.7– 31.4)</title>
+   <rect stroke="black" stroke-width="1.0" x="397.865" y="132.233" width="81.04917999999998" height="8.46799999999999" fill="red" opacity="0.2" class="cell.3.4">
+    <title stroke="black" stroke-width="1.0">3.4/10.6 ± 9.0 (1.7– 31.4)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="505.318" y="102.344" width="16.493336" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.94</title>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="505.318" y="102.344" width="16.493336" height="8.468000000000004" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/0.94</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="505.307" y="112.307" width="16.491336000000047" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.92</title>
+   <rect stroke="black" stroke-width="1.0" x="505.307" y="112.307" width="16.491336000000047" height="8.468000000000004" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/0.92</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="505.306" y="122.27" width="16.491336000000103" height="8.468000000000004" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.64</title>
+   <rect stroke="black" stroke-width="1.0" x="505.306" y="122.27" width="16.491336000000103" height="8.468000000000004" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/0.64</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="505.0" y="114.27" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="505.309" y="132.233" width="16.493336000000056" height="8.46799999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.10</title>
+   <rect stroke="black" stroke-width="1.0" x="505.309" y="132.233" width="16.493336000000056" height="8.46799999999999" fill="red" opacity="0.2" class="cell.4.4">
+    <title stroke="black" stroke-width="1.0">4.4/0.10</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="93.06" y="150.782" width="435.14782800000006" height="451.32584999999995" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 6, Helvetica]}{[8.468 x 4, 8.174 x 2, 5.928]}{[normal x 5, bold x 2]}{[null x 7]} //Note: Data are mean ± standard deviation (range); cerebral gray matter fraction = gray matter volume/intracranial volume; brain parenchymal fraction = (gray matter + white matter volume)/intracranial volume; p values are from mixed-effects models. ∗ Log-transformed for analysis. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 4, Helvetica]}{[8.468 x 4, 5.928]}{[normal x 5]}{[null x 5]} //Note: Data are mean ± standard deviation (range); cerebral gray matter fraction = gray matter volume/intracranial volume; brain parenchymal fraction = (gray matter + white matter volume)/intracranial volume; p values are from mixed-effects models. ∗ Log-transformed for analysis. </title>
   </rect>
  </g>
 </svg>

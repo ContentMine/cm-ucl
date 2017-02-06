@@ -1190,35 +1190,43 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLM+AdvP403A40" svgx:width="510.0" x="165.631" y="426.032" font-size="6.974" font-family="Helvetica" font-weight="normal" id="text3003" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLM+AdvP403A40" svgx:width="510.0" x="169.188" y="426.032" font-size="6.974" font-family="Helvetica" font-weight="normal" id="text3005" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLM+AdvP403A40" svgx:width="510.0" x="172.745" y="426.032" font-size="6.974" font-family="Helvetica" font-weight="normal" id="text3007" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="64.063" y="61.374" width="472.938678" height="19.454" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="64.063" y="111.2160537" width="435.552" height="0.0" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="64.061" y="119.152" width="457.88969399999996" height="280.97200000000004" fill="blue" opacity="0.2"/>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="64.063" y="61.374" width="472.938678" height="19.454" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="64.063" y="111.2160537" width="435.552" height="0.0" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="64.061" y="119.152" width="457.88969399999996" height="280.97200000000004" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
+  </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.063" y="61.374" width="472.938678" height="19.454" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 2]}{[8.966 x 2]}{[normal, bold]}{[null x 2]} //Table 1. Summary of the clinical phenotype of the three affected patients with DMXL2 mutations (see Figure 1 for patient numbering). </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[8.966 x 2]}{[bold, normal]}{[null x 2]} //Table 1. Summary of the clinical phenotype of the three affected patients with DMXL2 mutations (see Figure 1 for patient numbering). </title>
   </rect>
  </g>
- <g/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.columnBoxes"/>
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.0" y="111.2160537" width="435.0" height="0.0" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Patient#123#124#125 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Patient#123#124#125 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="64.063" y="111.2160537" width="435.552" height="0.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Patient#123#124#125</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="64.063" y="111.2160537" width="435.552" height="0.0" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Patient#123#124#125</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.061" y="119.152" width="457.88969399999996" height="280.97200000000004" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 47, TimesNewRoman x 45]}{[6.974 x 91, 4.931]}{[normal x 92]}{[null x 92]} //Age (years) 21.4 20.3 16.8 Weight at birth g (SDS) 2,700 (22.2) 2,810 (20.9) 3,060 (21.1) Height at birth cm (SDS) 46 (22.5) 47 (21.1) 49 (20.8) Postnatal growth retardation + + + Height cm (SDS) 159 (22.8) 165 (21.8) 156 (22.5) 2 Body mass index kg/m (SDS) 17.4 (21.9) 21.3 (20.2) 15.2 (22.0) Head circumference, cm (SDS) 54.5 (21.9) 56 (20.8) 51.5 (22.5) Ataxia + + + Dystonia + + + Demyelinating sensorimotor polyneuropathy + + + Pyramidal syndrome + + + Motor delay + + + Dysarthria + + + Partial frontal alopecia + + + Intellectual disability (moderate) + + + White matter disease (moderate subcortical, temporal) + + + Hypoglycemia during childhood (asymptomatic) + + + Nonautoimmune insulin-dependent diabetes mellitus + + + Hypogonadotropic hypogonadism + + + Low testicular volume (normal values in young adults .12 ml) 5 ml 7 ml 8 ml Central hypothyroidism + + + Hypoplastic pituitary gland + 2 2 Other features Progressive hearing loss </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 47, TimesNewRoman x 45]}{[6.974 x 91, 4.931]}{[normal x 92]}{[null x 92]} //Age (years) 21.4 20.3 16.8 Weight at birth g (SDS) 2,700 (22.2) 2,810 (20.9) 3,060 (21.1) Height at birth cm (SDS) 46 (22.5) 47 (21.1) 49 (20.8) Postnatal growth retardation + + + Height cm (SDS) 159 (22.8) 165 (21.8) 156 (22.5) 2 Body mass index kg/m (SDS) 17.4 (21.9) 21.3 (20.2) 15.2 (22.0) Head circumference, cm (SDS) 54.5 (21.9) 56 (20.8) 51.5 (22.5) Ataxia + + + Dystonia + + + Demyelinating sensorimotor polyneuropathy + + + Pyramidal syndrome + + + Motor delay + + + Dysarthria + + + Partial frontal alopecia + + + Intellectual disability (moderate) + + + White matter disease (moderate subcortical, temporal) + + + Hypoglycemia during childhood (asymptomatic) + + + Nonautoimmune insulin-dependent diabetes mellitus + + + Hypogonadotropic hypogonadism + + + Low testicular volume (normal values in young adults .12 ml) 5 ml 7 ml 8 ml Central hypothyroidism + + + Hypoplastic pituitary gland + 2 2 Other features Progressive hearing loss </title>
   </rect>
  </g>
 </svg>

@@ -1912,100 +1912,99 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IIIMHK+AdvOT662f79ed" svgx:width="520.0" x="317.015" y="409.939" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text7869" xmlns:svgx="http://www.xml-cml.org/schema/svgx">a</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IIIMHK+AdvOT662f79ed" svgx:width="812.0" x="321.175" y="409.939" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text7871" xmlns:svgx="http://www.xml-cml.org/schema/svgx">m</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IIIMHK+AdvOT662f79ed" svgx:width="239.0" x="327.671" y="409.939" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text7873" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="48.019" y="57.05" width="419.32" height="9.5" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="53.518" y="79.773" width="350.82899999999995" height="9.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="53.518" y="97.225" width="481.006" height="97.68200000000002" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="53.535" y="198.145" width="189.23499999999999" height="8.5" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="48.019" y="57.05" width="419.32" height="9.5" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[9.5]}{[normal]}{[null]} //Table 2. Strengths of SNAP and Strategies for Improvement From the Perspectives of SNAP Participants </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="48.019" y="57.05" width="419.32" height="9.5" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="53.518" y="79.773" width="350.82899999999995" height="9.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="53.518" y="97.225" width="481.006" height="97.68200000000002" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="53.535" y="198.145" width="189.23499999999999" height="8.5" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="48.019" y="57.05" width="419.32" height="9.5" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica]}{[9.5]}{[normal]}{[null]} //Table 2. Strengths of SNAP and Strategies for Improvement From the Perspectives of SNAP Participants </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="53.0" y="79.773" width="26.0" height="9.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Theme // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Theme // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="381.0" y="79.773" width="23.0" height="9.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Quote // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Quote // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="70.484" y="109.074" width="464.04" height="85.83300000000001" fill="yellow" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="53.0" y="97.225" width="183.0" height="97.68200000000002" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Existing strengths of SNAP // Theme: SNAP helps me buy enough food to make // ends meet // Subtheme: SNAP is a lifesaver // Theme: The EBT card is easy to use // // Subtheme: The EBT card is discreet // Theme: SNAP beneftis are dependable each // month // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Existing strengths of SNAP // Theme: SNAP helps me buy enough food to make // ends meet // Subtheme: SNAP is a lifesaver // Theme: The EBT card is easy to use // // Subtheme: The EBT card is discreet // Theme: SNAP beneftis are dependable each // month // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="251.0" y="97.225" width="283.0" height="97.68200000000002" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // “It’s nice to have something to fall back on when we need food.” // // “[SNAP] keeps people from starving to death.” // “Food stamps are easy to use and are accepted at pretty much all grocery // stores.” // “The card makes it less embarrassing.” // “The money is loaded on the card on the same day every month. I know it’s there // for me.” // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // “It’s nice to have something to fall back on when we need food.” // // “[SNAP] keeps people from starving to death.” // “Food stamps are easy to use and are accepted at pretty much all grocery // stores.” // “The card makes it less embarrassing.” // “The money is loaded on the card on the same day every month. I know it’s there // for me.” // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="53.518" y="97.225" width="94.69900000000001" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Existing strengths of SNAP</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="53.518" y="97.225" width="94.69900000000001" height="8.5" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Existing strengths of SNAP</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="62.018" y="109.074" width="174.046" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Theme: SNAP helps me buy enough food to make</title>
+   <rect stroke="black" stroke-width="1.0" x="62.018" y="109.074" width="174.046" height="8.5" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/Theme: SNAP helps me buy enough food to make</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="62.018" y="119.053" width="38.266999999999996" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">ends meet</title>
+   <rect stroke="black" stroke-width="1.0" x="62.018" y="119.053" width="38.266999999999996" height="8.5" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/ends meet</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="70.476" y="130.842" width="108.85900000000001" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Subtheme: SNAP is a lifesaver</title>
+   <rect stroke="black" stroke-width="1.0" x="70.476" y="130.842" width="108.85900000000001" height="8.5" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/Subtheme: SNAP is a lifesaver</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="62.035" y="142.751" width="128.248" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Theme: The EBT card is easy to use</title>
+   <rect stroke="black" stroke-width="1.0" x="62.035" y="142.751" width="128.248" height="8.5" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/Theme: The EBT card is easy to use</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="53.0" y="134.751" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="70.484" y="164.519" width="127.99300000000001" height="8.5" fill="red" opacity="0.2" class="cell.0.6">
+    <title stroke="black" stroke-width="1.0">0.6/Subtheme: The EBT card is discreet</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="70.484" y="164.519" width="127.99300000000001" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Subtheme: The EBT card is discreet</title>
+   <rect stroke="black" stroke-width="1.0" x="62.035" y="176.368" width="158.4065" height="8.5" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/Theme: SNAP beneftis are dependable each</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="62.035" y="176.368" width="158.4065" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Theme: SNAP beneftis are dependable each</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="62.035" y="186.407" width="22.916500000000013" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">month</title>
+   <rect stroke="black" stroke-width="1.0" x="62.035" y="186.407" width="22.916500000000013" height="8.5" fill="red" opacity="0.2" class="cell.0.8">
+    <title stroke="black" stroke-width="1.0">0.8/month</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="251.0" y="89.225" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="251.092" y="109.074" width="235.646" height="8.5" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/“It’s nice to have something to fall back on when we need food.”</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.092" y="109.074" width="235.646" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“It’s nice to have something to fall back on when we need food.”</title>
+   <rect stroke="black" stroke-width="1.0" x="251.101" y="130.842" width="168.69099999999997" height="8.5" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/“[SNAP] keeps people from starving to death.”</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.0" y="101.074" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="251.109" y="142.751" width="266.62799999999993" height="8.5" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/“Food stamps are easy to use and are accepted at pretty much all grocery</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.101" y="130.842" width="168.69099999999997" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“[SNAP] keeps people from starving to death.”</title>
+   <rect stroke="black" stroke-width="1.0" x="251.109" y="152.73" width="30.242999999999967" height="8.5" fill="red" opacity="0.2" class="cell.1.5">
+    <title stroke="black" stroke-width="1.0">1.5/stores.”</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.109" y="142.751" width="266.62799999999993" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Food stamps are easy to use and are accepted at pretty much all grocery</title>
+   <rect stroke="black" stroke-width="1.0" x="251.109" y="164.519" width="144.254" height="8.5" fill="red" opacity="0.2" class="cell.1.6">
+    <title stroke="black" stroke-width="1.0">1.6/“The card makes it less embarrassing.”</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.109" y="152.73" width="30.242999999999967" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">stores.”</title>
+   <rect stroke="black" stroke-width="1.0" x="251.109" y="176.368" width="283.41499999999996" height="8.5" fill="red" opacity="0.2" class="cell.1.7">
+    <title stroke="black" stroke-width="1.0">1.7/“The money is loaded on the card on the same day every month. I know it’s there</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.109" y="164.519" width="144.254" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“The card makes it less embarrassing.”</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.109" y="176.368" width="283.41499999999996" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“The money is loaded on the card on the same day every month. I know it’s there</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="251.109" y="186.407" width="31.831999999999965" height="8.5" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">for me.”</title>
+   <rect stroke="black" stroke-width="1.0" x="251.109" y="186.407" width="31.831999999999965" height="8.5" fill="red" opacity="0.2" class="cell.1.8">
+    <title stroke="black" stroke-width="1.0">1.8/for me.”</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="53.535" y="198.145" width="189.23499999999999" height="8.5" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[8.5]}{[normal]}{[null]} //Strategies that can help SNAP further reduce hunger </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica]}{[8.5]}{[normal]}{[null]} //Strategies that can help SNAP further reduce hunger </title>
   </rect>
  </g>
 </svg>

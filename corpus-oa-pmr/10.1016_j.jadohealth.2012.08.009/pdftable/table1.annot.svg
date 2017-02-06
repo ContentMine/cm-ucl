@@ -2329,247 +2329,180 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="MOFCMM+AdvOTb92eb7df.I" svgx:width="572.0" x="390.861" y="379.457" font-size="6.502" font-family="TimesNewRoman" font-weight="normal" font-style="italic" id="text9801" xmlns:svgx="http://www.xml-cml.org/schema/svgx">n</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="MOFCMM+AdvOTb92eb7df.I" svgx:width="479.0" x="394.653" y="379.457" font-size="6.502" font-family="TimesNewRoman" font-weight="normal" font-style="italic" id="text9803" xmlns:svgx="http://www.xml-cml.org/schema/svgx">e</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="MOFCMM+AdvOTb92eb7df.I" svgx:width="395.0" x="397.83" y="379.457" font-size="6.502" font-family="TimesNewRoman" font-weight="normal" font-style="italic" id="text9805" xmlns:svgx="http://www.xml-cml.org/schema/svgx">r</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="37.644" y="63.96" width="364.89214400000003" height="15.065000000000005" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="43.652" y="85.676" width="152.52437400000002" height="6.501999999999995" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="43.652" y="98.715" width="490.150186" height="280.74199999999996" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="37.644" y="63.96" width="364.89214400000003" height="15.065000000000005" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 2]}{[6.502 x 2]}{[normal, bold]}{[null x 2]} //Table 1 Themes and quotes from focus group discussions: pilot test of intervention to reduce indoor tanning by teenagers, 2009 </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="37.644" y="63.96" width="364.89214400000003" height="15.065000000000005" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="43.652" y="85.676" width="152.52437400000002" height="6.501999999999995" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="43.652" y="98.715" width="490.150186" height="280.74199999999996" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="37.644" y="63.96" width="364.89214400000003" height="15.065000000000005" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.502 x 2]}{[bold, normal]}{[null x 2]} //Table 1 Themes and quotes from focus group discussions: pilot test of intervention to reduce indoor tanning by teenagers, 2009 </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="43.0" y="85.676" width="24.0" height="6.501999999999995" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Themes // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Themes // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="175.0" y="85.676" width="21.0" height="6.501999999999995" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Quotes // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Quotes // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="50.037" y="107.32900000000001" width="483.765186" height="171.33099999999996" fill="yellow" opacity="0.2"/>
   <rect stroke="black" stroke-width="1.0" x="50.037" y="287.223" width="483.765186" height="92.23399999999998" fill="red" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="43.0" y="98.715" width="124.0" height="280.74199999999996" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Topics of Interest // Health effects // // // // Appearance // // // // Possible benefts // // // // Personal story // // // // Safer than the sun // // Regulations // // // Barriers to parent-teenager conversation // Not important/relevant // // // // Need for conversation triggers // // // // // Lack of credible information // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Topics of Interest // Health effects // // // // Appearance // // // // Possible benefts // // // // Personal story // // // // Safer than the sun // // Regulations // // // Barriers to parent-teenager conversation // Not important/relevant // // // // Need for conversation triggers // // // // // Lack of credible information // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="175.0" y="98.715" width="358.0" height="280.74199999999996" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // “Risk of skin cancer or what kind of diseasesdwhat could they get? What do they get besides the tan?”Female parent // “Consequences . like disease, skin cancer or something.”Male teenager // “Problems it does to your skin and your health, because some people don’t really understand all that.”Female teenager, // tanner // “An interesting thing would be to give me a ‘this is what someone who’s tanned for 10 yearsdfor 20 yearsdfor 30 // yearsdlooks like.’”Female parent // “Yeah, like, is that true [that indoor tanning gives you wrinkles]? I don’t know if it’s true or not.”Female teenager, // tanner // “It’s a good source of vitamin D .”Female parent // “[People] go tanning so that when they get to where they’re going [for vacations in the winter], they don’t burn. Does // that work?”Female parent // “Like, helps appearance, helps confdence, how it relaxes .”Female teenager, tanner // “It would be interesting to follow a story of someone . just see if they have a higher incidence of skin cancer or // something.”Female parent // “Well, like if you really want to, like, go scare somebody, you could tell someone, like, a disaster story.”Female // teenager, tanner // “I guess one of the other topics would be, is tanning worse than the sun? Is tanning better than the sun?”Male parent // “Is it health[ier than tanning outdoors] that I should do it?”Male teenager // know about the law.”Female parent // “I don’t // “I was not aware of a lawdit’s nothing we’ve ever had to think about.”Female parent // // “They’re not asking to tan to get it, so it must not be that important to them.”Female parent // “I don’t know. I never really thought of indoor tanning in my life. Maybe I’m just used to my mom saying pale skin, fair // skin is nice. I don’t know.”Female teenager, nontanner // “We basically just both agree how stupid it is.”Male teenager // “We have a discussion about itdI mean, for prom, I’m sure you’ve heard thatdthey all wanna be tan, they alldthey can’t // be white-looking.”Male parent // “I just ask her if I can go [tan indoors], and she’ll say, ‘Yeah.’”Female teenager, tanner // “[How we started the conversation was that] we got some things in the maildthis new place opened by our house, // and you can get, like, a freed3 tans in a row.”Male teenager // “I’ve never researched it . I guess I would have to do some research if she expressed interest in it.”Female parent // “I didn’t really know [anything about tanning].”Female teenager, tanner // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // “Risk of skin cancer or what kind of diseasesdwhat could they get? What do they get besides the tan?”Female parent // “Consequences . like disease, skin cancer or something.”Male teenager // “Problems it does to your skin and your health, because some people don’t really understand all that.”Female teenager, // tanner // “An interesting thing would be to give me a ‘this is what someone who’s tanned for 10 yearsdfor 20 yearsdfor 30 // yearsdlooks like.’”Female parent // “Yeah, like, is that true [that indoor tanning gives you wrinkles]? I don’t know if it’s true or not.”Female teenager, // tanner // “It’s a good source of vitamin D .”Female parent // “[People] go tanning so that when they get to where they’re going [for vacations in the winter], they don’t burn. Does // that work?”Female parent // “Like, helps appearance, helps confdence, how it relaxes .”Female teenager, tanner // “It would be interesting to follow a story of someone . just see if they have a higher incidence of skin cancer or // something.”Female parent // “Well, like if you really want to, like, go scare somebody, you could tell someone, like, a disaster story.”Female // teenager, tanner // “I guess one of the other topics would be, is tanning worse than the sun? Is tanning better than the sun?”Male parent // “Is it health[ier than tanning outdoors] that I should do it?”Male teenager // know about the law.”Female parent // “I don’t // “I was not aware of a lawdit’s nothing we’ve ever had to think about.”Female parent // // “They’re not asking to tan to get it, so it must not be that important to them.”Female parent // “I don’t know. I never really thought of indoor tanning in my life. Maybe I’m just used to my mom saying pale skin, fair // skin is nice. I don’t know.”Female teenager, nontanner // “We basically just both agree how stupid it is.”Male teenager // “We have a discussion about itdI mean, for prom, I’m sure you’ve heard thatdthey all wanna be tan, they alldthey can’t // be white-looking.”Male parent // “I just ask her if I can go [tan indoors], and she’ll say, ‘Yeah.’”Female teenager, tanner // “[How we started the conversation was that] we got some things in the maildthis new place opened by our house, // and you can get, like, a freed3 tans in a row.”Male teenager // “I’ve never researched it . I guess I would have to do some research if she expressed interest in it.”Female parent // “I didn’t really know [anything about tanning].”Female teenager, tanner // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="43.652" y="98.715" width="52.355728" height="6.501999999999995" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Topics of Interest</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="43.652" y="98.715" width="52.355728" height="6.501999999999995" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Topics of Interest</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.004" y="107.32900000000001" width="41.631374" height="6.501999999999995" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Health effects</title>
+   <rect stroke="black" stroke-width="1.0" x="50.004" y="107.32900000000001" width="41.631374" height="6.501999999999995" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/Health effects</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="99.32900000000001" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="50.017" y="141.581" width="35.60703999999999" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/Appearance</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="107.89200000000001" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="50.037" y="175.884" width="50.384374" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/Possible benefts</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="116.455" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="50.03" y="210.136" width="43.08358200000001" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.13">
+    <title stroke="black" stroke-width="1.0">0.13/Personal story</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.017" y="141.581" width="35.60703999999999" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Appearance</title>
+   <rect stroke="black" stroke-width="1.0" x="50.037" y="244.439" width="55.54120799999999" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.17">
+    <title stroke="black" stroke-width="1.0">0.17/Safer than the sun</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="133.581" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="50.037" y="261.565" width="35.266374000000006" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.19">
+    <title stroke="black" stroke-width="1.0">0.19/Regulations</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="142.14399999999998" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="43.659" y="278.65999999999997" width="123.646208" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.22">
+    <title stroke="black" stroke-width="1.0">0.22/Barriers to parent-teenager conversation</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="150.707" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="50.011" y="287.223" width="70.683728" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.23">
+    <title stroke="black" stroke-width="1.0">0.23/Not important/relevant</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.037" y="175.884" width="50.384374" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Possible benefts</title>
+   <rect stroke="black" stroke-width="1.0" x="50.024" y="321.526" width="92.35137399999999" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.27">
+    <title stroke="black" stroke-width="1.0">0.27/Need for conversation triggers</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="167.884" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="176.447" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="185.01" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.03" y="210.136" width="43.08358200000001" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Personal story</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="202.136" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="210.69899999999998" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="219.262" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.037" y="244.439" width="55.54120799999999" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Safer than the sun</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="236.439" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.037" y="261.565" width="35.266374000000006" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Regulations</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="253.53300000000002" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="253.565" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.659" y="278.65999999999997" width="123.646208" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Barriers to parent-teenager conversation</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.011" y="287.223" width="70.683728" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Not important/relevant</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="279.223" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="287.786" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="296.4" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.024" y="321.526" width="92.35137399999999" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Need for conversation triggers</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="313.526" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="322.089" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="330.652" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="339.215" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="50.018" y="364.341" width="85.486208" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Lack of credible information</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.0" y="356.341" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="50.018" y="364.341" width="85.486208" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.0.32">
+    <title stroke="black" stroke-width="1.0">0.32/Lack of credible information</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="175.0" y="90.715" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="175.127" y="107.32900000000001" width="358.64918600000004" height="6.501999999999995" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/“Risk of skin cancer or what kind of diseasesdwhat could they get? What do they get besides the tan?”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.127" y="107.32900000000001" width="358.64918600000004" height="6.501999999999995" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Risk of skin cancer or what kind of diseasesdwhat could they get? What do they get besides the tan?”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.124" y="115.89200000000001" width="219.07028999999997" height="6.501999999999995" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/“Consequences . like disease, skin cancer or something.”Male teenager</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.124" y="115.89200000000001" width="219.07028999999997" height="6.501999999999995" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Consequences . like disease, skin cancer or something.”Male teenager</title>
+   <rect stroke="black" stroke-width="1.0" x="183.13" y="124.455" width="350.64843599999995" height="6.501999999999995" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/“Problems it does to your skin and your health, because some people don’t really understand all that.”Female teenager,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.13" y="124.455" width="350.64843599999995" height="6.501999999999995" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Problems it does to your skin and your health, because some people don’t really understand all that.”Female teenager,</title>
+   <rect stroke="black" stroke-width="1.0" x="183.13" y="133.018" width="19.126289999999983" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/tanner</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.13" y="133.018" width="19.126289999999983" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">tanner</title>
+   <rect stroke="black" stroke-width="1.0" x="175.14" y="141.581" width="350.8421440000001" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.5">
+    <title stroke="black" stroke-width="1.0">1.5/“An interesting thing would be to give me a ‘this is what someone who’s tanned for 10 yearsdfor 20 yearsdfor 30</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.14" y="141.581" width="350.8421440000001" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“An interesting thing would be to give me a ‘this is what someone who’s tanned for 10 yearsdfor 20 yearsdfor 30</title>
+   <rect stroke="black" stroke-width="1.0" x="183.137" y="150.14399999999998" width="100.92318599999999" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.6">
+    <title stroke="black" stroke-width="1.0">1.6/yearsdlooks like.’”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.137" y="150.14399999999998" width="100.92318599999999" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">yearsdlooks like.’”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.144" y="158.707" width="345.7744359999999" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.7">
+    <title stroke="black" stroke-width="1.0">1.7/“Yeah, like, is that true [that indoor tanning gives you wrinkles]? I don’t know if it’s true or not.”Female teenager,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.144" y="158.707" width="345.7744359999999" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Yeah, like, is that true [that indoor tanning gives you wrinkles]? I don’t know if it’s true or not.”Female teenager,</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="167.321" width="19.12528999999998" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.8">
+    <title stroke="black" stroke-width="1.0">1.8/tanner</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="167.321" width="19.12528999999998" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">tanner</title>
+   <rect stroke="black" stroke-width="1.0" x="175.16" y="175.884" width="150.63418600000003" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.9">
+    <title stroke="black" stroke-width="1.0">1.9/“It’s a good source of vitamin D .”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.16" y="175.884" width="150.63418600000003" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“It’s a good source of vitamin D .”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="184.447" width="350.613374" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.10">
+    <title stroke="black" stroke-width="1.0">1.10/“[People] go tanning so that when they get to where they’re going [for vacations in the winter], they don’t burn. Does</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="184.447" width="350.613374" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“[People] go tanning so that when they get to where they’re going [for vacations in the winter], they don’t burn. Does</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="193.01" width="79.77118599999997" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.11">
+    <title stroke="black" stroke-width="1.0">1.11/that work?”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="193.01" width="79.77118599999997" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">that work?”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="201.57299999999998" width="256.49528999999995" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.12">
+    <title stroke="black" stroke-width="1.0">1.12/“Like, helps appearance, helps confdence, how it relaxes .”Female teenager, tanner</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="201.57299999999998" width="256.49528999999995" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Like, helps appearance, helps confdence, how it relaxes .”Female teenager, tanner</title>
+   <rect stroke="black" stroke-width="1.0" x="175.154" y="210.136" width="343.50881200000003" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.13">
+    <title stroke="black" stroke-width="1.0">1.13/“It would be interesting to follow a story of someone . just see if they have a higher incidence of skin cancer or</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.154" y="210.136" width="343.50881200000003" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“It would be interesting to follow a story of someone . just see if they have a higher incidence of skin cancer or</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="218.69899999999998" width="79.943186" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.14">
+    <title stroke="black" stroke-width="1.0">1.14/something.”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="218.69899999999998" width="79.943186" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">something.”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="227.262" width="336.902458" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.15">
+    <title stroke="black" stroke-width="1.0">1.15/“Well, like if you really want to, like, go scare somebody, you could tell someone, like, a disaster story.”Female</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="227.262" width="336.902458" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Well, like if you really want to, like, go scare somebody, you could tell someone, like, a disaster story.”Female</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="235.87599999999998" width="47.698289999999986" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.16">
+    <title stroke="black" stroke-width="1.0">1.16/teenager, tanner</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="235.87599999999998" width="47.698289999999986" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">teenager, tanner</title>
+   <rect stroke="black" stroke-width="1.0" x="175.16" y="244.439" width="358.64218600000004" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.17">
+    <title stroke="black" stroke-width="1.0">1.17/“I guess one of the other topics would be, is tanning worse than the sun? Is tanning better than the sun?”Male parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.16" y="244.439" width="358.64218600000004" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I guess one of the other topics would be, is tanning worse than the sun? Is tanning better than the sun?”Male parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.15" y="253.002" width="224.57429" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.18">
+    <title stroke="black" stroke-width="1.0">1.18/“Is it health[ier than tanning outdoors] that I should do it?”Male teenager</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.15" y="253.002" width="224.57429" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“Is it health[ier than tanning outdoors] that I should do it?”Male teenager</title>
+   <rect stroke="black" stroke-width="1.0" x="199.555" y="261.533" width="108.973186" height="6.502999999999986" fill="red" opacity="0.2" class="cell.1.19">
+    <title stroke="black" stroke-width="1.0">1.19/know about the law.”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="199.555" y="261.533" width="108.973186" height="6.502999999999986" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">know about the law.”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="175.16" y="261.565" width="22.385728" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.20">
+    <title stroke="black" stroke-width="1.0">1.20/“I don’t</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.16" y="261.565" width="22.385728" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I don’t</title>
+   <rect stroke="black" stroke-width="1.0" x="183.118" y="270.097" width="260.062186" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.21">
+    <title stroke="black" stroke-width="1.0">1.21/“I was not aware of a lawdit’s nothing we’ve ever had to think about.”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.118" y="270.097" width="260.062186" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I was not aware of a lawdit’s nothing we’ve ever had to think about.”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="175.134" y="287.223" width="280.47218599999997" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.23">
+    <title stroke="black" stroke-width="1.0">1.23/“They’re not asking to tan to get it, so it must not be that important to them.”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.0" y="262.097" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="183.131" y="295.786" width="350.643812" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.24">
+    <title stroke="black" stroke-width="1.0">1.24/“I don’t know. I never really thought of indoor tanning in my life. Maybe I’m just used to my mom saying pale skin, fair</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.134" y="287.223" width="280.47218599999997" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“They’re not asking to tan to get it, so it must not be that important to them.”Female parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.131" y="304.4" width="163.57728999999998" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.25">
+    <title stroke="black" stroke-width="1.0">1.25/skin is nice. I don’t know.”Female teenager, nontanner</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.131" y="295.786" width="350.643812" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I don’t know. I never really thought of indoor tanning in my life. Maybe I’m just used to my mom saying pale skin, fair</title>
+   <rect stroke="black" stroke-width="1.0" x="183.138" y="312.96299999999997" width="191.28729" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.26">
+    <title stroke="black" stroke-width="1.0">1.26/“We basically just both agree how stupid it is.”Male teenager</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.131" y="304.4" width="163.57728999999998" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">skin is nice. I don’t know.”Female teenager, nontanner</title>
+   <rect stroke="black" stroke-width="1.0" x="175.148" y="321.526" width="358.61272799999995" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.27">
+    <title stroke="black" stroke-width="1.0">1.27/“We have a discussion about itdI mean, for prom, I’m sure you’ve heard thatdthey all wanna be tan, they alldthey can’t</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.138" y="312.96299999999997" width="191.28729" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“We basically just both agree how stupid it is.”Male teenager</title>
+   <rect stroke="black" stroke-width="1.0" x="183.131" y="330.089" width="93.669186" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.28">
+    <title stroke="black" stroke-width="1.0">1.28/be white-looking.”Male parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.148" y="321.526" width="358.61272799999995" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“We have a discussion about itdI mean, for prom, I’m sure you’ve heard thatdthey all wanna be tan, they alldthey can’t</title>
+   <rect stroke="black" stroke-width="1.0" x="183.138" y="338.652" width="257.74128999999994" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.29">
+    <title stroke="black" stroke-width="1.0">1.29/“I just ask her if I can go [tan indoors], and she’ll say, ‘Yeah.’”Female teenager, tanner</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.131" y="330.089" width="93.669186" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">be white-looking.”Male parent</title>
+   <rect stroke="black" stroke-width="1.0" x="183.131" y="347.215" width="350.62695800000006" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.30">
+    <title stroke="black" stroke-width="1.0">1.30/“[How we started the conversation was that] we got some things in the maildthis new place opened by our house,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.138" y="338.652" width="257.74128999999994" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I just ask her if I can go [tan indoors], and she’ll say, ‘Yeah.’”Female teenager, tanner</title>
+   <rect stroke="black" stroke-width="1.0" x="183.131" y="355.77799999999996" width="183.80828999999997" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.31">
+    <title stroke="black" stroke-width="1.0">1.31/and you can get, like, a freed3 tans in a row.”Male teenager</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.131" y="347.215" width="350.62695800000006" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“[How we started the conversation was that] we got some things in the maildthis new place opened by our house,</title>
+   <rect stroke="black" stroke-width="1.0" x="175.141" y="364.341" width="348.663186" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.32">
+    <title stroke="black" stroke-width="1.0">1.32/“I’ve never researched it . I guess I would have to do some research if she expressed interest in it.”Female parent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.131" y="355.77799999999996" width="183.80828999999997" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">and you can get, like, a freed3 tans in a row.”Male teenager</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="175.141" y="364.341" width="348.663186" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I’ve never researched it . I guess I would have to do some research if she expressed interest in it.”Female parent</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="183.131" y="372.955" width="217.26728999999997" height="6.5020000000000095" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“I didn’t really know [anything about tanning].”Female teenager, tanner</title>
+   <rect stroke="black" stroke-width="1.0" x="183.131" y="372.955" width="217.26728999999997" height="6.5020000000000095" fill="red" opacity="0.2" class="cell.1.33">
+    <title stroke="black" stroke-width="1.0">1.33/“I didn’t really know [anything about tanning].”Female teenager, tanner</title>
    </rect>
   </g>
  </g>
- <g/>
+ <g class="footer.title"/>
 </svg>

@@ -600,141 +600,149 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GAKENM+AdvOT82c4f4c4" svgx:width="552.0" x="520.635" y="614.723" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text5951" xmlns:svgx="http://www.xml-cml.org/schema/svgx">3</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GAKENM+AdvOT82c4f4c4" svgx:width="552.0" x="525.051" y="614.723" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text5953" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GAKENM+AdvOT82c4f4c4" svgx:width="322.0" x="529.467" y="614.723" font-size="8.0" font-family="Helvetica" font-weight="normal" id="text5955" xmlns:svgx="http://www.xml-cml.org/schema/svgx">)</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="36.0" y="525.367" width="281.014" height="8.0" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="48.529" y="541.695" width="444.662" height="8.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="36.0" y="556.719" width="540.035" height="61.00699999999995" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="36.0" y="525.367" width="281.014" height="8.0" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[8.0]}{[bold]}{[null]} //Table 2. Summary table of the primary antibodies used in the present study. </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="36.0" y="525.367" width="281.014" height="8.0" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="48.529" y="541.695" width="444.662" height="8.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="36.0" y="556.719" width="540.035" height="61.00699999999995" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="36.0" y="525.367" width="281.014" height="8.0" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica]}{[8.0]}{[bold]}{[null]} //Table 2. Summary table of the primary antibodies used in the present study. </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.0" y="541.695" width="34.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Antibody // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Antibody // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="120.0" y="541.695" width="19.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Type // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Type // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="164.0" y="541.695" width="60.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Antigenretrieval // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Antigenretrieval // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="277.0" y="541.695" width="27.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Source // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/Source // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="440.0" y="541.695" width="53.0" height="8.0" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Binding locus // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/Binding locus // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="44.108" y="569.191" width="531.927" height="48.53499999999997" fill="yellow" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="36.0" y="556.719" width="59.0" height="61.00699999999995" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Ubiquitin[1:1000] // S830[1:20000] // EM48[1:500] // MW8[1:1000] // 1C2[1:4000] // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Ubiquitin[1:1000] // S830[1:20000] // EM48[1:500] // MW8[1:1000] // 1C2[1:4000] // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="104.0" y="556.719" width="51.0" height="61.00699999999995" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Mouse (mono) // Sheep (poly) // mouse (mono) // mouse (mono) // mouse (mono) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/Mouse (mono) // Sheep (poly) // mouse (mono) // mouse (mono) // mouse (mono) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="174.0" y="556.719" width="41.0" height="61.00699999999995" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Citric acid // Citric acid // Citric acid // Citric acid // Formic acid // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/Citric acid // Citric acid // Citric acid // Citric acid // Formic acid // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="233.0" y="556.719" width="115.0" height="61.00699999999995" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Invitrogen UK, (cat: 13.1600) // Bates lab. Kings College London // Millipore UK, (cat: MAB5374) // see “*”below // Millipore UK, (cat: MAB1574) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/Invitrogen UK, (cat: 13.1600) // Bates lab. Kings College London // Millipore UK, (cat: MAB5374) // see “*”below // Millipore UK, (cat: MAB1574) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="358.0" y="556.719" width="218.0" height="61.00699999999995" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Ubiquitin polypeptide (50) // mHTT: N-terminal exon 1 to 53Q (32) // mHTT: N-terminal (AA1-212) of exon-1 and 82-150Q (16) // mHTT: C-Terminal 8AA (AEEPLHRP) sequence of exon1 (34) // polyglutamine stretches of &gt;38Q (31) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/Ubiquitin polypeptide (50) // mHTT: N-terminal exon 1 to 53Q (32) // mHTT: N-terminal (AA1-212) of exon-1 and 82-150Q (16) // mHTT: C-Terminal 8AA (AEEPLHRP) sequence of exon1 (34) // polyglutamine stretches of &gt;38Q (31) // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="36.0" y="556.719" width="59.282" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Ubiquitin[1:1000]</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="36.0" y="556.719" width="59.282" height="8.0" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Ubiquitin[1:1000]</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="39.912" y="569.191" width="51.45199999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">S830[1:20000]</title>
+   <rect stroke="black" stroke-width="1.0" x="39.912" y="569.191" width="51.45199999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/S830[1:20000]</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.2" y="581.721" width="44.79299999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">EM48[1:500]</title>
+   <rect stroke="black" stroke-width="1.0" x="43.2" y="581.721" width="44.79299999999999" height="8.0" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/EM48[1:500]</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.123" y="594.193" width="46.948" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">MW8[1:1000]</title>
+   <rect stroke="black" stroke-width="1.0" x="42.123" y="594.193" width="46.948" height="8.0" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/MW8[1:1000]</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="44.108" y="606.723" width="43.023" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1C2[1:4000]</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="104.485" y="556.719" width="50.94099999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Mouse (mono)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="107.49" y="569.191" width="44.89899999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Sheep (poly)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="104.485" y="581.721" width="50.94099999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">mouse (mono)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="104.486" y="594.193" width="50.94099999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">mouse (mono)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="104.486" y="606.723" width="50.94099999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">mouse (mono)</title>
+   <rect stroke="black" stroke-width="1.0" x="44.108" y="606.723" width="43.023" height="8.0" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/1C2[1:4000]</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="177.278" y="556.719" width="34.759000000000015" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Citric acid</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="104.485" y="556.719" width="50.94099999999999" height="8.0" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/Mouse (mono)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="177.278" y="569.191" width="34.759000000000015" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Citric acid</title>
+   <rect stroke="black" stroke-width="1.0" x="107.49" y="569.191" width="44.89899999999999" height="8.0" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/Sheep (poly)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="177.278" y="581.721" width="34.759000000000015" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Citric acid</title>
+   <rect stroke="black" stroke-width="1.0" x="104.485" y="581.721" width="50.94099999999999" height="8.0" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/mouse (mono)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="177.279" y="594.193" width="34.759000000000015" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Citric acid</title>
+   <rect stroke="black" stroke-width="1.0" x="104.486" y="594.193" width="50.94099999999999" height="8.0" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/mouse (mono)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="174.161" y="606.723" width="40.93799999999999" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Formic acid</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="240.888" y="556.719" width="101.07700000000003" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Invitrogen UK, (cat: 13.1600)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="233.858" y="569.191" width="115.106" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Bates lab. Kings College London</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="240.434" y="581.721" width="101.89000000000001" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Millipore UK, (cat: MAB5374)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="267.591" y="594.193" width="47.60699999999997" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">see “*”below</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="240.434" y="606.723" width="101.89000000000001" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Millipore UK, (cat: MAB1574)</title>
+   <rect stroke="black" stroke-width="1.0" x="104.486" y="606.723" width="50.94099999999999" height="8.0" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/mouse (mono)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="422.248" y="556.719" width="89.66900000000004" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Ubiquitin polypeptide (50)</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="177.278" y="556.719" width="34.759000000000015" height="8.0" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/Citric acid</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="401.612" y="569.191" width="130.94099999999997" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">mHTT: N-terminal exon 1 to 53Q (32)</title>
+   <rect stroke="black" stroke-width="1.0" x="177.278" y="569.191" width="34.759000000000015" height="8.0" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/Citric acid</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="366.746" y="581.721" width="200.6740000000001" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">mHTT: N-terminal (AA1-212) of exon-1 and 82-150Q (16)</title>
+   <rect stroke="black" stroke-width="1.0" x="177.278" y="581.721" width="34.759000000000015" height="8.0" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/Citric acid</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="358.128" y="594.193" width="217.90699999999998" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">mHTT: C-Terminal 8AA (AEEPLHRP) sequence of exon1 (34)</title>
+   <rect stroke="black" stroke-width="1.0" x="177.279" y="594.193" width="34.759000000000015" height="8.0" fill="red" opacity="0.2" class="cell.2.3">
+    <title stroke="black" stroke-width="1.0">2.3/Citric acid</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="402.123" y="606.723" width="129.92000000000002" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">polyglutamine stretches of &gt;38Q (31)</title>
+   <rect stroke="black" stroke-width="1.0" x="174.161" y="606.723" width="40.93799999999999" height="8.0" fill="red" opacity="0.2" class="cell.2.4">
+    <title stroke="black" stroke-width="1.0">2.4/Formic acid</title>
+   </rect>
+  </g>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="240.888" y="556.719" width="101.07700000000003" height="8.0" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/Invitrogen UK, (cat: 13.1600)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="233.858" y="569.191" width="115.106" height="8.0" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/Bates lab. Kings College London</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="240.434" y="581.721" width="101.89000000000001" height="8.0" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/Millipore UK, (cat: MAB5374)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="267.591" y="594.193" width="47.60699999999997" height="8.0" fill="red" opacity="0.2" class="cell.3.3">
+    <title stroke="black" stroke-width="1.0">3.3/see “*”below</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="240.434" y="606.723" width="101.89000000000001" height="8.0" fill="red" opacity="0.2" class="cell.3.4">
+    <title stroke="black" stroke-width="1.0">3.4/Millipore UK, (cat: MAB1574)</title>
+   </rect>
+  </g>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="422.248" y="556.719" width="89.66900000000004" height="8.0" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/Ubiquitin polypeptide (50)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="401.612" y="569.191" width="130.94099999999997" height="8.0" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/mHTT: N-terminal exon 1 to 53Q (32)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="366.746" y="581.721" width="200.6740000000001" height="8.0" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/mHTT: N-terminal (AA1-212) of exon-1 and 82-150Q (16)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="358.128" y="594.193" width="217.90699999999998" height="8.0" fill="red" opacity="0.2" class="cell.4.3">
+    <title stroke="black" stroke-width="1.0">4.3/mHTT: C-Terminal 8AA (AEEPLHRP) sequence of exon1 (34)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="402.123" y="606.723" width="129.92000000000002" height="8.0" fill="red" opacity="0.2" class="cell.4.4">
+    <title stroke="black" stroke-width="1.0">4.4/polyglutamine stretches of &gt;38Q (31)</title>
    </rect>
   </g>
  </g>
- <g/>
+ <g class="footer.title"/>
 </svg>

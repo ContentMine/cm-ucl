@@ -1092,229 +1092,185 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IAMLKO+AdvTT5843c571" svgx:width="552.0" x="543.344" y="272.153" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text10834" xmlns:svgx="http://www.xml-cml.org/schema/svgx">S</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IAMLKO+AdvTT5843c571" svgx:width="604.0" x="547.744" y="272.153" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text10836" xmlns:svgx="http://www.xml-cml.org/schema/svgx">T</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IAMLKO+AdvTT5843c571" svgx:width="500.0" x="552.558" y="272.153" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text10838" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="36.34" y="72.789" width="304.19544999999994" height="7.969999999999999" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="36.34" y="92.405" width="320.18245" height="7.969999999999999" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="36.397" y="111.737" width="520.146" height="169.374" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="36.34" y="72.789" width="304.19544999999994" height="7.969999999999999" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[7.97]}{[normal]}{[null]} //Table 1. Gene ontology enrichment analysis of the core set of differentially expressed genes </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="36.34" y="72.789" width="304.19544999999994" height="7.969999999999999" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="36.34" y="92.405" width="320.18245" height="7.969999999999999" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="36.397" y="111.737" width="520.146" height="169.374" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="36.34" y="72.789" width="304.19544999999994" height="7.969999999999999" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica]}{[7.97]}{[normal]}{[null]} //Table 1. Gene ontology enrichment analysis of the core set of differentially expressed genes </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="36.0" y="92.405" width="72.0" height="7.969999999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">GO biological process // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/GO biological process // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="155.0" y="92.405" width="60.0" height="7.969999999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Upregulated genes // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Upregulated genes // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="287.0" y="92.405" width="69.0" height="7.969999999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Downregulated genes // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Downregulated genes // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="40.593" y="103.737" width="515.95" height="25.91500000000002" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="40.593" y="121.65200000000002" width="515.95" height="25.970999999999975" fill="red" opacity="0.2"/>
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="40.593" y="165.538" width="515.95" height="8.957999999999998" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="40.593" y="166.496" width="515.95" height="25.913999999999987" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="40.593" y="201.368" width="515.95" height="9.01400000000001" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="40.593" y="219.34" width="515.95" height="8.956999999999994" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="40.593" y="220.297" width="515.95" height="25.914999999999992" fill="yellow" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="40.593" y="201.368" width="515.95" height="9.01400000000001" fill="red" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="40.593" y="219.34" width="515.95" height="8.956999999999994" fill="yellow" opacity="0.2"/>
   <rect stroke="black" stroke-width="1.0" x="40.593" y="255.169" width="515.95" height="9.013999999999982" fill="red" opacity="0.2"/>
   <rect stroke="black" stroke-width="1.0" x="40.593" y="273.14099999999996" width="515.95" height="7.970000000000027" fill="yellow" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="36.0" y="111.737" width="105.0" height="169.374" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Gliogenesis // // Glial cell differentiation // // Oligodendrocyte differentiation // Morphogenesis of a // branching structure // Regulation of gliogenesis // // Morphogenesis of a // branching epithelium // Negative regulation of // MAP kinase activity // Proteoglycan metabolic process // // Chondroitin sulfate proteoglycan // metabolic process // Sulfur compound // biosynthetic process // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Gliogenesis // // Glial cell differentiation // // Oligodendrocyte differentiation // Morphogenesis of a // branching structure // Regulation of gliogenesis // // Morphogenesis of a // branching epithelium // Negative regulation of // MAP kinase activity // Proteoglycan metabolic process // // Chondroitin sulfate proteoglycan // metabolic process // Sulfur compound // biosynthetic process // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="155.0" y="111.737" width="118.0" height="169.374" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">FGFR3 GFAP ID2 NOTCH1 PAX6 // CCL2 STAT3 APCDD1 ID4 // FGFR3 GFAP ID2 NOTCH1 // PAX6 STAT3 ID4 // FGFR3 ID2 NOTCH1 PAX6 ID4 // CSF1 NOG NOTCH1 SOCS3 // CTSH ADAMTS16 CD44 // CSF1 NOG FGFR3 ID2 GFAP // NOTCH1 ID4 // CSF1 NOG NOTCH1 SOCS3 // CTSH ADAMTS16 CD44 // // // COL11A1 XYLT1 SDC2 GPC4 // CHST15 // XYLT1 SDC2 GPC4 CHST15 // // XYLT1 ANGPT1 CHST15 CDO1 // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/FGFR3 GFAP ID2 NOTCH1 PAX6 // CCL2 STAT3 APCDD1 ID4 // FGFR3 GFAP ID2 NOTCH1 // PAX6 STAT3 ID4 // FGFR3 ID2 NOTCH1 PAX6 ID4 // CSF1 NOG NOTCH1 SOCS3 // CTSH ADAMTS16 CD44 // CSF1 NOG FGFR3 ID2 GFAP // NOTCH1 ID4 // CSF1 NOG NOTCH1 SOCS3 // CTSH ADAMTS16 CD44 // // // COL11A1 XYLT1 SDC2 GPC4 // CHST15 // XYLT1 SDC2 GPC4 CHST15 // // XYLT1 ANGPT1 CHST15 CDO1 // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="287.0" y="111.737" width="269.0" height="169.374" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 GPR56 // // LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 // // LYN EGR1 PTPRZ1 OLIG2 WASF3 GSN // ETV4 SLC12A2 NPNT SFRP1 ADM CTNND2 CLIC4 SPRY1 NFATC4 SPRY2 // // LYN PTPRZ1 OLIG2 HES1 // // ETV4 SLC12A2 NPNT SFRP1 ADM CLIC4 SPRY1 NFATC4 SPRY2 // // LYN HMGCR DUSP4 SPRED2 SFRP1 DUSP6 SPRY4 SPRED1 SPRY4 // SPRY1 SPRY2 // CHST11 BCAN SDC3 CHST7 ACPL2 HS6ST2 // // CHST11 BCAN SDC3 CHST7 ACPL2 // // ELOVL6 CHST11 BCAN ACSL3 CTH ACSS1 CHST7 MGST3 ACPL2 HS6ST2 // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 GPR56 // // LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 // // LYN EGR1 PTPRZ1 OLIG2 WASF3 GSN // ETV4 SLC12A2 NPNT SFRP1 ADM CTNND2 CLIC4 SPRY1 NFATC4 SPRY2 // // LYN PTPRZ1 OLIG2 HES1 // // ETV4 SLC12A2 NPNT SFRP1 ADM CLIC4 SPRY1 NFATC4 SPRY2 // // LYN HMGCR DUSP4 SPRED2 SFRP1 DUSP6 SPRY4 SPRED1 SPRY4 // SPRY1 SPRY2 // CHST11 BCAN SDC3 CHST7 ACPL2 HS6ST2 // // CHST11 BCAN SDC3 CHST7 ACPL2 // // ELOVL6 CHST11 BCAN ACSL3 CTH ACSS1 CHST7 MGST3 ACPL2 HS6ST2 // // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="111.737" width="37.145450000000004" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Gliogenesis</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="111.737" width="37.145450000000004" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Gliogenesis</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.0" y="103.737" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="129.65200000000002" width="77.049" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/Glial cell differentiation</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="129.65200000000002" width="77.049" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Glial cell differentiation</title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="147.623" width="100.46400000000003" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/Oligodendrocyte differentiation</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.0" y="121.65200000000002" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="156.581" width="63.97589" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/Morphogenesis of a</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="147.623" width="100.46400000000003" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Oligodendrocyte differentiation</title>
+   <rect stroke="black" stroke-width="1.0" x="40.592" y="165.538" width="61.62689" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.6">
+    <title stroke="black" stroke-width="1.0">0.6/branching structure</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="156.581" width="63.97589" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Morphogenesis of a</title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="174.496" width="81.93045000000001" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/Regulation of gliogenesis</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="40.592" y="165.538" width="61.62689" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">branching structure</title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="192.41" width="63.97589" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/Morphogenesis of a</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="174.496" width="81.93045000000001" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Regulation of gliogenesis</title>
+   <rect stroke="black" stroke-width="1.0" x="40.592" y="201.368" width="67.76389999999999" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.10">
+    <title stroke="black" stroke-width="1.0">0.10/branching epithelium</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.0" y="166.496" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="210.382" width="72.08933999999999" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.11">
+    <title stroke="black" stroke-width="1.0">0.11/Negative regulation of</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="192.41" width="63.97589" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Morphogenesis of a</title>
+   <rect stroke="black" stroke-width="1.0" x="40.592" y="219.34" width="66.063" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.12">
+    <title stroke="black" stroke-width="1.0">0.12/MAP kinase activity</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="40.592" y="201.368" width="67.76389999999999" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">branching epithelium</title>
+   <rect stroke="black" stroke-width="1.0" x="36.397" y="228.297" width="101.48045000000002" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.13">
+    <title stroke="black" stroke-width="1.0">0.13/Proteoglycan metabolic process</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="210.382" width="72.08933999999999" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Negative regulation of</title>
+   <rect stroke="black" stroke-width="1.0" x="36.398" y="246.212" width="105.47300000000001" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.15">
+    <title stroke="black" stroke-width="1.0">0.15/Chondroitin sulfate proteoglycan</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="40.592" y="219.34" width="66.063" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">MAP kinase activity</title>
+   <rect stroke="black" stroke-width="1.0" x="40.593" y="255.169" width="57.201449999999994" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.16">
+    <title stroke="black" stroke-width="1.0">0.16/metabolic process</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.397" y="228.297" width="101.48045000000002" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Proteoglycan metabolic process</title>
+   <rect stroke="black" stroke-width="1.0" x="36.398" y="264.183" width="55.705999999999996" height="7.970000000000027" fill="red" opacity="0.2" class="cell.0.17">
+    <title stroke="black" stroke-width="1.0">0.17/Sulfur compound</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.0" y="220.297" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.398" y="246.212" width="105.47300000000001" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Chondroitin sulfate proteoglycan</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="40.593" y="255.169" width="57.201449999999994" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">metabolic process</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="36.398" y="264.183" width="55.705999999999996" height="7.970000000000027" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Sulfur compound</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="40.593" y="273.14099999999996" width="64.74145" height="7.970000000000027" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">biosynthetic process</title>
+   <rect stroke="black" stroke-width="1.0" x="40.593" y="273.14099999999996" width="64.74145" height="7.970000000000027" fill="red" opacity="0.2" class="cell.0.18">
+    <title stroke="black" stroke-width="1.0">0.18/biosynthetic process</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="155.68" y="111.737" width="117.91000000000003" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">FGFR3 GFAP ID2 NOTCH1 PAX6</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="155.68" y="111.737" width="117.91000000000003" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/FGFR3 GFAP ID2 NOTCH1 PAX6</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="159.874" y="120.695" width="94.08400000000003" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CCL2 STAT3 APCDD1 ID4</title>
+   <rect stroke="black" stroke-width="1.0" x="159.874" y="120.695" width="94.08400000000003" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/CCL2 STAT3 APCDD1 ID4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.681" y="129.65200000000002" width="95.451" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">FGFR3 GFAP ID2 NOTCH1</title>
+   <rect stroke="black" stroke-width="1.0" x="155.681" y="129.65200000000002" width="95.451" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/FGFR3 GFAP ID2 NOTCH1</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="159.874" y="138.61" width="61.03200000000001" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">PAX6 STAT3 ID4</title>
+   <rect stroke="black" stroke-width="1.0" x="159.874" y="138.61" width="61.03200000000001" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/PAX6 STAT3 ID4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.681" y="147.623" width="109.90099999999998" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">FGFR3 ID2 NOTCH1 PAX6 ID4</title>
+   <rect stroke="black" stroke-width="1.0" x="155.681" y="147.623" width="109.90099999999998" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/FGFR3 ID2 NOTCH1 PAX6 ID4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.679" y="156.581" width="98.196" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CSF1 NOG NOTCH1 SOCS3</title>
+   <rect stroke="black" stroke-width="1.0" x="155.679" y="156.581" width="98.196" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.5">
+    <title stroke="black" stroke-width="1.0">1.5/CSF1 NOG NOTCH1 SOCS3</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="159.874" y="165.538" width="85.84300000000002" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CTSH ADAMTS16 CD44</title>
+   <rect stroke="black" stroke-width="1.0" x="159.874" y="165.538" width="85.84300000000002" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.6">
+    <title stroke="black" stroke-width="1.0">1.6/CTSH ADAMTS16 CD44</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.681" y="174.496" width="102.05143999999999" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CSF1 NOG FGFR3 ID2 GFAP</title>
+   <rect stroke="black" stroke-width="1.0" x="155.681" y="174.496" width="102.05143999999999" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.7">
+    <title stroke="black" stroke-width="1.0">1.7/CSF1 NOG FGFR3 ID2 GFAP</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="159.874" y="183.453" width="46.12100000000001" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">NOTCH1 ID4</title>
+   <rect stroke="black" stroke-width="1.0" x="159.874" y="183.453" width="46.12100000000001" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.8">
+    <title stroke="black" stroke-width="1.0">1.8/NOTCH1 ID4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.679" y="192.41" width="98.196" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CSF1 NOG NOTCH1 SOCS3</title>
+   <rect stroke="black" stroke-width="1.0" x="155.679" y="192.41" width="98.196" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.9">
+    <title stroke="black" stroke-width="1.0">1.9/CSF1 NOG NOTCH1 SOCS3</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="159.874" y="201.368" width="85.84300000000002" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CTSH ADAMTS16 CD44</title>
+   <rect stroke="black" stroke-width="1.0" x="159.874" y="201.368" width="85.84300000000002" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.10">
+    <title stroke="black" stroke-width="1.0">1.10/CTSH ADAMTS16 CD44</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.0" y="193.368" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="155.682" y="228.297" width="105.19300000000001" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.13">
+    <title stroke="black" stroke-width="1.0">1.13/COL11A1 XYLT1 SDC2 GPC4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.0" y="202.382" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="159.875" y="237.255" width="28.214000000000027" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.14">
+    <title stroke="black" stroke-width="1.0">1.14/CHST15</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.682" y="228.297" width="105.19300000000001" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">COL11A1 XYLT1 SDC2 GPC4</title>
+   <rect stroke="black" stroke-width="1.0" x="155.68" y="246.212" width="99.93100000000001" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.15">
+    <title stroke="black" stroke-width="1.0">1.15/XYLT1 SDC2 GPC4 CHST15</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="159.875" y="237.255" width="28.214000000000027" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CHST15</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.68" y="246.212" width="99.93100000000001" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">XYLT1 SDC2 GPC4 CHST15</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.0" y="238.212" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.68" y="264.183" width="112.18599999999998" height="7.970000000000027" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">XYLT1 ANGPT1 CHST15 CDO1</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="155.0" y="256.183" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="155.68" y="264.183" width="112.18599999999998" height="7.970000000000027" fill="red" opacity="0.2" class="cell.1.17">
+    <title stroke="black" stroke-width="1.0">1.17/XYLT1 ANGPT1 CHST15 CDO1</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="287.377" y="111.737" width="266.50399999999996" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 GPR56</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="287.377" y="111.737" width="266.50399999999996" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 GPR56</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="103.737" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="287.377" y="129.65200000000002" width="240.47999999999996" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.377" y="129.65200000000002" width="240.47999999999996" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1</title>
+   <rect stroke="black" stroke-width="1.0" x="287.382" y="147.623" width="141.42146000000002" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.4">
+    <title stroke="black" stroke-width="1.0">2.4/LYN EGR1 PTPRZ1 OLIG2 WASF3 GSN</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="121.65200000000002" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="287.377" y="156.581" width="267.42900000000003" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.5">
+    <title stroke="black" stroke-width="1.0">2.5/ETV4 SLC12A2 NPNT SFRP1 ADM CTNND2 CLIC4 SPRY1 NFATC4 SPRY2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.382" y="147.623" width="141.42146000000002" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">LYN EGR1 PTPRZ1 OLIG2 WASF3 GSN</title>
+   <rect stroke="black" stroke-width="1.0" x="287.377" y="174.496" width="93.53000000000003" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.7">
+    <title stroke="black" stroke-width="1.0">2.7/LYN PTPRZ1 OLIG2 HES1</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.377" y="156.581" width="267.42900000000003" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">ETV4 SLC12A2 NPNT SFRP1 ADM CTNND2 CLIC4 SPRY1 NFATC4 SPRY2</title>
+   <rect stroke="black" stroke-width="1.0" x="287.377" y="192.41" width="233.526" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.9">
+    <title stroke="black" stroke-width="1.0">2.9/ETV4 SLC12A2 NPNT SFRP1 ADM CLIC4 SPRY1 NFATC4 SPRY2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="148.581" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="287.377" y="210.382" width="241.973" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.11">
+    <title stroke="black" stroke-width="1.0">2.11/LYN HMGCR DUSP4 SPRED2 SFRP1 DUSP6 SPRY4 SPRED1 SPRY4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.377" y="174.496" width="93.53000000000003" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">LYN PTPRZ1 OLIG2 HES1</title>
+   <rect stroke="black" stroke-width="1.0" x="291.516" y="219.34" width="50.233000000000004" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.12">
+    <title stroke="black" stroke-width="1.0">2.12/SPRY1 SPRY2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="166.496" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="287.378" y="228.297" width="158.43900000000002" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.13">
+    <title stroke="black" stroke-width="1.0">2.13/CHST11 BCAN SDC3 CHST7 ACPL2 HS6ST2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.377" y="192.41" width="233.526" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">ETV4 SLC12A2 NPNT SFRP1 ADM CLIC4 SPRY1 NFATC4 SPRY2</title>
+   <rect stroke="black" stroke-width="1.0" x="287.379" y="246.212" width="128.54699999999997" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.15">
+    <title stroke="black" stroke-width="1.0">2.15/CHST11 BCAN SDC3 CHST7 ACPL2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="184.41" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.377" y="210.382" width="241.973" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">LYN HMGCR DUSP4 SPRED2 SFRP1 DUSP6 SPRY4 SPRED1 SPRY4</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.516" y="219.34" width="50.233000000000004" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">SPRY1 SPRY2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.378" y="228.297" width="158.43900000000002" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CHST11 BCAN SDC3 CHST7 ACPL2 HS6ST2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="220.297" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.379" y="246.212" width="128.54699999999997" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">CHST11 BCAN SDC3 CHST7 ACPL2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="238.212" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.381" y="264.183" width="269.16200000000003" height="7.970000000000027" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">ELOVL6 CHST11 BCAN ACSL3 CTH ACSS1 CHST7 MGST3 ACPL2 HS6ST2</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.0" y="256.183" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="287.381" y="264.183" width="269.16200000000003" height="7.970000000000027" fill="red" opacity="0.2" class="cell.2.17">
+    <title stroke="black" stroke-width="1.0">2.17/ELOVL6 CHST11 BCAN ACSL3 CTH ACSS1 CHST7 MGST3 ACPL2 HS6ST2</title>
    </rect>
   </g>
  </g>
- <g/>
+ <g class="footer.title"/>
 </svg>

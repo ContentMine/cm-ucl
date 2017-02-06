@@ -320,92 +320,91 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GBGLKF+AdvOT82c4f4c4" svgx:width="552.0" x="534.119" y="729.22" font-size="9.0" font-family="TimesNewRoman" font-weight="normal" id="text7584" xmlns:svgx="http://www.xml-cml.org/schema/svgx">3</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GBGLKF+AdvOT82c4f4c4" svgx:width="552.0" x="539.087" y="729.22" font-size="9.0" font-family="TimesNewRoman" font-weight="normal" id="text7586" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="GBGLKF+AdvOT82c4f4c4" svgx:width="322.0" x="544.055" y="729.22" font-size="9.0" font-family="TimesNewRoman" font-weight="normal" id="text7588" xmlns:svgx="http://www.xml-cml.org/schema/svgx">)</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="657.178" width="126.85300000000001" height="9.0" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="671.691" width="443.508" height="19.997999999999934" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="48.301" y="698.223" width="498.652" height="30.99700000000007" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="48.302" y="657.178" width="126.85300000000001" height="9.0" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman, Helvetica]}{[9.0 x 2]}{[normal, bold]}{[null x 2]} //Table 2 Primary outcome data </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="657.178" width="126.85300000000001" height="9.0" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="671.691" width="443.508" height="19.997999999999934" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="48.301" y="698.223" width="498.652" height="30.99700000000007" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="48.302" y="657.178" width="126.85300000000001" height="9.0" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica, TimesNewRoman]}{[9.0 x 2]}{[bold, normal]}{[null x 2]} //Table 2 Primary outcome data </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.0" y="671.691" width="41.0" height="19.997999999999934" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Follow-up // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Follow-up // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="247.0" y="671.691" width="59.0" height="19.997999999999934" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Control group // n/N (%) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Control group // n/N (%) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="327.0" y="671.691" width="79.0" height="19.997999999999934" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Intervention group // n/N (%) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Intervention group // n/N (%) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="426.0" y="671.691" width="65.0" height="19.997999999999934" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Follow-up // n/N (%, 95% CI) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/Follow-up // n/N (%, 95% CI) // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.0" y="698.223" width="174.0" height="30.99700000000007" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">12-month follow-up for cumulative incidence // of chlamydia (trial test kits+clinic data) // 12-month follow-up for trial test kits // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/12-month follow-up for cumulative incidence // of chlamydia (trial test kits+clinic data) // 12-month follow-up for trial test kits // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="247.0" y="698.223" width="59.0" height="30.99700000000007" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">82/101 (81.19) // // 80/101 (79.21) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/82/101 (81.19) // // 80/101 (79.21) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="327.0" y="698.223" width="53.0" height="30.99700000000007" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">80/99 (80.81) // // 80/99 (80.81) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/80/99 (80.81) // // 80/99 (80.81) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="426.0" y="698.223" width="120.0" height="30.99700000000007" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">162/200 (81.0, 74.86 to 86.19) // // 160/200 (80.0, 73.78 to 85.31) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/162/200 (81.0, 74.86 to 86.19) // // 160/200 (80.0, 73.78 to 85.31) // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="48.301" y="698.223" width="173.889" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">12-month follow-up for cumulative incidence</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="48.301" y="698.223" width="173.889" height="9.0" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/12-month follow-up for cumulative incidence</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.301" y="709.221" width="150.89999999999998" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">of chlamydia (trial test kits+clinic data)</title>
+   <rect stroke="black" stroke-width="1.0" x="48.301" y="709.221" width="150.89999999999998" height="9.0" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/of chlamydia (trial test kits+clinic data)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.301" y="720.22" width="138.574" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">12-month follow-up for trial test kits</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="247.974" y="698.223" width="58.089000000000055" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">82/101 (81.19)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="247.0" y="690.223" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="247.978" y="720.22" width="58.09000000000003" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">80/101 (79.21)</title>
+   <rect stroke="black" stroke-width="1.0" x="48.301" y="720.22" width="138.574" height="9.0" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/12-month follow-up for trial test kits</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="327.686" y="698.223" width="53.10000000000002" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">80/99 (80.81)</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="247.974" y="698.223" width="58.089000000000055" height="9.0" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/82/101 (81.19)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="327.0" y="690.223" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="327.69" y="720.22" width="53.10000000000002" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">80/99 (80.81)</title>
+   <rect stroke="black" stroke-width="1.0" x="247.978" y="720.22" width="58.09000000000003" height="9.0" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/80/101 (79.21)</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="426.389" y="698.223" width="120.56000000000006" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">162/200 (81.0, 74.86 to 86.19)</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="327.686" y="698.223" width="53.10000000000002" height="9.0" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/80/99 (80.81)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="426.0" y="690.223" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="327.69" y="720.22" width="53.10000000000002" height="9.0" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/80/99 (80.81)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="426.394" y="720.22" width="120.55899999999997" height="9.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">160/200 (80.0, 73.78 to 85.31)</title>
+  </g>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="426.389" y="698.223" width="120.56000000000006" height="9.0" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/162/200 (81.0, 74.86 to 86.19)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="426.394" y="720.22" width="120.55899999999997" height="9.0" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/160/200 (80.0, 73.78 to 85.31)</title>
    </rect>
   </g>
  </g>
- <g/>
+ <g class="footer.title"/>
 </svg>

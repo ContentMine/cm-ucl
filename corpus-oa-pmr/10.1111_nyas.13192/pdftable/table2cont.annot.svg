@@ -4192,1368 +4192,668 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="HLFIHG+Minion-Regular" svgx:width="417.0" x="340.439" y="469.415" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text8464" xmlns:svgx="http://www.xml-cml.org/schema/svgx">c</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="HLFIHG+Minion-Regular" svgx:width="370.0" x="343.759" y="469.415" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text8466" xmlns:svgx="http://www.xml-cml.org/schema/svgx">)</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="HLFIHG+Minion-Regular" svgx:width="240.0" x="346.705" y="469.415" font-size="7.97" font-family="TimesNewRoman" font-weight="normal" id="text8468" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.158" width="71.62759199999999" height="8.966000000000001" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="70.143" width="415.96313100000003" height="13.346999999999994" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="89.736" width="418.42381100000006" height="266.498" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="361.828" width="418.4538" height="107.58700000000005" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.158" width="71.62759199999999" height="8.966000000000001" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica]}{[7.97]}{[bold]}{[null]} //Table 2. Continued </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.158" width="71.62759199999999" height="8.966000000000001" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="70.143" width="415.96313100000003" height="13.346999999999994" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="89.736" width="418.42381100000006" height="266.498" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="361.828" width="418.4538" height="107.58700000000005" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.633" y="53.158" width="71.62759199999999" height="8.966000000000001" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica]}{[7.97]}{[bold]}{[null]} //Table 2. Continued </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.0" y="70.143" width="49.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Modes of computing // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Modes of computing // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="103.0" y="70.143" width="31.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Storage space // navigation // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Storage space // navigation // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="164.0" y="70.143" width="31.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Content data // (longer term) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Content data // (longer term) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="224.0" y="70.143" width="47.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Code changing data // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/Code changing data // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="285.0" y="70.143" width="35.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Execution data // (shorter term) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/Execution data // (shorter term) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="346.0" y="70.143" width="33.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Role of names // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/Role of names // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="407.0" y="70.143" width="51.0" height="13.346999999999994" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Bugs related to names // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/Bugs related to names // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.312" y="97.413" width="412.744811" height="107.397" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="48.312" y="196.809" width="412.744811" height="159.42499999999998" fill="red" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="48.312" y="212.478" width="412.744811" height="143.75599999999997" fill="red" opacity="0.2"/>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.0" y="89.736" width="54.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Concurrent network // traffic // Define the network by // listing all nodes, all // links between them, // and all actions // affecting the // network. Simulate // time by executing all // ongoing actions // concurrently to // change the network // until it represents the // solution. // // Physical world // // Physics framed as // // // computing (to learn // // // from its stability): // // // store matter in space // // // and define how // // sequences of actions // // // allow it to change // // over time. Use // // // energy as transient // // storage that affects // // what happens next. // // // // // // // // // // // // // // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Concurrent network // traffic // Define the network by // listing all nodes, all // links between them, // and all actions // affecting the // network. Simulate // time by executing all // ongoing actions // concurrently to // change the network // until it represents the // solution. // // Physical world // // Physics framed as // // // computing (to learn // // // from its stability): // // // store matter in space // // // and define how // // sequences of actions // // // allow it to change // // over time. Use // // // energy as transient // // storage that affects // // what happens next. // // // // // // // // // // // // // // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="103.0" y="89.736" width="53.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Nodes, links // The space of networks // is defined by // possibilities for the // existence of nodes // that store data to be // acted on with other // nodes; whether // concurrency is // physical or // conceptual is // irrelevant. // // // // Space // // Positions in 4D // // // space– time define // // // potential storage // // // places with limits for // // // the amount of // // content matter that // // // can be stored there. // // Each 4D position // // // can be seen as an // // implicit name. // // // // // // // // // // // // // // // // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/Nodes, links // The space of networks // is defined by // possibilities for the // existence of nodes // that store data to be // acted on with other // nodes; whether // concurrency is // physical or // conceptual is // irrelevant. // // // // Space // // Positions in 4D // // // space– time define // // // potential storage // // // places with limits for // // // the amount of // // content matter that // // // can be stored there. // // Each 4D position // // // can be seen as an // // implicit name. // // // // // // // // // // // // // // // // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="164.0" y="89.736" width="53.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Stable network // between actions // Data are stored in // those nodes and // links that exist // locally. This inherent // locality is difficult to // recognize in some // algorithms, but it // conceptually exists in // all networks. // // // // // Matter // // Content can be seen as // // // networks of specific // // // atoms that occupy // // // given positions in 4D // // // space– time. Each // // content matter can // // // be an implicit name. // // // // // // // // // // // // // // // // // // // // // // // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/Stable network // between actions // Data are stored in // those nodes and // links that exist // locally. This inherent // locality is difficult to // recognize in some // algorithms, but it // conceptually exists in // all networks. // // // // // Matter // // Content can be seen as // // // networks of specific // // // atoms that occupy // // // given positions in 4D // // // space– time. Each // // content matter can // // // be an implicit name. // // // // // // // // // // // // // // // // // // // // // // // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="224.0" y="89.736" width="54.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Concurrent patterns // Many actions executed // by nodes form // repeatable patterns // of change in their // local memories. // Describing // concurrent patterns // efficiently in code // can take many forms. // // // // // // Time // // Time can be seen as all // // // potentially occurring // // // action patterns // // // defined by how they // // // would change // // implicitly named // // // matter in space, // // contingent on all // // // conditions being // // met. Each timed // // localized specific // // potential action // // pattern can be seen // // as an implicit name. // // // // // // // // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/Concurrent patterns // Many actions executed // by nodes form // repeatable patterns // of change in their // local memories. // Describing // concurrent patterns // efficiently in code // can take many forms. // // // // // // Time // // Time can be seen as all // // // potentially occurring // // // action patterns // // // defined by how they // // // would change // // implicitly named // // // matter in space, // // contingent on all // // // conditions being // // met. Each timed // // localized specific // // potential action // // pattern can be seen // // as an implicit name. // // // // // // // // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="285.0" y="89.736" width="54.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Transient states // Concurrent patterns // are defined as // possibilities realized // only when the // necessary content is // in place. The initial // state of networks // determines // possibilities, making // forward simulations // a method of choice. // // // // Energy // // Energy can be seen as // // // the present-time // // // enabler selecting // // // some of the many // // // potential actions by // // meeting their energy // // // requirements. Thus, // // each timed localized // // // specific potential // // action pattern that // // has been enabled can // // be seen as an implicit // // name (usually called // // “historic event”). // // Energy is temporary // // storage as it only // // exists in transit. // // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/Transient states // Concurrent patterns // are defined as // possibilities realized // only when the // necessary content is // in place. The initial // state of networks // determines // possibilities, making // forward simulations // a method of choice. // // // // Energy // // Energy can be seen as // // // the present-time // // // enabler selecting // // // some of the many // // // potential actions by // // meeting their energy // // // requirements. Thus, // // each timed localized // // // specific potential // // action pattern that // // has been enabled can // // be seen as an implicit // // name (usually called // // “historic event”). // // Energy is temporary // // storage as it only // // exists in transit. // // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="346.0" y="89.736" width="53.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Labels in transition // systems // Names of nodes and // actions define // implicitly the links // that govern the // simulation of // concurrent processes // that might interact. // It can be challenging // to track relevant // names when they are // created dynamically. // // // Coordinates, // // alternatives // // // Physics defines four // // // basic types of // // // implicit names // // // (timed position, // // content matter, // // // potential, and // // executed actions). // // // These run the // // physical Universe // // and suffice also for // // concurrent // // Networks Traffic. // // The implicit types // // enable infinities of // // combined derived // // names for more // // complex patterns (or // // “traits”). // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/Labels in transition // systems // Names of nodes and // actions define // implicitly the links // that govern the // simulation of // concurrent processes // that might interact. // It can be challenging // to track relevant // names when they are // created dynamically. // // // Coordinates, // // alternatives // // // Physics defines four // // // basic types of // // // implicit names // // // (timed position, // // content matter, // // // potential, and // // executed actions). // // // These run the // // physical Universe // // and suffice also for // // concurrent // // Networks Traffic. // // The implicit types // // enable infinities of // // combined derived // // names for more // // complex patterns (or // // “traits”). // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="407.0" y="89.736" width="54.0" height="266.498" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Tracking bugs, typos // If minor changes in // names create major // effects and no // support exists for // catching typos, then // naming bugs rewire // networks to become // misleading. // Concurrent // networks are harder // to debug, if // identifiers can // change meaning // with contexts. // Delineation bugs // // Lower level implicit // // // names like relative // // // positions can // // // generate attempts to // // // access elements // // beyond the limits of // // // an array; such bugs // // can be hard to find // // // without automated // // help. As // // communicators can // // dynamically // // (re)name anything at // // will, naming is // // superinfinitely // // complex and extra // // care is needed for // // agreeing on the same // // delineations. // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/Tracking bugs, typos // If minor changes in // names create major // effects and no // support exists for // catching typos, then // naming bugs rewire // networks to become // misleading. // Concurrent // networks are harder // to debug, if // identifiers can // change meaning // with contexts. // Delineation bugs // // Lower level implicit // // // names like relative // // // positions can // // // generate attempts to // // // access elements // // beyond the limits of // // // an array; such bugs // // can be hard to find // // // without automated // // help. As // // communicators can // // dynamically // // (re)name anything at // // will, naming is // // superinfinitely // // complex and extra // // care is needed for // // agreeing on the same // // delineations. // // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="42.633" y="89.736" width="48.37004299999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Concurrent network</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="42.633" y="89.736" width="48.37004299999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Concurrent network</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="97.413" width="14.283575000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">traffic</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="97.413" width="14.283575000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/traffic</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.939" y="105.081" width="50.442513" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Define the network by</title>
+   <rect stroke="black" stroke-width="1.0" x="43.939" y="105.081" width="50.442513" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/Define the network by</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="112.749" width="43.378108" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">listing all nodes, all</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="112.749" width="43.378108" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/listing all nodes, all</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="120.426" width="45.39096000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">links between them,</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="120.426" width="45.39096000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.4">
+    <title stroke="black" stroke-width="1.0">0.4/links between them,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="128.094" width="32.76404500000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">and all actions</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="128.094" width="32.76404500000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/and all actions</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="135.762" width="28.043180000000007" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">affecting the</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="135.762" width="28.043180000000007" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.6">
+    <title stroke="black" stroke-width="1.0">0.6/affecting the</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="143.439" width="41.391180000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">network. Simulate</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="143.439" width="41.391180000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/network. Simulate</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="151.107" width="46.669107999999994" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">time by executing all</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="151.107" width="46.669107999999994" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.8">
+    <title stroke="black" stroke-width="1.0">0.8/time by executing all</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="158.784" width="36.20504500000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">ongoing actions</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="158.784" width="36.20504500000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/ongoing actions</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="166.452" width="35.015043000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">concurrently to</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="166.452" width="35.015043000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.10">
+    <title stroke="black" stroke-width="1.0">0.10/concurrently to</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="174.12" width="44.54070999999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">change the network</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="174.12" width="44.54070999999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.11">
+    <title stroke="black" stroke-width="1.0">0.11/change the network</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="181.797" width="48.110180000000014" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">until it represents the</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="181.797" width="48.110180000000014" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.12">
+    <title stroke="black" stroke-width="1.0">0.12/until it represents the</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="189.465" width="20.07296000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">solution.</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="189.465" width="20.07296000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.13">
+    <title stroke="black" stroke-width="1.0">0.13/solution.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="181.465" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="42.634" y="204.81" width="34.436054999999996" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.15">
+    <title stroke="black" stroke-width="1.0">0.15/Physical world</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.634" y="204.81" width="34.436054999999996" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Physical world</title>
+   <rect stroke="black" stroke-width="1.0" x="43.939" y="212.478" width="39.946045000000005" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.17">
+    <title stroke="black" stroke-width="1.0">0.17/Physics framed as</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="220.146" width="45.76573400000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.20">
+    <title stroke="black" stroke-width="1.0">0.20/computing (to learn</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="43.939" y="212.478" width="39.946045000000005" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Physics framed as</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="227.823" width="40.586960000000005" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.23">
+    <title stroke="black" stroke-width="1.0">0.23/from its stability):</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="235.49099999999999" width="46.79318000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.26">
+    <title stroke="black" stroke-width="1.0">0.26/store matter in space</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="243.158" width="34.855362" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.29">
+    <title stroke="black" stroke-width="1.0">0.29/and define how</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="220.146" width="45.76573400000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">computing (to learn</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="250.83599999999998" width="45.94304500000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.0.31">
+    <title stroke="black" stroke-width="1.0">0.31/sequences of actions</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="258.50300000000004" width="39.77318000000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.0.34">
+    <title stroke="black" stroke-width="1.0">0.34/allow it to change</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="266.18100000000004" width="32.45518000000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.0.36">
+    <title stroke="black" stroke-width="1.0">0.36/over time. Use</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="227.823" width="40.586960000000005" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">from its stability):</title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="273.848" width="42.51481100000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.0.39">
+    <title stroke="black" stroke-width="1.0">0.39/energy as transient</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="281.516" width="42.165045000000006" height="5.678999999999974" fill="red" opacity="0.2" class="cell.0.41">
+    <title stroke="black" stroke-width="1.0">0.41/storage that affects</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="235.49099999999999" width="46.79318000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">store matter in space</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="243.158" width="34.855362" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">and define how</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="250.83599999999998" width="45.94304500000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">sequences of actions</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="258.50300000000004" width="39.77318000000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">allow it to change</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="266.18100000000004" width="32.45518000000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">over time. Use</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="273.848" width="42.51481100000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">energy as transient</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="281.516" width="42.165045000000006" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">storage that affects</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="48.312" y="289.19300000000004" width="43.97496000000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">what happens next.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="281.19300000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="288.86100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="296.52900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="304.206" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="311.874" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="319.54200000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="327.21900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="334.887" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="42.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="48.312" y="289.19300000000004" width="43.97496000000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.0.43">
+    <title stroke="black" stroke-width="1.0">0.43/what happens next.</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="103.401" y="89.736" width="28.83613100000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Nodes, links</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="103.401" y="89.736" width="28.83613100000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/Nodes, links</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="104.706" y="97.413" width="50.44204499999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">The space of networks</title>
+   <rect stroke="black" stroke-width="1.0" x="104.706" y="97.413" width="50.44204499999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/The space of networks</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="105.081" width="28.501513000000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">is defined by</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="105.081" width="28.501513000000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/is defined by</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="112.749" width="42.96917999999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">possibilities for the</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="112.749" width="42.96917999999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.3">
+    <title stroke="black" stroke-width="1.0">1.3/possibilities for the</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="120.426" width="41.03504499999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">existence of nodes</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="120.426" width="41.03504499999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/existence of nodes</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="128.094" width="44.92718000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">that store data to be</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="128.094" width="44.92718000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.5">
+    <title stroke="black" stroke-width="1.0">1.5/that store data to be</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="135.762" width="44.29919299999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">acted on with other</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="135.762" width="44.29919299999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.6">
+    <title stroke="black" stroke-width="1.0">1.6/acted on with other</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="143.439" width="34.640193" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">nodes; whether</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="143.439" width="34.640193" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.7">
+    <title stroke="black" stroke-width="1.0">1.7/nodes; whether</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="151.107" width="33.117045000000005" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">concurrency is</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="151.107" width="33.117045000000005" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.8">
+    <title stroke="black" stroke-width="1.0">1.8/concurrency is</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="158.784" width="24.489193000000014" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">physical or</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="158.784" width="24.489193000000014" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.9">
+    <title stroke="black" stroke-width="1.0">1.9/physical or</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="166.452" width="29.56604499999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">conceptual is</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="166.452" width="29.56604499999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.10">
+    <title stroke="black" stroke-width="1.0">1.10/conceptual is</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="174.12" width="23.21795999999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">irrelevant.</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="174.12" width="23.21795999999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.11">
+    <title stroke="black" stroke-width="1.0">1.11/irrelevant.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="166.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="103.401" y="204.81" width="13.327686" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.15">
+    <title stroke="black" stroke-width="1.0">1.15/Space</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="173.797" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="104.706" y="212.478" width="34.798991000000015" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.17">
+    <title stroke="black" stroke-width="1.0">1.17/Positions in 4D</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="181.465" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="220.146" width="40.63717999999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.20">
+    <title stroke="black" stroke-width="1.0">1.20/space– time define</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.401" y="204.81" width="13.327686" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Space</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="227.823" width="37.82418" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.23">
+    <title stroke="black" stroke-width="1.0">1.23/potential storage</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="235.49099999999999" width="47.343193" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.26">
+    <title stroke="black" stroke-width="1.0">1.26/places with limits for</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="104.706" y="212.478" width="34.798991000000015" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Positions in 4D</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="243.158" width="32.378305" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.29">
+    <title stroke="black" stroke-width="1.0">1.29/the amount of</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="250.83599999999998" width="43.92481099999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.1.31">
+    <title stroke="black" stroke-width="1.0">1.31/content matter that</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="258.50300000000004" width="44.13696" height="5.678999999999974" fill="red" opacity="0.2" class="cell.1.34">
+    <title stroke="black" stroke-width="1.0">1.34/can be stored there.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="220.146" width="40.63717999999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">space– time define</title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="266.18100000000004" width="39.219734" height="5.678999999999974" fill="red" opacity="0.2" class="cell.1.36">
+    <title stroke="black" stroke-width="1.0">1.36/Each 4D position</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="273.848" width="38.43673399999999" height="5.678999999999974" fill="red" opacity="0.2" class="cell.1.39">
+    <title stroke="black" stroke-width="1.0">1.39/can be seen as an</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="227.823" width="37.82418" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">potential storage</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="235.49099999999999" width="47.343193" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">places with limits for</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="243.158" width="32.378305" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">the amount of</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="250.83599999999998" width="43.92481099999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">content matter that</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="258.50300000000004" width="44.13696" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">can be stored there.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="266.18100000000004" width="39.219734" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Each 4D position</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="273.848" width="38.43673399999999" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">can be seen as an</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="109.08" y="281.516" width="33.077959999999976" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">implicit name.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="273.516" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="281.19300000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="288.86100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="296.52900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="304.206" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="311.874" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="319.54200000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="327.21900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="334.887" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="103.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="109.08" y="281.516" width="33.077959999999976" height="5.678999999999974" fill="red" opacity="0.2" class="cell.1.41">
+    <title stroke="black" stroke-width="1.0">1.41/implicit name.</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="164.178" y="89.736" width="35.21104300000002" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Stable network</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="164.178" y="89.736" width="35.21104300000002" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/Stable network</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="97.413" width="37.59913100000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">between actions</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="97.413" width="37.59913100000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/between actions</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="165.484" y="105.081" width="40.29373399999997" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Data are stored in</title>
+   <rect stroke="black" stroke-width="1.0" x="165.484" y="105.081" width="40.29373399999997" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/Data are stored in</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="112.749" width="36.738512000000014" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">those nodes and</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="112.749" width="36.738512000000014" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.3">
+    <title stroke="black" stroke-width="1.0">2.3/those nodes and</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="120.426" width="32.755810999999994" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">links that exist</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="120.426" width="32.755810999999994" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.4">
+    <title stroke="black" stroke-width="1.0">2.4/links that exist</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="128.094" width="47.491810999999984" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">locally. This inherent</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="128.094" width="47.491810999999984" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.5">
+    <title stroke="black" stroke-width="1.0">2.5/locally. This inherent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="135.762" width="46.51904300000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">locality is difficult to</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="135.762" width="46.51904300000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.6">
+    <title stroke="black" stroke-width="1.0">2.6/locality is difficult to</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="143.439" width="40.81018" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">recognize in some</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="143.439" width="40.81018" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.7">
+    <title stroke="black" stroke-width="1.0">2.7/recognize in some</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="151.107" width="39.47881099999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">algorithms, but it</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="151.107" width="39.47881099999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.8">
+    <title stroke="black" stroke-width="1.0">2.8/algorithms, but it</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="158.784" width="48.119733999999994" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">conceptually exists in</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="158.784" width="48.119733999999994" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.9">
+    <title stroke="black" stroke-width="1.0">2.9/conceptually exists in</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="166.452" width="28.911959999999993" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">all networks.</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="166.452" width="28.911959999999993" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.10">
+    <title stroke="black" stroke-width="1.0">2.10/all networks.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="158.452" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="164.178" y="204.81" width="15.970921000000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.15">
+    <title stroke="black" stroke-width="1.0">2.15/Matter</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="166.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="165.483" y="212.478" width="51.50704499999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.17">
+    <title stroke="black" stroke-width="1.0">2.17/Content can be seen as</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="173.797" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="220.146" width="44.83014299999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.20">
+    <title stroke="black" stroke-width="1.0">2.20/networks of specific</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="181.465" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="227.823" width="41.594513000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.23">
+    <title stroke="black" stroke-width="1.0">2.23/atoms that occupy</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.178" y="204.81" width="15.970921000000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Matter</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="235.49099999999999" width="48.114991" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.26">
+    <title stroke="black" stroke-width="1.0">2.26/given positions in 4D</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="243.158" width="39.04390699999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.29">
+    <title stroke="black" stroke-width="1.0">2.29/space– time. Each</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="165.483" y="212.478" width="51.50704499999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Content can be seen as</title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="250.83599999999998" width="42.85473399999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.2.31">
+    <title stroke="black" stroke-width="1.0">2.31/content matter can</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="220.146" width="44.83014299999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">networks of specific</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="227.823" width="41.594513000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">atoms that occupy</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="235.49099999999999" width="48.114991" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">given positions in 4D</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="243.158" width="39.04390699999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">space– time. Each</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="250.83599999999998" width="42.85473399999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">content matter can</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="169.857" y="258.50300000000004" width="46.59196" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">be an implicit name.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="250.50300000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="258.18100000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="265.848" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="273.516" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="281.19300000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="288.86100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="296.52900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="304.206" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="311.874" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="319.54200000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="327.21900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="334.887" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="164.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="169.857" y="258.50300000000004" width="46.59196" height="5.678999999999974" fill="red" opacity="0.2" class="cell.2.34">
+    <title stroke="black" stroke-width="1.0">2.34/be an implicit name.</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="224.946" y="89.736" width="48.354131000000024" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Concurrent patterns</title>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="224.946" y="89.736" width="48.354131000000024" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/Concurrent patterns</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="226.251" y="97.413" width="51.538512" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Many actions executed</title>
+   <rect stroke="black" stroke-width="1.0" x="226.251" y="97.413" width="51.538512" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/Many actions executed</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="105.081" width="32.81849599999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">by nodes form</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="105.081" width="32.81849599999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/by nodes form</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="112.749" width="43.077045" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">repeatable patterns</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="112.749" width="43.077045" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.3">
+    <title stroke="black" stroke-width="1.0">3.3/repeatable patterns</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="120.426" width="39.751193" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">of change in their</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="120.426" width="39.751193" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.4">
+    <title stroke="black" stroke-width="1.0">3.4/of change in their</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="128.094" width="36.028959999999984" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">local memories.</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="128.094" width="36.028959999999984" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.5">
+    <title stroke="black" stroke-width="1.0">3.5/local memories.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="135.762" width="24.69562399999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Describing</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="135.762" width="24.69562399999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.6">
+    <title stroke="black" stroke-width="1.0">3.6/Describing</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="143.439" width="44.97504500000002" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">concurrent patterns</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="143.439" width="44.97504500000002" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.7">
+    <title stroke="black" stroke-width="1.0">3.7/concurrent patterns</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="151.107" width="40.019180000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">efficiently in code</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="151.107" width="40.019180000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.8">
+    <title stroke="black" stroke-width="1.0">3.8/efficiently in code</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="158.784" width="48.116960000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">can take many forms.</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="158.784" width="48.116960000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.9">
+    <title stroke="black" stroke-width="1.0">3.9/can take many forms.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="150.784" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="224.946" y="204.81" width="12.21068600000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.15">
+    <title stroke="black" stroke-width="1.0">3.15/Time</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="158.452" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="226.251" y="212.478" width="51.42610799999997" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.17">
+    <title stroke="black" stroke-width="1.0">3.17/Time can be seen as all</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="166.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="220.146" width="47.79162400000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.20">
+    <title stroke="black" stroke-width="1.0">3.20/potentially occurring</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="173.797" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="227.823" width="33.99804500000005" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.23">
+    <title stroke="black" stroke-width="1.0">3.23/action patterns</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="181.465" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="235.49099999999999" width="45.751513000000045" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.26">
+    <title stroke="black" stroke-width="1.0">3.26/defined by how they</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.946" y="204.81" width="12.21068600000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Time</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="243.158" width="31.42518000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.29">
+    <title stroke="black" stroke-width="1.0">3.29/would change</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="250.83599999999998" width="38.65351199999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.3.31">
+    <title stroke="black" stroke-width="1.0">3.31/implicitly named</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="226.251" y="212.478" width="51.42610799999997" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Time can be seen as all</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="258.50300000000004" width="35.83495999999997" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.34">
+    <title stroke="black" stroke-width="1.0">3.34/matter in space,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="266.18100000000004" width="38.471108000000015" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.36">
+    <title stroke="black" stroke-width="1.0">3.36/contingent on all</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="273.848" width="37.968624000000034" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.39">
+    <title stroke="black" stroke-width="1.0">3.39/conditions being</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="220.146" width="47.79162400000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">potentially occurring</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="281.516" width="37.14351199999999" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.41">
+    <title stroke="black" stroke-width="1.0">3.41/met. Each timed</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="289.19300000000004" width="37.95414299999999" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.43">
+    <title stroke="black" stroke-width="1.0">3.43/localized specific</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="296.86100000000005" width="35.79573399999998" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.45">
+    <title stroke="black" stroke-width="1.0">3.45/potential action</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="227.823" width="33.99804500000005" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">action patterns</title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="304.52900000000005" width="43.57973399999997" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.47">
+    <title stroke="black" stroke-width="1.0">3.47/pattern can be seen</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="235.49099999999999" width="45.751513000000045" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">defined by how they</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="243.158" width="31.42518000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">would change</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="250.83599999999998" width="38.65351199999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">implicitly named</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="258.50300000000004" width="35.83495999999997" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">matter in space,</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="266.18100000000004" width="38.471108000000015" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">contingent on all</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="273.848" width="37.968624000000034" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">conditions being</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="281.516" width="37.14351199999999" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">met. Each timed</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="289.19300000000004" width="37.95414299999999" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">localized specific</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="296.86100000000005" width="35.79573399999998" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">potential action</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="304.52900000000005" width="43.57973399999997" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">pattern can be seen</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="230.625" y="312.206" width="45.753960000000006" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">as an implicit name.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="304.206" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="311.874" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="319.54200000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="327.21900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="334.887" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="224.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="230.625" y="312.206" width="45.753960000000006" height="5.678999999999974" fill="red" opacity="0.2" class="cell.3.49">
+    <title stroke="black" stroke-width="1.0">3.49/as an implicit name.</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="285.723" y="89.736" width="36.820131" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Transient states</title>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="285.723" y="89.736" width="36.820131" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/Transient states</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.028" y="97.413" width="46.370045000000005" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Concurrent patterns</title>
+   <rect stroke="black" stroke-width="1.0" x="287.028" y="97.413" width="46.370045000000005" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/Concurrent patterns</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="105.081" width="30.938045000000045" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">are defined as</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="105.081" width="30.938045000000045" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/are defined as</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="112.749" width="45.34851200000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">possibilities realized</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="112.749" width="45.34851200000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.3">
+    <title stroke="black" stroke-width="1.0">4.3/possibilities realized</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="120.426" width="32.11518000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">only when the</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="120.426" width="32.11518000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.4">
+    <title stroke="black" stroke-width="1.0">4.4/only when the</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="128.094" width="44.855045000000075" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">necessary content is</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="128.094" width="44.855045000000075" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.5">
+    <title stroke="black" stroke-width="1.0">4.5/necessary content is</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="135.762" width="43.676108" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">in place. The initial</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="135.762" width="43.676108" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.6">
+    <title stroke="black" stroke-width="1.0">4.6/in place. The initial</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="143.439" width="38.41104500000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">state of networks</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="143.439" width="38.41104500000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.7">
+    <title stroke="black" stroke-width="1.0">4.7/state of networks</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="151.107" width="25.261045000000024" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">determines</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="151.107" width="25.261045000000024" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.8">
+    <title stroke="black" stroke-width="1.0">4.8/determines</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="158.784" width="46.35062400000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">possibilities, making</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="158.784" width="46.35062400000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.9">
+    <title stroke="black" stroke-width="1.0">4.9/possibilities, making</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="166.452" width="45.87104500000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">forward simulations</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="166.452" width="45.87104500000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.10">
+    <title stroke="black" stroke-width="1.0">4.10/forward simulations</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="174.12" width="44.63996000000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">a method of choice.</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="174.12" width="44.63996000000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.11">
+    <title stroke="black" stroke-width="1.0">4.11/a method of choice.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="166.12" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="285.723" y="204.81" width="16.638450999999975" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.15">
+    <title stroke="black" stroke-width="1.0">4.15/Energy</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="173.797" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="287.028" y="212.478" width="48.795045000000016" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.17">
+    <title stroke="black" stroke-width="1.0">4.17/Energy can be seen as</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="181.465" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="220.146" width="37.517179999999996" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.20">
+    <title stroke="black" stroke-width="1.0">4.20/the present-time</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.723" y="204.81" width="16.638450999999975" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Energy</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="227.823" width="37.657624000000055" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.23">
+    <title stroke="black" stroke-width="1.0">4.23/enabler selecting</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="235.49099999999999" width="40.33951300000007" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.26">
+    <title stroke="black" stroke-width="1.0">4.26/some of the many</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="287.028" y="212.478" width="48.795045000000016" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Energy can be seen as</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="243.158" width="44.525513000000046" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.29">
+    <title stroke="black" stroke-width="1.0">4.29/potential actions by</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="250.83599999999998" width="46.98251300000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.4.31">
+    <title stroke="black" stroke-width="1.0">4.31/meeting their energy</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="258.50300000000004" width="45.74296000000004" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.34">
+    <title stroke="black" stroke-width="1.0">4.34/requirements. Thus,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="220.146" width="37.517179999999996" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">the present-time</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="266.18100000000004" width="46.052512000000036" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.36">
+    <title stroke="black" stroke-width="1.0">4.36/each timed localized</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="273.848" width="38.402108" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.39">
+    <title stroke="black" stroke-width="1.0">4.39/specific potential</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="281.516" width="42.29881100000006" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.41">
+    <title stroke="black" stroke-width="1.0">4.41/action pattern that</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="227.823" width="37.657624000000055" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">enabler selecting</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="289.19300000000004" width="47.87873400000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.43">
+    <title stroke="black" stroke-width="1.0">4.43/has been enabled can</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="296.86100000000005" width="48.11881100000005" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.45">
+    <title stroke="black" stroke-width="1.0">4.45/be seen as an implicit</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="304.52900000000005" width="46.48351200000002" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.47">
+    <title stroke="black" stroke-width="1.0">4.47/name (usually called</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="235.49099999999999" width="40.33951300000007" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">some of the many</title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="312.206" width="39.06796000000003" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.49">
+    <title stroke="black" stroke-width="1.0">4.49/“historic event”).</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="319.874" width="46.124513000000036" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.51">
+    <title stroke="black" stroke-width="1.0">4.51/Energy is temporary</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="327.54200000000003" width="37.850513000000035" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.53">
+    <title stroke="black" stroke-width="1.0">4.53/storage as it only</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="243.158" width="44.525513000000046" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">potential actions by</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="250.83599999999998" width="46.98251300000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">meeting their energy</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="258.50300000000004" width="45.74296000000004" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">requirements. Thus,</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="266.18100000000004" width="46.052512000000036" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">each timed localized</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="273.848" width="38.402108" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">specific potential</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="281.516" width="42.29881100000006" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">action pattern that</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="289.19300000000004" width="47.87873400000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">has been enabled can</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="296.86100000000005" width="48.11881100000005" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">be seen as an implicit</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="304.52900000000005" width="46.48351200000002" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">name (usually called</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="312.206" width="39.06796000000003" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“historic event”).</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="319.874" width="46.124513000000036" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Energy is temporary</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="327.54200000000003" width="37.850513000000035" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">storage as it only</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="291.393" y="335.21900000000005" width="35.67496" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">exists in transit.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="327.21900000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="334.887" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="285.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="291.393" y="335.21900000000005" width="35.67496" height="5.678999999999974" fill="red" opacity="0.2" class="cell.4.55">
+    <title stroke="black" stroke-width="1.0">4.55/exists in transit.</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="346.491" y="89.736" width="45.83195599999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Labels in transition</title>
+  <g class="col.5">
+   <rect stroke="black" stroke-width="1.0" x="346.491" y="89.736" width="45.83195599999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.0">
+    <title stroke="black" stroke-width="1.0">5.0/Labels in transition</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="97.413" width="18.324131000000023" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">systems</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="97.413" width="18.324131000000023" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.1">
+    <title stroke="black" stroke-width="1.0">5.1/systems</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="347.796" y="105.081" width="46.08851200000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Names of nodes and</title>
+   <rect stroke="black" stroke-width="1.0" x="347.796" y="105.081" width="46.08851200000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.2">
+    <title stroke="black" stroke-width="1.0">5.2/Names of nodes and</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="112.749" width="31.45218" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">actions define</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="112.749" width="31.45218" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.3">
+    <title stroke="black" stroke-width="1.0">5.3/actions define</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="120.426" width="42.31704500000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">implicitly the links</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="120.426" width="42.31704500000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.4">
+    <title stroke="black" stroke-width="1.0">5.4/implicitly the links</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="128.094" width="34.31018" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">that govern the</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="128.094" width="34.31018" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.5">
+    <title stroke="black" stroke-width="1.0">5.5/that govern the</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="135.762" width="30.30830499999996" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">simulation of</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="135.762" width="30.30830499999996" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.6">
+    <title stroke="black" stroke-width="1.0">5.6/simulation of</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="143.439" width="47.49804499999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">concurrent processes</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="143.439" width="47.49804499999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.7">
+    <title stroke="black" stroke-width="1.0">5.7/concurrent processes</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="151.107" width="44.046959999999956" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">that might interact.</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="151.107" width="44.046959999999956" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.8">
+    <title stroke="black" stroke-width="1.0">5.8/that might interact.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="158.784" width="46.83662399999997" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">It can be challenging</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="158.784" width="46.83662399999997" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.9">
+    <title stroke="black" stroke-width="1.0">5.9/It can be challenging</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="166.452" width="36.96881100000002" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">to track relevant</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="166.452" width="36.96881100000002" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.10">
+    <title stroke="black" stroke-width="1.0">5.10/to track relevant</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="174.12" width="47.552179999999964" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">names when they are</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="174.12" width="47.552179999999964" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.11">
+    <title stroke="black" stroke-width="1.0">5.11/names when they are</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="181.797" width="46.163959999999975" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">created dynamically.</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="181.797" width="46.163959999999975" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.12">
+    <title stroke="black" stroke-width="1.0">5.12/created dynamically.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="173.797" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="346.491" y="204.809" width="30.33635499999997" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.15">
+    <title stroke="black" stroke-width="1.0">5.15/Coordinates,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="181.465" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="212.477" width="27.471131000000014" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.17">
+    <title stroke="black" stroke-width="1.0">5.17/alternatives</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.491" y="204.809" width="30.33635499999997" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Coordinates,</title>
+   <rect stroke="black" stroke-width="1.0" x="347.796" y="220.145" width="44.814193000000046" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.20">
+    <title stroke="black" stroke-width="1.0">5.20/Physics defines four</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="227.822" width="30.400304999999946" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.23">
+    <title stroke="black" stroke-width="1.0">5.23/basic types of</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="212.477" width="27.471131000000014" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">alternatives</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="235.49" width="33.731044999999995" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.26">
+    <title stroke="black" stroke-width="1.0">5.26/implicit names</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="243.158" width="36.91095999999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.29">
+    <title stroke="black" stroke-width="1.0">5.29/(timed position,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="250.835" width="34.65895999999998" height="5.679000000000002" fill="red" opacity="0.2" class="cell.5.31">
+    <title stroke="black" stroke-width="1.0">5.31/content matter,</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="347.796" y="220.145" width="44.814193000000046" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Physics defines four</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="258.50300000000004" width="31.549511999999993" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.34">
+    <title stroke="black" stroke-width="1.0">5.34/potential, and</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="266.18" width="40.71895999999998" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.36">
+    <title stroke="black" stroke-width="1.0">5.36/executed actions).</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="273.848" width="31.32917999999995" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.39">
+    <title stroke="black" stroke-width="1.0">5.39/These run the</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="227.822" width="30.400304999999946" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">basic types of</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="281.516" width="39.328179999999975" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.41">
+    <title stroke="black" stroke-width="1.0">5.41/physical Universe</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="289.19300000000004" width="42.55219299999999" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.43">
+    <title stroke="black" stroke-width="1.0">5.43/and suffice also for</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="296.86100000000005" width="25.144811000000004" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.45">
+    <title stroke="black" stroke-width="1.0">5.45/concurrent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="235.49" width="33.731044999999995" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">implicit names</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="304.52900000000005" width="39.11895999999996" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.47">
+    <title stroke="black" stroke-width="1.0">5.47/Networks Traffic.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="312.206" width="41.142044999999996" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.49">
+    <title stroke="black" stroke-width="1.0">5.49/The implicit types</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="319.874" width="41.87930499999999" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.51">
+    <title stroke="black" stroke-width="1.0">5.51/enable infinities of</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="243.158" width="36.91095999999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">(timed position,</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="327.54200000000003" width="40.96951200000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.53">
+    <title stroke="black" stroke-width="1.0">5.53/combined derived</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="335.21900000000005" width="35.92318" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.55">
+    <title stroke="black" stroke-width="1.0">5.55/names for more</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="250.835" width="34.65895999999998" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">content matter,</title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="342.887" width="47.56319300000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.57">
+    <title stroke="black" stroke-width="1.0">5.57/complex patterns (or</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="258.50300000000004" width="31.549511999999993" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">potential, and</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="266.18" width="40.71895999999998" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">executed actions).</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="273.848" width="31.32917999999995" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">These run the</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="281.516" width="39.328179999999975" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">physical Universe</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="289.19300000000004" width="42.55219299999999" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">and suffice also for</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="296.86100000000005" width="25.144811000000004" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">concurrent</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="304.52900000000005" width="39.11895999999996" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Networks Traffic.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="312.206" width="41.142044999999996" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">The implicit types</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="319.874" width="41.87930499999999" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">enable infinities of</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="327.54200000000003" width="40.96951200000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">combined derived</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="335.21900000000005" width="35.92318" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">names for more</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="342.887" width="47.56319300000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">complex patterns (or</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="352.17" y="350.555" width="19.978959999999972" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">“traits”).</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="346.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="352.17" y="350.555" width="19.978959999999972" height="5.678999999999974" fill="red" opacity="0.2" class="cell.5.59">
+    <title stroke="black" stroke-width="1.0">5.59/“traits”).</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="407.259" y="89.736" width="48.634131000000025" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Tracking bugs, typos</title>
+  <g class="col.6">
+   <rect stroke="black" stroke-width="1.0" x="407.259" y="89.736" width="48.634131000000025" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.0">
+    <title stroke="black" stroke-width="1.0">6.0/Tracking bugs, typos</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="408.573" y="97.413" width="44.25773400000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">If minor changes in</title>
+   <rect stroke="black" stroke-width="1.0" x="408.573" y="97.413" width="44.25773400000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.1">
+    <title stroke="black" stroke-width="1.0">6.1/If minor changes in</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="105.081" width="44.19619300000005" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">names create major</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="105.081" width="44.19619300000005" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.2">
+    <title stroke="black" stroke-width="1.0">6.2/names create major</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="112.749" width="31.505043" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">effects and no</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="112.749" width="31.505043" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.3">
+    <title stroke="black" stroke-width="1.0">6.3/effects and no</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="120.426" width="39.49019300000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">support exists for</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="120.426" width="39.49019300000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.4">
+    <title stroke="black" stroke-width="1.0">6.4/support exists for</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="128.094" width="45.77773400000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">catching typos, then</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="128.094" width="45.77773400000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.5">
+    <title stroke="black" stroke-width="1.0">6.5/catching typos, then</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="135.762" width="44.92718000000002" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">naming bugs rewire</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="135.762" width="44.92718000000002" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.6">
+    <title stroke="black" stroke-width="1.0">6.6/naming bugs rewire</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="143.439" width="45.721180000000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">networks to become</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="143.439" width="45.721180000000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.7">
+    <title stroke="black" stroke-width="1.0">6.7/networks to become</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="151.107" width="26.144960000000026" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">misleading.</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="151.107" width="26.144960000000026" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.8">
+    <title stroke="black" stroke-width="1.0">6.8/misleading.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="158.784" width="26.549811000000034" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Concurrent</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="158.784" width="26.549811000000034" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.9">
+    <title stroke="black" stroke-width="1.0">6.9/Concurrent</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="166.452" width="45.31719300000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">networks are harder</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="166.452" width="45.31719300000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.10">
+    <title stroke="black" stroke-width="1.0">6.10/networks are harder</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="174.12" width="25.811305000000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">to debug, if</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="174.12" width="25.811305000000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.11">
+    <title stroke="black" stroke-width="1.0">6.11/to debug, if</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="181.797" width="32.054733999999996" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">identifiers can</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="181.797" width="32.054733999999996" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.12">
+    <title stroke="black" stroke-width="1.0">6.12/identifiers can</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="189.465" width="37.04762400000004" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">change meaning</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="189.465" width="37.04762400000004" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.13">
+    <title stroke="black" stroke-width="1.0">6.13/change meaning</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="197.133" width="31.70895999999999" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">with contexts.</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="197.133" width="31.70895999999999" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.14">
+    <title stroke="black" stroke-width="1.0">6.14/with contexts.</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.259" y="204.809" width="40.255131000000006" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Delineation bugs</title>
+   <rect stroke="black" stroke-width="1.0" x="407.259" y="204.809" width="40.255131000000006" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.15">
+    <title stroke="black" stroke-width="1.0">6.15/Delineation bugs</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="196.809" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="408.573" y="212.476" width="44.66781100000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.17">
+    <title stroke="black" stroke-width="1.0">6.17/Lower level implicit</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="408.573" y="212.476" width="44.66781100000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Lower level implicit</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="220.144" width="41.71118000000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.20">
+    <title stroke="black" stroke-width="1.0">6.20/names like relative</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="204.476" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="227.821" width="30.03973400000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.23">
+    <title stroke="black" stroke-width="1.0">6.23/positions can</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="204.477" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="235.489" width="46.123042999999996" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.26">
+    <title stroke="black" stroke-width="1.0">6.26/generate attempts to</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="220.144" width="41.71118000000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">names like relative</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="243.157" width="34.94104500000003" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.29">
+    <title stroke="black" stroke-width="1.0">6.29/access elements</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="212.144" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="250.83399999999997" width="45.42630500000001" height="5.679000000000002" fill="red" opacity="0.2" class="cell.6.31">
+    <title stroke="black" stroke-width="1.0">6.31/beyond the limits of</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="212.145" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="258.502" width="43.71604500000001" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.34">
+    <title stroke="black" stroke-width="1.0">6.34/an array; such bugs</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="227.821" width="30.03973400000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">positions can</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="266.17900000000003" width="42.866512" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.36">
+    <title stroke="black" stroke-width="1.0">6.36/can be hard to find</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="219.821" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="273.84700000000004" width="43.67451199999999" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.39">
+    <title stroke="black" stroke-width="1.0">6.39/without automated</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="219.822" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="281.51500000000004" width="18.017045000000053" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.41">
+    <title stroke="black" stroke-width="1.0">6.41/help. As</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="235.489" width="46.123042999999996" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">generate attempts to</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="289.192" width="45.014733999999976" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.43">
+    <title stroke="black" stroke-width="1.0">6.43/communicators can</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="227.489" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="296.86" width="27.500513000000012" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.45">
+    <title stroke="black" stroke-width="1.0">6.45/dynamically</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="227.49" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="304.528" width="48.11881100000005" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.47">
+    <title stroke="black" stroke-width="1.0">6.47/(re)name anything at</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="243.157" width="34.94104500000003" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">access elements</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="312.20500000000004" width="33.30604500000004" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.49">
+    <title stroke="black" stroke-width="1.0">6.49/will, naming is</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="235.157" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="319.87300000000005" width="32.97451300000006" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.51">
+    <title stroke="black" stroke-width="1.0">6.51/superinfinitely</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="250.83399999999997" width="45.42630500000001" height="5.679000000000002" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">beyond the limits of</title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="327.54100000000005" width="41.931043999999986" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.53">
+    <title stroke="black" stroke-width="1.0">6.53/complex and extra</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="242.83399999999997" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="335.218" width="39.61519300000003" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.55">
+    <title stroke="black" stroke-width="1.0">6.55/care is needed for</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="242.835" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="342.886" width="47.77017999999998" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.57">
+    <title stroke="black" stroke-width="1.0">6.57/agreeing on the same</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="258.502" width="43.71604500000001" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">an array; such bugs</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="250.502" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="266.17900000000003" width="42.866512" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">can be hard to find</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="258.17900000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="258.18" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="273.84700000000004" width="43.67451199999999" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">without automated</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="265.84700000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="281.51500000000004" width="18.017045000000053" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">help. As</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="273.51500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="289.192" width="45.014733999999976" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">communicators can</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="281.192" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="296.86" width="27.500513000000012" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">dynamically</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="288.86" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="304.528" width="48.11881100000005" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">(re)name anything at</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="296.528" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="312.20500000000004" width="33.30604500000004" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">will, naming is</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="304.20500000000004" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="319.87300000000005" width="32.97451300000006" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">superinfinitely</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="311.87300000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="327.54100000000005" width="41.931043999999986" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">complex and extra</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="319.54100000000005" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="335.218" width="39.61519300000003" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">care is needed for</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="327.218" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="342.886" width="47.77017999999998" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">agreeing on the same</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="334.886" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="412.938" y="350.55400000000003" width="28.96096" height="5.678999999999974" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">delineations.</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="407.0" y="342.55400000000003" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="412.938" y="350.55400000000003" width="28.96096" height="5.678999999999974" fill="red" opacity="0.2" class="cell.6.59">
+    <title stroke="black" stroke-width="1.0">6.59/delineations.</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.633" y="361.828" width="418.4538" height="107.58700000000005" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 11]}{[7.97 x 11]}{[normal x 11]}{[null x 11]} //Note: Columns highlight parallels between the modes of computing given in rows, such as (imperative) Structured Commanding, Functional Form Filling, Ontological Dictionary Defining, Logical Solution Isolating, Concurrent Network Traffic, and the Physics World (matter– energy in space– time). This very foundational view enables a new perspective on the role of names in each mode of computing and the opportunities and dangers names present for all programmers. While proofs show that infinite time and resources allow each mode of computing to accomplish any task another mode can do, in practice each mode greatly simplifies some types of tasks, but not others. Names were chosen to provide a fresh perspective on these tasks, some of which are particularly fundamental to computing (Structured Commanding, Form Filling, Solution Isolating, and Network Traffic). Most general-purpose languages combine aspects from these fundamental modes of computing to facilitate the efficient implementation of diverse complex scenarios, but support for some aspects is often retrofitted or limited. A more streamlined and thorough integration of fundamental modes of computing could simplify programming and the construction of many derived modes of computing such as Ontology Computing (derivable from Form Filling) or simulating the Physics World (derivable from Network Traffic). </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 11]}{[7.97 x 11]}{[normal x 11]}{[null x 11]} //Note: Columns highlight parallels between the modes of computing given in rows, such as (imperative) Structured Commanding, Functional Form Filling, Ontological Dictionary Defining, Logical Solution Isolating, Concurrent Network Traffic, and the Physics World (matter– energy in space– time). This very foundational view enables a new perspective on the role of names in each mode of computing and the opportunities and dangers names present for all programmers. While proofs show that infinite time and resources allow each mode of computing to accomplish any task another mode can do, in practice each mode greatly simplifies some types of tasks, but not others. Names were chosen to provide a fresh perspective on these tasks, some of which are particularly fundamental to computing (Structured Commanding, Form Filling, Solution Isolating, and Network Traffic). Most general-purpose languages combine aspects from these fundamental modes of computing to facilitate the efficient implementation of diverse complex scenarios, but support for some aspects is often retrofitted or limited. A more streamlined and thorough integration of fundamental modes of computing could simplify programming and the construction of many derived modes of computing such as Ontology Computing (derivable from Form Filling) or simulating the Physics World (derivable from Network Traffic). </title>
   </rect>
  </g>
 </svg>

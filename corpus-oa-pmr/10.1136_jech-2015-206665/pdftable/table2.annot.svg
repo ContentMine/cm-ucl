@@ -3875,10 +3875,18 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="LHOBCB+AdvOT6520a694" svgx:width="218.0" transform="matrix(0.0,-1.0,1.0,0.0,-127.42993,1122.2793)" x="497.425" y="624.855" font-size="7.0" font-family="Helvetica" font-weight="normal" id="text7758" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="LHOBCB+AdvOT6520a694" svgx:width="479.0" transform="matrix(0.0,-1.0,1.0,0.0,-125.90393,1120.7533)" x="497.425" y="623.329" font-size="7.0" font-family="Helvetica" font-weight="normal" id="text7760" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="LHOBCB+AdvOT6520a694" svgx:width="239.0" transform="matrix(0.0,-1.0,1.0,0.0,-122.55103,1117.40039)" x="497.425" y="619.976" font-size="7.0" font-family="Helvetica" font-weight="normal" id="text7762" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2"/>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
+  </rect>
  </g>
 </svg>

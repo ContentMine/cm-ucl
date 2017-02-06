@@ -332,113 +332,125 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="BIDOLF+AdvP159C" svgx:width="552.0" x="327.692" y="200.597" font-size="7.97" font-family="Helvetica" font-weight="normal" id="text8843" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="BIDOLF+AdvP159C" svgx:width="552.0" x="332.091" y="200.597" font-size="7.97" font-family="Helvetica" font-weight="normal" id="text8845" xmlns:svgx="http://www.xml-cml.org/schema/svgx">5</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="BIDOLF+AdvP159C" svgx:width="281.0" x="336.491" y="200.597" font-size="7.97" font-family="Helvetica" font-weight="normal" id="text8847" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="302.91" y="58.605000000000004" width="227.24543999999997" height="17.89099999999999" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="379.0" y="86.668" width="131.0" height="40.285" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="302.911" y="137.748" width="204.39600000000002" height="26.906000000000006" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="302.912" y="172.671" width="227.20244000000008" height="27.926000000000016" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="302.91" y="58.605000000000004" width="227.24543999999997" height="17.89099999999999" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 3]}{[7.97 x 3]}{[normal x 3]}{[null x 3]} //Table 5 Multivariate logistic regression to access predictors for motor outcome </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="302.91" y="58.605000000000004" width="227.24543999999997" height="17.89099999999999" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="379.0" y="86.668" width="131.0" height="40.285" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="302.911" y="137.748" width="204.39600000000002" height="26.906000000000006" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="302.912" y="172.671" width="227.20244000000008" height="27.926000000000016" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="302.91" y="58.605000000000004" width="227.24543999999997" height="17.89099999999999" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 3]}{[7.97 x 3]}{[normal x 3]}{[null x 3]} //Table 5 Multivariate logistic regression to access predictors for motor outcome </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="380.0" y="103.908" width="20.0" height="23.045" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Odds // ratio // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Odds // ratio // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="411.0" y="103.908" width="28.0" height="23.045" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">P value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/P value // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="450.0" y="103.908" width="20.0" height="23.045" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Odds // ratio // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Odds // ratio // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="481.0" y="103.908" width="27.0" height="23.045" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">P value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/P value // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="379.0" y="86.668" width="62.0" height="17.239999999999995" fill="green" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="449.0" y="86.668" width="61.0" height="17.239999999999995" fill="green" opacity="0.2"/>
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="379.0" y="86.668" width="62.0" height="17.239999999999995" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="449.0" y="86.668" width="61.0" height="17.239999999999995" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>
+  </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="302.0" y="137.748" width="67.0" height="26.906000000000006" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">MI at admission // rFA corona radiata // Haematoma size // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/MI at admission // rFA corona radiata // Haematoma size // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="380.0" y="137.748" width="20.0" height="26.906000000000006" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">1.092 // 0.204 // 0.922 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/1.092 // 0.204 // 0.922 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="414.0" y="137.748" width="24.0" height="26.906000000000006" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">0.001* // 0.408 // 0.094 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/0.001* // 0.408 // 0.094 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="450.0" y="137.748" width="20.0" height="26.906000000000006" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">1.100 // 2.458 // 1.063 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/1.100 // 2.458 // 1.063 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="483.0" y="137.748" width="24.0" height="26.906000000000006" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">0.000* // 0.689 // 0.210 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/0.000* // 0.689 // 0.210 // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="302.911" y="137.748" width="56.472440000000006" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">MI at admission</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="302.911" y="137.748" width="56.472440000000006" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/MI at admission</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="302.912" y="147.216" width="66.44844000000006" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">rFA corona radiata</title>
+   <rect stroke="black" stroke-width="1.0" x="302.912" y="147.216" width="66.44844000000006" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.1">
+    <title stroke="black" stroke-width="1.0">0.1/rFA corona radiata</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="302.912" y="156.684" width="59.629440000000045" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Haematoma size</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="380.636" y="137.748" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.092</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="380.636" y="147.216" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.204</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="380.636" y="156.684" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.922</title>
+   <rect stroke="black" stroke-width="1.0" x="302.912" y="156.684" width="59.629440000000045" height="7.969999999999999" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/Haematoma size</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="414.764" y="137.748" width="23.773000000000025" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.001*</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="380.636" y="137.748" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/1.092</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="415.614" y="147.216" width="19.837440000000072" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.408</title>
+   <rect stroke="black" stroke-width="1.0" x="380.636" y="147.216" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.1">
+    <title stroke="black" stroke-width="1.0">1.1/0.204</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="415.614" y="156.684" width="19.83844000000005" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.094</title>
-   </rect>
-  </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="450.37" y="137.748" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.100</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="450.367" y="147.216" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">2.458</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="450.367" y="156.684" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">1.063</title>
+   <rect stroke="black" stroke-width="1.0" x="380.636" y="156.684" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/0.922</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="483.535" y="137.748" width="23.77199999999999" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.000*</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="414.764" y="137.748" width="23.773000000000025" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/0.001*</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="483.701" y="147.216" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.689</title>
+   <rect stroke="black" stroke-width="1.0" x="415.614" y="147.216" width="19.837440000000072" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.1">
+    <title stroke="black" stroke-width="1.0">2.1/0.408</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="483.701" y="156.684" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">0.210</title>
+   <rect stroke="black" stroke-width="1.0" x="415.614" y="156.684" width="19.83844000000005" height="7.969999999999999" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/0.094</title>
+   </rect>
+  </g>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="450.37" y="137.748" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.3.0">
+    <title stroke="black" stroke-width="1.0">3.0/1.100</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="450.367" y="147.216" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/2.458</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="450.367" y="156.684" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/1.063</title>
+   </rect>
+  </g>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="483.535" y="137.748" width="23.77199999999999" height="7.969999999999999" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/0.000*</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="483.701" y="147.216" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/0.689</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="483.701" y="156.684" width="19.837440000000015" height="7.969999999999999" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/0.210</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="302.912" y="172.671" width="227.20244000000008" height="27.926000000000016" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[Helvetica x 3]}{[7.97 x 3]}{[normal x 3]}{[null x 3]} //MI: Motricity index; rFA: the ratio of fractional anisotropy of the affected side to the unaffected side. * Pv0.05. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 3]}{[7.97 x 3]}{[normal x 3]}{[null x 3]} //MI: Motricity index; rFA: the ratio of fractional anisotropy of the affected side to the unaffected side. * Pv0.05. </title>
   </rect>
  </g>
 </svg>

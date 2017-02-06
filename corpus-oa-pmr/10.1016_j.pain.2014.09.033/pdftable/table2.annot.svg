@@ -717,182 +717,139 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="NJIKJL+AdvGulliv-R" svgx:width="604.0" x="322.045" y="528.527" font-size="6.461" font-family="TimesNewRoman" font-weight="normal" id="text6244" xmlns:svgx="http://www.xml-cml.org/schema/svgx">u</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="NJIKJL+AdvGulliv-R" svgx:width="593.0" x="326.0" y="528.527" font-size="6.461" font-family="TimesNewRoman" font-weight="normal" id="text6246" xmlns:svgx="http://www.xml-cml.org/schema/svgx">p</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="NJIKJL+AdvGulliv-R" svgx:width="239.0" x="329.883" y="528.527" font-size="6.461" font-family="TimesNewRoman" font-weight="normal" id="text6248" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.52" y="437.84900000000005" width="336.83216" height="14.936999999999955" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="51.024" y="460.61199999999997" width="502.997444" height="6.461000000000013" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="51.024" y="473.25399999999996" width="484.00699999999995" height="15.022000000000048" fill="cyan" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="42.52" y="496.328" width="520.001166" height="32.19900000000007" fill="blue" opacity="0.2"/>
- </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="42.52" y="437.84900000000005" width="336.83216" height="14.936999999999955" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 3]}{[6.376 x 2, 4.508]}{[normal x 2, bold]}{[null x 3]} //Table 2 a Increase of TRPV4 and pERK coexpressing TG neurons innervating the whisker pad skin in response to formalin. </title>
+ <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.52" y="437.84900000000005" width="336.83216" height="14.936999999999955" fill="yellow" opacity="0.2" class="table.title">
+   <title stroke="black" stroke-width="1.0">table.title</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="51.024" y="460.61199999999997" width="502.997444" height="6.461000000000013" fill="red" opacity="0.2" class="table.header">
+   <title stroke="black" stroke-width="1.0">table.header</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="51.024" y="473.25399999999996" width="484.00699999999995" height="15.022000000000048" fill="cyan" opacity="0.2" class="table.body">
+   <title stroke="black" stroke-width="1.0">table.body</title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="42.52" y="496.328" width="520.001166" height="32.19900000000007" fill="blue" opacity="0.2" class="table.footer">
+   <title stroke="black" stroke-width="1.0">table.footer</title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="42.52" y="437.84900000000005" width="336.83216" height="14.936999999999955" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 3]}{[6.376 x 2, 4.508]}{[normal x 2, bold]}{[null x 3]} //Table 2 a Increase of TRPV4 and pERK coexpressing TG neurons innervating the whisker pad skin in response to formalin. </title>
+  </rect>
+ </g>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="460.61199999999997" width="31.0" height="6.461000000000013" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Treatment // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Treatment // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="137.0" y="460.61199999999997" width="36.0" height="6.461000000000013" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TRPV4/total // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/TRPV4/total // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="217.0" y="460.61199999999997" width="32.0" height="6.461000000000013" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">pERK/total // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/pERK/total // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="305.0" y="460.61199999999997" width="23.0" height="6.461000000000013" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">FB/total // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/FB/total // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="381.0" y="460.61199999999997" width="65.0" height="6.461000000000013" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TRPV4 + pERK/TRPV4 // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/TRPV4 + pERK/TRPV4 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="486.0" y="460.61199999999997" width="68.0" height="6.461000000000013" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TRPV4 + pERK + FB/FB // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/TRPV4 + pERK + FB/FB // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="473.25399999999996" width="47.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">Normal saline // // Formalin 5 min // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Normal saline // // Formalin 5 min // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="137.0" y="473.25399999999996" width="41.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">32.15 ± 1.02% // // 33.72 ± 0.56% // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/32.15 ± 1.02% // // 33.72 ± 0.56% // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="217.0" y="473.25399999999996" width="41.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">5.44 ± 0.57% // // 15.54 ± 0.73% // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/5.44 ± 0.57% // // 15.54 ± 0.73% // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="258.0" y="473.25399999999996" width="8.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // ⁄⁄⁄ // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/ // ⁄⁄⁄ // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="305.0" y="473.25399999999996" width="37.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">6.53 ± 1.21% // // 6.88 ± 0.73% // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/6.53 ± 1.21% // // 6.88 ± 0.73% // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="381.0" y="473.25399999999996" width="41.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">5.67 ± 1.08% // // 10.35 ± 0.46% // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/5.67 ± 1.08% // // 10.35 ± 0.46% // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="422.0" y="473.25399999999996" width="6.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0"> // ⁄⁄ // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/ // ⁄⁄ // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="486.0" y="473.25399999999996" width="49.0" height="15.022000000000048" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">11.25 ± 0.83% // ⁄⁄⁄ // 18.04 ± 0.61% // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 7/11.25 ± 0.83% // ⁄⁄⁄ // 18.04 ± 0.61% // // </title>
   </rect>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="51.024" y="473.25399999999996" width="42.37671999999999" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Normal saline</title>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <g class="col.0">
+   <rect stroke="black" stroke-width="1.0" x="51.024" y="473.25399999999996" width="42.37671999999999" height="6.461000000000013" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/Normal saline</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="51.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="51.024" y="481.81399999999996" width="47.099444000000005" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">Formalin 5 min</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="51.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="51.024" y="481.81399999999996" width="47.099444000000005" height="6.461000000000013" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/Formalin 5 min</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="137.537" y="473.25399999999996" width="40.62412499999999" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">32.15 ± 1.02%</title>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="137.537" y="473.25399999999996" width="40.62412499999999" height="6.461000000000013" fill="red" opacity="0.2" class="cell.1.0">
+    <title stroke="black" stroke-width="1.0">1.0/32.15 ± 1.02%</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.538" y="481.81399999999996" width="40.62412499999999" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">33.72 ± 0.56%</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="137.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="137.538" y="481.81399999999996" width="40.62412499999999" height="6.461000000000013" fill="red" opacity="0.2" class="cell.1.2">
+    <title stroke="black" stroke-width="1.0">1.2/33.72 ± 0.56%</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="217.644" y="473.25399999999996" width="36.77012500000001" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">5.44 ± 0.57%</title>
+  <g class="col.2">
+   <rect stroke="black" stroke-width="1.0" x="217.644" y="473.25399999999996" width="36.77012500000001" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.0">
+    <title stroke="black" stroke-width="1.0">2.0/5.44 ± 0.57%</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="217.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="217.645" y="481.81399999999996" width="40.624124999999964" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">15.54 ± 0.73%</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="217.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="217.645" y="481.81399999999996" width="40.624124999999964" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.2">
+    <title stroke="black" stroke-width="1.0">2.2/15.54 ± 0.73%</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="258.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="258.293" y="480.933" width="8.354000000000042" height="4.507999999999981" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">⁄⁄⁄</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="258.0" y="472.933" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="258.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.3">
+   <rect stroke="black" stroke-width="1.0" x="258.293" y="480.933" width="8.354000000000042" height="4.507999999999981" fill="red" opacity="0.2" class="cell.3.1">
+    <title stroke="black" stroke-width="1.0">3.1/⁄⁄⁄</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="305.178" y="473.25399999999996" width="36.89812499999999" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">6.53 ± 1.21%</title>
+  <g class="col.4">
+   <rect stroke="black" stroke-width="1.0" x="305.178" y="473.25399999999996" width="36.89812499999999" height="6.461000000000013" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/6.53 ± 1.21%</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="305.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="305.178" y="481.815" width="36.82612499999999" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">6.88 ± 0.73%</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="305.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="305.178" y="481.815" width="36.82612499999999" height="6.461000000000013" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/6.88 ± 0.73%</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="381.544" y="473.25399999999996" width="36.769124999999974" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">5.67 ± 1.08%</title>
+  <g class="col.5">
+   <rect stroke="black" stroke-width="1.0" x="381.544" y="473.25399999999996" width="36.769124999999974" height="6.461000000000013" fill="red" opacity="0.2" class="cell.5.0">
+    <title stroke="black" stroke-width="1.0">5.0/5.67 ± 1.08%</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="381.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="381.543" y="481.815" width="40.51112499999999" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">10.35 ± 0.46%</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="381.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="381.543" y="481.815" width="40.51112499999999" height="6.461000000000013" fill="red" opacity="0.2" class="cell.5.2">
+    <title stroke="black" stroke-width="1.0">5.2/10.35 ± 0.46%</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="422.0" y="465.25399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="422.135" y="480.933" width="5.868000000000052" height="4.507999999999981" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">⁄⁄</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="422.0" y="472.933" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="422.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+  <g class="col.6">
+   <rect stroke="black" stroke-width="1.0" x="422.135" y="480.933" width="5.868000000000052" height="4.507999999999981" fill="red" opacity="0.2" class="cell.6.1">
+    <title stroke="black" stroke-width="1.0">6.1/⁄⁄</title>
    </rect>
   </g>
-  <g>
-   <rect stroke="black" stroke-width="1.0" x="486.028" y="473.25399999999996" width="40.625125000000025" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">11.25 ± 0.83%</title>
+  <g class="col.7">
+   <rect stroke="black" stroke-width="1.0" x="486.028" y="473.25399999999996" width="40.625125000000025" height="6.461000000000013" fill="red" opacity="0.2" class="cell.7.0">
+    <title stroke="black" stroke-width="1.0">7.0/11.25 ± 0.83%</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="526.677" y="480.933" width="8.353999999999928" height="4.507999999999981" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">⁄⁄⁄</title>
+   <rect stroke="black" stroke-width="1.0" x="526.677" y="480.933" width="8.353999999999928" height="4.507999999999981" fill="red" opacity="0.2" class="cell.7.1">
+    <title stroke="black" stroke-width="1.0">7.1/⁄⁄⁄</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="486.028" y="481.815" width="40.56812500000001" height="6.461000000000013" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0">18.04 ± 0.61%</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="486.0" y="473.81399999999996" width="2.53125" height="8.0" fill="red" opacity="0.2">
-    <title stroke="black" stroke-width="1.0"> </title>
+   <rect stroke="black" stroke-width="1.0" x="486.028" y="481.815" width="40.56812500000001" height="6.461000000000013" fill="red" opacity="0.2" class="cell.7.2">
+    <title stroke="black" stroke-width="1.0">7.2/18.04 ± 0.61%</title>
    </rect>
   </g>
  </g>
- <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+ <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.52" y="496.328" width="520.001166" height="32.19900000000007" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">{[TimesNewRoman x 9]}{[6.461 x 6, 4.508 x 3]}{[normal x 9]}{[null x 9]} //TG = trigeminal ganglion. a Quantification illustrates the increase for TRPV4-pERK coexpressing TG neurons of all TRPV4 expressing neurons, also the increase for whisker pad-innervating TRPV4- ⁄⁄ ⁄⁄⁄ pERK coexpressing neurons of all whisker pad-innervating neurons in response to formalin ( P &lt; .01 and P &lt; .001 vs normal saline, 2-tailed t test). Note the unchanged percentage of TRPV4-expressing neurons and fast blue (FB)-labeled neurons; n = 4 mice/group. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 9]}{[6.461 x 6, 4.508 x 3]}{[normal x 9]}{[null x 9]} //TG = trigeminal ganglion. a Quantification illustrates the increase for TRPV4-pERK coexpressing TG neurons of all TRPV4 expressing neurons, also the increase for whisker pad-innervating TRPV4- ⁄⁄ ⁄⁄⁄ pERK coexpressing neurons of all whisker pad-innervating neurons in response to formalin ( P &lt; .01 and P &lt; .001 vs normal saline, 2-tailed t test). Note the unchanged percentage of TRPV4-expressing neurons and fast blue (FB)-labeled neurons; n = 4 mice/group. </title>
   </rect>
  </g>
 </svg>
