@@ -23,14 +23,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M42.009 760.175 L42.009 772.647 L63.326 772.647 L63.326 760.175 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#e5e5e5" stroke-width="0.0" d="M42.009 432.15 L288.623 432.15 L288.623 336.793 L42.009 336.793 Z"/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#727272" stroke-width="0.0" d="M42.009 371.148 L288.623 371.148 L288.623 336.792 L42.009 336.792 Z"/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#e5e5e5" stroke-width="0.0" d="M42.009 573.825 L288.623 573.825 L288.623 456.414 L42.009 456.414 Z"/>

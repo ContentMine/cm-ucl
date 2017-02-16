@@ -53,7 +53,7 @@
         basefont="FAVEIE+MinionPro-BoldIt"
         bold="false" italic="true" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1038_srep37826/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1038_srep37826/fulltext.pdf"
     pageCount="8">
         <page num="1"/>
         <page num="2"/>

@@ -3062,7 +3062,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="47.157" y="29.03" width="491.2920000000001" height="57.986999999999995" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[8.5 x 2]}{[bold, normal]}{[NORMAL, null]} // t able3. Betacoefficients(β)andoddsratios(ORs)with95%confidenceintervals(95%CI)forassociationsbetweenPFASandorganochlorines andindicesoffetalgrowth(Norway:N=265,Sweden:N=159) </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2, TimesNewRoman]}{[8.5 x 2, 12.0]}{[bold x 2, normal]}{[null, italic, NORMAL]} // ^{} t able3. Betacoefficients(β)andoddsratios(ORs)with95%confidenceintervals(95%CI)forassociationsbetweenPFASandorganochlorines andindicesoffetalgrowth(Norway:N=265,Sweden:N=159) </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -3659,7 +3659,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="47.154" y="345.469" width="499.58400000000006" height="70.08699999999999" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 10]}{[7.0 x 4, 4.081 x 4, 8.5 x 2]}{[normal x 9, bold]}{[null x 9, NORMAL]} //a 2 Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),parity(1or2),smokingstatusatconception(0,1–9,&gt;10cig/d),interpregnancy b 2 interval(&lt;18,19–60,&gt;60mo)andoffspringsex(male/female). Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),smokingstatus atconception(0,1–9,&gt;10cig/d),andinterpregnancyinterval(&lt;18,19–60,&gt;60mo). HCB,hexachlorobenzene;PCB,polychlorinatedbiphenyl;PFOA,perfluorooctanoate;PFOS,perfluoroctanesulfonate. t able4. Betacoefficients(β)andoddsratios(ORs)with95%confidenceintervals(95%CI)forassociationsbetweenPFOAandindicesoffetal growthinSwedenbyoffspringsex(N=159) </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 10]}{[4.081 x 4, 7.0 x 4, 8.5 x 2]}{[normal x 9, bold]}{[null x 9, NORMAL]} //^{a} Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),parity(1or2),smokingstatusatconception(0,1–9,&gt;10cig/d),interpregnancy ^{2} interval(&lt;18,19–60,&gt;60mo)andoffspringsex(male/female). Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),smokingstatus ^{b} 2 atconception(0,1–9,&gt;10cig/d),andinterpregnancyinterval(&lt;18,19–60,&gt;60mo). HCB,hexachlorobenzene;PCB,polychlorinatedbiphenyl;PFOA,perfluorooctanoate;PFOS,perfluoroctanesulfonate. t able4. Betacoefficients(β)andoddsratios(ORs)with95%confidenceintervals(95%CI)forassociationsbetweenPFOAandindicesoffetal growthinSwedenbyoffspringsex(N=159) </title>
   </rect>
  </g>
 </svg>

@@ -79,7 +79,7 @@
         fontencoding="WinAnsiEncoding" basefont="EPKNDE+AdvP4980F"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1371_journal.pbio.1001952/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1371_journal.pbio.1001952/fulltext.pdf"
     pageCount="16">
         <page num="1"/>
         <page num="2"/>

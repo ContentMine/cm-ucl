@@ -347,7 +347,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="36.0" y="74.05399999999999" width="352.73600000000005" height="9.228000000000009" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 3]}{[8.0 x 2, 5.656]}{[bold x 3]}{[null x 3]} //-/- Table 1. General and iron parameters in 6 months old control (C6M) and Hfe (H6M) male mice. </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 3]}{[8.0 x 2, 5.656]}{[bold x 3]}{[null x 3]} //Table 1. General and iron parameters in 6 months old control (C6M) and Hfe ^{-/-} (H6M) male mice. </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">

@@ -379,10 +379,10 @@
  <path fill="none" clip-path="url(#clipPath1)" stroke="#b30838" stroke-width="0.25" id="path9261" d="M476.097 128.731 L262.332 128.731 L262.332 258.204 L476.097 258.204 Z"/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#b30838" stroke-width="0.25" id="path9263" d="M262.332 128.731 Z"/> 
  <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="250.86" y="126.11000000000001" width="216.60499999999996" height="30.99599999999998" fill="yellow" opacity="0.2" class="table.title">
+  <rect stroke="black" stroke-width="1.0" x="250.86" y="126.11000000000001" width="216.60499999999996" height="36.64599999999999" fill="yellow" opacity="0.2" class="table.title">
    <title stroke="black" stroke-width="1.0">table.title</title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="250.866" y="155.756" width="208.73299999999998" height="78.352" fill="red" opacity="0.2" class="table.header">
+  <rect stroke="black" stroke-width="1.0" x="250.866" y="159.104" width="208.73299999999998" height="75.00399999999999" fill="red" opacity="0.2" class="table.header">
    <title stroke="black" stroke-width="1.0">table.header</title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="250.859" y="236.106" width="227.626" height="515.0" fill="cyan" opacity="0.2" class="table.body">
@@ -393,35 +393,66 @@
   </rect>
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="250.86" y="126.11000000000001" width="216.60499999999996" height="30.99599999999998" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 3]}{[7.0 x 3]}{[bold x 3]}{[null x 3]} // Healthsystem Societalperspective perspective </title>
+  <rect stroke="black" stroke-width="1.0" x="250.86" y="126.11000000000001" width="216.60499999999996" height="36.64599999999999" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 6]}{[7.0 x 6]}{[normal x 3, bold x 3]}{[null x 6]} // _{Healthsystem} Societalperspective _{perspective} _{CostperQALYgained} $9333 $957 </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="268.0" y="155.756" width="140.0" height="78.352" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/CostperQALYgained // at3months($) // Costperremission // at3months($) // CostperBDIpoint // improvementat3months($) // Dataaremean(95%CI).BDI=BeckDepressionInventory. // </title>
+  <rect stroke="black" stroke-width="1.0" x="268.0" y="159.104" width="140.0" height="75.00399999999999" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/_{at3months($)} // _{Costperremission} // _{at3months($)} // _{CostperBDIpoint} // ^{improvementat3months($)} // _{Dataaremean(95%CI).BDI=BeckDepressionInventory.} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="354.0" y="155.756" width="45.0" height="78.352" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/$9333 // (3862to28169) // $181 // (87to335) // $6 // (3to12) // </title>
+  <rect stroke="black" stroke-width="1.0" x="354.0" y="159.104" width="45.0" height="75.00399999999999" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/(3862to28169) // $181 // (87to335) // $6 // (3to12) // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="411.0" y="155.756" width="48.0" height="78.352" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/$957 // (–6145to14418) // $19 // (–133to229) // $1 // (–5to8) // </title>
+  <rect stroke="black" stroke-width="1.0" x="411.0" y="159.104" width="48.0" height="75.00399999999999" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/(–6145to14418) // $19 // (–133to229) // $1 // (–5to8) // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="383.389" y="352.91872" width="95.096" height="398.18728" fill="yellow" opacity="0.2"/>
+ </g>
  <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="268.0" y="236.106" width="191.0" height="515.0" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Table4:Cost-effectivenessanalysesfromhealthsystemandsocietal // perspectives(2015internationaldollars) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/^{Table4:Cost-effectivenessanalysesfromhealthsystemandsocietal} // ^{perspectives(2015internationaldollars)} // ^{} // ^{} // // ^{} // ^{} // ^{} // _{} // ^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="475.0" y="236.106" width="1.0" height="515.0" fill="red" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // // // // _{} // // // // // // </title>
   </rect>
  </g>
  <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <g class="col.0">
    <rect stroke="black" stroke-width="1.0" x="268.126" y="236.41" width="190.88600000000002" height="7.0" fill="red" opacity="0.2" class="cell.0.0">
-    <title stroke="black" stroke-width="1.0">0.0/Table4:Cost-effectivenessanalysesfromhealthsystemandsocietal</title>
+    <title stroke="black" stroke-width="1.0">0.0/^{Table4:Cost-effectivenessanalysesfromhealthsystemandsocietal}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="268.126" y="245.412" width="114.01799999999997" height="7.0" fill="red" opacity="0.2" class="cell.0.1">
-    <title stroke="black" stroke-width="1.0">0.1/perspectives(2015internationaldollars)</title>
+    <title stroke="black" stroke-width="1.0">0.1/^{perspectives(2015internationaldollars)}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="272.217" y="352.91872" width="1.2284999999999968" height="9.999999999763531E-4" fill="red" opacity="0.2" class="cell.0.2">
+    <title stroke="black" stroke-width="1.0">0.2/^{}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="272.217" y="387.65471" width="1.2284999999999968" height="9.999999999763531E-4" fill="red" opacity="0.2" class="cell.0.3">
+    <title stroke="black" stroke-width="1.0">0.3/^{}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="272.217" y="409.29320000000007" width="1.2284999999999968" height="9.999999999763531E-4" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/^{}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="394.291" y="502.38" width="0.8686440000000175" height="4.596000000000004" fill="red" opacity="0.2" class="cell.0.6">
+    <title stroke="black" stroke-width="1.0">0.6/^{}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="400.656" y="509.57399999999996" width="1.2284999999999968" height="6.5" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/^{}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="278.661" y="525.733" width="1.1340000000000146" height="7.0" fill="red" opacity="0.2" class="cell.0.8">
+    <title stroke="black" stroke-width="1.0">0.8/_{}</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="271.737" y="534.483" width="1.288000000000011" height="7.0" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/^{}</title>
+   </rect>
+  </g>
+  <g class="col.1">
+   <rect stroke="black" stroke-width="1.0" x="475.65" y="401.633" width="0.8686440000000175" height="4.596000000000004" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/_{}</title>
    </rect>
   </g>
  </g>

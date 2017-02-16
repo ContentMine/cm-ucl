@@ -581,7 +581,53 @@
    <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[7.0 x 2]}{[bold x 2]}{[null x 2]} //Intervention(n=5297) Control(n=5246) </title>
   </rect>
  </g>
- <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <rect stroke="black" stroke-width="1.0" x="189.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/_{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="213.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/_{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="240.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/_{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="263.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/_{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="289.0" y="230.954" width="2.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/_{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="313.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/_{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="198.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 17/_{} // _{} // _{} // _{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="245.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 18/_{} // _{} // _{} // _{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="293.0" y="230.954" width="2.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 19/_{} // _{} // _{} // _{} // ^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="200.0" y="230.954" width="2.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 47/^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="237.0" y="230.954" width="2.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 48/^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="270.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 49/^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="277.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 50/^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="283.0" y="230.954" width="2.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 51/^{} // </title>
+  </rect>
+  <rect stroke="black" stroke-width="1.0" x="305.0" y="230.954" width="1.0" height="520.1400000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 52/^{} // </title>
+  </rect>
+ </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="123.0" y="155.473" width="432.0" height="20.035999999999973" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERBOX: 0</title>

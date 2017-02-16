@@ -1142,7 +1142,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.019" y="480.126" width="280.756" height="9.0" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[9.0 x 2]}{[bold, normal]}{[null x 2]} //Table 3 Alcohol outcomes at baseline and postintervention, by treatment group </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[9.0 x 2]}{[normal, bold]}{[null x 2]} //Table 3 Alcohol outcomes at baseline and postintervention, by treatment group </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">

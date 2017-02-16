@@ -707,7 +707,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.024" y="449.765" width="80.66951599999999" height="8.468000000000018" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[bold, normal]}{[null x 2]} //Table 1 Study outline </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[normal, bold]}{[null x 2]} //Table 1 Study outline </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -739,11 +739,11 @@
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
  <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="186.066" y="531.7460000000001" width="347.26402399999995" height="76.20499999999993" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="186.066" y="619.376" width="347.26402399999995" height="60.52999999999997" fill="red" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="186.066" y="620.653" width="347.26402399999995" height="59.25299999999993" fill="red" opacity="0.2"/>
  </g>
  <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="519.043" width="148.0" height="160.86299999999994" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Behavioural and demographic measures // Structured interview (DSM ADHD rating) // Connors Parent Rating Scale // a // Global Clinical Impression scale // // Current health and medical questionnaire // Demographics questionnaire // Omega-3 intake/food diary // Cognitive and psychophysiological measures // a // COMPASS cognitive battery // // a // Test of Variables of Attention (TOVA) // // Brunel Mood Scale (BRUMS) // a // EEG resting state // // a // Steady-state topography (CPT-AXE) // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Behavioural and demographic measures // Structured interview (DSM ADHD rating) // Connors Parent Rating Scale // // Global Clinical Impression scale // ^{a} // Current health and medical questionnaire // Demographics questionnaire // Omega-3 intake/food diary // Cognitive and psychophysiological measures // // COMPASS cognitive battery // ^{a} // // Test of Variables of Attention (TOVA) // ^{a} // Brunel Mood Scale (BRUMS) // // EEG resting state // ^{a} // // Steady-state topography (CPT-AXE) // ^{a} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="232.0" y="519.043" width="6.0" height="160.86299999999994" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // X // // // // // X // X // X // // // X // // // X // // X // // // // // // // </title>
@@ -778,11 +778,11 @@
    <rect stroke="black" stroke-width="1.0" x="59.475" y="544.4480000000001" width="95.029516" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.2">
     <title stroke="black" stroke-width="1.0">0.2/Connors Parent Rating Scale</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="166.677" y="555.823" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.3">
-    <title stroke="black" stroke-width="1.0">0.3/a</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="59.475" y="557.1500000000001" width="107.34251599999999" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.4">
     <title stroke="black" stroke-width="1.0">0.4/Global Clinical Impression scale</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="166.677" y="555.823" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/^{a}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="59.475" y="569.844" width="135.558516" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.6">
     <title stroke="black" stroke-width="1.0">0.6/Current health and medical questionnaire</title>
@@ -796,32 +796,32 @@
    <rect stroke="black" stroke-width="1.0" x="51.024" y="607.951" width="148.79417999999998" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.9">
     <title stroke="black" stroke-width="1.0">0.9/Cognitive and psychophysiological measures</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="154.828" y="619.376" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.10">
-    <title stroke="black" stroke-width="1.0">0.10/a</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="59.475" y="620.653" width="95.50400000000002" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.11">
     <title stroke="black" stroke-width="1.0">0.11/COMPASS cognitive battery</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="186.066" y="632.0749999999999" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.13">
-    <title stroke="black" stroke-width="1.0">0.13/a</title>
+   <rect stroke="black" stroke-width="1.0" x="154.828" y="619.376" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.12">
+    <title stroke="black" stroke-width="1.0">0.12/^{a}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="59.468" y="633.34" width="126.650696" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.14">
     <title stroke="black" stroke-width="1.0">0.14/Test of Variables of Attention (TOVA)</title>
    </rect>
+   <rect stroke="black" stroke-width="1.0" x="186.066" y="632.0749999999999" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.15">
+    <title stroke="black" stroke-width="1.0">0.15/^{a}</title>
+   </rect>
    <rect stroke="black" stroke-width="1.0" x="59.468" y="646.039" width="100.983696" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.16">
     <title stroke="black" stroke-width="1.0">0.16/Brunel Mood Scale (BRUMS)</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="116.901" y="657.473" width="2.616755999999995" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.17">
-    <title stroke="black" stroke-width="1.0">0.17/a</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="59.468" y="658.741" width="57.55051599999999" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.18">
     <title stroke="black" stroke-width="1.0">0.18/EEG resting state</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="180.454" y="670.1729999999999" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.20">
-    <title stroke="black" stroke-width="1.0">0.20/a</title>
+   <rect stroke="black" stroke-width="1.0" x="116.901" y="657.473" width="2.616755999999995" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.19">
+    <title stroke="black" stroke-width="1.0">0.19/^{a}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="59.475" y="671.438" width="121.04469600000002" height="8.467999999999961" fill="red" opacity="0.2" class="cell.0.21">
     <title stroke="black" stroke-width="1.0">0.21/Steady-state topography (CPT-AXE)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="180.454" y="670.1729999999999" width="2.6167560000000094" height="5.988000000000056" fill="red" opacity="0.2" class="cell.0.22">
+    <title stroke="black" stroke-width="1.0">0.22/^{a}</title>
    </rect>
   </g>
   <g class="col.1">
@@ -961,7 +961,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.024" y="690.4689999999999" width="245.45575200000002" height="23.95900000000006" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 3]}{[5.988 x 2, 8.468]}{[normal x 3]}{[null x 2, italic]} //a These items were not completed by inter-state participants AH at home, Swin at Swinburne, Prac practice day, CPT-AXE continuous performance task-AXE </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 3]}{[5.988 x 2, 8.468]}{[normal x 3]}{[null x 2, italic]} //^{a} These items were not completed by inter-state participants AH at home, Swin at Swinburne, Prac practice day, CPT-AXE continuous performance task-AXE </title>
   </rect>
  </g>
 </svg>

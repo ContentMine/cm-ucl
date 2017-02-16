@@ -1021,7 +1021,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="33.732" y="55.682" width="392.81410400000004" height="14.936999999999998" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.376 x 2]}{[bold, normal]}{[null x 2]} //Table 4 Comparison of changes in anthropometric measurements between intervention and control groups, Albany Western Australia, 2014–2015. </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.376 x 2]}{[normal, bold]}{[null x 2]} //Table 4 Comparison of changes in anthropometric measurements between intervention and control groups, Albany Western Australia, 2014–2015. </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1035,7 +1035,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Post // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="269.0" y="78.81299999999999" width="23.0" height="19.415000000000006" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/a // p value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/_{a} // p value // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="311.0" y="89.413" width="24.0" height="8.814999999999998" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/Baseline // </title>
@@ -1044,7 +1044,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/Post // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="434.0" y="78.81299999999999" width="24.0" height="19.415000000000006" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/b // p value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/_{b} // p value // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="477.0" y="78.81299999999999" width="23.0" height="19.415000000000006" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 7/c // p value // </title>
@@ -1062,13 +1062,13 @@
   </rect>
  </g>
  <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="76.535" y="129.664" width="454.89807199999996" height="0.967000000000013" fill="yellow" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="76.535" y="138.224" width="454.89807199999996" height="0.967000000000013" fill="red" opacity="0.2"/>
-  <rect stroke="black" stroke-width="1.0" x="76.535" y="146.785" width="454.89807199999996" height="0.9669999999999845" fill="yellow" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="76.535" y="129.664" width="454.89807199999996" height="9.527000000000015" fill="yellow" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="76.535" y="138.224" width="454.89807199999996" height="9.527999999999992" fill="red" opacity="0.2"/>
+  <rect stroke="black" stroke-width="1.0" x="76.535" y="146.785" width="454.89807199999996" height="7.342999999999989" fill="yellow" opacity="0.2"/>
  </g>
  <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="39.0" y="104.892" width="88.0" height="49.23599999999999" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Waist circumference (cm) // Hip (cm) // Waist-to-hip ratio (waist/hip) // d // Weight (kg) // // 2 // d // BMI (kg/m ) // d // Body fat (%) // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Waist circumference (cm) // Hip (cm) // Waist-to-hip ratio (waist/hip) // // Weight (kg) // ^{d} // // BMI (kg/m ) // ^{2} // ^{d} // Body fat (%) // ^{d} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="145.0" y="104.892" width="43.0" height="49.23599999999999" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/102.67 (13.58) // 112.38 (11.99) // 0.91 (0.08) // // 85.20 (22.60) // // // 29.55 (6.93) // // 40.20 (11.70) // </title>
@@ -1106,26 +1106,26 @@
    <rect stroke="black" stroke-width="1.0" x="39.683" y="122.013" width="87.53031200000001" height="6.376000000000005" fill="red" opacity="0.2" class="cell.0.2">
     <title stroke="black" stroke-width="1.0">0.2/Waist-to-hip ratio (waist/hip)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="75.458" y="129.664" width="2.673243999999997" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.3">
-    <title stroke="black" stroke-width="1.0">0.3/d</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="39.683" y="130.631" width="35.73631199999999" height="6.376000000000005" fill="red" opacity="0.2" class="cell.0.4">
     <title stroke="black" stroke-width="1.0">0.4/Weight (kg)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="70.98" y="138.224" width="2.578575999999998" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.6">
-    <title stroke="black" stroke-width="1.0">0.6/2</title>
+   <rect stroke="black" stroke-width="1.0" x="75.458" y="129.664" width="2.673243999999997" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.5">
+    <title stroke="black" stroke-width="1.0">0.5/^{d}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="76.535" y="138.224" width="2.673243999999997" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.7">
-    <title stroke="black" stroke-width="1.0">0.7/d</title>
+   <rect stroke="black" stroke-width="1.0" x="39.685" y="139.191" width="36.85931199999999" height="6.376000000000005" fill="red" opacity="0.2" class="cell.0.7">
+    <title stroke="black" stroke-width="1.0">0.7/BMI (kg/m )</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="39.685" y="139.191" width="36.85931199999999" height="6.376000000000005" fill="red" opacity="0.2" class="cell.0.8">
-    <title stroke="black" stroke-width="1.0">0.8/BMI (kg/m )</title>
+   <rect stroke="black" stroke-width="1.0" x="70.98" y="138.224" width="2.578575999999998" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.8">
+    <title stroke="black" stroke-width="1.0">0.8/^{2}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="74.835" y="146.785" width="2.673243999999997" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.9">
-    <title stroke="black" stroke-width="1.0">0.9/d</title>
+   <rect stroke="black" stroke-width="1.0" x="76.535" y="138.224" width="2.673243999999997" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.9">
+    <title stroke="black" stroke-width="1.0">0.9/^{d}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="39.685" y="147.75199999999998" width="35.177311999999986" height="6.376000000000005" fill="red" opacity="0.2" class="cell.0.10">
     <title stroke="black" stroke-width="1.0">0.10/Body fat (%)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="74.835" y="146.785" width="2.673243999999997" height="4.50800000000001" fill="red" opacity="0.2" class="cell.0.11">
+    <title stroke="black" stroke-width="1.0">0.11/^{d}</title>
    </rect>
   </g>
   <g class="col.1">
@@ -1291,7 +1291,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="39.118" y="159.82399999999998" width="208.489104" height="41.642000000000024" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 10]}{[6.376 x 5, 4.508 x 5]}{[normal x 10]}{[null x 10]} //a Paired t-test between baseline and post-test for the intervention group. b Paired t-test between baseline and post-test for the control group. c Independent t-test between intervention and control group at baseline. d Independent t-test between intervention and control group at re-test. d Non-parametric tests applied. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 10]}{[6.376 x 5, 4.508 x 5]}{[normal x 10]}{[null x 10]} //^{a} Paired t-test between baseline and post-test for the intervention group. ^{b} Paired t-test between baseline and post-test for the control group. ^{c} Independent t-test between intervention and control group at baseline. ^{d} Independent t-test between intervention and control group at re-test. ^{d} Non-parametric tests applied. </title>
   </rect>
  </g>
 </svg>

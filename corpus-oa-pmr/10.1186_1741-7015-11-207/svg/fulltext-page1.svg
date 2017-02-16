@@ -14,14 +14,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M56.693 710.795 L56.693 731.658 L166.224 731.658 L166.224 710.795 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#000000" stroke-width="0.0" d="M538.583 692.483 L56.693 692.483 L56.693 692.029 L538.583 692.029 Z"/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#000000" stroke-width="0.0" d="M538.583 692.483 L56.693 692.483 L56.693 692.029 L538.583 692.029 Z"/>
  <image transform="matrix(0.3271934664758227,-0.0,-0.0,0.3269999975299278,57.582000732421875,279.156982421875)" xlink:href="fulltext.p1.i1.png" x="0.0" y="0.0" width="1473.0" height="378.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>

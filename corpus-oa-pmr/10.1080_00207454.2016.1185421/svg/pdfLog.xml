@@ -95,7 +95,7 @@
         fontencoding="WinAnsiEncoding" basefont="LHOAOM+Calibri"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1080_00207454.2016.1185421/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1080_00207454.2016.1185421/fulltext.pdf"
     pageCount="9">
         <page num="1"/>
         <page num="2"/>

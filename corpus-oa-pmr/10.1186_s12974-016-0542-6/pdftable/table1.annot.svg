@@ -1447,7 +1447,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Group // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="125.0" y="426.535" width="60.0" height="26.027999999999963" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Number of axons // 2 // per 0.05 mm // ± SD // (n of optic nerves) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Number of axons // _{2} // per 0.05 mm // ± SD // (n of optic nerves) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="191.0" y="426.535" width="23.0" height="26.027999999999963" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/p vs // control // </title>
@@ -1733,7 +1733,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="59.526" y="544.7860000000001" width="633.628" height="25.074999999999932" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 5]}{[7.0 x 4, 4.949]}{[normal x 5]}{[null x 5]} //2 Analysis after 27 treatments using intermittent ocular hypertension shows the number of axons per 0.05 mm for all groups. These data illustrate the damage of optic nerves, and the number of Brn3a-positive cells indicate the overall density of retinal ganglion cells. Furthermore, the Iba1-positive cells imply the activation of microglia and immunoglobulin G (IgG) depositions, displaying the occurrence of autoantibody depositions. Brn3a, Iba1, and IgG data are given as total cell numbers per mm retina ± standard deviation (SD), and the number of animals in the analyses (n) are displayed. Statistically significant p values are highlighted in italics </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 5]}{[7.0 x 4, 4.949]}{[normal x 5]}{[null x 5]} //Analysis after 27 treatments using intermittent ocular hypertension shows the number of axons per 0.05 mm ^{2} for all groups. These data illustrate the damage of optic nerves, and the number of Brn3a-positive cells indicate the overall density of retinal ganglion cells. Furthermore, the Iba1-positive cells imply the activation of microglia and immunoglobulin G (IgG) depositions, displaying the occurrence of autoantibody depositions. Brn3a, Iba1, and IgG data are given as total cell numbers per mm retina ± standard deviation (SD), and the number of animals in the analyses (n) are displayed. Statistically significant p values are highlighted in italics </title>
   </rect>
  </g>
 </svg>

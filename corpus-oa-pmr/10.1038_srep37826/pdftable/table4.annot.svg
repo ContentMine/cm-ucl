@@ -1026,7 +1026,7 @@
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="155.0" y="518.865" width="362.0" height="46.125" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Table4. Clavien-Dindoclassificationofpost-resectioncomplicationsinpatientswithcolorectal // cancertreatedbyresection(alltypes)followedbysimodecoction+acupuncture,chewinggum, // * // † // ornointervention.Valuesshownaren(%). Simodecoction+acupuncturevs.chewinggum. Simo // ‡ // decoction+acupuncturevs.nointervention. Chewinggumvs.nointervention. // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Table4. Clavien-Dindoclassificationofpost-resectioncomplicationsinpatientswithcolorectal // cancertreatedbyresection(alltypes)followedbysimodecoction+acupuncture,chewinggum, // ornointervention.Valuesshownaren(%). Simodecoction+acupuncturevs.chewinggum. Simo // ^{*} // † // decoction+acupuncturevs.nointervention. Chewinggumvs.nointervention. // ^{‡} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">

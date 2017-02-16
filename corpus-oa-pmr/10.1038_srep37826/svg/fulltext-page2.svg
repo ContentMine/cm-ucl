@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
-  <clipPath id="clipPath2">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 782.0 L0.0 782.0 L0.0 0.0 Z"/>
-  </clipPath>
   <clipPath id="clipPath4">
    <path stroke="black" stroke-width="0.5" fill="none" d="M42.566 68.095 L42.566 133.542 L552.132 133.542 L552.132 68.095 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 782.0 L0.0 782.0 L0.0 0.0 Z"/>
   </clipPath>
   <clipPath id="clipPath1">
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L0.0 782.0 L595.0 782.0 L595.0 0.0 Z"/>
@@ -14,48 +14,40 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M42.52 68.095 L42.52 133.764 L552.756 133.764 L552.756 68.095 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#838f97" stroke-width="0.0" d="M-8.504 28.551 L595.276 28.551 L595.276 -8.866 L-8.504 -8.866 Z"/>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="712.0" x="40.638" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">w</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="712.0" x="48.208" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">w</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="712.0" x="55.778" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">w</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="264.0" x="63.055" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">.</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="527.0" x="66.145" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">n</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="490.0" x="71.865" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">a</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="347.0" x="77.215" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">t</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="518.0" x="81.135" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">u</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="335.0" x="86.765" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">r</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="498.0" x="90.565" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">e</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="264.0" x="95.995" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">.</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.0" x="99.085" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">c</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="533.0" x="103.915" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">o</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="829.0" x="109.695" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">m</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="275.0" x="118.435" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">/</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="404.0" x="121.635" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">s</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.0" x="126.125" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">c</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="232.0" x="130.955" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">i</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="498.0" x="133.725" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">e</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="527.0" x="139.15" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">n</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="347.0" x="144.87" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">t</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="232.0" x="148.79" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">i</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="318.0" x="151.56" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">f</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="232.0" x="155.19" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">i</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.0" x="157.96" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">c</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="335.0" x="162.79" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">r</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="498.0" x="166.59" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">e</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="531.0" x="172.02" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">p</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="533.0" x="177.78" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">o</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="335.0" x="183.56" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">r</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="347.0" x="187.36" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">t</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="404.0" x="191.28" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">s</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="275.0" x="195.77" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">/</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="712.0" x="40.638" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">w</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="712.0" x="48.208" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">w</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="712.0" x="55.778" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">w</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="264.0" x="63.055" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="527.0" x="66.145" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="490.0" x="71.865" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="347.0" x="77.215" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="518.0" x="81.135" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="335.0" x="86.765" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="498.0" x="90.565" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="264.0" x="95.995" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.0" x="99.085" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="533.0" x="103.915" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="829.0" x="109.695" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="275.0" x="118.435" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">/</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="404.0" x="121.635" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.0" x="126.125" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="232.0" x="130.955" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="498.0" x="133.725" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="527.0" x="139.15" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="347.0" x="144.87" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="232.0" x="148.79" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="318.0" x="151.56" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="232.0" x="155.19" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.0" x="157.96" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="335.0" x="162.79" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="498.0" x="166.59" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="531.0" x="172.02" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="533.0" x="177.78" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="335.0" x="183.56" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="347.0" x="187.36" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="404.0" x="191.28" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="275.0" x="195.77" y="22.098" font-size="10.0" font-family="Helvetica" font-weight="normal">/</text>
  <text stroke="none" fill="#838f97" clip-path="url(#clipPath2)" svgx:fontName="UJRZPA+Corbel" svgx:width="511.0" x="549.53" y="763.868" font-size="10.0" font-family="Helvetica" font-weight="normal">2</text>
  <text stroke="none" fill="#838f97" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="552.0" x="40.794" y="763.831" font-size="8.0" font-family="Helvetica" font-weight="normal">S</text>
  <text stroke="none" fill="#838f97" clip-path="url(#clipPath1)" svgx:fontName="UJRZPA+Corbel" svgx:width="438.4765625" x="45.642" y="763.831" font-size="8.0" font-family="Helvetica" font-weight="normal">c</text>

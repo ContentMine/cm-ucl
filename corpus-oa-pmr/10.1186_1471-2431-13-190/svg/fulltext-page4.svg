@@ -20,14 +20,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M56.693 710.795 L56.693 731.658 L166.224 731.658 L166.224 710.795 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#084444" stroke-width="0.0" d="M56.693 475.35 L56.693 468.037 L57.203 468.037 L57.203 475.35 "/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#084444" stroke-width="0.0" d="M56.693 475.35 L56.693 468.037 L57.203 468.037 L57.203 475.35 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#084444" stroke-width="0.0" d="M56.693 468.036 L56.75 467.526 C56.91 466.272 57.974 465.306 59.187 465.088 L59.698 465.031 L59.698 465.542 L59.244 465.598 C58.224 465.768 57.379 466.627 57.203 467.639 L57.203 468.036 "/>

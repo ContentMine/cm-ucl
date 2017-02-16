@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M505.984 178.336 L505.984 198.291 L561.883 198.291 L561.883 178.336 Z"/>
+  </clipPath>
   <clipPath id="clipPath8">
    <path stroke="black" stroke-width="0.5" fill="none" d="M470.381 61.832 L470.381 132.754 L562.564 132.754 L562.564 61.832 Z"/>
   </clipPath>
-  <clipPath id="clipPath6">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M45.388 71.98 C43.803 71.98 42.52 73.258 42.52 74.841 L42.52 115.682 C42.52 117.266 43.806 118.577 45.392 118.577 L86.239 118.577 C87.823 118.577 89.114 117.29 89.114 115.709 L89.114 74.848 C89.114 73.264 87.817 71.98 86.233 71.98 Z"/>
-  </clipPath>
-  <clipPath id="clipPath9">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M116.22 67.218 L116.22 493.321 L484.951 493.321 L484.951 67.218 Z"/>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M42.52 71.98 L42.52 137.63 L90.198 137.63 L90.198 71.98 Z"/>
   </clipPath>
   <clipPath id="clipPath3">
    <path stroke="black" stroke-width="0.5" fill="none" d="M505.984 178.336 L505.984 198.292 L561.883 198.292 L561.883 178.336 Z"/>
@@ -16,29 +16,21 @@
   <clipPath id="clipPath10">
    <path stroke="black" stroke-width="0.5" fill="none" d="M116.22 67.244 L116.22 493.322 L484.951 493.322 L484.951 67.244 Z"/>
   </clipPath>
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
-  </clipPath>
-  <clipPath id="clipPath5">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M42.52 71.98 L42.52 137.63 L90.198 137.63 L90.198 71.98 Z"/>
-  </clipPath>
-  <clipPath id="clipPath4">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M42.52 682.846 L42.52 709.378 L293.556 709.378 L293.556 682.846 Z"/>
+  <clipPath id="clipPath9">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M116.22 67.218 L116.22 493.321 L484.951 493.321 L484.951 67.218 Z"/>
   </clipPath>
   <clipPath id="clipPath7">
    <path stroke="black" stroke-width="0.5" fill="none" d="M42.52 71.98 L42.52 137.63 L90.199 137.63 L90.199 71.98 Z"/>
   </clipPath>
-  <clipPath id="clipPath2">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M505.984 178.336 L505.984 198.291 L561.883 198.291 L561.883 178.336 Z"/>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M42.52 682.846 L42.52 709.378 L293.556 709.378 L293.556 682.846 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath6">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M45.388 71.98 C43.803 71.98 42.52 73.258 42.52 74.841 L42.52 115.682 C42.52 117.266 43.806 118.577 45.392 118.577 L86.239 118.577 C87.823 118.577 89.114 117.29 89.114 115.709 L89.114 74.848 C89.114 73.264 87.817 71.98 86.233 71.98 Z"/>
+  </clipPath>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="PAFJDJ+AdvGulliv-R" svgx:width="479.0" x="42.52" y="541.17" font-size="8.077" font-family="TimesNewRoman" font-weight="normal">c</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="PAFJDJ+AdvGulliv-R" svgx:width="562.0" x="46.44" y="541.17" font-size="8.077" font-family="TimesNewRoman" font-weight="normal">o</text>

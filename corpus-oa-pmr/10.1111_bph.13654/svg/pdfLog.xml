@@ -106,7 +106,7 @@
         basefont="DHKBAN+AdvTT1f52dd2d.B"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1111_bph.13654/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1111_bph.13654/fulltext.pdf"
     pageCount="12">
         <page num="1"/>
         <page num="2"/>

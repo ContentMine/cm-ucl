@@ -826,7 +826,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.302" y="51.755" width="133.073" height="9.0" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica, TimesNewRoman]}{[9.0 x 2]}{[bold, normal]}{[null x 2]} //Table 1 Baseline characteristics </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman, Helvetica]}{[9.0 x 2]}{[normal, bold]}{[null x 2]} //Table 1 Baseline characteristics </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">

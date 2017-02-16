@@ -4,23 +4,15 @@
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M204.491 34.632 L204.491 61.051 L383.414 61.051 L383.414 34.632 Z"/>
   </clipPath>
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L576.0 0.0 L576.0 773.0 L0.0 773.0 L0.0 0.0 Z"/>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M303.024 561.025 L303.024 667.551 L540.0 667.551 L540.0 561.025 Z"/>
   </clipPath>
   <clipPath id="clipPath3">
    <path stroke="black" stroke-width="0.5" fill="none" d="M521.914 101.586 L521.914 120.635 L539.943 120.635 L539.943 101.586 Z"/>
   </clipPath>
-  <clipPath id="clipPath4">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M303.024 561.025 L303.024 667.551 L540.0 667.551 L540.0 561.025 Z"/>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L576.0 0.0 L576.0 773.0 L0.0 773.0 L0.0 0.0 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IIIMHL+AdvOTbd340f77" svgx:width="645.0" x="36.0" y="648.899" font-size="13.0" font-family="Helvetica" font-weight="normal">D</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IIIMHL+AdvOTbd340f77" svgx:width="260.0" x="44.385" y="648.899" font-size="13.0" font-family="Helvetica" font-weight="normal">I</text>

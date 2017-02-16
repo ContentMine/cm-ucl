@@ -8,14 +8,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L612.0 0.0 L612.0 792.0 L0.0 792.0 L0.0 0.0 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#2b5bf9" stroke-width="0.0" d="M469.531 111.685 L479.112 111.685 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#2b5bf9" stroke-width="0.0" d="M386.362 202.677 L396.0 202.677 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#2b5bf9" stroke-width="0.0" d="M386.305 228.699 L395.886 228.699 "/>

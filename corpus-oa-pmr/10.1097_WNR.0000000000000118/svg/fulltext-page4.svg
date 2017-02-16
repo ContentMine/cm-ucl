@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L586.0 0.0 L586.0 782.0 L0.0 782.0 L0.0 0.0 Z"/>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M44.901 321.143 L44.901 537.143 L277.909 537.143 L277.909 321.143 Z"/>
   </clipPath>
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M41.839 687.55 L41.839 726.158 L280.97 726.158 L280.97 687.55 Z"/>
   </clipPath>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L586.0 0.0 L586.0 782.0 L0.0 782.0 L0.0 0.0 Z"/>
+  </clipPath>
   <clipPath id="clipPath3">
    <path stroke="black" stroke-width="0.5" fill="none" d="M41.843 27.984 L41.843 41.647 L77.329 41.647 L77.329 27.984 Z"/>
   </clipPath>
-  <clipPath id="clipPath4">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M44.901 321.143 L44.901 537.143 L277.909 537.143 L277.909 321.143 Z"/>
-  </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OGMJDH+AdvCas540BT-R" svgx:width="541.0" x="48.813" y="231.172" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">p</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OGMJDH+AdvCas540BT-R" svgx:width="333.0" x="54.202" y="231.172" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">r</text>

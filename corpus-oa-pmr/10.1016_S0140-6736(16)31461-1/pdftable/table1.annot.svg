@@ -886,10 +886,10 @@
  <path fill="none" clip-path="url(#clipPath1)" stroke="#b30838" stroke-width="0.25" id="path8943" d="M558.3 402.171 L344.534 402.171 L344.534 751.296 L558.3 751.296 Z"/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#b30838" stroke-width="0.25" id="path8945" d="M344.534 402.171 Z"/>
  <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="333.055" y="125.61000000000001" width="227.627" height="306.44599999999997" fill="yellow" opacity="0.2" class="table.title">
+  <rect stroke="black" stroke-width="1.0" x="333.055" y="125.61000000000001" width="227.627" height="310.586" fill="yellow" opacity="0.2" class="table.title">
    <title stroke="black" stroke-width="1.0">table.title</title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="333.065" y="429.196" width="189.38299999999998" height="300.22" fill="red" opacity="0.2" class="table.header">
+  <rect stroke="black" stroke-width="1.0" x="333.065" y="434.054" width="189.38299999999998" height="295.3620000000001" fill="red" opacity="0.2" class="table.header">
    <title stroke="black" stroke-width="1.0">table.header</title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="350.329" y="738.502" width="190.50600000000003" height="40.446000000000026" fill="cyan" opacity="0.2" class="table.body">
@@ -900,19 +900,19 @@
   </rect>
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="333.055" y="125.61000000000001" width="227.627" height="306.44599999999997" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 4]}{[7.0 x 4]}{[bold x 4]}{[null x 4]} // Gentamicin Methylprednisolone (n=30) (n=30) </title>
+  <rect stroke="black" stroke-width="1.0" x="333.055" y="125.61000000000001" width="227.627" height="310.586" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 7]}{[7.0 x 7]}{[bold x 4, normal x 3]}{[null x 7]} // _{Gentamicin} Methylprednisolone _{(n=30)} (n=30) _{Age(years)} 53·3(10·8) 51·6(10·2) </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="350.0" y="429.196" width="88.0" height="300.22" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Age(years) // Sex // Male // Female // Diseaseduration(years) // Numberofattacksinthepast // 6months // Numberofattacksinthepast // 1month // VertigoSymptomScalescore // (0–60) // DizzinessHandicapInventory // score(0–100) // FunctionalLevelScalescore // (0–6) // TinnitusHandicapInventory // score(0–100) // AuralFullnessScalescore // (0–10) // Pure-toneaverage(dB) // Speechdiscrimination(%) // Caloricasymmetry(%) // Caloricdirectional // preponderance(%) // Vestibularevokedmyogenic // potentialasymmetry(%) // Utricularcentrifugation // weakness(%) // Dataaremean(SD)ornumber(%). // </title>
+  <rect stroke="black" stroke-width="1.0" x="350.0" y="434.054" width="88.0" height="295.3620000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/_{Sex} // _{Male} // _{Female} // _{Diseaseduration(years)} // _{Numberofattacksinthepast} // _{6months} // _{Numberofattacksinthepast} // 1month // VertigoSymptomScalescore // (0–60) // DizzinessHandicapInventory // score(0–100) // FunctionalLevelScalescore // (0–6) // TinnitusHandicapInventory // score(0–100) // AuralFullnessScalescore // (0–10) // Pure-toneaverage(dB) // Speechdiscrimination(%) // Caloricasymmetry(%) // Caloricdirectional // preponderance(%) // Vestibularevokedmyogenic // potentialasymmetry(%) // Utricularcentrifugation // weakness(%) // Dataaremean(SD)ornumber(%). // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="441.0" y="429.196" width="31.0" height="300.22" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/53·3(10·8) // 15(50%) // 15(50%) // 4·9(5·6) // 19·9(16·7) // 6·9(7·3) // 24·7(12·6) // 59·3(20·6) // 4·0(0·9) // 45·7(30·3) // 6·6(3·1) // 51·5(11·3) // 71·1(21·7) // 35·3(20·1) // –7·7(17·1) // 31·1(26·0) // 14·3(84·6) // </title>
+  <rect stroke="black" stroke-width="1.0" x="441.0" y="434.054" width="31.0" height="295.3620000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/15(50%) // 15(50%) // 4·9(5·6) // 19·9(16·7) // 6·9(7·3) // 24·7(12·6) // 59·3(20·6) // 4·0(0·9) // 45·7(30·3) // 6·6(3·1) // 51·5(11·3) // 71·1(21·7) // 35·3(20·1) // –7·7(17·1) // 31·1(26·0) // 14·3(84·6) // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="490.0" y="429.196" width="32.0" height="300.22" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/51·6(10·2) // 20(67%) // 10(33%) // 4·1(3·2) // 16·4(12·5) // 5·5(6·5) // 21·8(10·5) // 51·0(20·5) // 3·5(0·9) // 39·4(25·4) // 5·3(3·0) // 53·3(21·2) // 65·0(29·3) // 44·9(25·1) // –6·9(30·8) // 29·9(30·6) // 41·4(60·4) // </title>
+  <rect stroke="black" stroke-width="1.0" x="490.0" y="434.054" width="32.0" height="295.3620000000001" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/20(67%) // 10(33%) // 4·1(3·2) // 16·4(12·5) // 5·5(6·5) // 21·8(10·5) // 51·0(20·5) // 3·5(0·9) // 39·4(25·4) // 5·3(3·0) // 53·3(21·2) // 65·0(29·3) // 44·9(25·1) // –6·9(30·8) // 29·9(30·6) // 41·4(60·4) // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>

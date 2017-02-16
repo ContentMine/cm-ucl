@@ -67,7 +67,7 @@
         fontencoding="WinAnsiEncoding" basefont="MOFDLB+AdvP4C4E51"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_j.jadohealth.2012.08.009/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_j.jadohealth.2012.08.009/fulltext.pdf"
     pageCount="7">
         <page num="1"/>
         <page num="2"/>

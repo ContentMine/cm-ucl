@@ -91,7 +91,7 @@
         fontencoding="WinAnsiEncoding" basefont="DDGODD+AdvPS3D56D5"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1097_j.pain.0000000000000579/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1097_j.pain.0000000000000579/fulltext.pdf"
     pageCount="12">
         <page num="1"/>
         <page num="2"/>
@@ -103,20 +103,14 @@
             family="AdvPS586B" name="two"
             code="50">
                 <path stroke="black" fill="none"
-                d=" M 6.40625 -2.703125 L
-                1.09375 -2.703125 L 1.09375
-                -3.109375 L 6.40625 -3.109375
-                Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
             <character font="DDGBKI+AdvPS586B"
             family="AdvPS586B" name="two"
             code="50">
                 <path stroke="black" fill="none"
-                d=" M 6.40625 -2.703125 L
-                1.09375 -2.703125 L 1.09375
-                -3.109375 L 6.40625 -3.109375
-                Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
         </page>
@@ -125,20 +119,14 @@
             family="AdvPS586B" name="two"
             code="50">
                 <path stroke="black" fill="none"
-                d=" M 6.40625 -2.703125 L
-                1.09375 -2.703125 L 1.09375
-                -3.109375 L 6.40625 -3.109375
-                Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
             <character font="DDGBKI+AdvPS586B"
             family="AdvPS586B" name="two"
             code="50">
                 <path stroke="black" fill="none"
-                d=" M 6.40625 -2.703125 L
-                1.09375 -2.703125 L 1.09375
-                -3.109375 L 6.40625 -3.109375
-                Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
         </page>

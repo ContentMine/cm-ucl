@@ -1113,7 +1113,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.019" y="448.718" width="186.408" height="9.0" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[9.0 x 2]}{[bold, normal]}{[null x 2]} //Table 1 Intervention strategies by accreditation level </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[9.0 x 2]}{[normal, bold]}{[null x 2]} //Table 1 Intervention strategies by accreditation level </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1229,7 +1229,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.987" y="733.966" width="206.315571" height="8.067000000000007" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 2]}{[7.0, 4.949]}{[normal x 2]}{[null x 2]} //26 *Further detail regarding the intervention is available in the study protocol. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 2]}{[4.949, 7.0]}{[normal x 2]}{[null x 2]} //*Further detail regarding the intervention is available in the study protocol. ^{26} </title>
   </rect>
  </g>
 </svg>

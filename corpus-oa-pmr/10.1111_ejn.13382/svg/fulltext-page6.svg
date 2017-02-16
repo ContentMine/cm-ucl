@@ -5,16 +5,7 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 810.0 L0.0 810.0 L0.0 0.0 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#ffffff" stroke-width="0.0" d="M38.835 749.962 L558.992 749.962 L558.992 75.317 L38.835 75.317 Z"/>
- <image transform="matrix(0.1952084214389398,-0.0,-0.0,0.19520838399455087,87.02400207519531,75.31599426269531)" xlink:href="fulltext.p6.i1.png" x="0.0" y="0.0" width="2159.0" height="3129.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IAMNKK+AdvTNRMTSC75" svgx:width="666.0" x="38.835" y="702.907" font-size="7.97" font-family="Helvetica" font-weight="normal">F</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IAMNKK+AdvTNRMTSC75" svgx:width="291.0" x="44.143" y="702.907" font-size="7.97" font-family="Helvetica" font-weight="normal">i</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="IAMNKK+AdvTNRMTSC75" svgx:width="614.0" x="46.462" y="702.907" font-size="7.97" font-family="Helvetica" font-weight="normal">g</text>

@@ -871,10 +871,10 @@
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Change in energy // Skin irritation // // Feel colder // // Feeling hotter // Feel dizzy // Sweating // Blurred vision // Nauseous // Heart rate increased // Dry mouth // Stomach pains // Eye pains // Ear pains // Change in bowel patterns // Bruising // Change in breathing // Change in hunger // Change in thirst // Constipation // Urination // Fatigue // Stress // Anxiety // Mood // Memory // Attention // Sleep patterns // // Tremors // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="164.0" y="103.77" width="17.0" height="351.524" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/0.66 // 0.13 // a // 0.01 // // 0.08 // 0.19 // 0.53 // 0.26 // 0.63 // 0.89 // 0.34 // 0.66 // 0.50 // 0.32 // 0.90 // 0.12 // 0.73 // 0.34 // 0.71 // 0.62 // 0.37 // 0.44 // 1.00 // 0.83 // 0.08 // 0.90 // 0.73 // 0.07 // // 0.13 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/0.66 // 0.13 // // 0.01 // ^{a} // 0.08 // 0.19 // 0.53 // 0.26 // 0.63 // 0.89 // 0.34 // 0.66 // 0.50 // 0.32 // 0.90 // 0.12 // 0.73 // 0.34 // 0.71 // 0.62 // 0.37 // 0.44 // 1.00 // 0.83 // 0.08 // 0.90 // 0.73 // 0.07 // // 0.13 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="259.0" y="103.77" width="18.0" height="351.524" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/0.84 // 0.69 // // 0.48 // // 0.14 // 0.54 // 0.44 // 0.46 // 0.87 // 0.86 // 0.78 // 0.58 // 0.81 // 0.60 // 0.62 // 0.69 // 0.40 // 0.94 // 0.38 // 0.60 // 0.23 // 0.86 // 0.44 // 0.22 // 0.06 // 0.56 // 0.68 // 1.00 // b // 0.06 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/0.84 // 0.69 // // 0.48 // // 0.14 // 0.54 // 0.44 // 0.46 // 0.87 // 0.86 // 0.78 // 0.58 // 0.81 // 0.60 // 0.62 // 0.69 // 0.40 // 0.94 // 0.38 // 0.60 // 0.23 // 0.86 // 0.44 // 0.22 // 0.06 // 0.56 // 0.68 // 1.00 // // 0.06 // ^{b} // </title>
   </rect>
  </g>
  <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -971,11 +971,11 @@
    <rect stroke="black" stroke-width="1.0" x="164.404" y="116.472" width="14.591000000000008" height="8.468000000000004" fill="red" opacity="0.2" class="cell.1.1">
     <title stroke="black" stroke-width="1.0">1.1/0.13</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="178.809" y="127.905" width="2.6167560000000094" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.1.2">
-    <title stroke="black" stroke-width="1.0">1.2/a</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="164.396" y="129.175" width="14.590000000000032" height="8.46799999999999" fill="red" opacity="0.2" class="cell.1.3">
     <title stroke="black" stroke-width="1.0">1.3/0.01</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="178.809" y="127.905" width="2.6167560000000094" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.1.4">
+    <title stroke="black" stroke-width="1.0">1.4/^{a}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="164.41" y="141.869" width="14.590000000000003" height="8.46799999999999" fill="red" opacity="0.2" class="cell.1.5">
     <title stroke="black" stroke-width="1.0">1.5/0.08</title>
@@ -1135,17 +1135,17 @@
    <rect stroke="black" stroke-width="1.0" x="259.872" y="434.123" width="14.649999999999977" height="8.468000000000018" fill="red" opacity="0.2" class="cell.2.28">
     <title stroke="black" stroke-width="1.0">2.28/1.00</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="274.337" y="445.442" width="2.994000000000028" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.2.29">
-    <title stroke="black" stroke-width="1.0">2.29/b</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="259.872" y="446.82599999999996" width="14.649999999999977" height="8.468000000000018" fill="red" opacity="0.2" class="cell.2.30">
     <title stroke="black" stroke-width="1.0">2.30/0.06</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="274.337" y="445.442" width="2.994000000000028" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.2.31">
+    <title stroke="black" stroke-width="1.0">2.31/^{b}</title>
    </rect>
   </g>
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.016" y="465.741" width="238.13251599999998" height="42.492999999999995" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 6]}{[8.468 x 4, 5.988 x 2]}{[normal x 6]}{[null x 6]} //a Significant baseline difference in symptoms of feeling colder which disappeared at study’s end b Trending significance for feelings of tremors with reductions in the PCSO-524® group and increases in the placebo group </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 6]}{[8.468 x 4, 5.988 x 2]}{[normal x 6]}{[null x 6]} //^{a} Significant baseline difference in symptoms of feeling colder which disappeared at study’s end ^{b} Trending significance for feelings of tremors with reductions in the PCSO-524® group and increases in the placebo group </title>
   </rect>
  </g>
 </svg>

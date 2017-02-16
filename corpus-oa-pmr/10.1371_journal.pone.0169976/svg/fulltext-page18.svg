@@ -14,14 +14,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M37.425 242.789 L36.958 242.883 L36.577 243.141 L36.319 243.522 L36.225 243.989 L36.225 295.589 L36.319 296.057 L36.577 296.438 L36.958 296.695 L37.425 296.789 L89.025 296.789 L89.492 296.695 L89.873 296.438 L90.131 296.057 L90.225 295.589 L90.225 243.989 L90.131 243.522 L89.873 243.141 L89.492 242.883 L89.025 242.789 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <image transform="matrix(0.23994971470663629,-0.0,-0.0,0.2399777604369877,179.54649353027344,78.0094985961914)" xlink:href="fulltext.p18.i1.png" x="0.0" y="0.0" width="1652.0" height="2550.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
  <path stroke="black" clip-path="url(#clipPath2)" fill="#000000" stroke-width="0.0" d="M576.0 54.9 L36.0 54.9 L36.0 54.4 L576.0 54.4 "/>
  <image transform="matrix(0.11979071995066803,-0.0,-0.0,0.1193984830110395,36.0,27.042572021484375)" xlink:href="fulltext.p18.i2.png" x="0.0" y="0.0" width="894.0" height="198.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>

@@ -106,7 +106,7 @@
         basefont="OKLGGI+AdvOT65f8a23b.I+20"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1038_ijo.2016.206/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1038_ijo.2016.206/fulltext.pdf"
     pageCount="9">
         <page num="1"/>
         <page num="2"/>
@@ -116,15 +116,7 @@
             family="AdvTT3f84ef53" name="acute"
             code="180">
                 <path stroke="black" fill="none"
-                d=" M 0.3125 -4.234375 L
-                0.0 -3.921875 L 1.625 -2.296875
-                L 0.0 -0.671875 L 0.3125
-                -0.359375 L 1.9375 -1.984375
-                L 3.578125 -0.359375 L 3.875
-                -0.671875 L 2.25 -2.296875
-                L 3.875 -3.9375 L 3.578125
-                -4.234375 L 1.9375 -2.609375
-                Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
         </page>

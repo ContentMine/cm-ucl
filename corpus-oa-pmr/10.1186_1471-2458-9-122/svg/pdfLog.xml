@@ -85,7 +85,7 @@
         basefont="DHKHJD+Frutiger-Black"
         bold="true" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1186_1471-2458-9-122/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1186_1471-2458-9-122/fulltext.pdf"
     pageCount="7">
         <page num="1"/>
         <page num="2"/>

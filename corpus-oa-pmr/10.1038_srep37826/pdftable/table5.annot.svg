@@ -784,14 +784,8 @@
   <rect stroke="black" stroke-width="1.0" x="400.0" y="66.013" width="18.0" height="7.001999999999995" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/4(2.1) // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="441.0" y="66.013" width="52.0" height="7.001999999999995" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/* // 0.623 0.372 0.724 // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="474.0" y="66.013" width="2.0" height="7.001999999999995" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/† // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="493.0" y="66.013" width="2.0" height="7.001999999999995" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/‡ // </title>
+  <rect stroke="black" stroke-width="1.0" x="441.0" y="66.013" width="54.0" height="7.001999999999995" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/0.623 0.372 0.724 // ^{*} // † // ‡ // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
@@ -809,14 +803,8 @@
   <rect stroke="black" stroke-width="1.0" x="400.0" y="77.638" width="18.0" height="7.0" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/9(4.8) // // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="441.0" y="77.638" width="52.0" height="7.0" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/* // 0.503 0.083 0.423 // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="474.0" y="77.638" width="2.0" height="7.0" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/† // // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="493.0" y="77.638" width="2.0" height="7.0" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/‡ // // </title>
+  <rect stroke="black" stroke-width="1.0" x="441.0" y="77.638" width="54.0" height="7.0" fill="red" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/0.503 0.083 0.423 // ^{*} // † // ‡ // </title>
   </rect>
  </g>
  <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -841,27 +829,23 @@
    </rect>
   </g>
   <g class="col.4">
-   <rect stroke="black" stroke-width="1.0" x="456.655" y="77.708" width="1.838199999999972" height="4.549999999999997" fill="red" opacity="0.2" class="cell.4.0">
-    <title stroke="black" stroke-width="1.0">4.0/*</title>
+   <rect stroke="black" stroke-width="1.0" x="441.619" y="77.638" width="52.03399999999999" height="7.0" fill="red" opacity="0.2" class="cell.4.0">
+    <title stroke="black" stroke-width="1.0">4.0/0.503 0.083 0.423</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="441.619" y="77.638" width="52.03399999999999" height="7.0" fill="red" opacity="0.2" class="cell.4.1">
-    <title stroke="black" stroke-width="1.0">4.1/0.503 0.083 0.423</title>
+   <rect stroke="black" stroke-width="1.0" x="456.655" y="77.708" width="1.838199999999972" height="4.549999999999997" fill="red" opacity="0.2" class="cell.4.1">
+    <title stroke="black" stroke-width="1.0">4.1/^{*}</title>
    </rect>
-  </g>
-  <g class="col.5">
-   <rect stroke="black" stroke-width="1.0" x="474.959" y="77.708" width="1.7244499999999903" height="4.549999999999997" fill="red" opacity="0.2" class="cell.5.0">
-    <title stroke="black" stroke-width="1.0">5.0/†</title>
+   <rect stroke="black" stroke-width="1.0" x="474.959" y="77.708" width="1.7244499999999903" height="4.549999999999997" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/†</title>
    </rect>
-  </g>
-  <g class="col.6">
-   <rect stroke="black" stroke-width="1.0" x="493.655" y="77.708" width="1.7244499999999903" height="4.549999999999997" fill="red" opacity="0.2" class="cell.6.0">
-    <title stroke="black" stroke-width="1.0">6.0/‡</title>
+   <rect stroke="black" stroke-width="1.0" x="493.655" y="77.708" width="1.7244499999999903" height="4.549999999999997" fill="red" opacity="0.2" class="cell.4.3">
+    <title stroke="black" stroke-width="1.0">4.3/‡</title>
    </rect>
   </g>
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="158.763" y="89.263" width="336.61645" height="7.0" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 8]}{[7.0 x 5, 4.55 x 3]}{[normal x 8]}{[null x 8]} //* † ‡ Woundinfection 4(2.2) 5(2.6) 6(3.2) 1.000 0.751 0.753 </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 8]}{[7.0 x 5, 4.55 x 3]}{[normal x 8]}{[null x 8]} //Woundinfection 4(2.2) 5(2.6) 6(3.2) 1.000 0.751 0.753 ^{*} † ‡ </title>
   </rect>
  </g>
 </svg>

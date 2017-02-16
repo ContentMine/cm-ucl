@@ -326,7 +326,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.024" y="54.501999999999995" width="233.23069600000002" height="8.468000000000004" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[bold, normal]}{[null x 2]} //Table 2 Demographic characteristics of study participants (N = 112) </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[normal, bold]}{[null x 2]} //Table 2 Demographic characteristics of study participants (N = 112) </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -474,7 +474,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.007" y="187.639" width="238.13036" height="18.393" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 2]}{[8.468 x 2]}{[normal x 2]}{[italic, null]} //yrs years, n number, cm centimetre, kg kilogram, R right handed, L left handed, L/R left and right handed </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 2]}{[8.468 x 2]}{[normal x 2]}{[null, italic]} //yrs years, n number, cm centimetre, kg kilogram, R right handed, L left handed, L/R left and right handed </title>
   </rect>
  </g>
 </svg>

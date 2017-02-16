@@ -1057,7 +1057,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="56.693" y="85.459" width="341.36876" height="10.331999999999994" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[6.363, 9.0]}{[bold x 2]}{[null x 2]} //a Table 5 Glycaemic load and glycaemic index: between treatment group comparison </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[9.0, 6.363]}{[bold x 2]}{[null x 2]} //Table 5 Glycaemic load and glycaemic index: between treatment group comparison ^{a} </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1068,16 +1068,16 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Time point // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="184.0" y="100.943" width="53.0" height="21.153000000000006" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Lifestyle advice // b // (n = 945) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Lifestyle advice // _{b} // (n = 945) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="256.0" y="100.943" width="47.0" height="21.153000000000006" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/Standard // care (n = 928) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="303.0" y="100.943" width="3.0" height="21.153000000000006" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/b // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/_{b} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="325.0" y="100.943" width="92.0" height="21.153000000000006" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/Adjusted treatment × time // c // interaction P-value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/Adjusted treatment × time // _{c} // interaction P-value // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="436.0" y="113.026" width="4.0" height="9.070000000000007" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/P // </title>
@@ -1229,7 +1229,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="56.693" y="238.357" width="481.717" height="42.02599999999998" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 8]}{[7.0 x 5, 4.949 x 3]}{[normal x 8]}{[null x 8]} //a Values are mean ± SD and treatment effects are differences in means (with 95% confidence interval and P-value) across all time points estimated from a linear mixed effects model including treatment and time, adjusted for centre, parity and BMI. b Includes women who had a live birth, and who answered one or more questionnaires; excludes questionnaires with &gt;25% missing responses, or where there was an unrealistic energy intake reported (&lt;4,500 or &gt;20,000 kJ). c Where the treatment × time interaction was not statistically significant, it was dropped from the model. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 8]}{[7.0 x 5, 4.949 x 3]}{[normal x 8]}{[null x 8]} //^{a} Values are mean ± SD and treatment effects are differences in means (with 95% confidence interval and P-value) across all time points estimated from a linear mixed effects model including treatment and time, adjusted for centre, parity and BMI. ^{b} Includes women who had a live birth, and who answered one or more questionnaires; excludes questionnaires with &gt;25% missing responses, or where there was an unrealistic energy intake reported (&lt;4,500 or &gt;20,000 kJ). ^{c} Where the treatment × time interaction was not statistically significant, it was dropped from the model. </title>
   </rect>
  </g>
 </svg>

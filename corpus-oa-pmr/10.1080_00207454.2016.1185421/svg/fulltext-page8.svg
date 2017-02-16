@@ -1,71 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
-  <clipPath id="clipPath19">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M502.783 326.371 L502.783 333.751 L509.683 333.751 L509.683 326.371 Z"/>
-  </clipPath>
-  <clipPath id="clipPath3">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
-  </clipPath>
-  <clipPath id="clipPath13">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L609.0 0.0 L609.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
-  </clipPath>
-  <clipPath id="clipPath18">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M239.767 602.716 L239.767 610.096 L246.667 610.096 L246.667 602.716 Z"/>
-  </clipPath>
-  <clipPath id="clipPath10">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
-  </clipPath>
-  <clipPath id="clipPath11">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 537.126 L320.2 538.026 L533.8 538.026 L533.8 537.126 Z"/>
-  </clipPath>
   <clipPath id="clipPath12">
    <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 580.026 L100.6 580.926 L314.2 580.926 L314.2 580.026 Z"/>
   </clipPath>
-  <clipPath id="clipPath6">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
-  </clipPath>
-  <clipPath id="clipPath7">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 451.326 L320.2 452.226 L533.8 452.226 L533.8 451.326 Z"/>
-  </clipPath>
-  <clipPath id="clipPath15">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M263.714 636.63 L263.714 646.846 L289.67 646.846 L289.67 636.63 Z"/>
-  </clipPath>
-  <clipPath id="clipPath17">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M239.272 327.37 L239.272 334.75 L246.172 334.75 L246.172 327.37 Z"/>
-  </clipPath>
-  <clipPath id="clipPath5">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
-  </clipPath>
-  <clipPath id="clipPath2">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M14.4 801.1 L14.4 823.1 L619.4 823.1 L619.4 801.1 Z"/>
-  </clipPath>
-  <clipPath id="clipPath8">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 494.226 L100.6 495.126 L314.2 495.126 L314.2 494.226 Z"/>
+  <clipPath id="clipPath19">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M502.783 326.371 L502.783 333.751 L509.683 333.751 L509.683 326.371 Z"/>
   </clipPath>
   <clipPath id="clipPath9">
    <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 494.226 L320.2 495.126 L533.8 495.126 L533.8 494.226 Z"/>
   </clipPath>
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
+  <clipPath id="clipPath7">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 451.326 L320.2 452.226 L533.8 452.226 L533.8 451.326 Z"/>
   </clipPath>
   <clipPath id="clipPath14">
    <path stroke="black" stroke-width="0.5" fill="none" d="M61.128 483.612 L61.128 692.248 L297.101 692.248 L297.101 483.612 Z"/>
   </clipPath>
+  <clipPath id="clipPath6">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
+  </clipPath>
+  <clipPath id="clipPath8">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 494.226 L100.6 495.126 L314.2 495.126 L314.2 494.226 Z"/>
+  </clipPath>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath15">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M263.714 636.63 L263.714 646.846 L289.67 646.846 L289.67 636.63 Z"/>
+  </clipPath>
+  <clipPath id="clipPath18">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M239.767 602.716 L239.767 610.096 L246.667 610.096 L246.667 602.716 Z"/>
+  </clipPath>
+  <clipPath id="clipPath13">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L609.0 0.0 L609.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath17">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M239.272 327.37 L239.272 334.75 L246.172 334.75 L246.172 327.37 Z"/>
+  </clipPath>
+  <clipPath id="clipPath10">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M14.4 801.1 L14.4 823.1 L619.4 823.1 L619.4 801.1 Z"/>
+  </clipPath>
   <clipPath id="clipPath4">
    <path stroke="black" stroke-width="0.5" fill="none" d="M115.92 147.476 L115.92 148.476 L115.92 149.476 L540.72 149.476 L540.72 148.476 L540.72 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath11">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 537.126 L320.2 538.026 L533.8 538.026 L533.8 537.126 Z"/>
   </clipPath>
   <clipPath id="clipPath16">
    <path stroke="black" stroke-width="0.5" fill="none" d="M495.61 702.085 L495.61 709.465 L502.51 709.465 L502.51 702.085 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
+  </clipPath>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="556.0" x="375.669" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">N</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="444.0" x="380.653" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">a</text>

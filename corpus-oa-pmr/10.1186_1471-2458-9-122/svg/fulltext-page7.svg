@@ -125,14 +125,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M312.14 589.92 L312.14 740.76 L554.24 740.76 L554.24 589.92 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#ffffff" stroke-width="0.0" d="M312.14 589.92 L554.24 589.92 L554.24 740.76 L312.14 740.76 "/>
  <path fill="none" clip-path="url(#clipPath40)" stroke="#000000" stroke-width="1.0" d="M312.945 591.184 L553.722 591.184 L553.722 740.644 L312.945 740.644 Z"/>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="DHKHGB+Frutiger-Roman" svgx:width="556.0" x="340.661" y="604.852" font-size="9.5" font-family="Helvetica" font-weight="normal">P</text>

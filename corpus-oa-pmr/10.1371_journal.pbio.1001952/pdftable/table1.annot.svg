@@ -1206,7 +1206,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.063" y="61.374" width="472.938678" height="19.454" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[8.966 x 2]}{[bold, normal]}{[null x 2]} //Table 1. Summary of the clinical phenotype of the three affected patients with DMXL2 mutations (see Figure 1 for patient numbering). </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[8.966 x 2]}{[normal, bold]}{[null x 2]} //Table 1. Summary of the clinical phenotype of the three affected patients with DMXL2 mutations (see Figure 1 for patient numbering). </title>
   </rect>
  </g>
  <g class="header.columnBoxes"/>
@@ -1226,7 +1226,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.061" y="119.152" width="457.88969399999996" height="280.97200000000004" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 47, TimesNewRoman x 45]}{[6.974 x 91, 4.931]}{[normal x 92]}{[null x 92]} //Age (years) 21.4 20.3 16.8 Weight at birth g (SDS) 2,700 (22.2) 2,810 (20.9) 3,060 (21.1) Height at birth cm (SDS) 46 (22.5) 47 (21.1) 49 (20.8) Postnatal growth retardation + + + Height cm (SDS) 159 (22.8) 165 (21.8) 156 (22.5) 2 Body mass index kg/m (SDS) 17.4 (21.9) 21.3 (20.2) 15.2 (22.0) Head circumference, cm (SDS) 54.5 (21.9) 56 (20.8) 51.5 (22.5) Ataxia + + + Dystonia + + + Demyelinating sensorimotor polyneuropathy + + + Pyramidal syndrome + + + Motor delay + + + Dysarthria + + + Partial frontal alopecia + + + Intellectual disability (moderate) + + + White matter disease (moderate subcortical, temporal) + + + Hypoglycemia during childhood (asymptomatic) + + + Nonautoimmune insulin-dependent diabetes mellitus + + + Hypogonadotropic hypogonadism + + + Low testicular volume (normal values in young adults .12 ml) 5 ml 7 ml 8 ml Central hypothyroidism + + + Hypoplastic pituitary gland + 2 2 Other features Progressive hearing loss </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 47, TimesNewRoman x 45]}{[6.974 x 91, 4.931]}{[normal x 92]}{[null x 92]} //Age (years) 21.4 20.3 16.8 Weight at birth g (SDS) 2,700 (22.2) 2,810 (20.9) 3,060 (21.1) Height at birth cm (SDS) 46 (22.5) 47 (21.1) 49 (20.8) Postnatal growth retardation + + + Height cm (SDS) 159 (22.8) 165 (21.8) 156 (22.5) Body mass index kg/m ^{2} (SDS) 17.4 (21.9) 21.3 (20.2) 15.2 (22.0) Head circumference, cm (SDS) 54.5 (21.9) 56 (20.8) 51.5 (22.5) Ataxia + + + Dystonia + + + Demyelinating sensorimotor polyneuropathy + + + Pyramidal syndrome + + + Motor delay + + + Dysarthria + + + Partial frontal alopecia + + + Intellectual disability (moderate) + + + White matter disease (moderate subcortical, temporal) + + + Hypoglycemia during childhood (asymptomatic) + + + Nonautoimmune insulin-dependent diabetes mellitus + + + Hypogonadotropic hypogonadism + + + Low testicular volume (normal values in young adults .12 ml) 5 ml 7 ml 8 ml Central hypothyroidism + + + Hypoplastic pituitary gland + 2 2 Other features Progressive hearing loss </title>
   </rect>
  </g>
 </svg>

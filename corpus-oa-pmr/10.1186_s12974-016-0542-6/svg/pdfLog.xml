@@ -111,7 +111,7 @@
         basefont="XsynsnOregonLDOBook" bold="false"
         italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1186_s12974-016-0542-6/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1186_s12974-016-0542-6/fulltext.pdf"
     pageCount="16">
         <page num="1"/>
         <page num="2"/>

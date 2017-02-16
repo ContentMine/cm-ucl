@@ -1817,7 +1817,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.024" y="54.501999999999995" width="421.885516" height="8.468000000000004" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[bold, normal]}{[null x 2]} //Table 7 Test of Variables of Attention (TOVA) target-infrequent means and standard deviations for non-diagnosed subsample </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[normal, bold]}{[null x 2]} //Table 7 Test of Variables of Attention (TOVA) target-infrequent means and standard deviations for non-diagnosed subsample </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1837,7 +1837,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/QTR 2 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="461.0" y="89.048" width="27.0" height="22.90299999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/a // p value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/p value // ^{a} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="510.0" y="89.048" width="34.0" height="22.90299999999999" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/Cohen’s d // </title>
@@ -2407,7 +2407,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.024" y="587.5709999999999" width="123.38436000000002" height="9.730000000000132" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 2]}{[8.468, 5.988]}{[normal x 2]}{[null x 2]} //a Bonferroni multiple comparison test </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 2]}{[5.988, 8.468]}{[normal x 2]}{[null x 2]} //^{a} Bonferroni multiple comparison test </title>
   </rect>
  </g>
 </svg>

@@ -2254,7 +2254,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="36.0" y="55.581" width="469.50884" height="10.968999999999994" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[6.717, 9.5]}{[normal x 2]}{[null x 2]} //a Table 2. Crude Mortality and HRs for Counseled versus Non-Counseled Smokers by Length of Follow-up (n=13,815) </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[6.717, 9.5]}{[normal x 2]}{[null x 2]} //Table 2. Crude Mortality and HRs for Counseled versus Non-Counseled Smokers by Length of Follow-up (n=13,815) ^{a} </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -2268,16 +2268,16 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Non-counseled // smokers, n (%) // (n=8,120) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="231.0" y="92.033" width="31.0" height="36.76899999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/b // p-value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/p-value // ^{b} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="288.0" y="92.033" width="44.0" height="36.76899999999999" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/Unadjusted // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="378.0" y="92.033" width="37.0" height="36.76899999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/d // Adjusted // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/Adjusted // ^{d} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="466.0" y="92.033" width="35.0" height="36.76899999999999" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/Matched // e // analysis // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/Matched // analysis // ^{e} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -2417,7 +2417,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="36.0" y="187.753" width="492.067" height="142.997" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 21]}{[8.0 x 16, 5.656 x 5]}{[normal x 21]}{[null x 20, italic]} //Note: Boldface indicates statistical signifciance (p&lt; 0.05). a Survival times are calculated from discharge. b Chi-squared comparison of crude mortality in counseled smokers and non-counseled smokers. c HRs comparing risk of death in recipients of smoking-cessation counseling to non-recipients. d Adjusted for demographics (age, gender, race, ZIP code-level median household income percentile), medical history (diabetes, hypertension, obesity, prior AMI, CHF, COPD, cerebrovascular accident, and peripheral vascular disease), AMI severity (Killip class, AMI location, ST-elevation AMI, pulse on admission, systolic blood pressure on admission), AMI therapies received (PCI/CABG within 30 days of admission, fbirinolytic therapy during the index admission, and among those eligible, aspirin on admission and beta-blockers on admission), and hospital characteristics (annual AMI volume, location, ownership, and teaching status). e Results from matched pair analyses (n=10,960). Counseled and non-counseled smokers were matched in a greedy 1:1 fashion on age and propensity scores. Propensity scores were generated using demographics (gender, race, ZIP code-level median household income percentile), medical history (diabetes, hypertension, obesity, prior MI, CHF, COPD, cerebrovascular accident, and peripheral vascular disease), AMI severity (Killip class, AMI location, ST-elevation AMI, pulse on admission, systolic blood pressure on admission), and AMI therapies received (PCI/CABG within 30 days of admission, fbrinolytic therapy during the index admission, and among those eligible, aspirin on admission, and beta-blockers on admission). AMI, acute myocardial infarction; CHF, congestive heart failure; COPD, chronic obstructive pulmonary disease; HR, hazard ratio; PCI/CABG, percutaneous coronary intervention/coronary artery bypass grafting. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 21]}{[8.0 x 16, 5.656 x 5]}{[normal x 21]}{[null x 20, italic]} //_{a} Note: Boldface indicates statistical signifciance (p&lt; 0.05). _{b} Survival times are calculated from discharge. _{c} Chi-squared comparison of crude mortality in counseled smokers and non-counseled smokers. _{d} HRs comparing risk of death in recipients of smoking-cessation counseling to non-recipients. Adjusted for demographics (age, gender, race, ZIP code-level median household income percentile), medical history (diabetes, hypertension, obesity, prior AMI, CHF, COPD, cerebrovascular accident, and peripheral vascular disease), AMI severity (Killip class, AMI location, ST-elevation AMI, pulse on admission, systolic blood pressure on admission), AMI therapies received (PCI/CABG within 30 days of admission, fbirinolytic therapy during the index admission, and among those eligible, aspirin on admission and beta-blockers on admission), and hospital characteristics (annual AMI _{e} volume, location, ownership, and teaching status). Results from matched pair analyses (n=10,960). Counseled and non-counseled smokers were matched in a greedy 1:1 fashion on age and propensity scores. Propensity scores were generated using demographics (gender, race, ZIP code-level median household income percentile), medical history (diabetes, hypertension, obesity, prior MI, CHF, COPD, cerebrovascular accident, and peripheral vascular disease), AMI severity (Killip class, AMI location, ST-elevation AMI, pulse on admission, systolic blood pressure on admission), and AMI therapies received (PCI/CABG within 30 days of admission, fbrinolytic therapy during the index admission, and among those eligible, aspirin on admission, and beta-blockers on admission). AMI, acute myocardial infarction; CHF, congestive heart failure; COPD, chronic obstructive pulmonary disease; HR, hazard ratio; PCI/CABG, percutaneous coronary intervention/coronary artery bypass grafting. </title>
   </rect>
  </g>
 </svg>

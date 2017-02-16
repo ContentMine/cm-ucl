@@ -63,7 +63,7 @@
         basefont="OGMNJD+AdvAGroteskBE-I"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1097_WNR.0000000000000118/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1097_WNR.0000000000000118/fulltext.pdf"
     pageCount="5">
         <page num="1"/>
         <page num="2"/>

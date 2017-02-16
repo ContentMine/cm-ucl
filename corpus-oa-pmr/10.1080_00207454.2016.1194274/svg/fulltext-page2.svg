@@ -4,11 +4,8 @@
   <clipPath id="clipPath9">
    <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 580.026 L100.6 580.926 L314.2 580.926 L314.2 580.026 Z"/>
   </clipPath>
-  <clipPath id="clipPath3">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
-  </clipPath>
-  <clipPath id="clipPath6">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
+  <clipPath id="clipPath11">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 665.826 L100.6 666.726 L314.2 666.726 L314.2 665.826 Z"/>
   </clipPath>
   <clipPath id="clipPath10">
    <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 622.926 L100.6 623.826 L314.2 623.826 L314.2 622.926 Z"/>
@@ -16,8 +13,8 @@
   <clipPath id="clipPath12">
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L609.0 0.0 L609.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
   </clipPath>
-  <clipPath id="clipPath5">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
+  <clipPath id="clipPath8">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
   </clipPath>
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M14.4 801.1 L14.4 823.1 L619.4 823.1 L619.4 801.1 Z"/>
@@ -25,26 +22,21 @@
   <clipPath id="clipPath7">
    <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 494.226 L100.6 495.126 L314.2 495.126 L314.2 494.226 Z"/>
   </clipPath>
-  <clipPath id="clipPath11">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 665.826 L100.6 666.726 L314.2 666.726 L314.2 665.826 Z"/>
-  </clipPath>
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
-  </clipPath>
-  <clipPath id="clipPath8">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
+  <clipPath id="clipPath6">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
   </clipPath>
   <clipPath id="clipPath4">
    <path stroke="black" stroke-width="0.5" fill="none" d="M115.92 147.476 L115.92 148.476 L115.92 149.476 L540.72 149.476 L540.72 148.476 L540.72 147.476 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
+  </clipPath>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="204.0" x="49.896" y="86.192" font-size="6.974" font-family="Helvetica" font-weight="normal" font-style="italic">I</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath12)" svgx:fontName="ACOCHE+HelveticaNeueLTStd-CnO" svgx:width="463.0" x="51.319" y="86.192" font-size="6.974" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>

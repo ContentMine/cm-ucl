@@ -533,7 +533,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="173.943" y="66.056" width="229.55349199999998" height="18.430999999999997" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 3]}{[8.468 x 2, 5.928]}{[normal x 3]}{[null x 3]} //Table 4. Within-subject coefficients of variability for ON-state a spirometry results prior to study-drug exposure . </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 3]}{[8.468 x 2, 5.928]}{[normal x 3]}{[null x 3]} //Table 4. Within-subject coefficients of variability for ON-state spirometry results prior to study-drug exposure . ^{a} </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -610,7 +610,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="173.943" y="178.68200000000002" width="254.0465" height="48.31999999999999" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 7]}{[8.468 x 5, 5.928, 6.974]}{[normal x 7]}{[null x 7]} //ATS, American Thoracic Society; ERS, European Respiratory Soci- ety; FEV , forced expiratory volume during the first second; FVC, 1 forced vital capacity. a Among all patients with at least two such evaluations (at screening or before study-drug dosing at the beginning of treatment week 1). </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 7]}{[8.468 x 5, 5.928, 6.974]}{[normal x 7]}{[null x 7]} //ATS, American Thoracic Society; ERS, European Respiratory Soci- ety; FEV , forced expiratory volume during the first second; FVC, 1 forced vital capacity. ^{a} Among all patients with at least two such evaluations (at screening or before study-drug dosing at the beginning of treatment week 1). </title>
   </rect>
  </g>
 </svg>

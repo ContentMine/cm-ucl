@@ -824,7 +824,7 @@
  </g>
  <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="306.0" y="123.95" width="43.0" height="211.716" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/5-HT // 1A // MPC // HIPP-CA // // 1 // HIPP-CA // // 3 // EC // 5-HT // 2A // MPC // DFC // 5-HT // T // MPC // DFC // NAc // CP-M // CP-L // HIPP-CA // // 1 // HIPP-CA // // 3 // EC // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/5-HT // _{1A} // MPC // HIPP-CA // // _{1} // HIPP-CA // // _{3} // EC // 5-HT // _{2A} // MPC // DFC // 5-HT // _{T} // MPC // DFC // NAc // CP-M // CP-L // HIPP-CA // // _{1} // HIPP-CA // // _{3} // EC // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="358.0" y="123.95" width="17.0" height="211.716" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/ // // −31* // −49* // // // −49* // // // −42* // // // +22* // NS // // // −28* // −28* // −48* // −37* // −36* // −41* // // // −51* // // // −45* // </title>
@@ -845,7 +845,7 @@
     <title stroke="black" stroke-width="1.0">0.0/5-HT</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="323.943" y="127.84800000000001" width="7.3603840000000105" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.1">
-    <title stroke="black" stroke-width="1.0">0.1/1A</title>
+    <title stroke="black" stroke-width="1.0">0.1/_{1A}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.589" y="136.70700000000002" width="17.655687999999998" height="8.46799999999999" fill="red" opacity="0.2" class="cell.0.2">
     <title stroke="black" stroke-width="1.0">0.2/MPC</title>
@@ -854,13 +854,13 @@
     <title stroke="black" stroke-width="1.0">0.3/HIPP-CA</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="346.564" y="153.247" width="2.994000000000028" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.5">
-    <title stroke="black" stroke-width="1.0">0.5/1</title>
+    <title stroke="black" stroke-width="1.0">0.5/_{1}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.594" y="162.108" width="32.12802399999998" height="8.46799999999999" fill="red" opacity="0.2" class="cell.0.6">
     <title stroke="black" stroke-width="1.0">0.6/HIPP-CA</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="346.564" y="166.00300000000001" width="2.994000000000028" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.8">
-    <title stroke="black" stroke-width="1.0">0.8/3</title>
+    <title stroke="black" stroke-width="1.0">0.8/_{3}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.594" y="174.80800000000002" width="10.754687999999987" height="8.46799999999999" fill="red" opacity="0.2" class="cell.0.9">
     <title stroke="black" stroke-width="1.0">0.9/EC</title>
@@ -869,7 +869,7 @@
     <title stroke="black" stroke-width="1.0">0.10/5-HT</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="323.943" y="191.401" width="7.3603840000000105" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.11">
-    <title stroke="black" stroke-width="1.0">0.11/2A</title>
+    <title stroke="black" stroke-width="1.0">0.11/_{2A}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.589" y="200.203" width="17.655687999999998" height="8.46799999999999" fill="red" opacity="0.2" class="cell.0.12">
     <title stroke="black" stroke-width="1.0">0.12/MPC</title>
@@ -881,7 +881,7 @@
     <title stroke="black" stroke-width="1.0">0.14/5-HT</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="323.943" y="229.499" width="3.6167520000000195" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.15">
-    <title stroke="black" stroke-width="1.0">0.15/T</title>
+    <title stroke="black" stroke-width="1.0">0.15/_{T}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.589" y="238.30100000000002" width="17.655687999999998" height="8.46799999999999" fill="red" opacity="0.2" class="cell.0.16">
     <title stroke="black" stroke-width="1.0">0.16/MPC</title>
@@ -902,13 +902,13 @@
     <title stroke="black" stroke-width="1.0">0.21/HIPP-CA</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="346.564" y="305.694" width="2.994000000000028" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.23">
-    <title stroke="black" stroke-width="1.0">0.23/1</title>
+    <title stroke="black" stroke-width="1.0">0.23/_{1}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.594" y="314.49899999999997" width="32.12802399999998" height="8.468000000000018" fill="red" opacity="0.2" class="cell.0.24">
     <title stroke="black" stroke-width="1.0">0.24/HIPP-CA</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="346.564" y="318.393" width="2.994000000000028" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.0.26">
-    <title stroke="black" stroke-width="1.0">0.26/3</title>
+    <title stroke="black" stroke-width="1.0">0.26/_{3}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="314.594" y="327.198" width="10.754687999999987" height="8.468000000000018" fill="red" opacity="0.2" class="cell.0.27">
     <title stroke="black" stroke-width="1.0">0.27/EC</title>
@@ -1093,7 +1093,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="306.136" y="347.496" width="238.13869599999992" height="51.156000000000006" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 12]}{[8.468 x 8, 5.988 x 4]}{[normal x 12]}{[null x 8, italic x 3, NORMAL]} //CP-M caudate putamen-medial, CP-L caudate putamen-lateral, DFC dor- sal frontal cortex, EC entorhinal cortex, HIPP-CA hippocampus CA 1 1 region, HIPP-CA hippocampus CA region, MPC medial prefrontal cor- 3 3 tex, NAc nucleus accumbens, NS not significantly different from vehicle *P &lt; .05 versus vehicle (n = 8/group) </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 12]}{[8.468 x 8, 5.988 x 4]}{[normal x 12]}{[null x 8, italic x 3, NORMAL]} //CP-M caudate putamen-medial, CP-L caudate putamen-lateral, DFC dor- sal frontal cortex, EC entorhinal cortex, HIPP-CA _{1} hippocampus CA _{1} region, HIPP-CA _{3} hippocampus CA _{3} region, MPC medial prefrontal cor- tex, NAc nucleus accumbens, NS not significantly different from vehicle *P &lt; .05 versus vehicle (n = 8/group) </title>
   </rect>
  </g>
 </svg>

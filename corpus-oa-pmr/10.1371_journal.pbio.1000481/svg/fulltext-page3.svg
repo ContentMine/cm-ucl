@@ -29,14 +29,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L0.0 790.0 L612.0 790.0 L612.0 0.0 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="NPJKKO+AdvP49811" svgx:width="927.0" x="58.054" y="303.348" font-size="8.966" font-family="TimesNewRoman" font-weight="normal">M</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="NPJKKO+AdvP49811" svgx:width="718.0" x="66.365" y="303.348" font-size="8.966" font-family="TimesNewRoman" font-weight="normal">C</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="NPJKKO+AdvP49811" svgx:width="718.0" x="72.803" y="303.348" font-size="8.966" font-family="TimesNewRoman" font-weight="normal">C</text>

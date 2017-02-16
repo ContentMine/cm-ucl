@@ -82,7 +82,7 @@
         fontencoding="WinAnsiEncoding" basefont="ADADDK+HelveticaNeueLTStd-LtCnO"
         bold="false" italic="true" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1080_00207454.2016.1194274/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1080_00207454.2016.1194274/fulltext.pdf"
     pageCount="10">
         <page num="1"/>
         <page num="2"/>
@@ -97,27 +97,7 @@
             family="RMTMI" name="epsilon1"
             code="2">
                 <path stroke="black" fill="none"
-                d=" M 3.578125 -1.96875 L
-                1.171875 -1.96875 C 1.171875
-                -1.90625 1.15625 -1.84375
-                1.15625 -1.78125 C 1.15625
-                -0.96875 1.53125 -0.234375
-                2.625 -0.234375 C 2.875 -0.234375
-                3.25 -0.34375 3.390625 -0.453125
-                L 3.3125 -0.046875 C 3.265625
-                -0.03125 2.984375 0.125 2.546875
-                0.125 C 1.296875 0.125 0.3125
-                -0.796875 0.3125 -1.78125
-                C 0.3125 -2.484375 0.6875
-                -3.296875 1.546875 -3.875
-                C 2.109375 -4.265625 2.96875
-                -4.5625 3.875 -4.5625 L 4.046875
-                -4.5625 L 3.984375 -4.1875
-                C 3.890625 -4.203125 3.78125
-                -4.203125 3.6875 -4.203125
-                C 2.453125 -4.203125 1.4375
-                -3.03125 1.265625 -2.4375
-                L 3.65625 -2.4375 Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
         </page>

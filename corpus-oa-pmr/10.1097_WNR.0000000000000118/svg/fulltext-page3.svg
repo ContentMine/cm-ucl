@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L586.0 0.0 L586.0 782.0 L0.0 782.0 L0.0 0.0 Z"/>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M44.901 321.143 L44.901 537.143 L277.909 537.143 L277.909 321.143 Z"/>
   </clipPath>
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M41.839 687.55 L41.839 726.158 L280.97 726.158 L280.97 687.55 Z"/>
   </clipPath>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L586.0 0.0 L586.0 782.0 L0.0 782.0 L0.0 0.0 Z"/>
+  </clipPath>
   <clipPath id="clipPath3">
    <path stroke="black" stroke-width="0.5" fill="none" d="M41.843 27.984 L41.843 41.647 L77.329 41.647 L77.329 27.984 Z"/>
   </clipPath>
-  <clipPath id="clipPath4">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M44.901 321.143 L44.901 537.143 L277.909 537.143 L277.909 321.143 Z"/>
-  </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OGMJDH+AdvCas540BT-R" svgx:width="489.0" x="41.839" y="631.31" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">e</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OGMJDH+AdvCas540BT-R" svgx:width="270.0" x="46.711" y="631.31" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">l</text>
@@ -1793,12 +1785,12 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="OGMJCD+AdvAGroteskBE-B" svgx:width="562.0" x="56.524" y="70.617" font-size="6.974" font-family="Helvetica" font-weight="normal">1</text>
  <image transform="matrix(0.47963828809596976,-0.0,-0.0,0.4791219269199587,133.9080047607422,82.92799377441406)" xlink:href="fulltext.p3.i1.png" x="0.0" y="0.0" width="329.0" height="246.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
  <image transform="matrix(0.4796634638800512,-0.0,-0.0,0.4791219269199587,296.8680114746094,82.92799377441406)" xlink:href="fulltext.p3.i2.png" x="0.0" y="0.0" width="312.0" height="246.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="134.981" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">(</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="427.0" x="137.565" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="140.981" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">)</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="297.849" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">(</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="500.0" x="300.433" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">b</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="304.433" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">)</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="134.981" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">(</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="427.0" x="137.565" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="140.981" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">)</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="297.849" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">(</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="500.0" x="300.433" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">b</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="323.0" x="304.433" y="89.729" font-size="8.0" font-family="Helvetica" font-weight="normal">)</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="469.0" x="378.081" y="96.299" font-size="8.0" font-family="Helvetica" font-weight="normal">F</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="1042.0" x="381.833" y="96.299" font-size="8.0" font-family="Helvetica" font-weight="normal">W</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath1)" svgx:fontName="OGMMGJ+GillSans" svgx:width="500.0" x="390.169" y="96.299" font-size="8.0" font-family="Helvetica" font-weight="normal">9</text>

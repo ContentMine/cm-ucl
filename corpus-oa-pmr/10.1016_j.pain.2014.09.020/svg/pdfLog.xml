@@ -73,7 +73,7 @@
         basefont="PAFMFD+AdvMTSY" bold="false"
         italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_j.pain.2014.09.020/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_j.pain.2014.09.020/fulltext.pdf"
     pageCount="10">
         <page num="1"/>
         <page num="2"/>

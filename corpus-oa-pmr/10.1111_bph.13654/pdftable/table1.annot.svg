@@ -659,21 +659,21 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="42.009" y="543.187" width="76.839" height="25.854000000000042" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 4]}{[8.0 x 2, 5.656, 11.0]}{[normal x 4]}{[null x 4]} //Table 1 Defnition of K types D </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 4]}{[8.0 x 2, 11.0, 5.656]}{[normal x 4]}{[null x 4]} //Table 1 Defnition of K _{D} types </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="611.929" width="84.0" height="112.27999999999997" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Thermodynamic K // D // Apparent K // D // Apparent integrated K // D // In vivo K // D // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Thermodynamic K // _{D} // Apparent K // _{D} // Apparent integrated K // _{D} // In vivo K // _{D} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="156.0" y="611.929" width="93.0" height="112.27999999999997" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/K // D,{% matrix}, {target form} // K // D,{buffer,serum,cells, tissue}, // {soluble, membrane} // K // D, app{% matrix}, {target form} // K // D, app-int {% matrix} // K // D,in-vivo // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/K // _{D,{% matrix}, {target form}} // K // _{D,{buffer,serum,cells, tissue},} // {soluble, membrane} // K // _{D, app{% matrix}, {target form}} // K // _{D, app-int {% matrix}} // K // _{D,in-vivo} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="269.0" y="611.929" width="155.0" height="112.27999999999997" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Thermodynamic binding affnity (measured // with target concentration ≤true K // ) // D // K // remains the same, though there is an // D // apparent right shift from K // related to // D // higher target concentrations // When more than one form of binding // partner contributes to the binding affnity // Model (TMDD) derived in vivo K // based // D // on clinical drug serum concentrations // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Thermodynamic binding affnity (measured // with target concentration ≤true K // _{D} // ) // K // _{D} // remains the same, though there is an // apparent right shift from K // _{D} // related to // higher target concentrations // When more than one form of binding // partner contributes to the binding affnity // Model (TMDD) derived in vivo K // _{D} // based // on clinical drug serum concentrations // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="445.0" y="611.929" width="97.0" height="112.27999999999997" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/≤Thermodynamic K // D // &gt; &gt; Thermodynamic K // D // Any // Endogenous concentration // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/≤Thermodynamic K // _{D} // &gt; &gt; Thermodynamic K // _{D} // Any // Endogenous concentration // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">

@@ -952,7 +952,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="47.157" y="29.03" width="499.5810000000001" height="386.52599999999995" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[8.5 x 2]}{[bold, normal]}{[NORMAL, null]} // t able4. Betacoefficients(β)andoddsratios(ORs)with95%confidenceintervals(95%CI)forassociationsbetweenPFOAandindicesoffetal growthinSwedenbyoffspringsex(N=159) </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2, TimesNewRoman]}{[8.5 x 2, 12.0]}{[bold x 2, normal]}{[null, italic, NORMAL]} // ^{} t able4. Betacoefficients(β)andoddsratios(ORs)with95%confidenceintervals(95%CI)forassociationsbetweenPFOAandindicesoffetal growthinSwedenbyoffspringsex(N=159) </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1164,7 +1164,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="47.154" y="492.009" width="507.254" height="269.65599999999995" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 8]}{[7.0 x 4, 4.081 x 4]}{[normal x 8]}{[null x 8]} //a 2 Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),parity(1or2),smokingstatusatconception(0,1–9,&gt;10cig/d),inter-pregnancy b 2 interval(&lt;18,19–60,&gt;60mo),andoffspringsex(male/female). Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),smokingstatus atconception(0,1–9,&gt;10cig/d),andinterpregnancyinterval(&lt;18,19–60,&gt;60mo). PFOA,perfluorooctanoate. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 9]}{[4.081 x 4, 7.0 x 4, 6.0]}{[normal x 9]}{[null x 9]} //^{a} Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),parity(1or2),smokingstatusatconception(0,1–9,&gt;10cig/d),inter-pregnancy ^{2} interval(&lt;18,19–60,&gt;60mo),andoffspringsex(male/female). Adjustedformaternalage(years),height(cm),prepregnancyBMI(kg/m ),education(&lt;9,9–12,&gt;12y),smokingstatus ^{b} 2 atconception(0,1–9,&gt;10cig/d),andinterpregnancyinterval(&lt;18,19–60,&gt;60mo). PFOA,perfluorooctanoate. ^{} </title>
   </rect>
  </g>
 </svg>

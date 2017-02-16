@@ -43,7 +43,7 @@
         basefont="CKCDMI+Shaker2Lancet-Regular"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_S0140-6736(16)32507-7/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_S0140-6736(16)32507-7/fulltext.pdf"
     pageCount="9">
         <page num="1"/>
         <page num="2"/>

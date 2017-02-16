@@ -1,71 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
-  <clipPath id="clipPath19">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M502.783 326.371 L502.783 333.751 L509.683 333.751 L509.683 326.371 Z"/>
-  </clipPath>
-  <clipPath id="clipPath3">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
-  </clipPath>
-  <clipPath id="clipPath13">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L609.0 0.0 L609.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
-  </clipPath>
-  <clipPath id="clipPath18">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M239.767 602.716 L239.767 610.096 L246.667 610.096 L246.667 602.716 Z"/>
-  </clipPath>
-  <clipPath id="clipPath10">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
-  </clipPath>
-  <clipPath id="clipPath11">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 537.126 L320.2 538.026 L533.8 538.026 L533.8 537.126 Z"/>
-  </clipPath>
   <clipPath id="clipPath12">
    <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 580.026 L100.6 580.926 L314.2 580.926 L314.2 580.026 Z"/>
   </clipPath>
-  <clipPath id="clipPath6">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
-  </clipPath>
-  <clipPath id="clipPath7">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 451.326 L320.2 452.226 L533.8 452.226 L533.8 451.326 Z"/>
-  </clipPath>
-  <clipPath id="clipPath15">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M263.714 636.63 L263.714 646.846 L289.67 646.846 L289.67 636.63 Z"/>
-  </clipPath>
-  <clipPath id="clipPath17">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M239.272 327.37 L239.272 334.75 L246.172 334.75 L246.172 327.37 Z"/>
-  </clipPath>
-  <clipPath id="clipPath5">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
-  </clipPath>
-  <clipPath id="clipPath2">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M14.4 801.1 L14.4 823.1 L619.4 823.1 L619.4 801.1 Z"/>
-  </clipPath>
-  <clipPath id="clipPath8">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 494.226 L100.6 495.126 L314.2 495.126 L314.2 494.226 Z"/>
+  <clipPath id="clipPath19">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M502.783 326.371 L502.783 333.751 L509.683 333.751 L509.683 326.371 Z"/>
   </clipPath>
   <clipPath id="clipPath9">
    <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 494.226 L320.2 495.126 L533.8 495.126 L533.8 494.226 Z"/>
   </clipPath>
-  <clipPath id="clipPath1">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
+  <clipPath id="clipPath7">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 451.326 L320.2 452.226 L533.8 452.226 L533.8 451.326 Z"/>
   </clipPath>
   <clipPath id="clipPath14">
    <path stroke="black" stroke-width="0.5" fill="none" d="M61.128 483.612 L61.128 692.248 L297.101 692.248 L297.101 483.612 Z"/>
   </clipPath>
+  <clipPath id="clipPath6">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 451.326 L100.6 452.226 L314.2 452.226 L314.2 451.326 Z"/>
+  </clipPath>
+  <clipPath id="clipPath8">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 494.226 L100.6 495.126 L314.2 495.126 L314.2 494.226 Z"/>
+  </clipPath>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M540.72 147.476 L540.72 148.476 L540.72 149.476 L612.72 149.476 L612.72 148.476 L612.72 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath15">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M263.714 636.63 L263.714 646.846 L289.67 646.846 L289.67 636.63 Z"/>
+  </clipPath>
+  <clipPath id="clipPath18">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M239.767 602.716 L239.767 610.096 L246.667 610.096 L246.667 602.716 Z"/>
+  </clipPath>
+  <clipPath id="clipPath13">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L609.0 0.0 L609.0 793.0 L0.0 793.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath17">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M239.272 327.37 L239.272 334.75 L246.172 334.75 L246.172 327.37 Z"/>
+  </clipPath>
+  <clipPath id="clipPath10">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.6 537.126 L100.6 538.026 L314.2 538.026 L314.2 537.126 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M14.4 801.1 L14.4 823.1 L619.4 823.1 L619.4 801.1 Z"/>
+  </clipPath>
   <clipPath id="clipPath4">
    <path stroke="black" stroke-width="0.5" fill="none" d="M115.92 147.476 L115.92 148.476 L115.92 149.476 L540.72 149.476 L540.72 148.476 L540.72 147.476 Z"/>
+  </clipPath>
+  <clipPath id="clipPath11">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M320.2 537.126 L320.2 538.026 L533.8 538.026 L533.8 537.126 Z"/>
   </clipPath>
   <clipPath id="clipPath16">
    <path stroke="black" stroke-width="0.5" fill="none" d="M495.61 702.085 L495.61 709.465 L502.51 709.465 L502.51 702.085 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L634.0 0.0 L634.0 833.0 L0.0 833.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M21.6 147.476 L21.6 148.476 L21.6 149.476 L115.92 149.476 L115.92 148.476 L115.92 147.476 Z"/>
+  </clipPath>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="556.0" x="375.669" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">N</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="444.0" x="380.653" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">a</text>
@@ -110,7 +102,7 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="704.0" x="537.615" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">M</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="500.0" x="543.925" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">S</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNJD+HelveticaNeueLTStd-Cn" svgx:width="480.0" x="557.38" y="47.632" font-size="8.966" font-family="Helvetica" font-weight="normal">5</text>
- <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M90.734 274.034 L294.14 274.034 L294.14 73.657 L90.734 73.657 Z"/>
+ <path stroke="black" clip-path="url(#clipPath13)" fill="#fffeff" stroke-width="0.0" d="M90.734 274.034 L294.14 274.034 L294.14 73.657 L90.734 73.657 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M100.591 73.657 L101.197 73.657 L101.197 274.034 L100.591 274.034 ZM110.723 73.657 L111.384 73.657 L111.384 274.034 L110.723 274.034 ZM120.909 73.657 L121.57 73.657 L121.57 274.034 L120.909 274.034 ZM131.096 73.657 L131.757 73.657 L131.757 274.034 L131.096 274.034 ZM141.284 73.657 L141.889 73.657 L141.889 274.034 L141.284 274.034 ZM151.469 73.657 L152.076 73.657 L152.076 274.034 L151.469 274.034 ZM161.601 73.657 L162.262 73.657 L162.262 274.034 L161.601 274.034 ZM171.788 73.657 L172.449 73.657 L172.449 274.034 L171.788 274.034 ZM181.975 73.657 L182.636 73.657 L182.636 274.034 L181.975 274.034 ZM192.162 73.657 L192.768 73.657 L192.768 274.034 L192.162 274.034 ZM202.239 73.657 L202.899 73.657 L202.899 274.034 L202.239 274.034 ZM212.425 73.657 L213.086 73.657 L213.086 274.034 L212.425 274.034 ZM222.612 73.657 L223.273 73.657 L223.273 274.034 L222.612 274.034 ZM232.799 73.657 L233.405 73.657 L233.405 274.034 L232.799 274.034 ZM242.986 73.657 L243.591 73.657 L243.591 274.034 L242.986 274.034 ZM253.118 73.657 L253.778 73.657 L253.778 274.034 L253.118 274.034 ZM263.305 73.657 L263.965 73.657 L263.965 274.034 L263.305 274.034 ZM273.491 73.657 L274.151 73.657 L274.151 274.034 L273.491 274.034 ZM283.678 73.657 L284.283 73.657 L284.283 274.034 L283.678 274.034 ZM293.809 73.657 L294.471 73.657 L294.471 274.034 L293.809 274.034 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M90.404 274.034 L91.065 274.034 L91.065 73.657 L90.404 73.657 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M88.642 273.759 L90.735 273.759 L90.735 274.364 L88.642 274.364 ZM88.642 245.126 L90.735 245.126 L90.735 245.787 L88.642 245.787 ZM88.642 216.493 L90.735 216.493 L90.735 217.153 L88.642 217.153 ZM88.642 187.859 L90.735 187.859 L90.735 188.465 L88.642 188.465 ZM88.642 159.226 L90.735 159.226 L90.735 159.887 L88.642 159.887 ZM88.642 130.592 L90.735 130.592 L90.735 131.254 L88.642 131.254 ZM88.642 102.015 L90.735 102.015 L90.735 102.62 L88.642 102.62 ZM88.642 73.327 L90.735 73.327 L90.735 73.988 L88.642 73.988 Z"/>
@@ -294,7 +286,7 @@
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="556.0" x="209.435" y="293.416" font-size="8.943" font-family="TimesNewRoman" font-weight="bold">b</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="444.0" x="214.406" y="293.416" font-size="8.943" font-family="TimesNewRoman" font-weight="bold">e</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="444.0" x="218.374" y="293.416" font-size="8.943" font-family="TimesNewRoman" font-weight="bold">r</text>
- <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M231.973 102.786 L292.378 102.786 L292.378 74.924 L231.973 74.924 Z"/>
+ <path stroke="black" clip-path="url(#clipPath13)" fill="#fffeff" stroke-width="0.0" d="M231.973 102.786 L292.378 102.786 L292.378 74.924 L231.973 74.924 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#c1504e" stroke-width="0.0" d="M239.131 83.679 L242.655 83.679 L242.655 80.1 L239.131 80.1 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#bf4c49" stroke-width="0.0" d="M238.801 80.1 L238.856 79.879 L239.131 79.769 L242.655 79.769 L242.875 79.879 L242.986 80.1 L242.986 83.679 L242.875 83.898 L242.655 84.009 L239.131 84.009 L238.856 83.898 L238.801 83.679 L238.801 80.1 ZM239.407 83.679 L239.131 83.349 L242.655 83.349 L242.325 83.679 L242.325 80.1 L242.655 80.43 L239.131 80.43 L239.407 80.1 "/>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHK+TimesNewRomanPS" svgx:width="500.0" x="244.087" y="84.119" font-size="7.122" font-family="TimesNewRoman" font-weight="normal">1</text>
@@ -443,7 +435,7 @@
  <path stroke="black" clip-path="url(#clipPath17)" fill="#c1504e" stroke-width="0.0" d="M240.532 327.31 C239.932 327.31 239.452 327.79 239.452 328.39 L239.452 333.37 C239.452 333.97 239.932 334.45 240.532 334.45 L244.972 334.45 C245.572 334.45 246.052 333.97 246.052 333.37 L246.052 328.39 C246.052 327.79 245.572 327.31 244.972 327.31 "/>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="385.0" x="246.274" y="334.75" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">)</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="292.0" x="249.532" y="334.75" font-size="8.468" font-family="TimesNewRoman" font-weight="normal">.</text>
- <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M91.09 549.54 L293.668 549.54 L293.668 358.524 L91.09 358.524 Z"/>
+ <path stroke="black" clip-path="url(#clipPath13)" fill="#fffeff" stroke-width="0.0" d="M91.09 549.54 L293.668 549.54 L293.668 358.524 L91.09 358.524 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M100.899 358.524 L101.501 358.524 L101.501 549.54 L100.899 549.54 ZM110.979 358.524 L111.638 358.524 L111.638 549.54 L110.979 549.54 ZM121.117 358.524 L121.775 358.524 L121.775 549.54 L121.117 549.54 ZM131.254 358.524 L131.912 358.524 L131.912 549.54 L131.254 549.54 ZM141.392 358.524 L141.995 358.524 L141.995 549.54 L141.392 549.54 ZM151.528 358.524 L152.13 358.524 L152.13 549.54 L151.528 549.54 ZM161.611 358.524 L162.268 358.524 L162.268 549.54 L161.611 549.54 ZM171.803 358.524 L172.46 358.524 L172.46 549.54 L171.803 549.54 ZM181.94 358.524 L182.598 358.524 L182.598 549.54 L181.94 549.54 ZM192.078 358.524 L192.68 358.524 L192.68 549.54 L192.078 549.54 ZM202.159 358.524 L202.816 358.524 L202.816 549.54 L202.159 549.54 ZM212.297 358.524 L212.954 358.524 L212.954 549.54 L212.297 549.54 ZM222.434 358.524 L223.091 358.524 L223.091 549.54 L222.434 549.54 ZM232.57 358.524 L233.228 358.524 L233.228 549.54 L232.57 549.54 ZM242.763 358.524 L243.365 358.524 L243.365 549.54 L242.763 549.54 ZM252.845 358.524 L253.502 358.524 L253.502 549.54 L252.845 549.54 ZM262.982 358.524 L263.64 358.524 L263.64 549.54 L262.982 549.54 ZM273.12 358.524 L273.776 358.524 L273.776 549.54 L273.12 549.54 ZM283.257 358.524 L283.858 358.524 L283.858 549.54 L283.257 549.54 ZM293.339 358.524 L293.996 358.524 L293.996 549.54 L293.339 549.54 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M90.76 549.54 L91.418 549.54 L91.418 358.524 L90.76 358.524 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M88.953 549.266 L91.09 549.266 L91.09 549.868 L88.953 549.868 ZM88.953 511.019 L91.09 511.019 L91.09 511.676 L88.953 511.676 ZM88.953 472.826 L91.09 472.826 L91.09 473.484 L88.953 473.484 ZM88.953 434.634 L91.09 434.634 L91.09 435.236 L88.953 435.236 ZM88.953 396.386 L91.09 396.386 L91.09 397.045 L88.953 397.045 ZM88.953 358.194 L91.09 358.194 L91.09 358.852 L88.953 358.852 Z"/>
@@ -622,7 +614,7 @@
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="556.0" x="209.273" y="568.773" font-size="8.899" font-family="TimesNewRoman" font-weight="bold">b</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="444.0" x="214.215" y="568.773" font-size="8.899" font-family="TimesNewRoman" font-weight="bold">e</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="444.0" x="218.161" y="568.773" font-size="8.899" font-family="TimesNewRoman" font-weight="bold">r</text>
- <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M232.735 386.085 L292.681 386.085 L292.681 360.605 L232.735 360.605 Z"/>
+ <path stroke="black" clip-path="url(#clipPath13)" fill="#fffeff" stroke-width="0.0" d="M232.735 386.085 L292.681 386.085 L292.681 360.605 L232.735 360.605 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#c1504e" stroke-width="0.0" d="M239.749 368.77 L243.256 368.77 L243.256 365.153 L239.749 365.153 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#bf4c49" stroke-width="0.0" d="M239.42 365.153 L239.529 364.935 L239.749 364.879 L243.256 364.879 L243.476 364.935 L243.584 365.153 L243.584 368.77 L243.476 368.99 L243.256 369.044 L239.749 369.044 L239.529 368.99 L239.42 368.77 L239.42 365.153 ZM240.078 368.77 L239.749 368.442 L243.256 368.442 L242.928 368.77 L242.928 365.153 L243.256 365.483 L239.749 365.483 L240.078 365.153 "/>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHK+TimesNewRomanPS" svgx:width="500.0" x="244.736" y="369.207" font-size="7.087" font-family="TimesNewRoman" font-weight="normal">1</text>
@@ -1114,7 +1106,7 @@
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="573.0" x="283.606" y="721.58" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">u</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="573.0" x="289.314" y="721.58" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">n</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath13)" svgx:fontName="LHNNPE+PlantinStd" svgx:width="365.0" x="295.021" y="721.58" font-size="9.963" font-family="TimesNewRoman" font-weight="normal">-</text>
- <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M349.068 272.839 L556.36 272.839 L556.36 73.824 L349.068 73.824 Z"/>
+ <path stroke="black" clip-path="url(#clipPath13)" fill="#fffeff" stroke-width="0.0" d="M349.068 272.839 L556.36 272.839 L556.36 73.824 L349.068 73.824 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M359.066 73.824 L359.733 73.824 L359.733 272.839 L359.066 272.839 ZM369.452 73.824 L370.119 73.824 L370.119 272.839 L369.452 272.839 ZM379.84 73.824 L380.506 73.824 L380.506 272.839 L379.84 272.839 ZM390.227 73.824 L390.838 73.824 L390.838 272.839 L390.227 272.839 ZM400.558 73.824 L401.225 73.824 L401.225 272.839 L400.558 272.839 ZM410.945 73.824 L411.612 73.824 L411.612 272.839 L410.945 272.839 ZM421.332 73.824 L421.943 73.824 L421.943 272.839 L421.332 272.839 ZM431.663 73.824 L432.274 73.824 L432.274 272.839 L431.663 272.839 ZM441.994 73.824 L442.661 73.824 L442.661 272.839 L441.994 272.839 ZM452.381 73.824 L453.047 73.824 L453.047 272.839 L452.381 272.839 ZM462.767 73.824 L463.378 73.824 L463.378 272.839 L462.767 272.839 ZM473.098 73.824 L473.765 73.824 L473.765 272.839 L473.098 272.839 ZM483.485 73.824 L484.152 73.824 L484.152 272.839 L483.485 272.839 ZM493.871 73.824 L494.539 73.824 L494.539 272.839 L493.871 272.839 ZM504.259 73.824 L504.87 73.824 L504.87 272.839 L504.259 272.839 ZM514.535 73.824 L515.201 73.824 L515.201 272.839 L514.535 272.839 ZM524.922 73.824 L525.588 73.824 L525.588 272.839 L524.922 272.839 ZM535.309 73.824 L535.919 73.824 L535.919 272.839 L535.309 272.839 ZM545.694 73.824 L546.307 73.824 L546.307 272.839 L545.694 272.839 ZM556.026 73.824 L556.692 73.824 L556.692 272.839 L556.026 272.839 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M348.79 272.839 L349.403 272.839 L349.403 73.824 L348.79 73.824 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#868585" stroke-width="0.0" d="M346.958 272.561 L349.068 272.561 L349.068 273.172 L346.958 273.172 ZM346.958 247.678 L349.068 247.678 L349.068 248.345 L346.958 248.345 ZM346.958 222.794 L349.068 222.794 L349.068 223.46 L346.958 223.46 ZM346.958 197.854 L349.068 197.854 L349.068 198.52 L346.958 198.52 ZM346.958 172.971 L349.068 172.971 L349.068 173.637 L346.958 173.637 ZM346.958 148.142 L349.068 148.142 L349.068 148.753 L346.958 148.753 ZM346.958 123.203 L349.068 123.203 L349.068 123.87 L346.958 123.87 ZM346.958 98.32 L349.068 98.32 L349.068 98.986 L346.958 98.986 ZM346.958 73.491 L349.068 73.491 L349.068 74.102 L346.958 74.102 Z"/>
@@ -1296,7 +1288,7 @@
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="556.0" x="469.894" y="292.391" font-size="9.021" font-family="TimesNewRoman" font-weight="bold">b</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="444.0" x="474.916" y="292.391" font-size="9.021" font-family="TimesNewRoman" font-weight="bold">e</text>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHL+TimesNewRomanPS-Bold" svgx:width="444.0" x="478.927" y="292.391" font-size="9.021" font-family="TimesNewRoman" font-weight="bold">r</text>
- <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M494.651 108.317 L555.416 108.317 L555.416 82.156 L494.651 82.156 Z"/>
+ <path stroke="black" clip-path="url(#clipPath13)" fill="#fffeff" stroke-width="0.0" d="M494.651 108.317 L555.416 108.317 L555.416 82.156 L494.651 82.156 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#c1504e" stroke-width="0.0" d="M501.704 90.487 L505.316 90.487 L505.316 86.932 L501.704 86.932 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#bf4c49" stroke-width="0.0" d="M501.372 86.932 L501.483 86.711 L501.704 86.599 L505.316 86.599 L505.537 86.711 L505.648 86.932 L505.648 90.487 L505.537 90.71 L505.316 90.821 L501.704 90.821 L501.483 90.71 L501.372 90.487 L501.372 86.932 ZM502.037 90.487 L501.704 90.154 L505.316 90.154 L504.981 90.487 L504.981 86.932 L505.316 87.266 L501.704 87.266 L502.037 86.932 "/>
  <text stroke="none" fill="#231f20" clip-path="url(#clipPath13)" svgx:fontName="LHNOHK+TimesNewRomanPS" svgx:width="500.0" x="506.759" y="90.987" font-size="7.184" font-family="TimesNewRoman" font-weight="normal">1</text>

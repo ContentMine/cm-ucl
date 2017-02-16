@@ -32,14 +32,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M64.006 93.982 L64.006 416.621 L531.212 416.621 L531.212 93.982 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="ENEPDF+LhpblhAdvTTb5929f4c" svgx:width="479.0" x="56.693" y="94.492" font-size="7.31" font-family="Helvetica" font-weight="normal">3</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="ENEPDF+LhpblhAdvTTb5929f4c" svgx:width="479.0" x="60.106" y="94.492" font-size="7.31" font-family="Helvetica" font-weight="normal">9</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="ENEPDF+LhpblhAdvTTb5929f4c" svgx:width="166.0" x="63.519" y="94.492" font-size="7.31" font-family="Helvetica" font-weight="normal">.</text>

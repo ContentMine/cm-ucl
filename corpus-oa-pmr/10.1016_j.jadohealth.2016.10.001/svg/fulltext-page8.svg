@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
  <defs id="defs1">
-  <clipPath id="clipPath3">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M36.85 67.514 L36.85 133.788 L96.831 133.788 L96.831 67.514 Z"/>
-  </clipPath>
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M37.644 651.167 L37.644 694.31 L279.723 694.31 L279.723 651.167 Z"/>
   </clipPath>
@@ -13,14 +10,9 @@
   <clipPath id="clipPath4">
    <path stroke="black" stroke-width="0.5" fill="none" d="M455.074 61.901 L455.074 119.501 L539.036 119.501 L539.036 61.901 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M36.85 67.514 L36.85 133.788 L96.831 133.788 L96.831 67.514 Z"/>
+  </clipPath>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="DDGCDI+AdvOT863180fb" svgx:width="406.0" x="37.644" y="71.652" font-size="8.128" font-family="TimesNewRoman" font-weight="normal">r</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="DDGCDI+AdvOT863180fb" svgx:width="520.0" x="41.009" y="71.652" font-size="8.128" font-family="TimesNewRoman" font-weight="normal">e</text>

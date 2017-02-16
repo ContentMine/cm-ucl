@@ -848,7 +848,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="56.693" y="577.921" width="460.35800000000006" height="20.05499999999995" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 3]}{[9.0 x 2, 6.363]}{[bold x 3]}{[null x 3]} //Table 3 Percentage of participants with controlled BP levels (systolic BP &lt;140 mmHg and diastolic BP &lt;90 mmHg) a during follow-up in the PREDIMED trial </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 3]}{[9.0 x 2, 6.363]}{[bold x 3]}{[null x 3]} //Table 3 Percentage of participants with controlled BP levels (systolic BP &lt;140 mmHg and diastolic BP &lt;90 mmHg) during follow-up in the PREDIMED trial ^{a} </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -871,7 +871,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/P value // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="510.0" y="603.073" width="28.0" height="21.152000000000044" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/c // P value // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/P value // ^{c} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1057,7 +1057,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="56.693" y="699.543" width="403.14700000000005" height="32.511999999999944" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 7]}{[7.0 x 4, 4.949 x 3]}{[normal x 7]}{[null x 5, italic x 2]} //BP, blood pressure; MD+EVOO, Mediterranean diet plus extra virgin olive oil; MD+nuts, Mediterranean diet plus nuts; NA, not applicable. a Adjusted for center, age, sex and diabetes. b P-value for within-group changes. c P-value for between-group changes, after adjustment for multiple comparisons with the Bonferroni method. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 7]}{[7.0 x 4, 4.949 x 3]}{[normal x 7]}{[null x 5, italic x 2]} //BP, blood pressure; MD+EVOO, Mediterranean diet plus extra virgin olive oil; MD+nuts, Mediterranean diet plus nuts; NA, not applicable. ^{a} Adjusted for center, age, sex and diabetes. ^{b} P-value for within-group changes. ^{c} P-value for between-group changes, after adjustment for multiple comparisons with the Bonferroni method. </title>
   </rect>
  </g>
 </svg>

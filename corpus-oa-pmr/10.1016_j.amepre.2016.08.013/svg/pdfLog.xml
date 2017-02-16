@@ -93,7 +93,7 @@
         basefont="BCFHCJ+AdvOT662f79ed+fb"
         bold="false" italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1016_j.amepre.2016.08.013/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_j.amepre.2016.08.013/fulltext.pdf"
     pageCount="9">
         <page num="1"/>
         <page num="2">
@@ -101,14 +101,7 @@
             family="AdvEls-ent5" name="Z"
             code="90">
                 <path stroke="black" fill="none"
-                d=" M 1.59375 -4.71875 L
-                1.578125 -5.203125 L 7.234375
-                -2.859375 L 7.234375 -2.703125
-                L 1.578125 -0.328125 L 1.578125
-                -0.8125 L 6.28125 -2.765625
-                Z M 1.578125 0.625 L 1.578125
-                0.1875 L 7.234375 0.1875
-                L 7.234375 0.625 Z " stroke-width="0.005"
+                d="" stroke-width="0.005"
                 xmlns="http://www.w3.org/2000/svg"/>
             </character>
         </page>

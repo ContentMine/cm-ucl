@@ -400,10 +400,10 @@
   <rect stroke="black" stroke-width="1.0" x="37.978" y="132.159" width="280.34749999999997" height="472.99199999999996" fill="yellow" opacity="0.2" class="table.title">
    <title stroke="black" stroke-width="1.0">table.title</title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="33.936" y="612.683" width="276.016" height="56.43100000000004" fill="red" opacity="0.2" class="table.header">
+  <rect stroke="black" stroke-width="1.0" x="33.936" y="612.683" width="283.81100000000004" height="72.51700000000005" fill="red" opacity="0.2" class="table.header">
    <title stroke="black" stroke-width="1.0">table.header</title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="33.936" y="678.2" width="301.39000000000004" height="100.74799999999993" fill="cyan" opacity="0.2" class="table.body">
+  <rect stroke="black" stroke-width="1.0" x="33.936" y="687.202" width="301.39000000000004" height="91.74599999999998" fill="cyan" opacity="0.2" class="table.body">
    <title stroke="black" stroke-width="1.0">table.body</title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
@@ -412,34 +412,31 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="37.978" y="132.159" width="280.34749999999997" height="472.99199999999996" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[7.0 x 2]}{[bold x 2]}{[null x 2]} // Healthsystemperspective Societalperspective </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 153, TimesNewRoman x 3]}{[7.0 x 127, 6.5 x 29]}{[normal x 114, bold x 42]}{[null x 153, italic x 3]} //_{} _{} _{} _{} _{} _{} _{} _{} ^{} ^{} ^{} ^{} ^{} _{} _{} ^{} ^{} _{} ^{} _{} _{} ^{} ^{ } _{} _{} ^{} ^{} ^{} ^{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} _{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} _{} _{} _{} _{} _{} _{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} _{} ^{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} _{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{} ^{Healthsystemperspective} ^{Societalperspective} </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="33.0" y="612.683" width="224.0" height="56.43100000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Costperremission($) // Costpernon-drinker($) // CostperQALYgained($)* // Dataaremean(95%CI).*NegativevaluesreflectthelowerQALYscoreandnotlowercosts. // </title>
+  <rect stroke="black" stroke-width="1.0" x="33.0" y="612.683" width="284.0" height="72.51700000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/_{Costperremission($)} // _{Costpernon-drinker($)} // _{CostperQALYgained($)*} // _{Dataaremean(95%CI).*NegativevaluesreflectthelowerQALYscoreandnotlowercosts.} // _{Table4:Cost-ef ectivenessanalysesfromhealthsystemandsocietalperspectives(2015international} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="122.0" y="612.683" width="84.0" height="56.43100000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/$217(50to1073) // $124(–102to325) // –$17710(–220368to141383) // </title>
+  <rect stroke="black" stroke-width="1.0" x="122.0" y="612.683" width="84.0" height="72.51700000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/_{$217(50to1073)} // _{$124(–102to325)} // _{–$17710(–220368to141383)} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="225.0" y="612.683" width="84.0" height="56.43100000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/$150(–216to1051) // $86(29to265) // –$12267(–104070to133 648) // </title>
+  <rect stroke="black" stroke-width="1.0" x="225.0" y="612.683" width="84.0" height="72.51700000000005" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/_{$150(–216to1051)} // _{$86(29to265)} // _{–$12267(–104070to133 648)} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
  <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
  <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="33.0" y="678.2" width="284.0" height="100.74799999999993" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Table4:Cost-ef ectivenessanalysesfromhealthsystemandsocietalperspectives(2015international // dollars) // </title>
+  <rect stroke="black" stroke-width="1.0" x="33.0" y="687.202" width="22.0" height="91.74599999999998" fill="red" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/^{dollars)} // </title>
   </rect>
  </g>
  <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <g class="col.0">
-   <rect stroke="black" stroke-width="1.0" x="33.936" y="678.2" width="283.81100000000004" height="7.0" fill="red" opacity="0.2" class="cell.0.0">
-    <title stroke="black" stroke-width="1.0">0.0/Table4:Cost-ef ectivenessanalysesfromhealthsystemandsocietalperspectives(2015international</title>
-   </rect>
-   <rect stroke="black" stroke-width="1.0" x="33.936" y="687.202" width="21.161" height="7.0" fill="red" opacity="0.2" class="cell.0.1">
-    <title stroke="black" stroke-width="1.0">0.1/dollars)</title>
+   <rect stroke="black" stroke-width="1.0" x="33.936" y="687.202" width="21.161" height="7.0" fill="red" opacity="0.2" class="cell.0.0">
+    <title stroke="black" stroke-width="1.0">0.0/^{dollars)}</title>
    </rect>
   </g>
  </g>

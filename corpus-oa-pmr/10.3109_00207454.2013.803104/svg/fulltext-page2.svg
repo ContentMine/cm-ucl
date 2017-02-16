@@ -41,14 +41,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 41.0 L0.0 792.0 L612.0 792.0 L612.0 41.0 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath12)" fill="#cccccc" stroke-width="0.0" d="M302.629 833.0 L612.0 833.0 L612.0 523.629 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M379.673 793.521 C379.488 794.044 378.881 795.021 377.891 796.01 C374.85 799.052 371.271 798.557 368.555 795.841 C365.203 792.489 365.74 788.583 368.315 786.01 C369.29 785.034 370.21 784.482 370.719 784.341 L371.979 786.419 C371.441 786.618 370.805 786.972 370.139 787.636 C368.64 789.136 368.413 791.343 370.606 793.536 C372.629 795.558 374.779 795.615 376.462 793.932 C377.014 793.38 377.524 792.672 377.735 792.148 Z"/>
  <path stroke="black" clip-path="url(#clipPath13)" fill="#ffffff" stroke-width="0.0" d="M379.134 787.582 C380.322 788.77 381.652 789.279 382.5 788.431 C383.264 787.666 382.74 786.322 381.567 785.148 C380.563 784.144 379.148 783.353 378.271 784.229 C377.352 785.148 378.129 786.578 379.134 787.582 M383.617 782.984 C386.263 785.63 385.556 788.374 383.944 789.986 C382.033 791.896 379.332 791.967 377.082 789.719 C374.778 787.412 374.848 784.654 376.828 782.674 C378.795 780.707 381.51 780.877 383.617 782.984 "/>

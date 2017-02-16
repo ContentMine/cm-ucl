@@ -1291,7 +1291,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.024" y="54.501999999999995" width="132.75518" height="8.468000000000004" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[bold, normal]}{[null x 2]} //Table 6 Combined-type CPRS scores </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[8.468 x 2]}{[normal, bold]}{[null x 2]} //Table 6 Combined-type CPRS scores </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1321,7 +1321,7 @@
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/ // // Week 14 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="465.0" y="93.50699999999999" width="27.0" height="28.707000000000008" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/ // a // p value // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/ // // p value // ^{a} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="513.0" y="93.50699999999999" width="31.0" height="28.707000000000008" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 7/ // // Cohens d // </title>
@@ -1365,11 +1365,11 @@
    </rect>
   </g>
   <g class="col.6">
-   <rect stroke="black" stroke-width="1.0" x="489.43" y="112.428" width="2.6167560000000094" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.6.1">
-    <title stroke="black" stroke-width="1.0">6.1/a</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="465.33" y="113.746" width="24.159515999999996" height="8.468000000000004" fill="red" opacity="0.2" class="cell.6.2">
     <title stroke="black" stroke-width="1.0">6.2/p value</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="489.43" y="112.428" width="2.6167560000000094" height="5.9879999999999995" fill="red" opacity="0.2" class="cell.6.3">
+    <title stroke="black" stroke-width="1.0">6.3/^{a}</title>
    </rect>
   </g>
   <g class="col.7">
@@ -1380,7 +1380,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.023" y="134.214" width="476.615" height="186.315" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 124]}{[8.468 x 120, 5.988 x 4]}{[normal x 124]}{[null x 124]} //Inattention 65 83.59 ± 9.19 77.34 ± 13.23 83.56 ± 8.14 71.03 ± 13.61 0.04 0.47 Hyperactivity 65 87.03 ± 6.34 78.10 ± 14.23 86.22 ± 8.17 74.97 ± 14.45 0.31 0.22 Learning problems 65 70.28 ± 15.21 68.90 ± 15.78 72.56 ± 13.03 64.81 ± 14.76 0.17 0.27 b Executive function 65 75.34 ± 12.25 73.00 ± 13.69 73.97 ± 10.30 63.56 ± 11.64 0.00 0.75 Aggression 65 79.83 ± 13.07 73.66 ± 15.18 81.44 ± 13.25 68.39 ± 17.60 0.17 0.32 Peer relations 65 74.48 ± 18.10 72.14 ± 16.06 75.83 ± 14.70 68.89 ± 18.82 0.26 0.18 b DSM inattention 65 80.83 ± 9.32 75.97 ± 12.74 80.33 ± 8.08 67.44 ± 13.08 0.01 0.66 DSM hyperactivity 65 85.90 ± 6.60 77.28 ± 14.59 84.75 ± 9.17 73.00 ± 14.73 0.19 0.29 Conduct disorder 65 74.86 ± 15.71 66.07 ± 14.43 74.17 ± 15.65 62.56 ± 17.16 0.23 0.22 b Oppositional defiant disorder 65 79.45 ± 10.67 69.41 ± 18.67 81.22 ± 10.78 67.92 ± 15.51 0.54 0.09 Global ADHD index 65 85.03 ± 7.70 78.14 ± 13.47 85.25 ± 8.78 71.86 ± 14.01 0.04 0.46 Impaired school life 65 2.17 ± 0.93 1.93 ± 1.07 2.61 ± 0.73 1.75 ± 1.05 0.30 0.17 Impaired relationships 65 1.76 ± 1.09 1.79 ± 0.90 2.11 ± 0.89 1.56 ± 1.08 0.17 0.24 b Impaired home life 65 2.21 ± 0.94 1.86 ± 0.74 2.36 ± 0.72 1.58 ± 1.05 0.06 0.30 ADHD probability 65 93.69 ± 16.71 80.79 ± 29.61 94.89 ± 15.64 72.97 ± 28.58 0.18 0.27 </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 124]}{[8.468 x 120, 5.988 x 4]}{[normal x 124]}{[null x 124]} //Inattention 65 83.59 ± 9.19 77.34 ± 13.23 83.56 ± 8.14 71.03 ± 13.61 0.04 0.47 Hyperactivity 65 87.03 ± 6.34 78.10 ± 14.23 86.22 ± 8.17 74.97 ± 14.45 0.31 0.22 Learning problems 65 70.28 ± 15.21 68.90 ± 15.78 72.56 ± 13.03 64.81 ± 14.76 0.17 0.27 Executive function 65 75.34 ± 12.25 73.00 ± 13.69 73.97 ± 10.30 63.56 ± 11.64 0.00 ^{b} 0.75 Aggression 65 79.83 ± 13.07 73.66 ± 15.18 81.44 ± 13.25 68.39 ± 17.60 0.17 0.32 Peer relations 65 74.48 ± 18.10 72.14 ± 16.06 75.83 ± 14.70 68.89 ± 18.82 0.26 0.18 DSM inattention 65 80.83 ± 9.32 75.97 ± 12.74 80.33 ± 8.08 67.44 ± 13.08 0.01 ^{b} 0.66 DSM hyperactivity 65 85.90 ± 6.60 77.28 ± 14.59 84.75 ± 9.17 73.00 ± 14.73 0.19 0.29 Conduct disorder 65 74.86 ± 15.71 66.07 ± 14.43 74.17 ± 15.65 62.56 ± 17.16 0.23 0.22 Oppositional defiant disorder 65 79.45 ± 10.67 69.41 ± 18.67 81.22 ± 10.78 67.92 ± 15.51 0.54 ^{b} 0.09 Global ADHD index 65 85.03 ± 7.70 78.14 ± 13.47 85.25 ± 8.78 71.86 ± 14.01 0.04 0.46 Impaired school life 65 2.17 ± 0.93 1.93 ± 1.07 2.61 ± 0.73 1.75 ± 1.05 0.30 0.17 Impaired relationships 65 1.76 ± 1.09 1.79 ± 0.90 2.11 ± 0.89 1.56 ± 1.08 0.17 0.24 Impaired home life 65 2.21 ± 0.94 1.86 ± 0.74 2.36 ± 0.72 1.58 ± 1.05 0.06 ^{b} 0.30 ADHD probability 65 93.69 ± 16.71 80.79 ± 29.61 94.89 ± 15.64 72.97 ± 28.58 0.18 0.27 </title>
   </rect>
  </g>
 </svg>

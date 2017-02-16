@@ -8,14 +8,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M530.475 199.559 L530.475 223.937 L555.931 223.937 L555.931 211.521 C555.805 207.811 554.428 204.835 551.622 202.394 L549.921 201.147 L548.05 200.296 L546.009 199.729 L543.968 199.559 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#00548b" stroke-width="0.0" d="M51.307 345.997 L50.797 345.997 L50.797 199.616 L51.307 199.616 ZM50.797 345.997 "/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#00548b" stroke-width="0.0" d="M51.307 345.997 L50.797 345.997 L50.797 199.616 L51.307 199.616 ZM50.797 345.997 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#dfebd2" stroke-width="0.0" d="M51.307 345.997 L531.779 345.997 L531.779 199.616 L51.307 199.616 Z"/>
@@ -28,22 +20,22 @@
  <path fill="none" clip-path="url(#clipPath1)" stroke="#00548b" stroke-width="0.0" d="M555.42 223.54 L555.93 223.54 L555.93 345.543 L555.42 345.543 ZM555.931 223.54 "/>
  <path stroke="black" clip-path="url(#clipPath2)" fill="#dfebd2" stroke-width="0.0" d="M530.484 199.81 C555.849 199.011 555.695 223.936 555.695 223.936 L530.484 223.936 L530.484 199.81 "/>
  <path fill="none" clip-path="url(#clipPath2)" stroke="#00548b" stroke-width="0.5" d="M555.687 223.937 C555.687 223.937 555.687 199.809 531.708 199.809 L530.476 199.809 "/>
- <path stroke="black" clip-path="url(#clipPath1)" fill="#de761c" stroke-width="0.0" d="M50.797 40.195 C50.814 38.052 51.726 35.95 53.405 34.583 L54.482 33.846 L55.616 33.336 L56.863 32.995 L58.11 32.882 L199.275 32.882 C209.332 33.668 206.291 44.381 206.589 51.364 L50.797 51.364 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#de761d" stroke-width="0.0" d="M50.797 40.195 C50.814 38.052 51.726 35.95 53.405 34.583 L54.482 33.846 L55.616 33.336 L56.863 32.995 L58.11 32.882 L199.275 32.882 C209.332 33.668 206.291 44.381 206.589 51.364 L50.797 51.364 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#231f20" stroke-width="0.0" d="M50.797 51.364 L555.931 51.364 L555.931 52.101 L50.797 52.101 Z"/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#231f20" stroke-width="0.0" d="M50.797 51.364 L555.931 51.364 L555.931 52.101 L50.797 52.101 Z"/>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="812.0" x="56.466" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">R</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="64.556" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">e</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="645.0" x="71.709" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">s</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="78.235" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">e</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="708.0" x="85.389" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">a</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="458.0" x="92.442" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">r</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="687.0" x="97.005" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">c</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="687.0" x="103.849" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">h</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="781.0" x="113.441" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">P</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="708.0" x="121.222" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">a</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="128.276" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">p</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="135.429" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">e</text>
- <text stroke="none" fill="#ffffff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="458.0" x="142.694" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="812.0" x="56.466" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">R</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="64.556" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="645.0" x="71.709" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="78.235" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="708.0" x="85.389" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="458.0" x="92.442" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="687.0" x="97.005" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="687.0" x="103.849" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">h</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="781.0" x="113.441" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">P</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="708.0" x="121.222" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="128.276" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="718.0" x="135.429" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#fffeff" clip-path="url(#clipPath1)" svgx:fontName="DDGBCP+AdvHelvNeu-MedEx" svgx:width="458.0" x="142.694" y="48.359" font-size="9.963" font-family="Helvetica" font-weight="normal">r</text>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#ed1c24" stroke-width="0.0" d="M57.373 82.672 L58.513 82.553 C60.747 82.355 60.747 81.801 60.747 77.88 L60.747 63.426 C60.747 59.546 60.747 58.952 58.513 58.714 L57.373 58.595 L57.373 57.566 L70.013 57.566 C75.858 57.566 82.7 58.437 82.7 64.575 C82.7 71.267 74.907 72.97 69.918 73.089 L69.918 71.584 C73.434 71.188 76.523 69.921 76.523 65.129 C76.523 60.971 73.244 59.07 69.253 59.07 C68.445 59.07 67.685 59.189 66.924 59.348 L66.924 77.88 C66.924 81.801 66.972 82.355 69.205 82.553 L71.011 82.672 L71.011 83.702 L57.373 83.702 L57.373 82.672 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#ed1c24" stroke-width="0.0" d="M87.147 72.455 C88.335 72.297 89.998 72.217 91.044 72.217 C92.042 72.217 93.705 72.297 95.035 72.415 L91.091 63.307 L90.996 63.307 L87.147 72.455 ZM77.121 82.672 L78.309 82.434 C79.401 82.157 80.067 81.682 81.397 78.949 L91.566 57.565 C92.754 57.249 93.467 57.169 94.418 57.09 L104.492 79.425 C105.252 81.127 105.822 82.157 107.485 82.474 L108.673 82.672 L108.673 83.701 L95.225 83.701 L95.225 82.672 L97.126 82.434 C98.077 82.315 98.742 82.078 98.742 81.523 C98.742 81.127 98.599 80.731 98.362 80.177 L95.748 74.197 C94.703 73.881 92.422 73.722 90.996 73.722 C89.856 73.722 87.432 73.881 86.529 74.237 L84.676 78.553 C84.153 79.781 83.726 81.088 83.726 81.365 C83.726 81.959 84.153 82.157 84.961 82.276 L87.527 82.672 L87.527 83.701 L77.121 83.701 L77.121 82.672 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#ed1c24" stroke-width="0.0" d="M115.563 77.88 C115.563 81.8 115.563 82.276 117.796 82.553 L118.937 82.672 L118.937 83.701 L106.011 83.701 L106.011 82.672 L107.152 82.553 C109.385 82.276 109.385 81.8 109.385 77.88 L109.385 63.426 C109.385 59.466 109.385 58.991 107.152 58.715 L106.011 58.595 L106.011 57.566 L118.937 57.566 L118.937 58.595 L117.796 58.715 C115.563 58.991 115.563 59.466 115.563 63.386 L115.563 77.88 "/>

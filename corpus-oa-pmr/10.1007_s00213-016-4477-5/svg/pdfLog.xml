@@ -61,7 +61,7 @@
         fontencoding="WinAnsiEncoding" basefont="CgkjnfCalibri-Bold"
         bold="false" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1007_s00213-016-4477-5/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1007_s00213-016-4477-5/fulltext.pdf"
     pageCount="6">
         <page num="1"/>
         <page num="2"/>

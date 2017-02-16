@@ -23,14 +23,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M155.849 95.564 L155.849 284.748 L439.37 284.748 L439.37 95.564 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#084444" stroke-width="0.0" d="M304.724 547.35 L304.724 540.037 L305.234 540.037 L305.234 547.35 "/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#084444" stroke-width="0.0" d="M304.724 547.35 L304.724 540.037 L305.234 540.037 L305.234 547.35 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#084444" stroke-width="0.0" d="M304.724 540.036 L304.781 539.526 L304.894 539.016 L305.121 538.562 L305.404 538.108 L306.198 537.428 L307.219 537.088 L307.729 537.031 L307.729 537.542 L307.275 537.598 L306.878 537.712 L306.481 537.882 L306.141 538.108 L305.801 538.449 L305.574 538.789 L305.348 539.186 L305.234 539.639 L305.234 540.036 "/>

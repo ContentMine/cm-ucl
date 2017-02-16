@@ -90,7 +90,7 @@
         basefont="FMDAPL+PlantinStd-Bold"
         bold="true" italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.3109_00207454.2013.803104/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.3109_00207454.2013.803104/fulltext.pdf"
     pageCount="11">
         <page num="1"/>
         <page num="2"/>

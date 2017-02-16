@@ -14,14 +14,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M37.425 242.789 L36.958 242.883 L36.577 243.141 L36.319 243.522 L36.225 243.989 L36.225 295.589 L36.319 296.057 L36.577 296.438 L36.958 296.695 L37.425 296.789 L89.025 296.789 L89.492 296.695 L89.873 296.438 L90.131 296.057 L90.225 295.589 L90.225 243.989 L90.131 243.522 L89.873 243.141 L89.492 242.883 L89.025 242.789 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#2b5bf9" stroke-width="0.0" d="M520.157 103.351 L561.713 103.351 Z"/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#2b5bf9" stroke-width="0.0" d="M221.499 112.876 L317.254 112.876 Z"/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#2b5bf9" stroke-width="0.0" d="M342.709 112.876 L377.632 112.876 Z"/>

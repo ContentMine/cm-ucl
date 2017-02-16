@@ -695,7 +695,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="85.039" y="254.845" width="184.768864" height="14.993000000000023" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.376 x 2]}{[bold, normal]}{[null x 2]} //Table 3 Analysis of contacts onto different types of projection neuron. </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.376 x 2]}{[normal, bold]}{[null x 2]} //Table 3 Analysis of contacts onto different types of projection neuron. </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -706,7 +706,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Total projection // cells // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="205.0" y="276.78200000000004" width="18.0" height="15.902999999999963" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/+ // NK1r // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/NK1r // ^{+} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="225.0" y="276.78200000000004" width="13.0" height="15.902999999999963" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/cells // </title>
@@ -718,7 +718,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/NK1r-lacking // cells // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="380.0" y="276.78200000000004" width="52.0" height="15.902999999999963" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/+ // NK1r // with contacts (%) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/NK1r // ^{+} // with contacts (%) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="400.0" y="276.78200000000004" width="14.0" height="15.902999999999963" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 7/cells // </title>

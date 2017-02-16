@@ -1598,7 +1598,7 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Variable // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="375.0" y="84.321" width="44.0" height="9.006" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/2 // Adjusted R // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Adjusted R // ^{2} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="442.0" y="84.321" width="17.0" height="9.006" fill="green" opacity="0.2">
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/Beta // </title>

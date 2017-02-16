@@ -80,7 +80,7 @@
         fontencoding="Type1Encoding" basefont="MinionPro-Bold"
         bold="true" italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1371_journal.pone.0169976/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1371_journal.pone.0169976/fulltext.pdf"
     pageCount="23">
         <page num="1"/>
         <page num="2"/>

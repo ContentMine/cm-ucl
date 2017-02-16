@@ -986,7 +986,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="85.039" y="65.547" width="185.09486400000003" height="14.936999999999998" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.376 x 2]}{[bold, normal]}{[null x 2]} //Table 2 Comparison of prevalence related to time of CIPN assessment. </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[TimesNewRoman x 2]}{[6.376 x 2]}{[normal, bold]}{[null x 2]} //Table 2 Comparison of prevalence related to time of CIPN assessment. </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1010,10 +1010,10 @@
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/61 mo // // // // // // // // // // // // // // // // // // // // // // // // // // // // 3 mo // // // // // // P6 mo // // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="230.0" y="109.57000000000001" width="56.0" height="270.98900000000003" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/68.1% (57.7–78.4) // // // // // // // // // // // // // // // // // // // // // // // // // // // † // 60.0% (36.4–81.6) // // // // // † // 30.0% (6.4–53.5) // // // // // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 1/68.1% (57.7–78.4) // // // // // // // // // // // // // // // // // // // // // // // // // // // // 60.0% (36.4–81.6) // ^{†} // // // // // 30.0% (6.4–53.5) // ^{†} // // // // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="324.0" y="109.57000000000001" width="63.0" height="270.98900000000003" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/Antonacopolou 2009 // Argyriou 2007 // Argyriou 2012 // Argyriou 2013 // Baldwin 2012 // Cascinu 1995 // Cascinu 2002 // Chaudhry 2008 // * // Dimopoulos 2011 // Gandara 1995 // Ghoreishi 2012 // * // Gobran 2013 // Ishibashi 2010 // Kawakami 2012 // * // Krishnan 2005 // Lin 2006 // * // Milla 2009 // Pace 2003 // * // Pace 2007 // Pace 2010 // Van Der Hoop 1999 // Won 2012 // // Argyriou 2006 // Argyriou 2007 // Kemp 1996 // Planting 1999 // Plasmati 2007 // ‡ // Johnson 2011 // // Attal 2009 // Glendenning 2010 // Von Schlippe 2001 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/Antonacopolou 2009 // Argyriou 2007 // Argyriou 2012 // Argyriou 2013 // Baldwin 2012 // Cascinu 1995 // Cascinu 2002 // Chaudhry 2008 // // Dimopoulos 2011 // ^{*} // Gandara 1995 // Ghoreishi 2012 // Gobran 2013 // ^{*} // Ishibashi 2010 // Kawakami 2012 // Krishnan 2005 // ^{*} // Lin 2006 // Milla 2009 // ^{*} // Pace 2003 // Pace 2007 // ^{*} // Pace 2010 // Van Der Hoop 1999 // Won 2012 // Argyriou 2006 // Argyriou 2007 // Kemp 1996 // Planting 1999 // Plasmati 2007 // // Johnson 2011 // ^{‡} // Attal 2009 // Glendenning 2010 // Von Schlippe 2001 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="422.0" y="109.57000000000001" width="15.0" height="270.98900000000003" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/2085 // // // // // // // // // // // // // // // // // // // // // // // // // // // // 234 // // // // // // 1860 // // // // // </title>
@@ -1035,17 +1035,17 @@
    <rect stroke="black" stroke-width="1.0" x="230.853" y="109.57000000000001" width="53.93580400000002" height="6.4609999999999985" fill="red" opacity="0.2" class="cell.1.0">
     <title stroke="black" stroke-width="1.0">1.0/68.1% (57.7–78.4)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="284.655" y="301.019" width="2.253750000000025" height="3.0049999999999955" fill="red" opacity="0.2" class="cell.1.27">
-    <title stroke="black" stroke-width="1.0">1.27/†</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="230.854" y="301.815" width="53.765803999999974" height="6.461000000000013" fill="red" opacity="0.2" class="cell.1.28">
     <title stroke="black" stroke-width="1.0">1.28/60.0% (36.4–81.6)</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="280.857" y="347.62" width="2.253750000000025" height="3.0049999999999955" fill="red" opacity="0.2" class="cell.1.33">
-    <title stroke="black" stroke-width="1.0">1.33/†</title>
+   <rect stroke="black" stroke-width="1.0" x="284.655" y="301.019" width="2.253750000000025" height="3.0049999999999955" fill="red" opacity="0.2" class="cell.1.29">
+    <title stroke="black" stroke-width="1.0">1.29/^{†}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="230.855" y="348.359" width="49.94780400000005" height="6.461000000000013" fill="red" opacity="0.2" class="cell.1.34">
     <title stroke="black" stroke-width="1.0">1.34/30.0% (6.4–53.5)</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="280.857" y="347.62" width="2.253750000000025" height="3.0049999999999955" fill="red" opacity="0.2" class="cell.1.35">
+    <title stroke="black" stroke-width="1.0">1.35/^{†}</title>
    </rect>
   </g>
   <g class="col.2">
@@ -1073,62 +1073,62 @@
    <rect stroke="black" stroke-width="1.0" x="324.906" y="169.54999999999998" width="46.59676300000001" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.7">
     <title stroke="black" stroke-width="1.0">2.7/Chaudhry 2008</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="378.765" y="177.22899999999998" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.8">
-    <title stroke="black" stroke-width="1.0">2.8/*</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="324.906" y="178.10999999999999" width="53.81176300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.9">
     <title stroke="black" stroke-width="1.0">2.9/Dimopoulos 2011</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="186.671" width="42.71576300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.10">
-    <title stroke="black" stroke-width="1.0">2.10/Gandara 1995</title>
+   <rect stroke="black" stroke-width="1.0" x="378.765" y="177.22899999999998" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.10">
+    <title stroke="black" stroke-width="1.0">2.10/^{*}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="195.232" width="46.44176300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.11">
-    <title stroke="black" stroke-width="1.0">2.11/Ghoreishi 2012</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="186.671" width="42.71576300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.11">
+    <title stroke="black" stroke-width="1.0">2.11/Gandara 1995</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="364.365" y="202.911" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.12">
-    <title stroke="black" stroke-width="1.0">2.12/*</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="195.232" width="46.44176300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.12">
+    <title stroke="black" stroke-width="1.0">2.12/Ghoreishi 2012</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="203.79199999999997" width="39.411763000000064" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.13">
     <title stroke="black" stroke-width="1.0">2.13/Gobran 2013</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="212.35299999999998" width="44.16069200000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.14">
-    <title stroke="black" stroke-width="1.0">2.14/Ishibashi 2010</title>
+   <rect stroke="black" stroke-width="1.0" x="364.365" y="202.911" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.14">
+    <title stroke="black" stroke-width="1.0">2.14/^{*}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="220.914" width="48.93676300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.15">
-    <title stroke="black" stroke-width="1.0">2.15/Kawakami 2012</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="212.35299999999998" width="44.16069200000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.15">
+    <title stroke="black" stroke-width="1.0">2.15/Ishibashi 2010</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="369.241" y="228.64999999999998" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.16">
-    <title stroke="black" stroke-width="1.0">2.16/*</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="220.914" width="48.93676300000004" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.16">
+    <title stroke="black" stroke-width="1.0">2.16/Kawakami 2012</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="229.53099999999998" width="44.272763000000054" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.17">
     <title stroke="black" stroke-width="1.0">2.17/Krishnan 2005</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="238.09199999999998" width="26.413763000000017" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.18">
-    <title stroke="black" stroke-width="1.0">2.18/Lin 2006</title>
+   <rect stroke="black" stroke-width="1.0" x="369.241" y="228.64999999999998" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.18">
+    <title stroke="black" stroke-width="1.0">2.18/^{*}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="357.619" y="245.771" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.19">
-    <title stroke="black" stroke-width="1.0">2.19/*</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="238.09199999999998" width="26.413763000000017" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.19">
+    <title stroke="black" stroke-width="1.0">2.19/Lin 2006</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="246.652" width="32.649763000000064" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.20">
     <title stroke="black" stroke-width="1.0">2.20/Milla 2009</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="255.21299999999997" width="30.835763000000043" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.21">
-    <title stroke="black" stroke-width="1.0">2.21/Pace 2003</title>
+   <rect stroke="black" stroke-width="1.0" x="357.619" y="245.771" width="2.344159999999988" height="4.50800000000001" fill="red" opacity="0.2" class="cell.2.21">
+    <title stroke="black" stroke-width="1.0">2.21/^{*}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="355.805" y="262.892" width="2.344159999999988" height="4.507999999999981" fill="red" opacity="0.2" class="cell.2.22">
-    <title stroke="black" stroke-width="1.0">2.22/*</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="255.21299999999997" width="30.835763000000043" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.22">
+    <title stroke="black" stroke-width="1.0">2.22/Pace 2003</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="263.774" width="30.835763000000043" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.23">
     <title stroke="black" stroke-width="1.0">2.23/Pace 2007</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="272.334" width="30.836692000000028" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.24">
-    <title stroke="black" stroke-width="1.0">2.24/Pace 2010</title>
+   <rect stroke="black" stroke-width="1.0" x="355.805" y="262.892" width="2.344159999999988" height="4.507999999999981" fill="red" opacity="0.2" class="cell.2.24">
+    <title stroke="black" stroke-width="1.0">2.24/^{*}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="280.895" width="60.23376300000007" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.25">
-    <title stroke="black" stroke-width="1.0">2.25/Van Der Hoop 1999</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="272.334" width="30.836692000000028" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.25">
+    <title stroke="black" stroke-width="1.0">2.25/Pace 2010</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="324.907" y="289.455" width="31.701763000000028" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.26">
-    <title stroke="black" stroke-width="1.0">2.26/Won 2012</title>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="280.895" width="60.23376300000007" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.26">
+    <title stroke="black" stroke-width="1.0">2.26/Van Der Hoop 1999</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="324.907" y="289.455" width="31.701763000000028" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.27">
+    <title stroke="black" stroke-width="1.0">2.27/Won 2012</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="301.815" width="43.59276300000005" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.28">
     <title stroke="black" stroke-width="1.0">2.28/Argyriou 2006</title>
@@ -1145,11 +1145,11 @@
    <rect stroke="black" stroke-width="1.0" x="324.907" y="336.056" width="43.08276300000006" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.32">
     <title stroke="black" stroke-width="1.0">2.32/Plasmati 2007</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="366.406" y="347.62" width="2.253750000000025" height="3.0049999999999955" fill="red" opacity="0.2" class="cell.2.33">
-    <title stroke="black" stroke-width="1.0">2.33/‡</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="348.36" width="41.45276300000006" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.34">
     <title stroke="black" stroke-width="1.0">2.34/Johnson 2011</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="366.406" y="347.62" width="2.253750000000025" height="3.0049999999999955" fill="red" opacity="0.2" class="cell.2.35">
+    <title stroke="black" stroke-width="1.0">2.35/^{‡}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="324.907" y="356.977" width="31.800763000000018" height="6.461000000000013" fill="red" opacity="0.2" class="cell.2.36">
     <title stroke="black" stroke-width="1.0">2.36/Attal 2009</title>
@@ -1175,7 +1175,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="85.039" y="388.611" width="434.997166" height="40.81700000000001" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 8]}{[6.461 x 5, 3.005 x 2, 4.508]}{[normal x 8]}{[null x 8]} //Abbreviations: CI, confidence interval; CIPN, chemotherapy-induced peripheral neuropathy. * Studies included longer-term CIPN follow up but did not provide enough details at these later time points to allow use of data in the meta- regression. † Wide confidence interval likely due to small number of studies assessing CIPN beyond this time point. ‡ Study considered CIPN only after induction therapy and not during maintenance. </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[TimesNewRoman x 8]}{[6.461 x 5, 3.005 x 2, 4.508]}{[normal x 8]}{[null x 8]} //Abbreviations: CI, confidence interval; CIPN, chemotherapy-induced peripheral neuropathy. ^{*} Studies included longer-term CIPN follow up but did not provide enough details at these later time points to allow use of data in the meta- regression. ^{†} Wide confidence interval likely due to small number of studies assessing CIPN beyond this time point. ^{‡} Study considered CIPN only after induction therapy and not during maintenance. </title>
   </rect>
  </g>
 </svg>

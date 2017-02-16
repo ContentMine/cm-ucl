@@ -2063,55 +2063,31 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Peptide // Ligand // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="95.0" y="93.75399999999999" width="36.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/a // Sequence // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/Sequence // ^{a} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="166.0" y="93.75399999999999" width="57.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Ligand Affinity // k // for I-E // IC // (nM) // 50 // </title>
+  <rect stroke="black" stroke-width="1.0" x="166.0" y="93.75399999999999" width="60.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/Ligand Affinity // for I-E // ^{k} // IC // _{50} // (nM) // ^{b} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="223.0" y="93.75399999999999" width="3.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/b // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="233.0" y="93.75399999999999" width="8.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/k // a // (M // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="241.0" y="93.75399999999999" width="11.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/21 // s // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="252.0" y="93.75399999999999" width="12.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/21 c // ) // </title>
+  <rect stroke="black" stroke-width="1.0" x="233.0" y="93.75399999999999" width="31.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/k // _{a} // (M // ^{21} // s // ^{21 c} // ) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="274.0" y="93.75399999999999" width="18.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 7/k // d // 21 c // (s // ) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/k // _{d} // (s // ^{21 c} // ) // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="328.0" y="93.75399999999999" width="15.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 8/K // D // (μM) // </title>
+  <rect stroke="black" stroke-width="1.0" x="328.0" y="93.75399999999999" width="17.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/K // _{D} // (μM) // ^{c} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="343.0" y="93.75399999999999" width="2.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 9/c // </title>
+  <rect stroke="black" stroke-width="1.0" x="355.0" y="93.75399999999999" width="44.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/Monomer // t // _{K} // (25uC) (s) // ^{d} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="355.0" y="93.75399999999999" width="41.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 10/Monomer // t // (25uC) (s) // K // </title>
+  <rect stroke="black" stroke-width="1.0" x="409.0" y="93.75399999999999" width="44.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 7/Tetramer // t // _{K} // (25uC) (s) // ^{d} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="396.0" y="93.75399999999999" width="3.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 11/d // </title>
+  <rect stroke="black" stroke-width="1.0" x="463.0" y="93.75399999999999" width="44.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 8/Tetramer // t // _{K} // (37uC) (s) // ^{d} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="409.0" y="93.75399999999999" width="41.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 12/Tetramer // t // (25uC) (s) // K // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="450.0" y="93.75399999999999" width="3.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 13/d // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="463.0" y="93.75399999999999" width="41.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 14/Tetramer // t // (37uC) (s) // K // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="504.0" y="93.75399999999999" width="3.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 15/d // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="514.0" y="93.75399999999999" width="33.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 16/In Vitro // EC // (nM) // 50 // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="547.0" y="93.75399999999999" width="3.0" height="16.611000000000004" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 17/e // </title>
+  <rect stroke="black" stroke-width="1.0" x="514.0" y="93.75399999999999" width="36.0" height="16.611000000000004" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 9/In Vitro // EC // _{50} // (nM) // ^{e} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
@@ -2127,22 +2103,22 @@
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 2/ // 11364 // 9062 // 10864 // 10063 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="233.0" y="116.093" width="33.0" height="45.40999999999998" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/f // nd // 1,2306236 // 2,530694.6 // 1,810683 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 3/ // nd // ^{f} // 1,2306236 // 2,530694.6 // 1,810683 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="274.0" y="116.093" width="48.0" height="45.40999999999998" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/f // nd // 0.20360.00344 // 0.1160.00134 // 0.076660.00108 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 4/ // nd // ^{f} // 0.20360.00344 // 0.1160.00134 // 0.076660.00108 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="328.0" y="116.093" width="12.0" height="45.40999999999998" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/f // nd // 165 // 43.5 // 42.4 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 5/ // nd // ^{f} // 165 // 43.5 // 42.4 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="355.0" y="116.093" width="9.0" height="45.40999999999998" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/f // nd // 3.4 // 6.3 // 9.1 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 6/ // nd // ^{f} // 3.4 // 6.3 // 9.1 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="409.0" y="116.093" width="30.0" height="45.40999999999998" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 7/ // 3360.4 // 124.663.5 // 188.1 // 219.4 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="463.0" y="116.093" width="27.0" height="45.40999999999998" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 8/f // nd // 17.361.2 // 31.961.3 // 53.668.3 // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 8/ // nd // ^{f} // 17.361.2 // 31.961.3 // 53.668.3 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="514.0" y="116.093" width="16.0" height="45.40999999999998" fill="red" opacity="0.2">
    <title stroke="black" stroke-width="1.0">BODYCOLUMN: 9/ // 160.3 // 24.87 // 37.80 // 17.52 // </title>
@@ -2192,71 +2168,71 @@
    </rect>
   </g>
   <g class="col.3">
-   <rect stroke="black" stroke-width="1.0" x="240.945" y="116.093" width="1.4349210000000028" height="4.930999999999997" fill="red" opacity="0.2" class="cell.3.0">
-    <title stroke="black" stroke-width="1.0">3.0/f</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="233.178" y="117.16799999999999" width="7.770387999999997" height="6.974000000000004" fill="red" opacity="0.2" class="cell.3.1">
     <title stroke="black" stroke-width="1.0">3.1/nd</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="233.177" y="129.64000000000001" width="32.158739999999995" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.3.2">
-    <title stroke="black" stroke-width="1.0">3.2/1,2306236</title>
+   <rect stroke="black" stroke-width="1.0" x="240.945" y="116.093" width="1.4349210000000028" height="4.930999999999997" fill="red" opacity="0.2" class="cell.3.2">
+    <title stroke="black" stroke-width="1.0">3.2/^{f}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="233.178" y="142.056" width="33.60674" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.3.3">
-    <title stroke="black" stroke-width="1.0">3.3/2,530694.6</title>
+   <rect stroke="black" stroke-width="1.0" x="233.177" y="129.64000000000001" width="32.158739999999995" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.3.3">
+    <title stroke="black" stroke-width="1.0">3.3/1,2306236</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="233.178" y="154.529" width="28.600739999999973" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.3.4">
-    <title stroke="black" stroke-width="1.0">3.4/1,810683</title>
+   <rect stroke="black" stroke-width="1.0" x="233.178" y="142.056" width="33.60674" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.3.4">
+    <title stroke="black" stroke-width="1.0">3.4/2,530694.6</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="233.178" y="154.529" width="28.600739999999973" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.3.5">
+    <title stroke="black" stroke-width="1.0">3.5/1,810683</title>
    </rect>
   </g>
   <g class="col.4">
-   <rect stroke="black" stroke-width="1.0" x="282.614" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.4.0">
-    <title stroke="black" stroke-width="1.0">4.0/f</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="274.791" y="117.16799999999999" width="7.830388000000028" height="6.974000000000004" fill="red" opacity="0.2" class="cell.4.1">
     <title stroke="black" stroke-width="1.0">4.1/nd</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="274.791" y="129.64000000000001" width="44.400739999999985" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.4.2">
-    <title stroke="black" stroke-width="1.0">4.2/0.20360.00344</title>
+   <rect stroke="black" stroke-width="1.0" x="282.614" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.4.2">
+    <title stroke="black" stroke-width="1.0">4.2/^{f}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="274.789" y="142.056" width="40.831740000000025" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.4.3">
-    <title stroke="black" stroke-width="1.0">4.3/0.1160.00134</title>
+   <rect stroke="black" stroke-width="1.0" x="274.791" y="129.64000000000001" width="44.400739999999985" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.4.3">
+    <title stroke="black" stroke-width="1.0">4.3/0.20360.00344</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="274.791" y="154.529" width="47.97273999999999" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.4.4">
-    <title stroke="black" stroke-width="1.0">4.4/0.076660.00108</title>
+   <rect stroke="black" stroke-width="1.0" x="274.789" y="142.056" width="40.831740000000025" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.4.4">
+    <title stroke="black" stroke-width="1.0">4.4/0.1160.00134</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="274.791" y="154.529" width="47.97273999999999" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.4.5">
+    <title stroke="black" stroke-width="1.0">4.5/0.076660.00108</title>
    </rect>
   </g>
   <g class="col.5">
-   <rect stroke="black" stroke-width="1.0" x="336.529" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.5.0">
-    <title stroke="black" stroke-width="1.0">5.0/f</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="328.762" y="117.16799999999999" width="7.769388000000049" height="6.974000000000004" fill="red" opacity="0.2" class="cell.5.1">
     <title stroke="black" stroke-width="1.0">5.1/nd</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="328.76" y="129.64000000000001" width="10.670740000000023" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.5.2">
-    <title stroke="black" stroke-width="1.0">5.2/165</title>
+   <rect stroke="black" stroke-width="1.0" x="336.529" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.5.2">
+    <title stroke="black" stroke-width="1.0">5.2/^{f}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="328.761" y="142.056" width="12.120739999999955" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.5.3">
-    <title stroke="black" stroke-width="1.0">5.3/43.5</title>
+   <rect stroke="black" stroke-width="1.0" x="328.76" y="129.64000000000001" width="10.670740000000023" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.5.3">
+    <title stroke="black" stroke-width="1.0">5.3/165</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="328.761" y="154.529" width="12.120739999999955" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.5.4">
-    <title stroke="black" stroke-width="1.0">5.4/42.4</title>
+   <rect stroke="black" stroke-width="1.0" x="328.761" y="142.056" width="12.120739999999955" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.5.4">
+    <title stroke="black" stroke-width="1.0">5.4/43.5</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="328.761" y="154.529" width="12.120739999999955" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.5.5">
+    <title stroke="black" stroke-width="1.0">5.5/42.4</title>
    </rect>
   </g>
   <g class="col.6">
-   <rect stroke="black" stroke-width="1.0" x="363.458" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.6.0">
-    <title stroke="black" stroke-width="1.0">6.0/f</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="355.691" y="117.16799999999999" width="7.769388000000049" height="6.974000000000004" fill="red" opacity="0.2" class="cell.6.1">
     <title stroke="black" stroke-width="1.0">6.1/nd</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="355.689" y="129.64000000000001" width="8.563739999999996" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.6.2">
-    <title stroke="black" stroke-width="1.0">6.2/3.4</title>
+   <rect stroke="black" stroke-width="1.0" x="363.458" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.6.2">
+    <title stroke="black" stroke-width="1.0">6.2/^{f}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="355.69" y="142.056" width="8.563739999999996" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.6.3">
-    <title stroke="black" stroke-width="1.0">6.3/6.3</title>
+   <rect stroke="black" stroke-width="1.0" x="355.689" y="129.64000000000001" width="8.563739999999996" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.6.3">
+    <title stroke="black" stroke-width="1.0">6.3/3.4</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="355.69" y="154.529" width="8.563739999999996" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.6.4">
-    <title stroke="black" stroke-width="1.0">6.4/9.1</title>
+   <rect stroke="black" stroke-width="1.0" x="355.69" y="142.056" width="8.563739999999996" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.6.4">
+    <title stroke="black" stroke-width="1.0">6.4/6.3</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="355.69" y="154.529" width="8.563739999999996" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.6.5">
+    <title stroke="black" stroke-width="1.0">6.5/9.1</title>
    </rect>
   </g>
   <g class="col.7">
@@ -2274,20 +2250,20 @@
    </rect>
   </g>
   <g class="col.8">
-   <rect stroke="black" stroke-width="1.0" x="471.288" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.8.0">
-    <title stroke="black" stroke-width="1.0">8.0/f</title>
-   </rect>
    <rect stroke="black" stroke-width="1.0" x="463.522" y="117.16799999999999" width="7.769388000000049" height="6.974000000000004" fill="red" opacity="0.2" class="cell.8.1">
     <title stroke="black" stroke-width="1.0">8.1/nd</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="463.521" y="129.64000000000001" width="26.53474" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.8.2">
-    <title stroke="black" stroke-width="1.0">8.2/17.361.2</title>
+   <rect stroke="black" stroke-width="1.0" x="471.288" y="116.093" width="1.4349209999999744" height="4.930999999999997" fill="red" opacity="0.2" class="cell.8.2">
+    <title stroke="black" stroke-width="1.0">8.2/^{f}</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="463.518" y="142.056" width="26.53874000000002" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.8.3">
-    <title stroke="black" stroke-width="1.0">8.3/31.961.3</title>
+   <rect stroke="black" stroke-width="1.0" x="463.521" y="129.64000000000001" width="26.53474" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.8.3">
+    <title stroke="black" stroke-width="1.0">8.3/17.361.2</title>
    </rect>
-   <rect stroke="black" stroke-width="1.0" x="463.518" y="154.529" width="26.53874000000002" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.8.4">
-    <title stroke="black" stroke-width="1.0">8.4/53.668.3</title>
+   <rect stroke="black" stroke-width="1.0" x="463.518" y="142.056" width="26.53874000000002" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.8.4">
+    <title stroke="black" stroke-width="1.0">8.4/31.961.3</title>
+   </rect>
+   <rect stroke="black" stroke-width="1.0" x="463.518" y="154.529" width="26.53874000000002" height="6.9739999999999895" fill="red" opacity="0.2" class="cell.8.5">
+    <title stroke="black" stroke-width="1.0">8.5/53.668.3</title>
    </rect>
   </g>
   <g class="col.9">
@@ -2307,7 +2283,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="64.062" y="170.915" width="490.16564800000003" height="109.643" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 52]}{[6.974 x 27, 4.931 x 25]}{[normal x 52]}{[null x 52]} //a TCR contact residues are underlined and italicized in the MCC sequence. b k The binding affinity of soluble I-E for the various peptides was previously reported in [24]. The IC value is the concentration of unlabeled peptide that prevented 50 k 50% of biotinylated peptide binding to I-E . Errors represent s.d. from the mean. c k Values were derived from SPR measurements obtained with immobilized peptide/I-E complexes and soluble 5C.C7 TCR. Data in Figure 1 were fitted to a 1:1 Langmuir binding model to generate k and k . K was calculated by k /k . Errors represent s.d. from the mean and are derived from two independent experiments. a d D d a d k k The half-life (t ) of I-E monomer binding to 5C.C7 TCR is equal to ln2/k . k was calculated as described in note c. The half-life (t ) of I-E tetramer binding was 1/2 d d 1/2 calculated from linear regression plots (Figure 1) as the time at which median tetramer fluorescence was equal to 50% of that at t = 0. Errors represent s.d. from the mean, calculated from three or more independent experiments, except in the case of 102S 25uC (two independent experiments). e 3 EC values were determined as the peptide concentration that yielded 50% of maximal H-thymidine incorporation by 5C.C7 RAG22/2 lymphocytes in response to 50 the indicated peptides presented by B10.A splenocytes (Figure 2A). Values are averaged from four independent experiments. f k Not determined. On- or off-rates were too fast to be measured accurately by SPR (see Figure 1). Thus, the half-life of 102S/I-E monomer binding to 5C.C7 TCR cannot be k calculated. The half-life of 102S/I-E tetramer binding to 5C.C7 TCR was determined at 25uC but is too short to be measured at 37uC. doi:10.1371/journal.pbio.1000481.t001 </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 52]}{[6.974 x 27, 4.931 x 25]}{[normal x 52]}{[null x 52]} //^{a} TCR contact residues are underlined and italicized in the MCC sequence. ^{b} The binding affinity of soluble I-E ^{k} for the various peptides was previously reported in [24]. The IC _{50} value is the concentration of unlabeled peptide that prevented 50% of biotinylated peptide binding to I-E . Errors represent s.d. from the mean. ^{k} ^{c} Values were derived from SPR measurements obtained with immobilized peptide/I-E ^{k} complexes and soluble 5C.C7 TCR. Data in Figure 1 were fitted to a 1:1 Langmuir binding model to generate k _{a} and k . K _{d} _{D} was calculated by k /k . Errors represent s.d. from the mean and are derived from two independent experiments. _{d} a ^{d} The half-life (t _{1/2} ) of I-E ^{k} monomer binding to 5C.C7 TCR is equal to ln2/k . k _{d} _{d} was calculated as described in note c. The half-life (t _{1/2} ) of I-E ^{k} tetramer binding was calculated from linear regression plots (Figure 1) as the time at which median tetramer fluorescence was equal to 50% of that at t = 0. Errors represent s.d. from the mean, calculated from three or more independent experiments, except in the case of 102S 25uC (two independent experiments). ^{e} EC _{50} values were determined as the peptide concentration that yielded 50% of maximal ^{3} H-thymidine incorporation by 5C.C7 RAG22/2 lymphocytes in response to the indicated peptides presented by B10.A splenocytes (Figure 2A). Values are averaged from four independent experiments. ^{f} Not determined. On- or off-rates were too fast to be measured accurately by SPR (see Figure 1). Thus, the half-life of 102S/I-E ^{k} monomer binding to 5C.C7 TCR cannot be calculated. The half-life of 102S/I-E ^{k} tetramer binding to 5C.C7 TCR was determined at 25uC but is too short to be measured at 37uC. doi:10.1371/journal.pbio.1000481.t001 </title>
   </rect>
  </g>
 </svg>

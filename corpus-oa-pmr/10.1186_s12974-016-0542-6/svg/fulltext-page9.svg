@@ -26,14 +26,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M64.006 93.982 L64.006 416.621 L531.212 416.621 L531.212 93.982 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#000000" stroke-width="0.0" d="M60.718 87.745 L534.557 87.745 L534.557 87.972 L60.718 87.972 "/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#000000" stroke-width="0.0" d="M60.718 87.745 L534.557 87.745 L534.557 87.972 L60.718 87.972 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#000000" stroke-width="0.0" d="M534.557 87.745 L535.294 87.802 C536.852 87.974 538.334 89.514 538.526 91.033 L538.582 91.713 L538.355 91.713 L538.299 91.09 C538.084 89.611 536.751 88.253 535.237 88.028 L534.557 87.972 "/>

@@ -1012,28 +1012,25 @@
    <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/BSI experimentally // measured values // Calculated value // Other methods // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="142.0" y="507.954" width="27.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/K // K // K // K // K // K // K // K // K // K // K // K // K // D,in-vivo // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/K // K // K // K // K // K // K // K // K // K // K // K // K // _{D,in-vivo} // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="147.0" y="507.954" width="108.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/D{buffer},{rhMAdCAM.Fc} // D{0.1% serum},{s} // D,app{10% serum},{s} // D,app {25% serum},{s} // D,app {35% serum},{s} // D,app {50% serum},{s} // D{CHO VRH},{m} // a // D{tissue,VRH},{m} // D{tissue,IOH},{s} // D,app-int{tissueVRH + 87.5%ILH},{m+s} // D,app{100% serum},{s} // (Biacore) // D{buffer},{rhMAdCAM.Fc} // (TMDD Model) // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/_{D{buffer},{rhMAdCAM.Fc}} // _{D{0.1% serum},{s}} // _{D,app{10% serum},{s}} // _{D,app {25% serum},{s}} // _{D,app {35% serum},{s}} // _{D,app {50% serum},{s}} // _{D{CHO VRH},{m}} // _{D{tissue,VRH},{m}} // ^{a} // _{D{tissue,IOH},{s}} // _{D,app-int{tissueVRH + 87.5%ILH},{m+s}} // _{D,app{100% serum},{s}} // _{D{buffer},{rhMAdCAM.Fc}} // (Biacore) // (TMDD Model) // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="280.0" y="507.954" width="39.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/10 // 1.0 // 100 // 250 // 350 // 500 // 34 // 0.043 // b // ≤44 // 0.043 + 39 // – // – // – // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 3/10 // 1.0 // 100 // 250 // 350 // 500 // 34 // 0.043 // ≤44 // ^{b} // 0.043 + 39 // – // – // – // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="384.0" y="507.954" width="18.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/7.1 // 7.5 // 30 // 110 // 174 // 285 // 134 // 155 // 207 // 322 // 596 // 16.1 // d // 528 // </title>
-  </rect>
-  <rect stroke="black" stroke-width="1.0" x="400.0" y="507.954" width="3.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/c // </title>
+  <rect stroke="black" stroke-width="1.0" x="384.0" y="507.954" width="19.0" height="167.55599999999998" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 4/7.1 // 7.5 // 30 // 110 // 174 // 285 // 134 // 155 // 207 // 322 // 596 // 16.1 // ^{c} // _{d} // 528 // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="441.0" y="507.954" width="10.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/22 // 20 // 25 // 38 // 38 // 36 // 33 // 27 // 31 // 11 // – // – // – // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 5/22 // 20 // 25 // 38 // 38 // 36 // 33 // 27 // 31 // 11 // – // – // – // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="495.0" y="507.954" width="6.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 7/5 // 5 // 5 // 5 // 5 // 5 // 5 // 5 // 4 // 4 // – // – // – // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 6/5 // 5 // 5 // 5 // 5 // 5 // 5 // 5 // 4 // 4 // – // – // – // </title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="525.0" y="507.954" width="17.0" height="167.55599999999998" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 8/0.97 // 0.98 // 0.96 // 0.92 // 0.93 // 0.94 // 0.95 // 0.97 // 0.97 // 0.99 // – // – // – // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 7/0.97 // 0.98 // 0.96 // 0.92 // 0.93 // 0.94 // 0.95 // 0.97 // 0.97 // 0.99 // – // – // – // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1079,31 +1076,31 @@
  </g>
  <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="51.0" y="679.051" width="377.0" height="48.61699999999996" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/a // Predominantly membrane MAdCAM with possibly some soluble form; // b // starting MAdCAM concentration in ILH sample; // c // (Pullen et al., 2009); // d // derived from ftting PK/PD (total MAdCAM serum concentrations) data to a TMDD model (Martin et al., 2009). // {s}, soluble MAdCAM; {m}, membrane MAdCAM; // </title>
+   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/^{a} // Predominantly membrane MAdCAM with possibly some soluble form; // ^{b} // starting MAdCAM concentration in ILH sample; // ^{c} // (Pullen et al., 2009); // ^{d} // derived from ftting PK/PD (total MAdCAM serum concentrations) data to a TMDD model (Martin et al., 2009). // {s}, soluble MAdCAM; {m}, membrane MAdCAM; // </title>
   </rect>
  </g>
  <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <g class="col.0">
    <rect stroke="black" stroke-width="1.0" x="51.477" y="679.051" width="2.6514999999999986" height="5.302999999999997" fill="red" opacity="0.2" class="cell.0.0">
-    <title stroke="black" stroke-width="1.0">0.0/a</title>
+    <title stroke="black" stroke-width="1.0">0.0/^{a}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="54.425" y="680.199" width="235.0595" height="7.5" fill="red" opacity="0.2" class="cell.0.1">
     <title stroke="black" stroke-width="1.0">0.1/Predominantly membrane MAdCAM with possibly some soluble form;</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="51.477" y="689.029" width="3.1446790000000036" height="5.302999999999997" fill="red" opacity="0.2" class="cell.0.2">
-    <title stroke="black" stroke-width="1.0">0.2/b</title>
+    <title stroke="black" stroke-width="1.0">0.2/^{b}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="54.935" y="690.177" width="159.5425" height="7.5" fill="red" opacity="0.2" class="cell.0.3">
     <title stroke="black" stroke-width="1.0">0.3/starting MAdCAM concentration in ILH sample;</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="51.477" y="699.064" width="2.5401370000000014" height="5.302999999999997" fill="red" opacity="0.2" class="cell.0.4">
-    <title stroke="black" stroke-width="1.0">0.4/c</title>
+    <title stroke="black" stroke-width="1.0">0.4/^{c}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="54.312" y="700.212" width="67.64450000000001" height="7.5" fill="red" opacity="0.2" class="cell.0.5">
     <title stroke="black" stroke-width="1.0">0.5/(Pullen et al., 2009);</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="51.477" y="709.042" width="3.1446790000000036" height="5.302999999999997" fill="red" opacity="0.2" class="cell.0.6">
-    <title stroke="black" stroke-width="1.0">0.6/d</title>
+    <title stroke="black" stroke-width="1.0">0.6/^{d}</title>
    </rect>
    <rect stroke="black" stroke-width="1.0" x="54.935" y="710.19" width="373.39050000000003" height="7.5" fill="red" opacity="0.2" class="cell.0.7">
     <title stroke="black" stroke-width="1.0">0.7/derived from ftting PK/PD (total MAdCAM serum concentrations) data to a TMDD model (Martin et al., 2009).</title>

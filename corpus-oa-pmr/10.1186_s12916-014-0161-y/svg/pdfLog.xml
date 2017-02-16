@@ -104,7 +104,7 @@
         basefont="IENDBG+FqqqkrFrutigerLTStd-Roman"
         bold="false" italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1186_s12916-014-0161-y/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1186_s12916-014-0161-y/fulltext.pdf"
     pageCount="19">
         <page num="1"/>
         <page num="2"/>

@@ -38,14 +38,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M115.92 147.476 L115.92 148.476 L115.92 149.476 L540.72 149.476 L540.72 148.476 L540.72 147.476 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="ECIEJC+OpenSans" svgx:width="0.0" svgx:charCode="-1" svgx:hexCode="ffffffff" svgx:textChar="70" svgx:textHex="46" x="195.727" y="776.935" font-size="9.0" font-weight="normal" font-family="Courier">F</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="ECIEJC+OpenSans" svgx:width="0.0" svgx:charCode="-1" svgx:hexCode="ffffffff" svgx:textChar="117" svgx:textHex="75" x="200.371" y="776.935" font-size="9.0" font-weight="normal" font-family="Courier">u</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="ECIEJC+OpenSans" svgx:width="0.0" svgx:charCode="-1" svgx:hexCode="ffffffff" svgx:textChar="108" svgx:textHex="6c" x="205.888" y="776.935" font-size="9.0" font-weight="normal" font-family="Courier">l</text>

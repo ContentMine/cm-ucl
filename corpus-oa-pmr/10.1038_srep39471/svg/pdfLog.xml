@@ -43,7 +43,7 @@
         basefont="LQMFTX+EuclidSymbol-Bold"
         bold="false" italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1038_srep39471/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1038_srep39471/fulltext.pdf"
     pageCount="15">
         <page num="1"/>
         <page num="2"/>

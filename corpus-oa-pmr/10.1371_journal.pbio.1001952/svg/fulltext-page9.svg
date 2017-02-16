@@ -8,14 +8,6 @@
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L612.0 0.0 L612.0 790.0 L0.0 790.0 L0.0 0.0 Z"/>
   </clipPath>
  </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
- </defs>
  <image transform="matrix(0.24007364008666876,-0.0,-0.0,0.24009240371881901,69.78900146484375,59.90802001953125)" xlink:href="fulltext.p9.i1.png" x="0.0" y="0.0" width="1969.0" height="2294.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLK+AdvP41461E" svgx:width="572.0" x="58.054" y="628.595" font-size="7.97" font-family="Helvetica" font-weight="bold">F</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="EPAKLK+AdvP41461E" svgx:width="291.0" x="62.612" y="628.595" font-size="7.97" font-family="Helvetica" font-weight="bold">i</text>

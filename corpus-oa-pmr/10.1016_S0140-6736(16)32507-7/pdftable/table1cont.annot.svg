@@ -1526,12 +1526,12 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="250.861" y="126.11000000000001" width="275.461" height="19.99799999999999" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[7.0 x 2]}{[bold x 2]}{[null x 2]} // Intervention Control </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 2]}{[7.0 x 2]}{[bold x 2]}{[null x 2]} // _{Intervention} Control </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="268.0" y="605.247" width="190.0" height="145.817" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 36/Table1:Baselinecharacteristicsoftheintention-to-treatpopulation // </title>
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 36/_{Table1:Baselinecharacteristicsoftheintention-to-treatpopulation} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">

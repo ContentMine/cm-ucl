@@ -7,20 +7,12 @@
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M192.529 34.632 L192.529 61.051 L371.452 61.051 L371.452 34.632 Z"/>
   </clipPath>
-  <clipPath id="clipPath4">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M291.005 553.032 L291.005 697.542 L527.981 697.542 L527.981 553.032 Z"/>
-  </clipPath>
   <clipPath id="clipPath1">
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L576.0 0.0 L576.0 773.0 L0.0 773.0 L0.0 0.0 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M291.005 553.032 L291.005 697.542 L527.981 697.542 L527.981 553.032 Z"/>
+  </clipPath>
  </defs>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#000000" stroke-width="0.0" d="M229.776 68.081 L334.261 68.081 L334.261 78.569 L334.148 79.42 L333.921 80.27 L333.581 81.064 L333.07 81.744 L332.447 82.368 L331.767 82.878 L330.973 83.275 L330.122 83.501 L329.215 83.558 L234.765 83.558 L233.915 83.501 L233.064 83.275 L232.271 82.878 L231.533 82.368 L230.91 81.801 L230.456 81.064 L230.059 80.27 L229.833 79.42 L229.776 78.569 "/>
  <path stroke="black" clip-path="url(#clipPath1)" fill="#000000" stroke-width="0.0" d="M36.0 68.081 L527.981 68.081 L527.981 68.535 L36.0 68.535 "/>

@@ -68,7 +68,7 @@
         fontencoding="WinAnsiEncoding" basefont="NMOIME+Minion-Bold"
         bold="true" italic="false" symbol="false"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1111_nyas.13294/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1111_nyas.13294/fulltext.pdf"
     pageCount="10">
         <page num="1"/>
         <page num="2"/>

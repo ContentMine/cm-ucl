@@ -966,13 +966,13 @@
  <path fill="none" clip-path="url(#clipPath1)" stroke="#b30838" stroke-width="0.25" id="path9585" d="M332.945 128.731 L119.179 128.731 L119.179 548.314 L332.945 548.314 Z"/>
  <path fill="none" clip-path="url(#clipPath1)" stroke="#b30838" stroke-width="0.25" id="path9587" d="M119.179 128.731 Z"/> 
  <g class="sections" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="209.196" y="133.706" width="88.263" height="15.498000000000019" fill="yellow" opacity="0.2" class="table.title">
+  <rect stroke="black" stroke-width="1.0" x="127.807" y="133.706" width="176.35899999999998" height="29.176000000000016" fill="yellow" opacity="0.2" class="table.title">
    <title stroke="black" stroke-width="1.0">table.title</title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="124.973" y="155.882" width="203.0215" height="370.555" fill="red" opacity="0.2" class="table.header">
+  <rect stroke="black" stroke-width="1.0" x="124.973" y="167.166" width="203.0215" height="375.353" fill="red" opacity="0.2" class="table.header">
    <title stroke="black" stroke-width="1.0">table.header</title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="123.168" y="535.519" width="212.161" height="215.58500000000004" fill="cyan" opacity="0.2" class="table.body">
+  <rect stroke="black" stroke-width="1.0" x="123.168" y="566.11" width="212.161" height="184.99400000000003" fill="cyan" opacity="0.2" class="table.body">
    <title stroke="black" stroke-width="1.0">table.body</title>
   </rect>
   <rect stroke="black" stroke-width="1.0" x="0.0" y="0.0" width="200.0" height="30.0" fill="blue" opacity="0.2" class="table.footer">
@@ -980,33 +980,23 @@
   </rect>
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="209.196" y="133.706" width="88.263" height="15.498000000000019" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 4]}{[7.0 x 4]}{[bold x 4]}{[null x 4]} //EUCplusHAP EUCalone (n=245) (n=248) </title>
+  <rect stroke="black" stroke-width="1.0" x="127.807" y="133.706" width="176.35899999999998" height="29.176000000000016" fill="yellow" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 7]}{[7.0 x 7]}{[bold x 4, normal x 3]}{[null x 7]} //_{EUCplusHAP} _{EUCalone} _{(n=245)} _{(n=248)} _{Age(years)} _{42·4(12·1)} _{42·6(12·0)} </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="124.0" y="155.882" width="203.0" height="370.555" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/Age(years) // Femalesex // Maritalstatus // Married // Single // Separatedordivorced // Widowed // Educationalstatus // None // Primary // Secondary // Highersecondary // Graduateorabove // Occupation // Unemployed* // Unskilledmanuallabour // Skilledmanuallabour // Clericalandprofessional // Patient’sexpectationofusefulnessofcounselling // Notuseful // 0 // Alittleorsomewhat // 115(47%) // useful // Moderatelyuseful // 66(27%) // Veryuseful // 64(26%) // Chronicityofsymptoms // 16(4–48) // (weeks) // PHQ-9score // 17·9(2·8) // PHQcategory // Score15–19 // 185(76%) // (moderatelysevere) // Score20–27(severe) // 60(24%) // Dataaremean(SD),n(%),ormedian(IQR).EUC=Enhancedusualcare. // PHQ-9=PatientHealthQuestionnaire9.*Includesstudentsandpeoplenotworking // outsideofthehome. // </title>
+  <rect stroke="black" stroke-width="1.0" x="124.0" y="167.166" width="203.0" height="375.353" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 0/_{Femalesex} // _{Maritalstatus} // _{Married} // _{Single} // ^{Separatedordivorced} // Widowed // Educationalstatus // ^{None} // ^{Primary} // ^{Secondary} // ^{Highersecondary} // ^{Graduateorabove} // ^{Occupation} // Unemployed* // Unskilledmanuallabour // ^{Skilledmanuallabour} // ^{Clericalandprofessional} // ^{Patient’sexpectationofusefulnessofcounselling} // _{Notuseful} // _{0} // _{Alittleorsomewhat} // _{115(47%)} // ^{useful} // ^{Moderatelyuseful} // ^{66(27%)} // ^{Veryuseful} // ^{64(26%)} // ^{Chronicityofsymptoms} // ^{16(4–48)} // ^{(weeks)} // ^{PHQ-9score} // ^{17·9(2·8)} // ^{PHQcategory} // _{(moderatelysevere)} // ^{Score15–19} // ^{185(76%)} // _{Score20–27(severe)} // _{60(24%)} // _{Dataaremean(SD),n(%),ormedian(IQR).EUC=Enhancedusualcare.} // _{outsideofthehome.} // ^{PHQ-9=PatientHealthQuestionnaire9.*Includesstudentsandpeoplenotworking} // _{Table1:Baselinecharacteristics} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="210.0" y="155.882" width="33.0" height="370.555" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/42·4(12·1) // 188(76%) // 166(68%) // 28(11%) // 3(1%) // 48(19%) // 75(31%) // 114(46%) // 38(16%) // 13(5%) // 5(2%) // 152(62%) // 77(31%) // 3(1%) // 13(5%) // </title>
+  <rect stroke="black" stroke-width="1.0" x="210.0" y="167.166" width="29.0" height="375.353" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 1/_{188(76%)} // _{166(68%)} // _{28(11%)} // ^{3(1%)} // 48(19%) // ^{75(31%)} // ^{114(46%)} // ^{38(16%)} // ^{13(5%)} // ^{5(2%)} // 152(62%) // 77(31%) // ^{3(1%)} // ^{13(5%)} // </title>
   </rect>
-  <rect stroke="black" stroke-width="1.0" x="269.0" y="155.882" width="35.0" height="370.555" fill="green" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/42·6(12·0) // 191(77%) // 171(69%) // 29(12%) // 1(0·4%) // 47(19%) // 55(22%) // 135(54%) // 40(16%) // 11(4%) // 7(3%) // 140(56%) // 97(39%) // 4(2%) // 7(3%) // 1(&lt;1%) // 111(45%) // 50(20%) // 86(35%) // 12(4–36) // 17·9(2·6) // 187(75%) // 61(25%) // </title>
+  <rect stroke="black" stroke-width="1.0" x="269.0" y="167.166" width="31.0" height="375.353" fill="green" opacity="0.2">
+   <title stroke="black" stroke-width="1.0">HEADERCOLUMN: 2/_{191(77%)} // _{171(69%)} // _{29(12%)} // ^{1(0·4%)} // 47(19%) // ^{55(22%)} // ^{135(54%)} // ^{40(16%)} // ^{11(4%)} // ^{7(3%)} // 140(56%) // 97(39%) // ^{4(2%)} // ^{7(3%)} // _{1(&lt;1%)} // _{111(45%)} // ^{50(20%)} // ^{86(35%)} // ^{12(4–36)} // ^{17·9(2·6)} // ^{187(75%)} // _{61(25%)} // </title>
   </rect>
  </g>
  <g class="header.boxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
  <g class="body.subtableBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
- <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <rect stroke="black" stroke-width="1.0" x="124.0" y="535.519" width="89.0" height="215.58500000000004" fill="red" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">BODYCOLUMN: 0/Table1:Baselinecharacteristics // </title>
-  </rect>
- </g>
- <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
-  <g class="col.0">
-   <rect stroke="black" stroke-width="1.0" x="124.973" y="535.519" width="88.284" height="7.0" fill="red" opacity="0.2" class="cell.0.0">
-    <title stroke="black" stroke-width="1.0">0.0/Table1:Baselinecharacteristics</title>
-   </rect>
-  </g>
- </g>
+ <g class="body.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
+ <g class="body.cellBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)"/>
 </svg>

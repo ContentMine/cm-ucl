@@ -1093,7 +1093,7 @@
  </g>
  <g class="title.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="312.08" y="83.82000000000001" width="238.7155800000001" height="359.1" fill="yellow" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 5]}{[7.98 x 4, 5.58]}{[bold x 5]}{[null x 5]} // Table2:Percentage+/-standarderrors(absolutecountsof th studentsbymodeoftransport/totalstudents)ofK-5 grade studentstransportedtoschoolbycar,walking,orschoolbus.*,§ </title>
+   <title stroke="black" stroke-width="1.0">TITLE: {[Helvetica x 5]}{[7.98 x 4, 5.58]}{[bold x 5]}{[null x 5]} // Table2:Percentage+/-standarderrors(absolutecountsof studentsbymodeoftransport/totalstudents)ofK-5 ^{th} grade studentstransportedtoschoolbycar,walking,orschoolbus.*,§ </title>
   </rect>
  </g>
  <g class="header.columnBoxes" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
@@ -1202,7 +1202,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="316.1" y="536.3399999999999" width="224.81279999999992" height="47.22000000000003" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 25]}{[8.22 x 19, 5.76 x 6]}{[normal x 25]}{[null x 25]} //Bywalking † † † Intervention 20+/-2 25+/-3 24+/-2 25+/-2 (56/281) (73/291) (79/323) (75/303) † † † Controls 15+/-2 11+/-2 11+/-2 7+/-1 (54/372) (51/447) (45/406) (24/340) </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 25]}{[8.22 x 19, 5.76 x 6]}{[normal x 25]}{[null x 25]} //Bywalking _{†} † † Intervention 20+/-2 25+/-3 24+/-2 25+/-2 (56/281) (73/291) (79/323) (75/303) Controls 15+/-2 11+/-2 ^{†} 11+/-2 ^{†} 7+/-1 ^{†} (54/372) (51/447) (45/406) (24/340) </title>
   </rect>
  </g>
 </svg>

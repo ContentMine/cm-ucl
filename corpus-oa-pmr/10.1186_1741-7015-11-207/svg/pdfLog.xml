@@ -94,7 +94,7 @@
         basefont="OCABCL+LccsdlFrutigerLTStd-Roman"
         bold="false" italic="false" symbol="true"/>
     </fontList>
-    <pdf filename="/Users/pm286/workspace/svg2xml/../cm-ucl/corpus-oa/10.1186_1741-7015-11-207/fulltext.pdf"
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1186_1741-7015-11-207/fulltext.pdf"
     pageCount="10">
         <page num="1"/>
         <page num="2"/>

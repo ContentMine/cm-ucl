@@ -7,20 +7,12 @@
   <clipPath id="clipPath2">
    <path stroke="black" stroke-width="0.5" fill="none" d="M192.529 34.632 L192.529 61.051 L371.452 61.051 L371.452 34.632 Z"/>
   </clipPath>
-  <clipPath id="clipPath4">
-   <path stroke="black" stroke-width="0.5" fill="none" d="M291.005 553.032 L291.005 697.542 L527.981 697.542 L527.981 553.032 Z"/>
-  </clipPath>
   <clipPath id="clipPath1">
    <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L576.0 0.0 L576.0 773.0 L0.0 773.0 L0.0 0.0 Z"/>
   </clipPath>
- </defs>
- <defs>
-  <marker id="zeroline" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="red" fill="cyan"/>
-  </marker>
-  <marker id="zeropath" viewBox="-5 -5 10 10" refX="0" refY="0" markerUnits="strokeWidth" markerWidth="5.0" markerHeight="5.0" orient="auto">
-   <circle cx="0.0" cy="0.0" r="4.0" stroke-width="1.5" stroke="blue" fill="orange"/>
-  </marker>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M291.005 553.032 L291.005 697.542 L527.981 697.542 L527.981 553.032 Z"/>
+  </clipPath>
  </defs>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="BCFFJF+AdvOT1ef757c0" svgx:width="364.0" x="48.019" y="66.55" font-size="10.5" font-family="TimesNewRoman" font-weight="normal">s</text>
  <text stroke="none" fill="#000000" clip-path="url(#clipPath1)" svgx:fontName="BCFFJF+AdvOT1ef757c0" svgx:width="302.0" x="51.841" y="66.55" font-size="10.5" font-family="TimesNewRoman" font-weight="normal">t</text>

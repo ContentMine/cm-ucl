@@ -782,7 +782,7 @@
  </g>
  <g class="footer.title" transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
   <rect stroke="black" stroke-width="1.0" x="48.813" y="177.54000000000002" width="239.05998" height="584.46" fill="blue" opacity="0.2">
-   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 3, TimesNewRoman]}{[6.974 x 3, 4.931]}{[normal x 4]}{[null x 4]} //The variations in delay are represented in SEs. μ, population mean; ANOVA, analysis of variance; DC, duty cycle; d.f., degree of freedom; FUS, focused ultrasound; H , null hypothesis; TBD, tone-burst duration. 0 </title>
+   <title stroke="black" stroke-width="1.0">footer: footer.title: {[Helvetica x 3, TimesNewRoman]}{[6.974 x 3, 4.931]}{[normal x 4]}{[null x 4]} //The variations in delay are represented in SEs. μ, population mean; ANOVA, analysis of variance; DC, duty cycle; d.f., degree of freedom; FUS, focused ultrasound; H , null hypothesis; TBD, tone-burst duration. _{0} </title>
   </rect>
  </g>
 </svg>
