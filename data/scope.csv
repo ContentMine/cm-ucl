@@ -1,181 +1,181 @@
-file,pmr,chjh
-table1 (10).png,,
-table1 (11).png,,
-table1 (12).png,,
-table1 (13).png,,
-table1 (14).png,,
-table1 (15).png,,
-table1 (16).png,,
-table1 (17).png,,
-table1 (18) cont.png,,
-table1 (18).png,,
-table1 (19).png,,
-table1 (20).png,,
-table1 (21).png,,
-table1 (22).png,,
-table1 (23).png,,
-table1 (24).png,,
-table1 (25).png,,
-table1 (26) cont1.png,,
-table1 (26) cont2.png,,
-table1 (26).png,,
-table1 (27).png,,
-table1 (28).png,,
-table1 (29).png,,
-table1 (2).png,,
-table1 (30).png,,
-table1 (31).png,,
-table1 (32) cont1.png,,
-table1 (32) cont2.png,,
-table1 (32).png,,
-table1 (33).png,,
-table1 (34).png,,
-table1 (35).png,,
-table1 (36).png,,
-table1 (37).png,,
-table1 (38).png,,
-table1 (39).png,,
-table1 (3).png,,
-table1 (40).png,,
-table1 (41).png,,
-table1 (42).png,,
-table1 (43).png,,
-table1 (44).png,,
-table1 (45).png,,
-table1 (46).png,,
-table1 (47).png,,
-table1 (48).png,,
-table1 (49).png,,
-table1 (4).png,,
-table1 (50).png,,
-table1 (51).png,,
-table1 (52).png,,
-table1 (53).png,,
-table1 (54).png,,
-table1 (5).png,,
-table1 (6).png,,
-table1 (7).png,,
-table1 (8).png,,
-table1 (9).png,,
-table1.png,,
-table2 (10).png,,
-table2 (11).png,,
-table2 (12).png,,
-table2 (13).png,,
-table2 (14).png,,
-table2 (15).png,,
-table2 (16).png,,
-table2 (17).png,,
-table2 (18).png,,
-table2 (19).png,,
-table2 (20).png,,
-table2 (21).png,,
-table2 (22).png,,
-table2 (23).png,,
-table2 (24) cont.png,,
-table2 (24).png,,
-table2 (25).png,,
-table2 (26).png,,
-table2 (27).png,,
-table2 (28).png,,
-table2 (29).png,,
-table2 (2).png,,
-table2 (30).png,,
-table2 (31).png,,
-table2 (32).png,,
-table2 (33).png,,
-table2 (34).png,,
-table2 (35).png,,
-table2 (36) cont.png,,
-table2 (36).png,,
-table2 (37).png,,
-table2 (38).png,,
-table2 (39).png,,
-table2 (3).png,,
-table2 (40).png,,
-table2 (41).png,,
-table2 (4).png,,
-table2 (5) cont.png,,
-table2 (5).png,,
-table2 (6).png,,
-table2 (7).png,,
-table2 (8).png,,
-table2 (9).png,,
-table2.png,,
-table3 (10).png,,
-table3 (11).png,,
-table3 (12).png,,
-table3 (13).png,,
-table3 (14).png,,
-table3 (15).png,,
-table3 (16).png,,
-table3 (17).png,,
-table3 (18).png,,
-table3 (19).png,,
-table3 (20).png,,
-table3 (21).png,,
-table3 (22).png,,
-table3 (23).png,,
-table3 (24).png,,
-table3 (25).png,,
-table3 (26).png,,
-table3 (27).png,,
-table3 (28).png,,
-table3 (29) cont.png,,
-table3 (29).png,,
-table3 (2).png,,
-table3 (30).png,,
-table3 (31).png,,
-table3 (32).png,,
-table3 (3).png,,
-table3 (4).png,,
-table3 (5).png,,
-table3 (6) cont.png,,
-table3 (6).png,,
-table3 (7).png,,
-table3 (8).png,,
-table3 (9).png,,
-table3.png,,
-table4 (10).png,,
-table4 (11).png,,
-table4 (12).png,,
-table4 (13).png,,
-table4 (14).png,,
-table4 (15).png,,
-table4 (16).png,,
-table4 (17).png,,
-table4 (18).png,,
-table4 (19).png,,
-table4 (20).png,,
-table4 (21) cont.png,,
-table4 (21).png,,
-table4 (22) cont.png,,
-table4 (22).png,,
-table4 (23).png,,
-table4 (2).png,,
-table4 (3).png,,
-table4 (4).png,,
-table4 (5).png,,
-table4 (6).png,,
-table4 (7).png,,
-table4 (8).png,,
-table4 (9).png,,
-table4.png,,
-table5 (10).png,,
-table5 (11).png,,
-table5 (2).png,,
-table5 (3).png,,
-table5 (4).png,,
-table5 (5).png,,
-table5 (6).png,,
-table5 (7).png,,
-table5 (8).png,,
-table5 (9).png,,
-table5.png,,
-table6 (2).png,,
-table6 (3).png,,
-table6.png,,
-table7 (2).png,,
-table7.png,,
-table8.png,,
-table9.png,,
+file,pmr,chjh,notes_pmr,notes_chjh
+table1 (10).png,in,in,,
+table1 (11).png,in,in,,
+table1 (12).png,in,in,,"Nested rows, partially blank lines, non-header column description"
+table1 (13).png,in,in,,
+table1 (14).png,q,out,list with subheads,"Boxed, not a table for information but an enumeration"
+table1 (15).png,in,in,,Boxed
+table1 (16).png,in,in,,"Nested rows, partially blank lines, boxed"
+table1 (17).png,in,in,,"Nested rows, partially blank lines, boxed"
+table1 (18) cont.png,in,in,,"Nested rows, partially blank lines, boxed"
+table1 (18).png,in,in,,"Nested rows, partially blank lines, boxed"
+table1 (19).png,in,in,,"boxed, double level row descriptors"
+table1 (20).png,in,in,,"Nested rows, blank lines"
+table1 (21).png,in,in,,"Nested rows, blank lines"
+table1 (22).png,in,in,,"Gridded, nested rows"
+table1 (23).png,in,in,,"Gridded, nested rows"
+table1 (24).png,in,in,,No column header
+table1 (25).png,in,in,,"Nested rows, blank lines"
+table1 (26) cont1.png,in,in,,
+table1 (26) cont2.png,in,in,,
+table1 (26).png,in,in,,
+table1 (27).png,in,in,,
+table1 (28).png,in,in,,
+table1 (29).png,in,in,,"Boxed, blank lines"
+table1 (2).png,q,q,unclear header,
+table1 (30).png,in,in,,Boxed
+table1 (31).png,in,in,cell list,
+table1 (32) cont1.png,q,in,cell list,
+table1 (32) cont2.png,q,in,cell list,
+table1 (32).png,q,in,cell list,
+table1 (33).png,in,in,,
+table1 (34).png,in,in,,"Nested rows, blank lines"
+table1 (35).png,in,in,,"Nested rows, blank lines"
+table1 (36).png,in,in,,"Nested rows, but each level contains data"
+table1 (37).png,in,in,,"Nested rows, blank lines"
+table1 (38).png,q,out,cell list,Not a data table but enumeration
+table1 (39).png,in,in,,"Nested rows, some higher-levels contain data while others don’t"
+table1 (3).png,in,in,,Non-aligned columns
+table1 (40).png,q,out,list,enumeration
+table1 (41).png,in,in,,
+table1 (42).png,in,in,,
+table1 (43).png,in,in,,"Nested rows, blank lines"
+table1 (44).png,in,in,,"Nested rows, blank lines"
+table1 (45).png,in,in,,"Nested rows, blank lines"
+table1 (46).png,in,in,,"Nested rows, blank lines"
+table1 (47).png,in,in,,"Nested rows, blank lines"
+table1 (48).png,in,in,,Empty cells
+table1 (49).png,in,in,,"Super, subscripts, weird underscores, line along table"
+table1 (4).png,in,in,,Multiple notes
+table1 (50).png,in,in,,Line along table
+table1 (51).png,in,in,,
+table1 (52).png,in,in,,
+table1 (53).png,in,q,,multiple datapoints per row
+table1 (54).png,in,in,,no culumn headers
+table1 (5).png,in,in,,"Boxed, nested rows, partially blank lines"
+table1 (6).png,in,in,,"Boxed, nested rows, partially blank lines"
+table1 (7).png,in,out,cell list,
+table1 (8).png,in,in,,"Nested rows, partially blank lines"
+table1 (9).png,in,in,,
+table1.png,in,in,,
+table2 (10).png,in,in,,"Nested rows and columns, blank lines/cells"
+table2 (11).png,in,in,,"Boxed, nested rows and columns"
+table2 (12).png,in,in,,"Nested rows, boxed"
+table2 (13).png,in,in,,"Nested rows, boxed"
+table2 (14).png,in,in,,"Nested columns, boxed"
+table2 (15).png,in,in,,"Nested rows and columns, rotated, boxed"
+table2 (16).png,in,in,,boxed
+table2 (17).png,in,in,,"Nested rows and columns, blank lines/cells"
+table2 (18).png,in,in,,gridded
+table2 (19).png,in,in,,"gridded, nested rows with rowspan"
+table2 (20).png,in,in,,
+table2 (21).png,in,in,,
+table2 (22).png,in,in,,"boxed, nested rows"
+table2 (23).png,in,in,cell list,Special characters
+table2 (24) cont.png,in,q,cell list,cell headers?
+table2 (24).png,in,q,cell list,cell headers?
+table2 (25).png,in,in,,"nested columns, data in header"
+table2 (26).png,in,in,,
+table2 (27).png,in,in,,
+table2 (28).png,in,in,,
+table2 (29).png,in,in,,nested rows
+table2 (2).png,in,in,,"Nested rows, blank lines, boxed"
+table2 (30).png,in,in,,nested orws
+table2 (31).png,in,in,,inconsistent colspan
+table2 (32).png,in,in,,
+table2 (33).png,in,in,,
+table2 (34).png,in,in,,nested rows
+table2 (35).png,in,in,,nested rows
+table2 (36) cont.png,in,in,,
+table2 (36).png,in,in,,
+table2 (37).png,in,in,,line along table
+table2 (38).png,in,in,,
+table2 (39).png,in,in,,
+table2 (3).png,in,in,,"nested column headers, nested rows, blank lines"
+table2 (40).png,in,in,,Double-table
+table2 (41).png,in,in,,nested rows
+table2 (4).png,in,in,,nested columns
+table2 (5) cont.png,out,out,corrmat,"correlation matrix, double datapoints"
+table2 (5).png,out,out,corrmat rot,"correlation matrix, double datapoints"
+table2 (6).png,in,in,,
+table2 (7).png,in,in,,empty cells
+table2 (8).png,in,in,,
+table2 (9).png,in,in,,
+table2.png,in,in,,
+table3 (10).png,in,in,,"boxed, nested rows"
+table3 (11).png,in,in,,boxed
+table3 (12).png,in,in,,"nested columns and rows, special characters, boxed"
+table3 (13).png,in,in,,"nested columns, boxed"
+table3 (14).png,in,in,,nested columns and rows
+table3 (15).png,in,in,,gridded
+table3 (16).png,in,in,,gridded
+table3 (17).png,in,in,,
+table3 (18).png,in,in,rot,"nested columns,  rotated"
+table3 (19).png,in,in,,nested columns and rows
+table3 (20).png,in,in,,nested columns and rows
+table3 (21).png,in,in,,
+table3 (22).png,in,in,,nested rows
+table3 (23).png,in,in,,nested columns and rows
+table3 (24).png,in,in,,
+table3 (25).png,in,in,,
+table3 (26).png,in,in,,nested columns
+table3 (27).png,in,in,,nested rows
+table3 (28).png,in,in,,nested columns
+table3 (29) cont.png,in,in,,
+table3 (29).png,in,in,,
+table3 (2).png,in,in,,"boxed, nested rows"
+table3 (30).png,in,in,,nested columns
+table3 (31).png,in,in,,"gridded, nested columns, inconsistent rowspan"
+table3 (32).png,in,in,,nested rows
+table3 (3).png,in,in,,nested rows
+table3 (4).png,in,in,,
+table3 (5).png,in,in,,
+table3 (6) cont.png,in,in,cell list,
+table3 (6).png,in,in,,
+table3 (7).png,in,in,,nested columns
+table3 (8).png,in,in,,
+table3 (9).png,in,in,,"boxed, nested rows"
+table3.png,in,in,,
+table4 (10).png,in,in,,"boxed, nested rows and columns"
+table4 (11).png,in,in,,nested columns
+table4 (12).png,in,in,,gridded
+table4 (13).png,in,in,,
+table4 (14).png,in,in,,
+table4 (15).png,in,in,,nested rows
+table4 (16).png,in,in,,
+table4 (17).png,in,in,,
+table4 (18).png,in,in,,
+table4 (19).png,in,in,,
+table4 (20).png,in,in,,nested columns
+table4 (21) cont.png,in,in,,nested columns
+table4 (21).png,in,in,,nested columns
+table4 (22) cont.png,in,in,,"gridded, continued"
+table4 (22).png,in,in,,"gridded, continued"
+table4 (23).png,in,in,,
+table4 (2).png,in,in,,nested columns and rows
+table4 (3).png,in,in,,nested rows
+table4 (4).png,in,in,,nested columns
+table4 (5).png,in,in,,
+table4 (6).png,in,in,,nested columns
+table4 (7).png,in,in,,boxed
+table4 (8).png,in,in,,boxed
+table4 (9).png,in,in,,"boxed, nested columns"
+table4.png,in,in,,nested columns
+table5 (10).png,in,in,,
+table5 (11).png,in,in,,nested columns
+table5 (2).png,in,in,,nested columns
+table5 (3).png,in,in,,"nested columns, boxed"
+table5 (4).png,in,in,,gridded
+table5 (5).png,in,in,,nested columns
+table5 (6).png,in,in,,
+table5 (7).png,in,in,,
+table5 (8).png,in,in,,
+table5 (9).png,in,in,,nested columns
+table5.png,in,in,,nested columns
+table6 (2).png,in,in,,nested columns
+table6 (3).png,in,in,,
+table6.png,in,in,,nested columns
+table7 (2).png,in,in,,
+table7.png,in,in,,redundant nesting columns
+table8.png,in,in,,redundant nesting columns
+table9.png,in,in,,
