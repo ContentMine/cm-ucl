@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="DEIACP+AdvTT5235d5a9"
+        family="AdvTT5235d5a9" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIACP+AdvTT5235d5a9" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DEIAEA+AdvTT5235d5a9+20"
+        family="AdvTT5235d5a9+20" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="DEIAEA+AdvTT5235d5a9+20"
+        bold="false" italic="false" symbol="true"/>
+        <font name="DEIAEB+AdvTT94c8263f.I"
+        family="AdvTT94c8263f.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIAEB+AdvTT94c8263f.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DEIAFB+AdvTT0f485e03"
+        family="AdvTT0f485e03" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIAFB+AdvTT0f485e03" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DEIAGC+AdvTT5235d5a9+fb"
+        family="AdvTT5235d5a9+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="DEIAGC+AdvTT5235d5a9+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="DEIAGD+AdvTT5235d5a9+22"
+        family="AdvTT5235d5a9+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="DEIAGD+AdvTT5235d5a9+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="DEIAHE+AdvTT454a7a89"
+        family="AdvTT454a7a89" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIAHE+AdvTT454a7a89" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DEIAHF+AdvTT28000ce1.B"
+        family="AdvTT28000ce1.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIAHF+AdvTT28000ce1.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DEIBFA+AdvTTc8c83e50"
+        family="AdvTTc8c83e50" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIBFA+AdvTTc8c83e50" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DEIBMO+AdvTT94c8263f.I+fb"
+        family="AdvTT94c8263f.I+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="DEIBMO+AdvTT94c8263f.I+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="DEIBOP+AdvTT94c8263f.I+20"
+        family="AdvTT94c8263f.I+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DEIBOP+AdvTT94c8263f.I+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DEIFNI+AdvTT28000ce1.B+fb"
+        family="AdvTT28000ce1.B+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="DEIFNI+AdvTT28000ce1.B+fb"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_j.ypmed.2016.05.012/fulltext.pdf"
+    pageCount="8">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+    </pdf>
+</pdfLog>

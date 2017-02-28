@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="OGMJCD+AdvAGroteskBE-B"
+        family="AdvAGroteskBE-B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMJCD+AdvAGroteskBE-B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMJCE+AdvAGroteskBE-R"
+        family="AdvAGroteskBE-R" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMJCE+AdvAGroteskBE-R"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMJCF+AdvAGroteskBE-M"
+        family="AdvAGroteskBE-M" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMJCF+AdvAGroteskBE-M"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMJCG+AdvAGroteskBE-MI"
+        family="AdvAGroteskBE-MI" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMJCG+AdvAGroteskBE-MI"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMJCH+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="OGMJCH+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="OGMJDH+AdvCas540BT-R"
+        family="AdvCas540BT-R" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMJDH+AdvCas540BT-R" bold="false"
+        italic="false" symbol="false"/>
+        <font name="OGMJDI+AdvPi1" family="AdvPi1"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="OGMJDI+AdvPi1"
+        bold="false" italic="false" symbol="false"/>
+        <font name="TimesNewRomanPSMT" family="TimesNewRomanPSMT"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="TimesNewRomanPSMT"
+        bold="false" italic="false" symbol="true"/>
+        <font name="OGMKCE+AdvCas540BT-I"
+        family="AdvCas540BT-I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMKCE+AdvCas540BT-I" bold="false"
+        italic="false" symbol="false"/>
+        <font name="OGMKCF+AdvAGroteskBE-BI"
+        family="AdvAGroteskBE-BI" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMKCF+AdvAGroteskBE-BI"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMKDF+AdvPi2" family="AdvPi2"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="OGMKDF+AdvPi2"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMMGJ+GillSans" family="GillSans"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="OGMMGJ+GillSans"
+        bold="false" italic="false" symbol="false"/>
+        <font name="OGMNJD+AdvAGroteskBE-I"
+        family="AdvAGroteskBE-I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="OGMNJD+AdvAGroteskBE-I"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1097_WNR.0000000000000118/fulltext.pdf"
+    pageCount="5">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+    </pdf>
+</pdfLog>

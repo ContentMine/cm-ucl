@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="PCKHGC+QjhrxhAdvTT3713a231"
+        family="QjhrxhAdvTT3713a231" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHGC+QjhrxhAdvTT3713a231"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PCKHGD+XldpkrAdvTTb8864ccf.B"
+        family="XldpkrAdvTTb8864ccf.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHGD+XldpkrAdvTTb8864ccf.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PCKHHE+KbxvwdAdvP0005"
+        family="KbxvwdAdvP0005" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHHE+KbxvwdAdvP0005"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PCKHHF+WwfvgnAdvPi3"
+        family="WwfvgnAdvPi3" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHHF+WwfvgnAdvPi3" bold="false"
+        italic="false" symbol="false"/>
+        <font name="PCKHHG+XqnwsmAdvTT50a2f13e.I"
+        family="XqnwsmAdvTT50a2f13e.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHHG+XqnwsmAdvTT50a2f13e.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PCKHHH+CbyjxpAdvTT3713a231+22"
+        family="CbyjxpAdvTT3713a231+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="PCKHHH+CbyjxpAdvTT3713a231+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="PCKHIH+ScwhscAdvTT4ff65459"
+        family="ScwhscAdvTT4ff65459" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHIH+ScwhscAdvTT4ff65459"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PCKHII+HkjnjqAdvTT3713a231+20"
+        family="HkjnjqAdvTT3713a231+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="PCKHII+HkjnjqAdvTT3713a231+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="PCLADE+GcvxnwAdvTT3713a231+01"
+        family="GcvxnwAdvTT3713a231+01" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="PCLADE+GcvxnwAdvTT3713a231+01"
+        bold="false" italic="false" symbol="true"/>
+        <font name="PCLAEF+YqbwbcAdvTT3713a231+03"
+        family="YqbwbcAdvTT3713a231+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="PCLAEF+YqbwbcAdvTT3713a231+03"
+        bold="false" italic="false" symbol="true"/>
+        <font name="WGRBBW+WhrccwCalibri"
+        family="WhrccwCalibri" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="WGRBBW+WhrccwCalibri" bold="false"
+        italic="false" symbol="false"/>
+        <font name="CgkjnfCalibri-Bold" family="CgkjnfCalibri-Bold"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="CgkjnfCalibri-Bold"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1007_s00213-016-4477-5/fulltext.pdf"
+    pageCount="6">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+    </pdf>
+</pdfLog>

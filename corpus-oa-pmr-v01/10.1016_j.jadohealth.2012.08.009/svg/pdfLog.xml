@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="MOFCLK+AdvOT863180fb"
+        family="AdvOT863180fb" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="MOFCLK+AdvOT863180fb" bold="false"
+        italic="false" symbol="false"/>
+        <font name="MOFCML+AdvP4C4E59" family="AdvP4C4E59"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="MOFCML+AdvP4C4E59"
+        bold="false" italic="false" symbol="false"/>
+        <font name="MOFCMM+AdvOTb92eb7df.I"
+        family="AdvOTb92eb7df.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="MOFCMM+AdvOTb92eb7df.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="MOFCNN+AdvOTb83ee1dd.B"
+        family="AdvOTb83ee1dd.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="MOFCNN+AdvOTb83ee1dd.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="MOFCNO+AdvPS44A44B" family="AdvPS44A44B"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="MOFCNO+AdvPS44A44B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="MOFCNP+AdvOT863180fb+fb"
+        family="AdvOT863180fb+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="MOFCNP+AdvOT863180fb+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="MOFCOA+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="MOFCOA+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="MOFCOB+AdvOT863180fb+20"
+        family="AdvOT863180fb+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="MOFCOB+AdvOT863180fb+20"
+        bold="true" italic="false" symbol="false"/>
+        <font name="MOFCOC+AdvPSSym" family="AdvPSSym"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="MOFCOC+AdvPSSym" bold="false"
+        italic="false" symbol="true"/>
+        <font name="MOFDBB+AdvPSA88A" family="AdvPSA88A"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="MOFDBB+AdvPSA88A"
+        bold="false" italic="false" symbol="false"/>
+        <font name="FNTSBS+TimesNewRomanPSMT"
+        family="TimesNewRomanPSMT" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="FNTSBS+TimesNewRomanPSMT"
+        bold="false" italic="false" symbol="false"/>
+        <font name="MOFDIA+AdvPS3FDD77" family="AdvPS3FDD77"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="MOFDIA+AdvPS3FDD77"
+        bold="false" italic="false" symbol="false"/>
+        <font name="MOFDJA+AdvOTb92eb7df.I+fb"
+        family="AdvOTb92eb7df.I+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="MOFDJA+AdvOTb92eb7df.I+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="MOFDLB+AdvP4C4E51" family="AdvP4C4E51"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="MOFDLB+AdvP4C4E51"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_j.jadohealth.2012.08.009/fulltext.pdf"
+    pageCount="7">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+    </pdf>
+</pdfLog>
