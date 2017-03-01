@@ -1,0 +1,814 @@
+0    [main] DEBUG org.xmlcml.norma.table.TableTest  - running norma
+263  [main] DEBUG org.xmlcml.cproject.args.DefaultArgProcessor  - args with defaults is: [--tag, src/main/resources/org/xmlcml/norma/pubstyle/sectionTagger.xml, --project, target/corpus-oa-pmr-v01, --fileFilter, ^.*/table\d+(cont)?\.svg.*$, --transform, svgtable2html]
+283  [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-015-4198-1/svg/table1.svg.html
+299  [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-015-4198-1/svg/table1.svg
+2120 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-015-4198-1/svg/table1.annot.svg
+.2206 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table1.svg.html
+2206 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table1.svg
+2475 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table1.annot.svg
+2554 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table2.svg.html
+2554 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table2.svg
+2670 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table2.annot.svg
+2700 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table3.svg.html
+2700 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table3.svg
+2979 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table3.annot.svg
+3045 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table4.svg.html
+3045 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table4.svg
+3754 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table4.annot.svg
+3920 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table5.svg.html
+3920 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table5.svg
+4394 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,1)(1,2)(2,4)(4,19)(19,22)]
+4424 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table5.annot.svg
+4475 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table6.svg.html
+4475 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table6.svg
+4819 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,1)(1,2)(2,4)(4,19)(19,21)]
+4859 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table6.annot.svg
+4915 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table7.svg.html
+4915 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table7.svg
+5794 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table7.annot.svg
+5902 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table8.svg.html
+5902 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table8.svg
+6608 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table8.annot.svg
+6699 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table9.svg.html
+6699 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table9.svg
+6934 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table9.annot.svg
+6984 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s00213-016-4477-5/svg/table1.svg.html
+6984 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4477-5/svg/table1.svg
+7661 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 1 Magnetic resonance spectroscopy (MRS) meas
+[(0,4)(4,8)(8,53)(53,54)]
+7806 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4477-5/svg/table1.annot.svg
+7876 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1007_s12975-016-0496-0/svg/table1.svg.html
+7876 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1007_s12975-016-0496-0/svg/table1.svg
+8030 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1007_s12975-016-0496-0/svg/table1.annot.svg
+8069 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)30388-9/svg/table1.svg.html
+8070 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)30388-9/svg/table1.svg
+9495 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+Item Checklistitem
+   
+number
+Objectivesandfunding
+  
+    
+1 Definetheindicator(
+9495 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,5)(5,72)]
+9593 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)30388-9/svg/table1.annot.svg
+9666 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table1.svg.html
+9666 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table1.svg
+10196 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,28)(28,66)(66,69)]
+10303 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table1.annot.svg
+10341 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table2.svg.html
+10341 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table2.svg
+11252 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+Mean(SD)scoreatbaseline Mean(SD)scoreat24months Ch
+Gentamicin Methylprednisolone Gentamicin Methylpre
+11252 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,50)(50,79)]
+11326 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table2.annot.svg
+11372 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table1.svg.html
+11372 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table1.svg
+11879 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{EUCplusHAP} _{EUCalone}         
+_{(n=245)} _{(n
+
+11879 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,3)(3,38)(38,58)]
+11930 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table1.annot.svg
+11963 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table2.svg.html
+11963 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table2.svg
+12828 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{EUCplusHAP} EUCalone Adjustedmean pvalue
+^{Table2:Primaryandsecondaryoutcomes}
+12828 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,4)(4,30)(30,69)]
+12898 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table2.annot.svg
+12935 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table3.svg.html
+12935 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table3.svg
+13459 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{} _{}          
+_{} _{} _{} _{} _{} _{}
+
+13459 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,19)(19,40)(40,56)]
+13514 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table3.annot.svg
+13547 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table4.svg.html
+13547 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table4.svg
+13849 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{Healthsystem} Societalperspective
+         _{per
+^{Table4:Cost-effectivenessanalysesfromhealthsyste
+13849 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,3)(3,10)(10,59)]
+13884 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table4.annot.svg
+13906 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table1.svg.html
+13906 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table1.svg
+14317 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{(n=188)^{EUCplusCAP}} _{(n=189)^{EUCalone}}
+
+14317 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,27)(27,55)(55,57)]
+14372 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table1.annot.svg
+14396 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table2.svg.html
+14397 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table2.svg
+15348 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{EUCplusCAP} EUCalone Interventionef ect pvalue
+
+15348 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,46)(46,76)(76,78)]
+15417 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table2.annot.svg
+15462 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table3.svg.html
+15462 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table3.svg
+15963 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{} _{}          
+_{} _{} _{} _{} _{} _{}
+^{Table3:Costsperpersonandcost-ef ectivenessanalys
+15963 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,22)(22,43)(43,59)]
+16015 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table3.annot.svg
+16047 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table4.svg.html
+16047 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table4.svg
+16405 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{} _{}          
+_{} _{} _{} _{} _{} _{}
+^{dollars)}
+16405 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,46)(46,52)(52,59)]
+16450 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table4.annot.svg
+16476 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1.svg.html
+16476 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1.svg
+17229 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{Intervention} Control
+^{(Continuedfrompreviouspage)}
+         ^{Househol
+17229 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,2)(2,59)]
+17284 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1.annot.svg
+17320 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1cont.svg.html
+17320 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1cont.svg
+18088 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{Intervention} Control
+^{(Continuedfrompreviouspage)}
+         ^{Househol
+18088 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,2)(2,59)]
+18145 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1cont.annot.svg
+18187 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table2.svg.html
+18188 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table2.svg
+18530 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+Intervention(n=5297) Control(n=5246) Incidencerate
+Numberof Incidencerate(casesper Numberof Incidence
+18530 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,2)(2,81)]
+18586 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table2.annot.svg
+18611 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table3.svg.html
+18611 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table3.svg
+18915 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+_{3months} _{12months} _{24months}           
+_{(n
+_{1mealperday} _{248(26·9%)} _{339(25·8%)} _{524(3
+18915 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,12)(12,81)]
+18992 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table3.annot.svg
+19019 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table4.svg.html
+19019 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table4.svg
+19492 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+Intervention(n=5297) Control(n=5246) Incidencerate
+Numberof Incidencerate(casesper Numberof Incidence
+19492 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,2)(2,67)]
+19544 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table4.annot.svg
+19577 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table1.svg.html
+19577 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table1.svg
+19986 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table1.annot.svg
+20045 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table2.svg.html
+20045 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table2.svg
+20577 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 8; [(0,1)(1,2)(2,11)(11,12)(12,20)(20,21)(21,29)(29,30)]
+20608 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table2.annot.svg
+20663 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table3.svg.html
+20663 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table3.svg
+21124 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table3.annot.svg
+21198 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table1.svg.html
+21198 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table1.svg
+21854 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table1.annot.svg
+21913 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table2.svg.html
+21913 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table2.svg
+22584 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table2.annot.svg
+.22643 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table1.svg.html
+22643 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table1.svg
+23398 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table1.annot.svg
+23462 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table2.svg.html
+23462 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table2.svg
+23575 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 2
+Percentage of parents and teenagers who re
+[(0,4)(4,8)(8,20)(20,21)]
+23602 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table2.annot.svg
+23636 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table3.svg.html
+23636 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table3.svg
+23794 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 3
+Accuracy of content recall and satisfactio
+[(0,4)(4,6)(6,26)(26,27)]
+23818 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table3.annot.svg
+23853 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table4.svg.html
+23853 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table4.svg
+24281 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 4
+Comparison of indoor tanning knowledge, at
+[(0,3)(3,6)(6,39)(39,41)]
+24339 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table4.annot.svg
+24400 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table1.svg.html
+24400 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table1.svg
+24947 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table1.annot.svg
+25019 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2.svg.html
+25019 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2.svg
+25780 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+25780 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+25780 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2.annot.svg
+25797 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+25797 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+25812 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2cont.svg.html
+25812 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2cont.svg
+26023 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+26023 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+26023 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2cont.annot.svg
+26033 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+26033 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+26041 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table3.svg.html
+26041 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table3.svg
+26137 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 3
+Mean unhappiness scores for female and mal
+[(0,3)(3,5)(5,12)(12,14)]
+26151 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table3.annot.svg
+26174 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table4.svg.html
+26174 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table4.svg
+26549 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table4.annot.svg
+26593 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table1.svg.html
+26593 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table1.svg
+26703 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table1.annot.svg
+26726 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table2.svg.html
+26726 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table2.svg
+26826 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table2.annot.svg
+26848 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table3.svg.html
+26848 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table3.svg
+27006 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table3.annot.svg
+27037 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table4.svg.html
+27037 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table4.svg
+27183 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table4.annot.svg
+27211 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table1.svg.html
+27211 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table1.svg
+28431 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table1.annot.svg
+28528 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table2.svg.html
+28528 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table2.svg
+28765 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table2.annot.svg
+28820 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3.svg.html
+28820 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3.svg
+29950 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,2)(2,4)(4,77)]
+30044 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3.annot.svg
+30129 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3cont.svg.html
+30129 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3cont.svg
+31260 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3cont.annot.svg
+31344 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table4.svg.html
+31344 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table4.svg
+31803 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table4.annot.svg
+31850 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table1.svg.html
+31850 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table1.svg
+31949 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table1.annot.svg
+31973 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table2.svg.html
+31973 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table2.svg
+32129 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - small body: [(0,2)(2,3)(3,5)(5,9)]
+32143 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table2.annot.svg
+32170 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table1.svg.html
+32170 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table1.svg
+32377 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table1.annot.svg
+32414 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table2.svg.html
+32414 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table2.svg
+32721 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table2.annot.svg
+32763 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table3.svg.html
+32763 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table3.svg
+33018 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table3.annot.svg
+33056 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table4.svg.html
+33056 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table4.svg
+33284 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table4.annot.svg
+33320 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table5.svg.html
+33320 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table5.svg
+33484 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table5.annot.svg
+33517 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table1.svg.html
+33517 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table1.svg
+33730 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 1
+Children's demographic and anthropometric
+[(0,4)(4,5)(5,31)(31,33)]
+33761 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table1.annot.svg
+33798 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table2.svg.html
+33798 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table2.svg
+33995 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table2.annot.svg
+34034 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table3.svg.html
+34034 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table3.svg
+34112 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table3.annot.svg
+34137 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table1.svg.html
+34137 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table1.svg
+34489 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+4
+
+34489 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,28)(28,28)]
+34544 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table1.annot.svg
+34584 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table2.svg.html
+34584 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table2.svg
+37500 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+. , ,
+r
+y e
+e
+3
+h
+s
+e
+1
+i
+t t e
+F
+t
+a v
+i
+i
+n
+a
+F
+
+37500 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,2052)(2052,2052)]
+38989 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table2.annot.svg
+39063 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table3.svg.html
+39063 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table3.svg
+39309 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+7
+
+39309 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,18)(18,18)]
+39344 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table3.annot.svg
+39378 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table1.svg.html
+39378 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table1.svg
+39731 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,46)(46,46)]
+39766 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table1.annot.svg
+39797 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table2.svg.html
+39797 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table2.svg
+40023 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,17)(17,17)]
+40047 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table2.annot.svg
+40075 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table3.svg.html
+40076 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table3.svg
+40270 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,10)(10,10)]
+40285 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table3.annot.svg
+40318 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table4.svg.html
+40318 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table4.svg
+40566 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,36)(36,36)]
+40593 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table4.annot.svg
+40621 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table5.svg.html
+40621 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table5.svg
+40721 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,9)(9,9)]
+40733 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table5.annot.svg
+40757 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table1.svg.html
+40757 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table1.svg
+41750 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+^{} ^{} ^{} ^{} ^{} ^{} ^{ }
+table1. Maternalandof
+*Totalgroup:Significantdifferencebetweenthetotalgr
+41823 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table1.annot.svg
+41894 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table2.svg.html
+41894 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table2.svg
+42428 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+^{}  
+t able2. Wet-weightlevelsofPFASs,andwet-weig
+AM,arithmeticmean;HCB,hexachlorobenzene;LOD,limito
+42428 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: ^{}  
+t able2. Wet-weightlevelsofPFASs,andwet-weig
+[(0,3)(3,5)(5,21)(21,56)]
+42460 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table2.annot.svg
+42507 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table3.svg.html
+42507 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table3.svg
+44257 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+^{}  
+t able3. Betacoefficients(β)andoddsratios(OR
+^{a Adjustedformaternalage(years),height(cm),prepr
+44257 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 7; [(0,3)(3,5)(5,21)(21,27)(27,29)(29,32)(32,53)]
+44315 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table3.annot.svg
+44393 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table4.svg.html
+44393 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table4.svg
+44840 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+^{}
+^{a Adjustedformaternalage(years),height(cm),prepr
+44840 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: ^{}
+[(0,25)(25,27)(27,30)(30,51)]
+44871 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table4.annot.svg
+.44905 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table1.svg.html
+44905 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table1.svg
+45582 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 36; [(0,2)(2,3)(3,4)(4,5)(5,6)(6,7)(7,8)(8,9)(9,10)(10,11)(11,12)(12,13)(13,14)(14,15)(15,16)(16,17)(17,18)(18,19)(19,20)(20,21)(21,22)(22,23)(23,24)(24,25)(25,26)(26,27)(27,28)(28,29)(29,30)(30,31)(31,32)(32,33)(33,34)(34,35)(35,36)(36,61)]
+45599 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table1.annot.svg
+45638 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table2.svg.html
+45639 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table2.svg
+46125 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 8; [(0,2)(2,3)(3,4)(4,5)(5,6)(6,7)(7,8)(8,60)]
+46139 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table2.annot.svg
+46173 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table3.svg.html
+46173 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table3.svg
+46507 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+
+Simodecoction+acupuncture Chewinggum Nointerventio
+46507 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,13)(13,60)]
+46546 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table3.annot.svg
+46574 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table4.svg.html
+46574 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table4.svg
+46994 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+
+
+46994 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,23)(23,46)(46,61)]
+47041 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table4.annot.svg
+47078 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table5.svg.html
+47078 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table5.svg
+47557 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 8; [(0,2)(2,3)(3,4)(4,5)(5,6)(6,7)(7,8)(8,68)]
+47567 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table5.annot.svg
+47594 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table1.svg.html
+47594 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table1.svg
+47987 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 10; [(0,2)(2,3)(3,4)(4,5)(5,6)(6,7)(7,8)(8,11)(11,12)(12,61)]
+47997 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table1.annot.svg
+48023 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table2.svg.html
+48023 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table2.svg
+48473 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 10; [(0,2)(2,3)(3,4)(4,5)(5,6)(6,7)(7,8)(8,11)(11,12)(12,62)]
+48485 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table2.annot.svg
+48514 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table3.svg.html
+48514 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table3.svg
+48674 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+
+
+48674 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,9)(9,15)(15,19)]
+48695 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table3.annot.svg
+48717 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table1.svg.html
+48717 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table1.svg
+48841 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table1.annot.svg
+48869 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table2.svg.html
+48869 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table2.svg
+49009 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table2.annot.svg
+49041 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table3.svg.html
+49041 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table3.svg
+49153 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table3.annot.svg
+49182 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table4.svg.html
+49182 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table4.svg
+49275 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table4.annot.svg
+49308 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table1.svg.html
+49308 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table1.svg
+49701 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table1.annot.svg
+49746 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table2.svg.html
+49746 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table2.svg
+49856 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 2. Spirometry results obtained at the screen
+[(0,4)(4,6)(6,11)(11,14)]
+49871 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table2.annot.svg
+49895 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table3.svg.html
+49895 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table3.svg
+50240 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+50240 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+50240 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table3.annot.svg
+50252 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+50252 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+50263 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table4.svg.html
+50263 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table4.svg
+50383 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table4.annot.svg
+50406 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1097_WNR.0000000000000118/svg/table1.svg.html
+50406 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1097_WNR.0000000000000118/svg/table1.svg
+50546 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1097_WNR.0000000000000118/svg/table1.annot.svg
+50570 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1097_j.pain.0000000000000579/svg/table1.svg.html
+50570 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1097_j.pain.0000000000000579/svg/table1.svg
+51992 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - ***** NO TITLE SECTION ****
+)
+e
+g
+/
+a
+g
+n
+p
+n
+o i
+?
+_{3} t
+K
+_{4} x
+d
+.
+l
+e
+e
+f
+e
+d
+i
+o e
+t
+)
+”
+f
+a
+d
+u
+a
+i e
+s
+r
+o
+d
+r
+s
+p
+n
+r
+51992 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,33)(33,167)(167,1343)]
+58482 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1097_j.pain.0000000000000579/svg/table1.annot.svg
+64139 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_bph.13646/svg/table1.svg.html
+64139 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_bph.13646/svg/table1.svg
+64361 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,2)(2,45)(45,47)]
+64438 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_bph.13646/svg/table1.annot.svg
+64479 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table1.svg.html
+64479 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table1.svg
+64604 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,2)(2,19)(19,19)]
+64622 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table1.annot.svg
+64647 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table2.svg.html
+64647 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table2.svg
+64870 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,3)(3,21)(21,26)]
+64901 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table2.annot.svg
+64936 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_ejn.13382/svg/table1.svg.html
+64936 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_ejn.13382/svg/table1.svg
+65180 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_ejn.13382/svg/table1.annot.svg
+.65221 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table1.svg.html
+65221 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table1.svg
+66755 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table1.annot.svg
+66873 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table2.svg.html
+66873 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table2.svg
+68648 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table2.annot.svg
+68771 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table1.svg.html
+68771 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table1.svg
+70015 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 7; [(0,1)(1,2)(2,5)(5,15)(15,39)(39,59)(59,66)]
+70045 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table1.annot.svg
+70115 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2.svg.html
+70115 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2.svg
+73174 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2.annot.svg
+73333 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2cont.svg.html
+73333 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2cont.svg
+75461 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2cont.annot.svg
+75581 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table1.svg.html
+75581 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table1.svg
+75699 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 15; [(0,1)(1,2)(2,3)(3,5)(5,6)(6,7)(7,8)(8,10)(10,11)(11,12)(12,13)(13,15)(15,17)(17,18)(18,19)]
+75708 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table1.annot.svg
+75731 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table2.svg.html
+75731 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table2.svg
+75965 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table2.annot.svg
+76004 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table3.svg.html
+76004 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table3.svg
+76221 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 9; [(0,1)(1,6)(6,7)(7,9)(9,11)(11,23)(23,25)(25,28)(28,31)]
+76235 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table3.annot.svg
+76268 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table1.svg.html
+76268 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table1.svg
+76470 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table1.annot.svg
+76508 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table2.svg.html
+76508 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table2.svg
+76672 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large header: [(0,1)(1,6)(6,10)(10,15)]
+76688 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table2.annot.svg
+76724 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table3.svg.html
+76724 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table3.svg
+77012 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large header: [(0,1)(1,6)(6,26)(26,32)]
+77048 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table3.annot.svg
+77096 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table4.svg.html
+77096 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table4.svg
+77376 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table4.annot.svg
+77415 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table5.svg.html
+77415 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table5.svg
+79175 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+79175 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+79175 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table5.annot.svg
+79199 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+79199 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+79222 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table1.svg.html
+79222 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table1.svg
+79493 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table1.annot.svg
+79531 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table2.svg.html
+79531 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table2.svg
+79803 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+79803 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+79803 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table2.annot.svg
+79817 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+79817 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+79830 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table3.svg.html
+79830 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table3.svg
+79939 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - small body: [(0,2)(2,5)(5,8)(8,12)]
+79957 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table3.annot.svg
+79989 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table4.svg.html
+79989 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table4.svg
+80231 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+80231 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+80231 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table4.annot.svg
+80242 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+80242 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+80253 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table5.svg.html
+80253 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table5.svg
+80562 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+80562 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+80562 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table5.annot.svg
+80571 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+80571 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+80586 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table1.svg.html
+80586 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table1.svg
+81003 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table1.annot.svg
+81055 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table2.svg.html
+81055 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table2.svg
+81130 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - small body: [(0,1)(1,3)(3,6)(6,6)]
+81140 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table2.annot.svg
+81160 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table3.svg.html
+81160 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table3.svg
+81250 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table3.annot.svg
+81270 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table4.svg.html
+81270 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table4.svg
+81443 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table4.annot.svg
+81471 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table1.svg.html
+81471 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table1.svg
+81730 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table1.annot.svg
+81768 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table2.svg.html
+81769 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table2.svg
+81917 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table2.annot.svg
+81945 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table3.svg.html
+81945 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table3.svg
+82179 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large header: [(0,1)(1,6)(6,20)(20,24)]
+82212 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table3.annot.svg
+82257 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table1.svg.html
+82257 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table1.svg
+82583 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table1.annot.svg
+82630 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table2.svg.html
+82630 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table2.svg
+85696 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+85696 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+85696 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table2.annot.svg
+85724 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table title
+85724 [main] WARN  org.xmlcml.svg2xml.table.TableContentCreator  - no table header
+85745 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table1.svg.html
+85745 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table1.svg
+85858 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,21)(21,21)]
+85873 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table1.annot.svg
+85899 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table2.svg.html
+85900 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table2.svg
+86031 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table2.annot.svg
+86054 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table3.svg.html
+86054 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table3.svg
+86200 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table3.annot.svg
+86230 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table4.svg.html
+86230 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table4.svg
+86363 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table4.annot.svg
+86388 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table5.svg.html
+86388 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table5.svg
+86491 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table5.annot.svg
+86521 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table1.svg.html
+86521 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table1.svg
+87002 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table1.annot.svg
+87052 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table2.svg.html
+87052 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table2.svg
+87522 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,32)(32,34)]
+87581 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table2.annot.svg
+87636 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table3.svg.html
+87636 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table3.svg
+87798 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table3.annot.svg
+87832 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table4.svg.html
+87832 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table4.svg
+88074 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table4.annot.svg
+88113 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table5.svg.html
+88113 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table5.svg
+88965 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table5.annot.svg
+89038 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table6.svg.html
+89038 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table6.svg
+89287 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table6.annot.svg
+.89328 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table1.svg.html
+89328 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table1.svg
+89599 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table1.annot.svg
+89645 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table2.svg.html
+89645 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table2.svg
+89741 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table2.annot.svg
+89766 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table3.svg.html
+89766 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table3.svg
+89856 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table3.annot.svg
+89877 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table4.svg.html
+89877 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table4.svg
+89969 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table4.annot.svg
+89992 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table5.svg.html
+89992 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table5.svg
+90071 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - small body: [(0,2)(2,5)(5,8)(8,11)]
+90079 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table5.annot.svg
+90105 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1471-2431-13-190/svg/table1.svg.html
+90105 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2431-13-190/svg/table1.svg
+90347 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1471-2431-13-190/svg/table1.annot.svg
+90385 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1471-2458-12-740/svg/table1.svg.html
+90385 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-12-740/svg/table1.svg
+90636 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 1 Adjusted odds ratios (OR) with correspondi
+[(0,10)(10,13)(13,25)(25,31)]
+90667 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-12-740/svg/table1.annot.svg
+90714 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table1.svg.html
+90714 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table1.svg
+90901 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 12; [(0,2)(2,3)(3,4)(4,5)(5,6)(6,7)(7,8)(8,9)(9,10)(10,11)(11,12)(12,48)]
+90908 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table1.annot.svg
+90938 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table2.svg.html
+90938 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table2.svg
+91430 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 6; [(0,37)(37,39)(39,48)(48,58)(58,67)(67,83)]
+91467 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table2.annot.svg
+91512 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table3.svg.html
+91512 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table3.svg
+91733 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,48)(48,50)(50,58)(58,66)(66,69)]
+91767 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table3.annot.svg
+91790 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table1.svg.html
+91790 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table1.svg
+92360 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table1.annot.svg
+92416 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table2.svg.html
+92416 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table2.svg
+92677 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table2.annot.svg
+92720 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table3.svg.html
+92720 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table3.svg
+92921 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table3.annot.svg
+92955 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table1.svg.html
+92955 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table1.svg
+93198 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table1.annot.svg
+93236 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2.svg.html
+93236 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2.svg
+93906 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,6)(6,51)]
+93974 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2.annot.svg
+94038 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2cont.svg.html
+94038 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2cont.svg
+94726 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,38)(38,45)]
+94780 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2cont.annot.svg
+94823 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3.svg.html
+94824 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3.svg
+95512 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,6)(6,48)]
+95589 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3.annot.svg
+95654 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3cont.svg.html
+95654 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3cont.svg
+96237 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,31)(31,38)]
+96297 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3cont.annot.svg
+96352 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4.svg.html
+96352 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4.svg
+96938 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 3; [(0,1)(1,5)(5,47)]
+97008 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4.annot.svg
+97068 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4cont.svg.html
+97068 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4cont.svg
+97369 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,15)(15,22)]
+97401 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4cont.annot.svg
+97434 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table5.svg.html
+97434 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table5.svg
+97662 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table5.annot.svg
+97700 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table6.svg.html
+97700 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table6.svg
+98185 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table6.annot.svg
+98233 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table7.svg.html
+98233 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table7.svg
+98853 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table7.annot.svg
+98912 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1186_s12974-016-0542-6/svg/table1.svg.html
+98912 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1186_s12974-016-0542-6/svg/table1.svg
+99229 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - large title: Table 1 Summary of the densities of the axons, ret
+[(0,3)(3,7)(7,14)(14,26)]
+99263 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1186_s12974-016-0542-6/svg/table1.annot.svg
+99312 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pbio.1000481/svg/table1.svg.html
+99312 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1000481/svg/table1.svg
+99930 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1000481/svg/table1.annot.svg
+99986 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table1.svg.html
+99986 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table1.svg
+100219 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,2)(2,2)(2,3)(3,26)(26,28)]
+100232 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table1.annot.svg
+100270 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table2.svg.html
+100270 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table2.svg
+100535 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table2.annot.svg
+100577 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table1.svg.html
+100577 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table1.svg
+100659 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,1)(1,2)(2,5)(5,6)(6,7)]
+100667 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table1.annot.svg
+100687 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table2.svg.html
+100687 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table2.svg
+100910 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,1)(1,2)(2,17)(17,21)(21,22)]
+100935 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table2.annot.svg
+.100973 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table1.svg.html
+100973 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table1.svg
+101088 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,1)(1,3)(3,10)(10,13)(13,14)]
+101101 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table1.annot.svg
+101125 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table2.svg.html
+101125 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table2.svg
+101252 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table2.annot.svg
+101282 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table3.svg.html
+101282 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table3.svg
+101535 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,1)(1,30)]
+101568 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table3.annot.svg
+101602 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table1.svg.html
+101603 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table1.svg
+101683 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 6; [(0,1)(1,2)(2,7)(7,12)(12,14)(14,15)]
+101689 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table1.annot.svg
+101724 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table2.svg.html
+101724 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table2.svg
+101945 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,1)(1,23)]
+101970 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table2.annot.svg
+102002 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table3.svg.html
+102002 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table3.svg
+102827 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,1)(1,37)]
+102897 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table3.annot.svg
+102948 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4.svg.html
+102949 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4.svg
+103430 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 2; [(0,1)(1,48)]
+103471 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4.annot.svg
+103522 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4cont.svg.html
+103522 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4cont.svg
+103613 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 5; [(0,1)(1,2)(2,3)(3,5)(5,6)]
+103620 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4cont.annot.svg
+103644 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table1.svg.html
+103644 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table1.svg
+103840 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 8; [(0,2)(2,6)(6,9)(9,16)(16,21)(21,26)(26,33)(33,37)]
+103854 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table1.annot.svg
+103883 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table2.svg.html
+103883 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table2.svg
+104029 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 7; [(0,1)(1,2)(2,8)(8,9)(9,15)(15,19)(19,19)]
+104042 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table2.annot.svg
+104068 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table3.svg.html
+104068 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table3.svg
+104333 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table3.annot.svg
+104376 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table4.svg.html
+104376 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table4.svg
+104736 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - Ranges: 7; [(0,1)(1,2)(2,8)(8,14)(14,19)(19,31)(31,35)]
+104757 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table4.annot.svg
+104800 [main] DEBUG org.xmlcml.norma.NormaTransformer  - writing to target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table5.svg.html
+104801 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table5.svg
+105167 [main] DEBUG org.xmlcml.svg2xml.table.TableContentCreator  - writing annotated SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table5.annot.svg

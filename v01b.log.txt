@@ -1,0 +1,160 @@
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-015-4198-1/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table5.svg EXTRATITLE
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table6.svg EXTRATITLE
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table7.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table8.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4471-y/svg/table9.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s00213-016-4477-5/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1007_s12975-016-0496-0/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)30388-9/svg/table1.svg BARRED 
+reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table1.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31461-1/svg/table2.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table1.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table2.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table3.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31589-6/svg/table4.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table1.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table2.svg BARRED
+reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table3.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)31590-2/svg/table4.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table1cont.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table2.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table3.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_S0140-6736(16)32507-7/svg/table4.svg BARRED reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table2.svg BARRED? reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.07.024/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.amepre.2016.08.013/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2012.08.009/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table2cont.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.jadohealth.2016.10.001/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.08.023/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3.svg NOFOOTER: 
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table3cont.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.020/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.pain.2014.09.033/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.05.012/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1016_j.ypmed.2016.09.005/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table1.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table2.svg BOX ROTATE
+reading SVG target/corpus-oa-pmr-v01/10.1038_ejcn.2016.222/svg/table3.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table1.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table2.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table3.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table4.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_ijo.2016.206/svg/table5.svg BOX
+reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table1.svg LOWERTITLE
+reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table2.svg LOWERTITLE
+reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table3.svg LOWERTITLE
+reading SVG target/corpus-oa-pmr-v01/10.1038_pr.2016.187/svg/table4.svg LOWERTITLE
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table1.svg GRID 
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table2.svg GRID 
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table3.svg GRID
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table4.svg GRID
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep37826/svg/table5.svg GRID 
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table1.svg GRID 
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table2.svg GRID
+reading SVG target/corpus-oa-pmr-v01/10.1038_srep39471/svg/table3.svg GRID
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1185421/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1080_00207454.2016.1194274/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1097_WNR.0000000000000118/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1097_j.pain.0000000000000579/svg/table1.svg ROTATE
+reading SVG target/corpus-oa-pmr-v01/10.1111_bph.13646/svg/table1.svg SUBBOX
+reading SVG target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table1.svg SUBBOX
+reading SVG target/corpus-oa-pmr-v01/10.1111_bph.13654/svg/table2.svg SUBBOX
+reading SVG target/corpus-oa-pmr-v01/10.1111_ejn.13382/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1111_ejn.13418/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table1.svg BARRED?
+reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13192/svg/table2cont.svg
+reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table1.svg BARRED
+reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1111_nyas.13294/svg/table3.svg BARRED
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-011048/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-012330/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_bmjopen-2016-013045/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2014-204984/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1136_jech-2015-206665/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table1.svg NOTTABLE
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132812Y.0000000071/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table1.svg 
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table2.svg ???
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000036/svg/table6.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table4.svg
+reading SVG target/corpus-oa-pmr-v01/10.1179_1743132815Y.0000000050/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2431-13-190/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-12-740/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table1.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table2.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1186_1471-2458-9-122/svg/table3.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_1741-7015-11-207/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2.svg MISSINGRULER
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table2cont.svg MISSINGRULER
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3.svg MISSINGRULER
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table3cont.svg MISSINGRULER
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4.svg MISSINGRULER
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table4cont.svg MISSINGRULER
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table5.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table6.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12916-014-0161-y/svg/table7.svg
+reading SVG target/corpus-oa-pmr-v01/10.1186_s12974-016-0542-6/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1000481/svg/table1.svg
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table1.svg EXTRABAR
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pbio.1001952/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table1.svg BOTTOMDOIBAR
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0148292/svg/table2.svg BOTTOMDOIBAR
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table1.svg BOTTOMDOIBAR
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table2.svg
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0155834/svg/table3.svg ??
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table1.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table2.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table3.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.1371_journal.pone.0169976/svg/table4cont.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table1.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table2.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table3.svg
+reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table4.svg BODYRULERS
+reading SVG target/corpus-oa-pmr-v01/10.3109_00207454.2013.803104/svg/table5.svg
