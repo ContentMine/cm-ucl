@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="HLFIAE+Helvetica" family="Helvetica"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="HLFIAE+Helvetica" bold="false"
+        italic="false" symbol="false"/>
+        <font name="HLFIAF+Helvetica-Light"
+        family="Helvetica-Light" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLFIAF+Helvetica-Light"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLFICF+Helvetica-LightOblique"
+        family="Helvetica-LightOblique" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLFICF+Helvetica-LightOblique"
+        bold="false" italic="true" symbol="false"/>
+        <font name="HLFIEG+Helvetica-Bold"
+        family="Helvetica-Bold" type="Font"
+        encoding="MacRomanEncoding" fontencoding="MacRomanEncoding"
+        basefont="HLFIEG+Helvetica-Bold"
+        bold="true" italic="false" symbol="false"/>
+        <font name="HLFIGG+Minion-Semibold"
+        family="Minion-Semibold" type="Font"
+        encoding="MacRomanEncoding" fontencoding="MacRomanEncoding"
+        basefont="HLFIGG+Minion-Semibold"
+        bold="true" italic="false" symbol="false"/>
+        <font name="HLFIHG+Minion-Regular"
+        family="Minion-Regular" type="Font"
+        encoding="MacRomanEncoding" fontencoding="MacRomanEncoding"
+        basefont="HLFIHG+Minion-Regular"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLFIJH+MTSY" family="MTSY"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="HLFIJH+MTSY" bold="false"
+        italic="false" symbol="true"/>
+        <font name="HLFJBE+Minion-Italic"
+        family="Minion-Italic" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLFJBE+Minion-Italic" bold="false"
+        italic="true" symbol="false"/>
+        <font name="HLGAND+Helvetica-Oblique"
+        family="Helvetica-Oblique" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLGAND+Helvetica-Oblique"
+        bold="false" italic="true" symbol="false"/>
+        <font name="HLGKOC+Minion-Bold" family="Minion-Bold"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="HLGKOC+Minion-Bold"
+        bold="true" italic="false" symbol="false"/>
+        <font name="HLGKPC+Minion-RegularSC"
+        family="Minion-RegularSC" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLGKPC+Minion-RegularSC"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLGLFB+Minion-BoldItalic"
+        family="Minion-BoldItalic" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLGLFB+Minion-BoldItalic"
+        bold="true" italic="true" symbol="false"/>
+        <font name="HLGLIB+LCIRCLE10" family="LCIRCLE10"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="HLGLIB+LCIRCLE10" bold="false"
+        italic="false" symbol="true"/>
+        <font name="HLHOMD+RMTMI" family="RMTMI"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="HLHOMD+RMTMI"
+        bold="false" italic="true" symbol="false"/>
+        <font name="HLHPMN+Minion-SemiboldItalic"
+        family="Minion-SemiboldItalic" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLHPMN+Minion-SemiboldItalic"
+        bold="true" italic="true" symbol="false"/>
+        <font name="HLICDO+FranklinGothic-Medium"
+        family="FranklinGothic-Medium" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLICDO+FranklinGothic-Medium"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLICEP+MyriadPro-Regular"
+        family="MyriadPro-Regular" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="HLICEP+MyriadPro-Regular"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLICFA+ArialMT" family="ArialMT"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="HLICFA+ArialMT"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLICGB+Arial-Black" family="Arial-Black"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="HLICGB+Arial-Black"
+        bold="false" italic="false" symbol="false"/>
+        <font name="HLIDKJ+MathematicalPi-One"
+        family="MathematicalPi-One" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HLIDKJ+MathematicalPi-One"
+        bold="false" italic="false" symbol="true"/>
+        <font name="HLIELD+LucidaSansUnicode22"
+        family="LucidaSansUnicode22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="HLIELD+LucidaSansUnicode22"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1111_nyas.13192/fulltext.pdf"
+    pageCount="21">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8">
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+        <page num="16"/>
+        <page num="17"/>
+        <page num="18"/>
+        <page num="19">
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="HLGLIB+LCIRCLE10"
+            family="LCIRCLE10" name="a114"
+            code="2">
+                <path stroke="black" fill="none"
+                d=" M 1.34375 0.0 C 1.34375
+                0.75 0.75 1.34375 0.0 1.34375
+                C -0.75 1.34375 -1.34375
+                0.75 -1.34375 0.0 C -1.34375
+                -0.75 -0.75 -1.34375 0.0
+                -1.34375 C 0.75 -1.34375
+                1.34375 -0.75 1.34375 0.0
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="20"/>
+        <page num="21">
+            <character font="HLIELD+LucidaSansUnicode22"
+            family="LucidaSansUnicode22"
+            name="223c" code="2">
+                <path stroke="black" fill="none"
+                d=" M 3.1875 -2.078125 L
+                2.828125 -2.234375 C 2.78125
+                -2.25 2.640625 -2.3125 2.40625
+                -2.40625 C 2.046875 -2.546875
+                1.921875 -2.578125 1.765625
+                -2.578125 C 1.390625 -2.578125
+                1.125 -2.234375 1.109375
+                -1.734375 L 0.859375 -1.734375
+                C 0.875 -1.9375 0.875 -1.984375
+                0.90625 -2.125 C 1.0 -2.640625
+                1.390625 -2.984375 1.90625
+                -2.984375 C 2.1875 -2.984375
+                2.515625 -2.875 3.1875 -2.578125
+                L 3.53125 -2.421875 C 4.171875
+                -2.140625 4.421875 -2.046875
+                4.59375 -2.046875 C 4.953125
+                -2.046875 5.1875 -2.359375
+                5.25 -2.890625 L 5.5 -2.890625
+                C 5.4375 -2.078125 5.09375
+                -1.640625 4.46875 -1.640625
+                C 4.203125 -1.640625 3.984375
+                -1.71875 3.421875 -1.96875
+                Z " stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+    </pdf>
+</pdfLog>

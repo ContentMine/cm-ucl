@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="LFPMEA+AdvTT9a62c830"
+        family="AdvTT9a62c830" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LFPMEA+AdvTT9a62c830" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LFPMFA+AdvTT90b15021"
+        family="AdvTT90b15021" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LFPMFA+AdvTT90b15021" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LFPMFB+AdvTT6f31da14.I"
+        family="AdvTT6f31da14.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LFPMFB+AdvTT6f31da14.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LFPMGC+AdvTT336784a7"
+        family="AdvTT336784a7" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LFPMGC+AdvTT336784a7" bold="false"
+        italic="false" symbol="false"/>
+        <font name="LFPMHC+AdvTT336784a7+fb"
+        family="AdvTT336784a7+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LFPMHC+AdvTT336784a7+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LFPMHD+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="LFPMHD+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="LFPMIE+AdvTTc9399784.I"
+        family="AdvTTc9399784.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LFPMIE+AdvTTc9399784.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LFPMIF+AdvTT336784a7+02"
+        family="AdvTT336784a7+02" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LFPMIF+AdvTT336784a7+02"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LFPMJG+AdvTT182ff89e+03"
+        family="AdvTT182ff89e+03" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LFPMJG+AdvTT182ff89e+03"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LGAONH+FSTruman-Bold"
+        family="FSTruman-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LGAONH+FSTruman-Bold" bold="false"
+        italic="false" symbol="true"/>
+        <font name="LGAONI+AdvTTebfa89c8.B"
+        family="AdvTTebfa89c8.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LGAONI+AdvTTebfa89c8.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LGAOOI+AdvTT336784a7+20"
+        family="AdvTT336784a7+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LGAOOI+AdvTT336784a7+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LGAPBI+AdvTT90b15021+fb"
+        family="AdvTT90b15021+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LGAPBI+AdvTT90b15021+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LGAPCJ+AdvTT90b15021+20"
+        family="AdvTT90b15021+20" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LGAPCJ+AdvTT90b15021+20"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LGCBKI+AdvTT90b15021+21"
+        family="AdvTT90b15021+21" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LGCBKI+AdvTT90b15021+21"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LGEHOO+AdvP4C4E51" family="AdvP4C4E51"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LGEHOO+AdvP4C4E51"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LGJEBL+AdvTT336784a7+21"
+        family="AdvTT336784a7+21" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LGJEBL+AdvTT336784a7+21"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHDGEI+AdvTTba30eafc.BI"
+        family="AdvTTba30eafc.BI" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHDGEI+AdvTTba30eafc.BI"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHIKID+AdvTT9a62c830+fb"
+        family="AdvTT9a62c830+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="LHIKID+AdvTT9a62c830+fb"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1111_bph.13646/fulltext.pdf"
+    pageCount="20">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+        <page num="16"/>
+        <page num="17"/>
+        <page num="18"/>
+        <page num="19"/>
+        <page num="20"/>
+    </pdf>
+</pdfLog>

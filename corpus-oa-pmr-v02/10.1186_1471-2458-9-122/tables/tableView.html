@@ -1,0 +1,178 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1186_1471-2458-9-122</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2458-9-122/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">InterventionSchool(n=347) </th>
+     <th class="cell">ControlSchool1(n=293) </th>
+     <th class="cell">ControlSchool2(n=180) </th>
+     <th class="cell">District-wide </th>
+    </tr>
+    <tr>
+     <td class="cell">Race/ethnicity(%)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2458-9-122/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2458-9-122/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Baseline </th>
+     <th class="cell">1-month </th>
+     <th class="cell">6-month </th>
+     <th class="cell">12-month </th>
+    </tr>
+    <tr>
+     <td class="cell">Bycar</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Intervention</td>
+     <td class="cell">47+/-3</td>
+     <td class="cell">36+/-3</td>
+     <td class="cell">36+/-3</td>
+     <td class="cell">34+/-3</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(132/281)</td>
+     <td class="cell">(106/291)</td>
+     <td class="cell">(116/323)</td>
+     <td class="cell">(102/303)</td>
+    </tr>
+    <tr>
+     <td class="cell">Controls</td>
+     <td class="cell">41+/-3</td>
+     <td class="cell">38+/-2</td>
+     <td class="cell">41+/-2</td>
+     <td class="cell">39+/-3</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(152/372)</td>
+     <td class="cell">(169/447)</td>
+     <td class="cell">(168/406)</td>
+     <td class="cell">(134/340)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2458-9-122/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2458-9-122/tables/table3/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Baseline </th>
+     <th class="cell">12-month </th>
+    </tr>
+    <tr>
+     <td class="cell">InterventionSchool*</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Bywalking</td>
+     <td class="cell">56</td>
+     <td class="cell">75</td>
+    </tr>
+    <tr>
+     <td class="cell">Byallotherscombined</td>
+     <td class="cell">225</td>
+     <td class="cell">228</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2458-9-122/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

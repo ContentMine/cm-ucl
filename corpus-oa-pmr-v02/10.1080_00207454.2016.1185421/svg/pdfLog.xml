@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="ECIHEA+OpenSans" family="OpenSans"
+        type="Font" encoding="null" fontencoding="null"
+        basefont="ECIHEA+OpenSans" bold="false"
+        italic="false" symbol="false"/>
+        <font name="ECIHDJ+OpenSans-Semibold"
+        family="OpenSans-Semibold" type="Font"
+        encoding="null" fontencoding="null"
+        basefont="ECIHDJ+OpenSans-Semibold"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHNNJC+HelveticaNeueLTStd-CnO"
+        family="HelveticaNeueLTStd-CnO" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNNJC+HelveticaNeueLTStd-CnO"
+        bold="false" italic="true" symbol="false"/>
+        <font name="LHNNJD+HelveticaNeueLTStd-Cn"
+        family="HelveticaNeueLTStd-Cn" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNNJD+HelveticaNeueLTStd-Cn"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHNNJE+SFRM0700" family="SFRM0700"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LHNNJE+SFRM0700"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHNNPC+HelveticaNeueLTStd-Roman"
+        family="HelveticaNeueLTStd-Roman"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="LHNNPC+HelveticaNeueLTStd-Roman"
+        bold="false" italic="false" symbol="true"/>
+        <font name="LHNNPD+HelveticaNeueLTStd-BdCn"
+        family="HelveticaNeueLTStd-BdCn"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LHNNPD+HelveticaNeueLTStd-BdCn"
+        bold="true" italic="false" symbol="false"/>
+        <font name="LHNNPE+PlantinStd" family="PlantinStd"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="LHNNPE+PlantinStd" bold="false"
+        italic="false" symbol="true"/>
+        <font name="LHNNPF+PlantinStd-Italic"
+        family="PlantinStd-Italic" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNNPF+PlantinStd-Italic"
+        bold="false" italic="true" symbol="false"/>
+        <font name="LHNOAG+HelveticaNeueLTStd-It"
+        family="HelveticaNeueLTStd-It" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNOAG+HelveticaNeueLTStd-It"
+        bold="false" italic="true" symbol="false"/>
+        <font name="LHNOAH+MTSY" family="MTSY"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="LHNOAH+MTSY" bold="false"
+        italic="false" symbol="true"/>
+        <font name="LHNOAI+HelveticaNeueLTStd-Bd"
+        family="HelveticaNeueLTStd-Bd" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNOAI+HelveticaNeueLTStd-Bd"
+        bold="true" italic="false" symbol="false"/>
+        <font name="LHNOAJ+HelveticaNeueLTStd-LtCn"
+        family="HelveticaNeueLTStd-LtCn"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LHNOAJ+HelveticaNeueLTStd-LtCn"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHNOBJ+CMSY10" family="CMSY10"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="LHNOBJ+CMSY10" bold="false"
+        italic="true" symbol="true"/>
+        <font name="LHNOBK+HelveticaNeueLTStd-LtCnO"
+        family="HelveticaNeueLTStd-LtCnO"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LHNOBK+HelveticaNeueLTStd-LtCnO"
+        bold="false" italic="true" symbol="false"/>
+        <font name="LHNOBL+RMTMI" family="RMTMI"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="LHNOBL+RMTMI" bold="false"
+        italic="true" symbol="true"/>
+        <font name="LHNOHK+TimesNewRomanPS"
+        family="TimesNewRomanPS" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNOHK+TimesNewRomanPS"
+        bold="false" italic="false" symbol="false"/>
+        <font name="LHNOHL+TimesNewRomanPS-Bold"
+        family="TimesNewRomanPS-Bold" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="LHNOHL+TimesNewRomanPS-Bold"
+        bold="true" italic="false" symbol="false"/>
+        <font name="LHOAOM+Calibri" family="Calibri"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="LHOAOM+Calibri"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1080_00207454.2016.1185421/fulltext.pdf"
+    pageCount="9">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+    </pdf>
+</pdfLog>

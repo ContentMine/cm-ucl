@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="BCNHCB+AdvPSHEL" family="AdvPSHEL"
+        type="Font" encoding="MacRomanEncoding"
+        fontencoding="MacRomanEncoding" basefont="BCNHCB+AdvPSHEL"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHCC+AdvPSHV-L" family="AdvPSHV-L"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BCNHCC+AdvPSHV-L"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHCD+AdvP4C4E59" family="AdvP4C4E59"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="BCNHCD+AdvP4C4E59" bold="false"
+        italic="false" symbol="true"/>
+        <font name="BCNHDD+AdvPSHV-LO" family="AdvPSHV-LO"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BCNHDD+AdvPSHV-LO"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHDE+AdvPSHEL-O" family="AdvPSHEL-O"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BCNHDE+AdvPSHEL-O"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHDF+AdvTT5843c571"
+        family="AdvTT5843c571" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHDF+AdvTT5843c571" bold="false"
+        italic="false" symbol="false"/>
+        <font name="BCNHDG+AdvTT5843c571+fb"
+        family="AdvTT5843c571+fb" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="BCNHDG+AdvTT5843c571+fb"
+        bold="false" italic="false" symbol="true"/>
+        <font name="BCNHDH+AdvTTf90d833a.I"
+        family="AdvTTf90d833a.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHDH+AdvTTf90d833a.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHDI+AdvTTec369687"
+        family="AdvTTec369687" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHDI+AdvTTec369687" bold="false"
+        italic="false" symbol="false"/>
+        <font name="BCNHDJ+AdvTTf90d833a.I+20"
+        family="AdvTTf90d833a.I+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHDJ+AdvTTf90d833a.I+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHEK+AdvTT5843c571+20"
+        family="AdvTT5843c571+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHEK+AdvTT5843c571+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHFL+AdvTT2cba4af3.B"
+        family="AdvTT2cba4af3.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHFL+AdvTT2cba4af3.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHGL+AdvTNRMTSC75"
+        family="AdvTNRMTSC75" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHGL+AdvTNRMTSC75" bold="false"
+        italic="false" symbol="false"/>
+        <font name="BCNHGM+AdvPi2" family="AdvPi2"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BCNHGM+AdvPi2"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHGN+AdvTTdf37bfe4+21"
+        family="AdvTTdf37bfe4+21" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="BCNHGN+AdvTTdf37bfe4+21"
+        bold="false" italic="false" symbol="true"/>
+        <font name="BCNHHO+AdvPSMP13" family="AdvPSMP13"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="BCNHHO+AdvPSMP13"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHHP+AdvTTec369687+20"
+        family="AdvTTec369687+20" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="BCNHHP+AdvTTec369687+20"
+        bold="false" italic="false" symbol="false"/>
+        <font name="BCNHJP+AdvTTdf37bfe4+22"
+        family="AdvTTdf37bfe4+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="BCNHJP+AdvTTdf37bfe4+22"
+        bold="false" italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1111_ejn.13418/fulltext.pdf"
+    pageCount="13">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+        <page num="13"/>
+    </pdf>
+</pdfLog>

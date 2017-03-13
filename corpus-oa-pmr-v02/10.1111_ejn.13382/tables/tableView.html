@@ -1,0 +1,183 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_ejn.13382</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_ejn.13382/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">GO biological process </th>
+     <th class="cell">Upregulated genes </th>
+     <th class="cell">Downregulated genes </th>
+    </tr>
+    <tr>
+     <td class="cell">Gliogenesis</td>
+     <td class="cell">FGFR3 GFAP ID2 NOTCH1 PAX6</td>
+     <td class="cell">LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1 GPR56</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">CCL2 STAT3 APCDD1 ID4</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Glial cell differentiation</td>
+     <td class="cell">FGFR3 GFAP ID2 NOTCH1</td>
+     <td class="cell">LYN EGR1 OLIG2 PTPRZ1 S100B HES1 WASF3 GSN DNER NDRG1</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">PAX6 STAT3 ID4</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Oligodendrocyte differentiation</td>
+     <td class="cell">FGFR3 ID2 NOTCH1 PAX6 ID4</td>
+     <td class="cell">LYN EGR1 PTPRZ1 OLIG2 WASF3 GSN</td>
+    </tr>
+    <tr>
+     <td class="cell">Morphogenesis of a</td>
+     <td class="cell">CSF1 NOG NOTCH1 SOCS3</td>
+     <td class="cell">ETV4 SLC12A2 NPNT SFRP1 ADM CTNND2 CLIC4 SPRY1 NFATC4 SPRY2</td>
+    </tr>
+    <tr>
+     <td class="cell">branching structure</td>
+     <td class="cell">CTSH ADAMTS16 CD44</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Regulation of gliogenesis</td>
+     <td class="cell">CSF1 NOG FGFR3 ID2 GFAP</td>
+     <td class="cell">LYN PTPRZ1 OLIG2 HES1</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">NOTCH1 ID4</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Morphogenesis of a</td>
+     <td class="cell">CSF1 NOG NOTCH1 SOCS3</td>
+     <td class="cell">ETV4 SLC12A2 NPNT SFRP1 ADM CLIC4 SPRY1 NFATC4 SPRY2</td>
+    </tr>
+    <tr>
+     <td class="cell">branching epithelium</td>
+     <td class="cell">CTSH ADAMTS16 CD44</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Negative regulation of</td>
+     <td class="empty" />
+     <td class="cell">LYN HMGCR DUSP4 SPRED2 SFRP1 DUSP6 SPRY4 SPRED1 SPRY4</td>
+    </tr>
+    <tr>
+     <td class="cell">MAP kinase activity</td>
+     <td class="empty" />
+     <td class="cell">SPRY1 SPRY2</td>
+    </tr>
+    <tr>
+     <td class="cell">Proteoglycan metabolic process</td>
+     <td class="cell">COL11A1 XYLT1 SDC2 GPC4</td>
+     <td class="cell">CHST11 BCAN SDC3 CHST7 ACPL2 HS6ST2</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">CHST15</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Chondroitin sulfate proteoglycan</td>
+     <td class="cell">XYLT1 SDC2 GPC4 CHST15</td>
+     <td class="cell">CHST11 BCAN SDC3 CHST7 ACPL2</td>
+    </tr>
+    <tr>
+     <td class="cell">metabolic process</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Sulfur compound</td>
+     <td class="cell">XYLT1 ANGPT1 CHST15 CDO1</td>
+     <td class="cell">ELOVL6 CHST11 BCAN ACSL3 CTH ACSS1 CHST7 MGST3 ACPL2 HS6ST2</td>
+    </tr>
+    <tr>
+     <td class="cell">biosynthetic process</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_ejn.13382/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="NHJNAA+KyxfnhAdvTT3713a231"
+        family="KyxfnhAdvTT3713a231" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHJNAA+KyxfnhAdvTT3713a231"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NHJNAB+RbxrnqAdvTTb8864ccf.B"
+        family="RbxrnqAdvTTb8864ccf.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHJNAB+RbxrnqAdvTTb8864ccf.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NHJNBB+KqklfpAdvP0005"
+        family="KqklfpAdvP0005" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHJNBB+KqklfpAdvP0005"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NHJNBC+DlvnqdAdvPi3"
+        family="DlvnqdAdvPi3" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHJNBC+DlvnqdAdvPi3" bold="false"
+        italic="false" symbol="false"/>
+        <font name="NHJNBD+KmwktxAdvTT50a2f13e.I"
+        family="KmwktxAdvTT50a2f13e.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHJNBD+KmwktxAdvTT50a2f13e.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NHJNBE+LmnqmvAdvTT3713a231+20"
+        family="LmnqmvAdvTT3713a231+20" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="NHJNBE+LmnqmvAdvTT3713a231+20"
+        bold="false" italic="false" symbol="true"/>
+        <font name="NHJNCF+GjlkdjAdvTT4ff65459"
+        family="GjlkdjAdvTT4ff65459" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHJNCF+GjlkdjAdvTT4ff65459"
+        bold="false" italic="false" symbol="false"/>
+        <font name="NHKGAP+MccphhAdvTT3713a231+22"
+        family="MccphhAdvTT3713a231+22" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="NHKGAP+MccphhAdvTT3713a231+22"
+        bold="false" italic="false" symbol="true"/>
+        <font name="MjlyfyCalibri" family="MjlyfyCalibri"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="MjlyfyCalibri" bold="false"
+        italic="false" symbol="true"/>
+        <font name="NHKICE+ChyrspAdvTT50a2f13e.I+22"
+        family="ChyrspAdvTT50a2f13e.I+22"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="NHKICE+ChyrspAdvTT50a2f13e.I+22"
+        bold="false" italic="false" symbol="false"/>
+        <font name="RFSBCV+RgscdvCalibri-Italic"
+        family="RgscdvCalibri-Italic" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="RFSBCV+RgscdvCalibri-Italic"
+        bold="false" italic="true" symbol="false"/>
+        <font name="NHKKDK+PjdqdkAdvTT3713a231+21"
+        family="PjdqdkAdvTT3713a231+21" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="NHKKDK+PjdqdkAdvTT3713a231+21"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1007_s00213-016-4471-y/fulltext.pdf"
+    pageCount="18">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8">
+            <character font="MjlyfyCalibri"
+            family="MjlyfyCalibri" name="g415"
+            code="2">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="MjlyfyCalibri"
+            family="MjlyfyCalibri" name="g415"
+            code="2">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11">
+            <character font="MjlyfyCalibri"
+            family="MjlyfyCalibri" name="g415"
+            code="2">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="MjlyfyCalibri"
+            family="MjlyfyCalibri" name="g415"
+            code="2">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="MjlyfyCalibri"
+            family="MjlyfyCalibri" name="g415"
+            code="2">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="12">
+            <character font="MjlyfyCalibri"
+            family="MjlyfyCalibri" name="g415"
+            code="2">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="13"/>
+        <page num="14"/>
+        <page num="15"/>
+        <page num="16"/>
+        <page num="17"/>
+        <page num="18"/>
+    </pdf>
+</pdfLog>

@@ -1,0 +1,283 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_nyas.13294</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13294/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">RAS group (n = 6) </th>
+     <th class="cell">Control group (n = 6) </th>
+    </tr>
+    <tr>
+     <td class="cell">Sex (male/female)</td>
+     <td class="cell">4/2</td>
+     <td class="cell">4/2</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13294/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13294/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Parameter </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">t </th>
+     <th class="cell">P </th>
+     <th class="cell">ES </th>
+    </tr>
+    <tr>
+     <td class="cell">Cadence (step/min) ^{a}</td>
+     <td class="cell">111.77</td>
+     <td class="cell">9.04</td>
+     <td class="cell">122.97</td>
+     <td class="cell">10.17</td>
+     <td class="cell">11.20</td>
+     <td class="cell">11.79</td>
+     <td class="cell">112.51</td>
+     <td class="cell">10.17</td>
+     <td class="cell">112.91</td>
+     <td class="cell">4.79</td>
+     <td class="cell">0.40</td>
+     <td class="cell">4.77</td>
+     <td class="cell">− 2.831</td>
+     <td class="cell">0.005^{**}</td>
+     <td class="cell">1.20</td>
+    </tr>
+    <tr>
+     <td class="cell">Velocity (m/s)</td>
+     <td class="cell">0.93</td>
+     <td class="cell">0.27</td>
+     <td class="cell">1.16</td>
+     <td class="cell">0.19</td>
+     <td class="cell">0.23</td>
+     <td class="cell">0.26</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.27</td>
+     <td class="cell">0.98</td>
+     <td class="cell">0.14</td>
+     <td class="cell">0.01</td>
+     <td class="cell">0.05</td>
+     <td class="cell">2.838</td>
+     <td class="cell">0.015^{*}</td>
+     <td class="cell">1.18</td>
+    </tr>
+    <tr>
+     <td class="cell">Step length (m)</td>
+     <td class="cell">0.50</td>
+     <td class="cell">0.11</td>
+     <td class="cell">0.56</td>
+     <td class="cell">0.08</td>
+     <td class="cell">0.06</td>
+     <td class="cell">0.11</td>
+     <td class="cell">0.52</td>
+     <td class="cell">0.08</td>
+     <td class="cell">0.52</td>
+     <td class="cell">0.08</td>
+     <td class="cell">0.01</td>
+     <td class="cell">0.07</td>
+     <td class="cell">1.621</td>
+     <td class="cell">0.119</td>
+     <td class="cell">0.54</td>
+    </tr>
+    <tr>
+     <td class="cell">Step time (s)</td>
+     <td class="cell">0.54</td>
+     <td class="cell">0.05</td>
+     <td class="cell">0.48</td>
+     <td class="cell">0.04</td>
+     <td class="cell">− 0.06</td>
+     <td class="cell">0.07</td>
+     <td class="cell">0.52</td>
+     <td class="cell">0.06</td>
+     <td class="cell">0.55</td>
+     <td class="cell">0.05</td>
+     <td class="cell">0.03</td>
+     <td class="cell">0.07</td>
+     <td class="cell">− 3.004</td>
+     <td class="cell">0.007^{**}</td>
+     <td class="cell">1.29</td>
+    </tr>
+    <tr>
+     <td class="cell">Step width (m)</td>
+     <td class="cell">0.22</td>
+     <td class="cell">0.05</td>
+     <td class="cell">0.21</td>
+     <td class="cell">0.06</td>
+     <td class="cell">− 0.01</td>
+     <td class="cell">0.04</td>
+     <td class="cell">0.19</td>
+     <td class="cell">0.05</td>
+     <td class="cell">0.20</td>
+     <td class="cell">0.05</td>
+     <td class="cell">0.01</td>
+     <td class="cell">0.02</td>
+     <td class="cell">− 1.404</td>
+     <td class="cell">0.174</td>
+     <td class="cell">0.63</td>
+    </tr>
+    <tr>
+     <td class="cell">Single support (%)</td>
+     <td class="cell">0.37</td>
+     <td class="cell">0.03</td>
+     <td class="cell">0.36</td>
+     <td class="cell">0.04</td>
+     <td class="cell">− 0.01</td>
+     <td class="cell">0.04</td>
+     <td class="cell">0.40</td>
+     <td class="cell">0.04</td>
+     <td class="cell">0.36</td>
+     <td class="cell">0.05</td>
+     <td class="cell">− 0.03</td>
+     <td class="cell">0.05</td>
+     <td class="cell">1.163</td>
+     <td class="cell">0.257</td>
+     <td class="cell">0.44</td>
+    </tr>
+    <tr>
+     <td class="cell">Double support (%)</td>
+     <td class="cell">0.33</td>
+     <td class="cell">0.09</td>
+     <td class="cell">0.27</td>
+     <td class="cell">0.08</td>
+     <td class="cell">− 0.06</td>
+     <td class="cell">0.13</td>
+     <td class="cell">0.31</td>
+     <td class="cell">0.05</td>
+     <td class="cell">0.31</td>
+     <td class="cell">0.07</td>
+     <td class="cell">− 0.00</td>
+     <td class="cell">0.09</td>
+     <td class="cell">− 1.225</td>
+     <td class="cell">0.233</td>
+     <td class="cell">0.54</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13294/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13294/tables/table3/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Joint </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">M </th>
+     <th class="cell">SD </th>
+     <th class="cell">t </th>
+     <th class="cell">P </th>
+     <th class="cell">ES </th>
+    </tr>
+    <tr>
+     <td class="cell">Pelvis</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13294/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

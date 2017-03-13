@@ -1,0 +1,614 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_j.ypmed.2016.05.012</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table5" class="tablinks" onClick="openTab(event, 'table5', 'tabcontent')">table5</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variable </th>
+     <th class="cell">Intervention group </th>
+     <th class="cell">Control group </th>
+     <th class="cell">p value ^{a} </th>
+    </tr>
+    <tr>
+     <td class="cell">Age (years)</td>
+     <td class="cell">(n=151)</td>
+     <td class="cell">(n=159)</td>
+     <td class="cell">0.18</td>
+    </tr>
+    <tr>
+     <td class="cell">Gender: female</td>
+     <td class="cell">60.5 (5.64)</td>
+     <td class="cell">61.3 (5.18)</td>
+     <td class="cell">0.93</td>
+    </tr>
+    <tr>
+     <td class="cell">Employment status</td>
+     <td class="cell">100 (66.2%)</td>
+     <td class="cell">106 (66.7%)</td>
+     <td class="cell">0.30</td>
+    </tr>
+    <tr>
+     <td class="cell">Full time</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Part time</td>
+     <td class="cell">78 (51.7%)</td>
+     <td class="cell">65 (40.9%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Unemployed</td>
+     <td class="cell">24 (15.9%)</td>
+     <td class="cell">29 (18.2%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Retired</td>
+     <td class="cell">5 (3.3%)</td>
+     <td class="cell">7 (4.4%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Education</td>
+     <td class="cell">44 (29.1%)</td>
+     <td class="cell">58 (36.5%)</td>
+     <td class="cell">0.42</td>
+    </tr>
+    <tr>
+     <td class="cell">Primary school</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Secondary school</td>
+     <td class="cell">3 (2.0%)</td>
+     <td class="cell">2 (1.3%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">TAFE/Diploma</td>
+     <td class="cell">55 (36.4%)</td>
+     <td class="cell">72 (45.0%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">University</td>
+     <td class="cell">52 (34.4%)</td>
+     <td class="cell">46 (28.8%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Relationship status: with partner</td>
+     <td class="cell">41 (27.2%)</td>
+     <td class="cell">39 (24.5%)</td>
+     <td class="cell">0.81</td>
+    </tr>
+    <tr>
+     <td class="cell">Smoking status</td>
+     <td class="cell">124 (82.1%)</td>
+     <td class="cell">129 (81.1%)</td>
+     <td class="cell">0.85</td>
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Ex-smoker</td>
+     <td class="cell">84 (55.6%)</td>
+     <td class="cell">84 (52.8%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Occasional smoker</td>
+     <td class="cell">52 (34.4%)</td>
+     <td class="cell">54 (33.8%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Daily smoker</td>
+     <td class="cell">3 (2.0%)</td>
+     <td class="cell">4 (2.5%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Co-morbidity : yes^{b}</td>
+     <td class="cell">12 (7.9%)</td>
+     <td class="cell">17 (10.6%)</td>
+     <td class="cell">0.41</td>
+    </tr>
+    <tr>
+     <td class="cell">Alcohol drinking: yes</td>
+     <td class="cell">92 (60.9%)</td>
+     <td class="cell">104 (65.4%)</td>
+     <td class="cell">0.96</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">99 (65.6%)</td>
+     <td class="cell">113 (71.1%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Metabolic syndrome status</td>
+     <td class="cell">n = 130</td>
+     <td class="cell">n = 144</td>
+     <td class="cell">0.66</td>
+    </tr>
+    <tr>
+     <td class="cell">Metabolic syndrome</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">At risk</td>
+     <td class="cell">66 (50.8%)</td>
+     <td class="cell">77 (46.5%)</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Outcome </th>
+     <th class="cell">Baseline </th>
+     <th class="cell">Post </th>
+     <th class="cell">_{a} p value </th>
+     <th class="cell">Baseline </th>
+     <th class="cell">Post </th>
+     <th class="cell">_{b} p value </th>
+     <th class="cell">c p value </th>
+     <th class="cell">d p value </th>
+    </tr>
+    <tr>
+     <td class="cell">Triglycerides (mM)e</td>
+     <td class="cell">1.48 (0.79)</td>
+     <td class="cell">1.36 (0.75)</td>
+     <td class="cell">0.01</td>
+     <td class="cell">1.37 (0.60)</td>
+     <td class="cell">1.47 (0.68)</td>
+     <td class="cell">0.02</td>
+     <td class="cell">0.19</td>
+     <td class="cell">0.09</td>
+    </tr>
+    <tr>
+     <td class="cell">Glucose (mM)</td>
+     <td class="cell">5.01 (0.46)</td>
+     <td class="cell">5.06 (0.53)</td>
+     <td class="cell">0.19</td>
+     <td class="cell">5.04 (0.49)</td>
+     <td class="cell">5.11 (0.56)</td>
+     <td class="cell">0.07</td>
+     <td class="cell">0.60</td>
+     <td class="cell">0.48</td>
+    </tr>
+    <tr>
+     <td class="cell">HDL cholesterol (mM)</td>
+     <td class="cell">1.46 (0.42)</td>
+     <td class="cell">1.45 (0.39)</td>
+     <td class="cell">0.44</td>
+     <td class="cell">1.46 (0.42)</td>
+     <td class="cell">1.44 (0.38)</td>
+     <td class="cell">0.45</td>
+     <td class="cell">0.88</td>
+     <td class="cell">0.89</td>
+    </tr>
+    <tr>
+     <td class="cell">Total cholesterol (mM)</td>
+     <td class="cell">5.56 (0.97)</td>
+     <td class="cell">5.47 (1.02)</td>
+     <td class="cell">0.04</td>
+     <td class="cell">5.40 (1.10)</td>
+     <td class="cell">5.45 (1.03)</td>
+     <td class="cell">0.29</td>
+     <td class="cell">0.19</td>
+     <td class="cell">0.87</td>
+    </tr>
+    <tr>
+     <td class="cell">LDL cholesterol (mM)</td>
+     <td class="cell">3.42 (0.81)</td>
+     <td class="cell">3.34 (0.95)</td>
+     <td class="cell">0.15</td>
+     <td class="cell">3.32 (0.93)</td>
+     <td class="cell">3.34 (0.90)</td>
+     <td class="cell">0.56</td>
+     <td class="cell">0.31</td>
+     <td class="cell">0.99</td>
+    </tr>
+    <tr>
+     <td class="cell">Non-HDL cholesterol (mM)</td>
+     <td class="cell">4.10 (0.89)</td>
+     <td class="cell">4.02 (0.96)</td>
+     <td class="cell">0.07</td>
+     <td class="cell">3.94 (1.01)</td>
+     <td class="cell">4.01 (9.33)</td>
+     <td class="cell">0.16</td>
+     <td class="cell">0.17</td>
+     <td class="cell">0.90</td>
+    </tr>
+    <tr>
+     <td class="cell">Remnant cholesterol (mM)e</td>
+     <td class="cell">0.60 (0.30)</td>
+     <td class="cell">0.50 (0.30)</td>
+     <td class="cell">0.003</td>
+     <td class="cell">0.60 (0.40)</td>
+     <td class="cell">0.60 (0.30)</td>
+     <td class="cell">0.06</td>
+     <td class="cell">0.43</td>
+     <td class="cell">0.05</td>
+    </tr>
+    <tr>
+     <td class="cell">Systolic blood pressure (mm Hg)</td>
+     <td class="cell">138.54 (14.05)</td>
+     <td class="cell">133.30 (14.85)</td>
+     <td class="cell">b0.001</td>
+     <td class="cell">138.56 (14.36)</td>
+     <td class="cell">136.32 (16.10)</td>
+     <td class="cell">0.07</td>
+     <td class="cell">0.99</td>
+     <td class="cell">0.09</td>
+    </tr>
+    <tr>
+     <td class="cell">Diastolic blood pressure (mm Hg)</td>
+     <td class="cell">87.21 (9.02)</td>
+     <td class="cell">84.87 (9.19)</td>
+     <td class="cell">0.002</td>
+     <td class="cell">85.99 (8.75)</td>
+     <td class="cell">84.96 (9.01)</td>
+     <td class="cell">0.15</td>
+     <td class="cell">0.26</td>
+     <td class="cell">0.95</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table3/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Coefficient (SE) </th>
+     <th class="cell">⁎ p </th>
+     <th class="cell">Coefficient (SE) </th>
+     <th class="cell">⁎ p </th>
+     <th class="cell">Coefficient (SE) </th>
+     <th class="cell">⁎ p </th>
+    </tr>
+    <tr>
+     <td class="cell">Triglycerides (mM) ^{a}</td>
+     <td class="cell">0.08 (0.05)</td>
+     <td class="cell">0.14</td>
+     <td class="cell">0.07 (0.03)</td>
+     <td class="cell">0.02</td>
+     <td class="cell">− 0.13 (0.04)</td>
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Glucose (mM) ^{b}</td>
+     <td class="cell">− 0.04 (0.06)</td>
+     <td class="cell">0.54</td>
+     <td class="cell">0.06 (0.04)</td>
+     <td class="cell">0.08</td>
+     <td class="cell">− 0.01 (0.05)</td>
+     <td class="cell">0.79</td>
+    </tr>
+    <tr>
+     <td class="cell">HDL chol (mM) ^{b}</td>
+     <td class="cell">0.04 (0.04)</td>
+     <td class="cell">0.33</td>
+     <td class="cell">− 0.01 (0.02)</td>
+     <td class="cell">0.47</td>
+     <td class="cell">− 0.00 (0.02)</td>
+     <td class="cell">0.93</td>
+    </tr>
+    <tr>
+     <td class="cell">Total chol (mM) ^{b}</td>
+     <td class="cell">0.21 (0.12)</td>
+     <td class="cell">0.07</td>
+     <td class="cell">0.06 (0.05)</td>
+     <td class="cell">0.26</td>
+     <td class="cell">− 0.15 (0.07)</td>
+     <td class="cell">0.02</td>
+    </tr>
+    <tr>
+     <td class="cell">LDL chol (mM) ^{b}</td>
+     <td class="cell">0.12 (0.10)</td>
+     <td class="cell">0.24</td>
+     <td class="cell">0.02 (0.04)</td>
+     <td class="cell">0.55</td>
+     <td class="cell">− 0.11 (0.07)</td>
+     <td class="cell">0.13</td>
+    </tr>
+    <tr>
+     <td class="cell">Non-HDL chol (mM) ^{b}</td>
+     <td class="cell">0.17 (0.11)</td>
+     <td class="cell">0.13</td>
+     <td class="cell">0.07 (0.05)</td>
+     <td class="cell">0.14</td>
+     <td class="cell">− 0.15 (0.06)</td>
+     <td class="cell">0.02</td>
+    </tr>
+    <tr>
+     <td class="cell">Remnant chol (mM) ^{a}</td>
+     <td class="cell">0.10 (0.06)</td>
+     <td class="cell">0.10</td>
+     <td class="cell">0.06 (0.03)</td>
+     <td class="cell">0.03</td>
+     <td class="cell">− 0.13 (0.06)</td>
+     <td class="cell">0.03</td>
+    </tr>
+    <tr>
+     <td class="cell">Systolic BP (mm Hg)^{b}</td>
+     <td class="cell">− 0.83 (1.65)</td>
+     <td class="cell">0.62</td>
+     <td class="cell">− 2.19 (1.22)</td>
+     <td class="cell">0.07</td>
+     <td class="cell">− 3.09 (1.64)</td>
+     <td class="cell">0.06</td>
+    </tr>
+    <tr>
+     <td class="cell">Diastolic BP (mm Hg)^{b}</td>
+     <td class="cell">0.52 (1.02)</td>
+     <td class="cell">0.61</td>
+     <td class="cell">− 0.99 (0.71)</td>
+     <td class="cell">0.17</td>
+     <td class="cell">− 1.35 (1.01)</td>
+     <td class="cell">0.18</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table4/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Outcome </th>
+     <th class="cell">Baseline </th>
+     <th class="cell">Post </th>
+     <th class="cell">_{a} p value </th>
+     <th class="cell">Baseline </th>
+     <th class="cell">Post </th>
+     <th class="cell">_{b} p value </th>
+     <th class="cell">c p value </th>
+     <th class="cell">d p value d </th>
+    </tr>
+    <tr>
+     <td class="cell">Waist circumference (cm)</td>
+     <td class="cell">102.67 (13.58)</td>
+     <td class="cell">100.56 (13.84)</td>
+     <td class="cell">b0.001</td>
+     <td class="cell">101.41 (12.93)</td>
+     <td class="cell">100.53 (12.69)</td>
+     <td class="cell">0.02</td>
+     <td class="cell">0.40</td>
+     <td class="cell">0.78</td>
+    </tr>
+    <tr>
+     <td class="cell">Hip (cm)</td>
+     <td class="cell">112.38 (11.99)</td>
+     <td class="cell">111.13 (12.04)</td>
+     <td class="cell">b0.001</td>
+     <td class="cell">111.57 (11.05)</td>
+     <td class="cell">110.57 (10.95)</td>
+     <td class="cell">0.02</td>
+     <td class="cell">0.54</td>
+     <td class="cell">0.67</td>
+    </tr>
+    <tr>
+     <td class="cell">Waist-to-hip ratio (waist/hip)</td>
+     <td class="cell">0.91 (0.08)</td>
+     <td class="cell">0.90 (0.08)</td>
+     <td class="cell">0.002</td>
+     <td class="cell">0.91 (0.08)</td>
+     <td class="cell">0.91 (0.08)</td>
+     <td class="cell">0.82</td>
+     <td class="cell">0.56</td>
+     <td class="cell">0.58</td>
+    </tr>
+    <tr>
+     <td class="cell">Weight (kg) ^{d}</td>
+     <td class="cell">85.20 (22.60)</td>
+     <td class="cell">84.50 (23.70)</td>
+     <td class="cell">b0.001</td>
+     <td class="cell">85.30 (21.90)</td>
+     <td class="cell">86.40 (22.00)</td>
+     <td class="cell">0.12</td>
+     <td class="cell">0.88</td>
+     <td class="cell">0.74</td>
+    </tr>
+    <tr>
+     <td class="cell">BMI (kg/m )^{2} ^{d}</td>
+     <td class="cell">29.55 (6.93)</td>
+     <td class="cell">29.35 (7.00)</td>
+     <td class="cell">b0.001</td>
+     <td class="cell">29.80 (7.05)</td>
+     <td class="cell">29.70 (6.90)</td>
+     <td class="cell">0.10</td>
+     <td class="cell">0.88</td>
+     <td class="cell">0.68</td>
+    </tr>
+    <tr>
+     <td class="cell">Body fat (%)^{d}</td>
+     <td class="cell">40.20 (11.70)</td>
+     <td class="cell">38.70 (11.35)</td>
+     <td class="cell">b0.001</td>
+     <td class="cell">38.80 (12.75)</td>
+     <td class="cell">39.10 (12.80)</td>
+     <td class="cell">0.75</td>
+     <td class="cell">0.60</td>
+     <td class="cell">0.77</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table5" id="table5" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table5/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table5/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Coefficient (SE) </th>
+     <th class="cell">p ^{c} </th>
+     <th class="cell">Coeffcient (SE) </th>
+     <th class="cell">p ^{c} </th>
+     <th class="cell">Coefficient (SE) </th>
+     <th class="cell">p ^{c} </th>
+    </tr>
+    <tr>
+     <td class="cell">Waist circumference (cm) ^{a}</td>
+     <td class="cell">1.16 (1.33)</td>
+     <td class="cell">0.38</td>
+     <td class="cell">− 0.87 (0.38)</td>
+     <td class="cell">0.02</td>
+     <td class="cell">− 1.17 (0.53)</td>
+     <td class="cell">0.03</td>
+    </tr>
+    <tr>
+     <td class="cell">Hip (cm)^{a}</td>
+     <td class="cell">0.66 (1.26)</td>
+     <td class="cell">0.60</td>
+     <td class="cell">− 0.98 (0.42)</td>
+     <td class="cell">0.02</td>
+     <td class="cell">− 0.26 (0.50)</td>
+     <td class="cell">0.60</td>
+    </tr>
+    <tr>
+     <td class="cell">Waist-to-hip ratio (waist/hip) ^{a}</td>
+     <td class="cell">0.01 (0.01)</td>
+     <td class="cell">0.34</td>
+     <td class="cell">0.00 (0.00)</td>
+     <td class="cell">0.82</td>
+     <td class="cell">− 0.01 (0.00)</td>
+     <td class="cell">0.04</td>
+    </tr>
+    <tr>
+     <td class="cell">Weight (kg) ^{b}</td>
+     <td class="cell">0.01 (0.02)</td>
+     <td class="cell">0.69</td>
+     <td class="cell">0.00 (0.00)</td>
+     <td class="cell">0.18</td>
+     <td class="cell">− 0.01 (0.00)</td>
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">BMI (kg/m) ^{b}</td>
+     <td class="cell">0.01 (0.02)</td>
+     <td class="cell">0.57</td>
+     <td class="cell">0.00 (0.00)</td>
+     <td class="cell">0.16</td>
+     <td class="cell">− 0.01 (0.00)</td>
+     <td class="cell">b0.001</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.ypmed.2016.05.012/tables/table5/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

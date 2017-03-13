@@ -1,0 +1,767 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_nyas.13192</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13192/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Aspect of naming </th>
+     <th class="cell">Property of </th>
+     <th class="cell">Modified by </th>
+     <th class="cell">Affects </th>
+     <th class="cell">Potential questions </th>
+     <th class="cell">Potential answers </th>
+    </tr>
+    <tr>
+     <td class="cell">Explicitness</td>
+     <td class="cell">Part, whole</td>
+     <td class="cell">User relevance and</td>
+     <td class="cell">Users</td>
+     <td class="cell">How many interesting</td>
+     <td class="cell">List some or all elements of</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">ease; authority</td>
+     <td class="empty" />
+     <td class="cell">details from lower levels</td>
+     <td class="cell">the set that is being</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">defines standards</td>
+     <td class="empty" />
+     <td class="cell">of content are packed</td>
+     <td class="cell">named</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13192/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13192/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Modes of computing </th>
+     <th class="cell">Storage space navigation </th>
+     <th class="cell">Content data (longer term) </th>
+     <th class="cell">Code changing data </th>
+     <th class="cell">Execution data (shorter term) </th>
+     <th class="cell">Role of names </th>
+     <th class="cell">Bugs related to names </th>
+    </tr>
+    <tr>
+     <td class="cell">Structured</td>
+     <td class="cell">Arrays</td>
+     <td class="cell">Array elements</td>
+     <td class="cell">Code sequences</td>
+     <td class="cell">Starting pointer</td>
+     <td class="cell">Array locations</td>
+     <td class="cell">Pointer bugs</td>
+    </tr>
+    <tr>
+     <td class="cell">Commanding</td>
+     <td class="cell">In its most basic form,</td>
+     <td class="cell">The content of array</td>
+     <td class="cell">Some of the available</td>
+     <td class="cell">Execution of all</td>
+     <td class="cell">Names are human</td>
+     <td class="cell">Variable names</td>
+    </tr>
+    <tr>
+     <td class="cell">Store data and</td>
+     <td class="cell">all content is stored</td>
+     <td class="cell">elements contains</td>
+     <td class="cell">data are changed by</td>
+     <td class="cell">computing starts by</td>
+     <td class="cell">readable labels</td>
+     <td class="cell">pointing to the</td>
+    </tr>
+    <tr>
+     <td class="cell">computing</td>
+     <td class="cell">in a very long array</td>
+     <td class="cell">the data that are</td>
+     <td class="cell">executing sequences</td>
+     <td class="cell">following a pointer</td>
+     <td class="cell">pointing to a</td>
+     <td class="cell">wrong box usually</td>
+    </tr>
+    <tr>
+     <td class="cell">instructions in a</td>
+     <td class="cell">of bits or bytes that is</td>
+     <td class="cell">being processed.</td>
+     <td class="cell">of commands in</td>
+     <td class="cell">to a well-defined</td>
+     <td class="cell">fixed-size box</td>
+     <td class="cell">return the wrong</td>
+    </tr>
+    <tr>
+     <td class="cell">sequence of memory</td>
+     <td class="cell">subdivided in</td>
+     <td class="cell">Variable names can</td>
+     <td class="cell">scripts or functions.</td>
+     <td class="cell">function or script,</td>
+     <td class="cell">position with</td>
+     <td class="cell">content. Function</td>
+    </tr>
+    <tr>
+     <td class="cell">locations, then</td>
+     <td class="cell">various ways.</td>
+     <td class="cell">be seen as more</td>
+     <td class="empty" />
+     <td class="cell">which will point to</td>
+     <td class="cell">content of interest in</td>
+     <td class="cell">names pointing to</td>
+    </tr>
+    <tr>
+     <td class="cell">follow the sequence</td>
+     <td class="empty" />
+     <td class="cell">readable names for</td>
+     <td class="empty" />
+     <td class="cell">the next one, until</td>
+     <td class="cell">storage space. Much</td>
+     <td class="cell">the wrong address</td>
+    </tr>
+    <tr>
+     <td class="cell">of instructions (may</td>
+     <td class="empty" />
+     <td class="cell">memory addresses.</td>
+     <td class="empty" />
+     <td class="cell">the task is completed</td>
+     <td class="cell">work goes into</td>
+     <td class="cell">lead to bugs or</td>
+    </tr>
+    <tr>
+     <td class="cell">include conditions</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(or interrupted).</td>
+     <td class="cell">storing content</td>
+     <td class="cell">security holes. If</td>
+    </tr>
+    <tr>
+     <td class="cell">and loops) and load,</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">exceeding fixed box</td>
+     <td class="cell">content does not fit</td>
+    </tr>
+    <tr>
+     <td class="cell">manipulate, or save</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">sizes.</td>
+     <td class="cell">the allocated box,</td>
+    </tr>
+    <tr>
+     <td class="cell">data accordingly to</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">names become</td>
+    </tr>
+    <tr>
+     <td class="cell">get solutions.</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">misleading and the</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">underlying</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">assumptions of the</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">code are violated.</td>
+    </tr>
+    <tr>
+     <td class="cell">Functional Form</td>
+     <td class="cell">Namespace</td>
+     <td class="cell">Forms</td>
+     <td class="cell">Fills</td>
+     <td class="cell">Starting forms</td>
+     <td class="cell">Abstract roles</td>
+     <td class="cell">Replacing bugs</td>
+    </tr>
+    <tr>
+     <td class="cell">Filling</td>
+     <td class="cell">All possible names for</td>
+     <td class="cell">All content is</td>
+     <td class="cell">Forms are modified by</td>
+     <td class="cell">Filling the initial forms</td>
+     <td class="cell">Names identify</td>
+     <td class="cell">Consequences of too</td>
+    </tr>
+    <tr>
+     <td class="cell">Define the names of all</td>
+     <td class="cell">wildcards and forms</td>
+     <td class="cell">represented as forms</td>
+     <td class="cell">filling the places of</td>
+     <td class="cell">with initial content</td>
+     <td class="cell">patterns in dynamic</td>
+     <td class="cell">many substitutions</td>
+    </tr>
+    <tr>
+     <td class="cell">wildcards (that can</td>
+     <td class="cell">build a namespace</td>
+     <td class="cell">that contain a</td>
+     <td class="cell">wildcards with</td>
+     <td class="cell">triggers the rewriting</td>
+     <td class="cell">content with widely</td>
+     <td class="cell">executed on top of</td>
+    </tr>
+    <tr>
+     <td class="cell">be replaced by</td>
+     <td class="cell">that can be used for</td>
+     <td class="cell">combination of</td>
+     <td class="cell">specified content.</td>
+     <td class="cell">of all other forms in</td>
+     <td class="cell">varying sizes. Thus,</td>
+     <td class="cell">each other can be</td>
+    </tr>
+    <tr>
+     <td class="cell">anything), the</td>
+     <td class="cell">storing anything,</td>
+     <td class="cell">previously filled-in</td>
+     <td class="cell">This can create new</td>
+     <td class="cell">specified order to</td>
+     <td class="cell">costs of using static</td>
+     <td class="cell">unintuitive. Bugs</td>
+    </tr>
+    <tr>
+     <td class="cell">content of all forms,</td>
+     <td class="cell">irrespective of size.</td>
+     <td class="cell">content and</td>
+     <td class="cell">forms to fill.</td>
+     <td class="cell">deliver the last</td>
+     <td class="cell">names or retrieving</td>
+     <td class="cell">occur when the</td>
+    </tr>
+    <tr>
+     <td class="cell">and the inputs to</td>
+     <td class="empty" />
+     <td class="cell">wildcards</td>
+     <td class="empty" />
+     <td class="cell">rewritten form as</td>
+     <td class="cell">content may be</td>
+     <td class="cell">formal definitions</td>
+    </tr>
+    <tr>
+     <td class="cell">replace the</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">output.</td>
+     <td class="cell">unpredictable.</td>
+     <td class="cell">specify unintended</td>
+    </tr>
+    <tr>
+     <td class="cell">wildcards. Execution</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">substitutions.</td>
+    </tr>
+    <tr>
+     <td class="cell">replaces wildcards in</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">forms by filling in</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">specified input in the</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">given order.</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Ontological</td>
+     <td class="cell">Namespace</td>
+     <td class="cell">Term definition</td>
+     <td class="cell">Cross links</td>
+     <td class="cell">Retrieving term</td>
+     <td class="cell">Definitions</td>
+     <td class="cell">Ambiguity bugs</td>
+    </tr>
+    <tr>
+     <td class="cell">Dictionary Defining</td>
+     <td class="cell">All possible character</td>
+     <td class="cell">A term name is</td>
+     <td class="cell">A term defined by</td>
+     <td class="cell">definitions</td>
+     <td class="cell">Names are keys to</td>
+     <td class="cell">Naming errors cause</td>
+    </tr>
+    <tr>
+     <td class="cell">A special variant of</td>
+     <td class="cell">sequences for entries</td>
+     <td class="cell">equivalent to a</td>
+     <td class="cell">other terms that are</td>
+     <td class="cell">Each explicit definition</td>
+     <td class="cell">dictionaries and</td>
+     <td class="cell">two major problems:</td>
+    </tr>
+    <tr>
+     <td class="cell">form filling, where</td>
+     <td class="cell">of the ontology’s</td>
+     <td class="cell">storage address,</td>
+     <td class="cell">defined by still other</td>
+     <td class="cell">computes a full</td>
+     <td class="cell">ontologies. Naming</td>
+     <td class="cell">accidental ambiguity</td>
+    </tr>
+    <tr>
+     <td class="cell">the entries of an</td>
+     <td class="cell">dictionary define its</td>
+     <td class="cell">where the content</td>
+     <td class="cell">terms creates a</td>
+     <td class="cell">execution tree. The</td>
+     <td class="cell">is complicated by the</td>
+     <td class="cell">in use (from typos or</td>
+    </tr>
+    <tr>
+     <td class="cell">ontology are</td>
+     <td class="cell">namespace. A</td>
+     <td class="cell">matter behind the</td>
+     <td class="cell">network of links that</td>
+     <td class="cell">levels of nesting</td>
+     <td class="cell">large shared</td>
+     <td class="cell">sloppy use of terms</td>
+    </tr>
+    <tr>
+     <td class="cell">wildcards, and their</td>
+     <td class="cell">position in space is</td>
+     <td class="cell">name is given by its</td>
+     <td class="cell">defines the code to be</td>
+     <td class="cell">equivalent to</td>
+     <td class="cell">name-spaces, often</td>
+     <td class="cell">in other definitions,</td>
+    </tr>
+    <tr>
+     <td class="cell">definitions are</td>
+     <td class="cell">occupied if a name</td>
+     <td class="cell">definition. If context</td>
+     <td class="cell">executed. Cross links</td>
+     <td class="cell">generalized</td>
+     <td class="cell">with controlled term</td>
+     <td class="cell">resulting in dead</td>
+    </tr>
+    <tr>
+     <td class="cell">forms, possibly using</td>
+     <td class="cell">definition is</td>
+     <td class="cell">dependent, this</td>
+     <td class="cell">easily create parallel</td>
+     <td class="cell">computing depend</td>
+     <td class="cell">lists to minimize</td>
+     <td class="cell">pointers) and a</td>
+    </tr>
+    <tr>
+     <td class="cell">other wildcards.</td>
+     <td class="cell">provided.</td>
+     <td class="cell">houses multiple</td>
+     <td class="cell">and/or recursive</td>
+     <td class="cell">on how many</td>
+     <td class="cell">accidental</td>
+     <td class="cell">mismatch between</td>
+    </tr>
+    <tr>
+     <td class="cell">Computing is</td>
+     <td class="cell">Conditional</td>
+     <td class="cell">definitions, as found</td>
+     <td class="cell">structures that can</td>
+     <td class="cell">definitions are</td>
+     <td class="cell">ambiguities. For</td>
+     <td class="cell">the name and</td>
+    </tr>
+    <tr>
+     <td class="cell">defined as replacing</td>
+     <td class="cell">definitions can</td>
+     <td class="cell">in dictionaries for</td>
+     <td class="cell">make it as difficult as</td>
+     <td class="cell">expanded or</td>
+     <td class="cell">defined ambiguities,</td>
+     <td class="cell">definition used for a</td>
+    </tr>
+    <tr>
+     <td class="cell">all wildcards to get a</td>
+     <td class="cell">provide subspaces</td>
+     <td class="cell">words used in</td>
+     <td class="cell">the halting problem</td>
+     <td class="cell">contracted. Aiming</td>
+     <td class="cell">all conditions for</td>
+     <td class="cell">given term (by</td>
+    </tr>
+    <tr>
+     <td class="cell">fully explicit</td>
+     <td class="cell">for resolving</td>
+     <td class="cell">different contexts.</td>
+     <td class="cell">to know which</td>
+     <td class="cell">to compare similar</td>
+     <td class="cell">resolving the</td>
+     <td class="cell">ignoring key C2B</td>
+    </tr>
+    <tr>
+     <td class="cell">definition for a</td>
+     <td class="cell">ambiguities.</td>
+     <td class="empty" />
+     <td class="cell">definitions are</td>
+     <td class="cell">terms from</td>
+     <td class="cell">ambiguities are</td>
+     <td class="cell">interfaces in users).</td>
+    </tr>
+    <tr>
+     <td class="cell">dictionary entry.</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">circular (leading to</td>
+     <td class="cell">independent</td>
+     <td class="cell">given.</td>
+     <td class="cell">Such naming errors</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">infinite loops).</td>
+     <td class="cell">ontologies of the</td>
+     <td class="empty" />
+     <td class="cell">can result in dead or</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">same area thus easily</td>
+     <td class="empty" />
+     <td class="cell">misguided links,</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">defines data</td>
+     <td class="empty" />
+     <td class="cell">contradictions,</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">structures too</td>
+     <td class="empty" />
+     <td class="cell">unnecessary</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">complex to complete</td>
+     <td class="empty" />
+     <td class="cell">ambiguity, and</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">comparisons.</td>
+     <td class="empty" />
+     <td class="cell">circular definitions</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">that obscure</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">meaning.</td>
+    </tr>
+    <tr>
+     <td class="cell">Logical Solution</td>
+     <td class="cell">Sets</td>
+     <td class="cell">Elements</td>
+     <td class="cell">Query logic</td>
+     <td class="cell">Requirements</td>
+     <td class="cell">Query results</td>
+     <td class="cell">Set content bugs</td>
+    </tr>
+    <tr>
+     <td class="cell">Isolating</td>
+     <td class="cell">Sets can store elements</td>
+     <td class="cell">Elements can be either</td>
+     <td class="cell">Sequences of nested</td>
+     <td class="cell">It is often faster to start</td>
+     <td class="cell">Names identify</td>
+     <td class="cell">Poor name choices</td>
+    </tr>
+    <tr>
+     <td class="cell">Declare the input of all</td>
+     <td class="cell">and subsets. Thus,</td>
+     <td class="cell">basic or composite,</td>
+     <td class="cell">queries that</td>
+     <td class="cell">execution with the</td>
+     <td class="cell">combinations of sets</td>
+     <td class="cell">make it difficult to</td>
+    </tr>
+    <tr>
+     <td class="cell">potential solutions,</td>
+     <td class="cell">the identities of</td>
+     <td class="cell">where the latter</td>
+     <td class="cell">successively narrow</td>
+     <td class="cell">ultimate</td>
+     <td class="cell">and elements</td>
+     <td class="cell">determine the</td>
+    </tr>
+    <tr>
+     <td class="cell">then apply all</td>
+     <td class="cell">existing sets, subsets,</td>
+     <td class="cell">define data in the</td>
+     <td class="cell">down an original</td>
+     <td class="cell">requirements and</td>
+     <td class="cell">directly or indirectly</td>
+     <td class="cell">boundaries of sets</td>
+    </tr>
+    <tr>
+     <td class="cell">relevant constraints</td>
+     <td class="cell">and elements define</td>
+     <td class="cell">form of subsets.</td>
+     <td class="cell">broad set of</td>
+     <td class="cell">proceed by</td>
+     <td class="cell">specified using some</td>
+     <td class="cell">queried; errors occur</td>
+    </tr>
+    <tr>
+     <td class="cell">to distinguish actual</td>
+     <td class="cell">a nested storage</td>
+     <td class="empty" />
+     <td class="cell">solutions until the</td>
+     <td class="cell">evaluating only those</td>
+     <td class="cell">logic formalism;</td>
+     <td class="cell">when elements are</td>
+    </tr>
+    <tr>
+     <td class="cell">solutions from</td>
+     <td class="cell">space.</td>
+     <td class="empty" />
+     <td class="cell">final answers are</td>
+     <td class="cell">needed to meet</td>
+     <td class="cell">great for querying</td>
+     <td class="cell">included that should</td>
+    </tr>
+    <tr>
+     <td class="cell">nonsolutions.</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">isolated.</td>
+     <td class="cell">these. Forward</td>
+     <td class="cell">sets, but not for</td>
+     <td class="cell">be omitted and vice</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">execution often</td>
+     <td class="cell">numerical</td>
+     <td class="cell">versa. Poor naming</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">computes unneeded</td>
+     <td class="cell">computing.</td>
+     <td class="cell">of infix operators</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">details.</td>
+     <td class="empty" />
+     <td class="cell">with perplexing</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">precedence rules can</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">further obscure the</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">content of a set.</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1111_nyas.13192/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

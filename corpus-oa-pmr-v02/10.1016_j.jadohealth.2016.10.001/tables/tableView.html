@@ -1,0 +1,664 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_j.jadohealth.2016.10.001</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Range/category </th>
+     <th class="cell">Mean (SD)/N [%] ^{a} </th>
+     <th class="cell">Mean (SD) </th>
+     <th class="cell">p value </th>
+     <th class="cell">Mean (SD) </th>
+     <th class="cell">p value </th>
+     <th class="cell">Mean (SD) </th>
+     <th class="cell">p value </th>
+    </tr>
+    <tr>
+     <td class="cell">All</td>
+     <td class="empty" />
+     <td class="cell">3,295 [100.0]</td>
+     <td class="cell">6.8 (4.8)</td>
+     <td class="cell">d</td>
+     <td class="cell">11.6 (5.7)</td>
+     <td class="cell">d</td>
+     <td class="cell">10.7 (5.0)</td>
+     <td class="cell">d</td>
+    </tr>
+    <tr>
+     <td class="cell">Adolescent gender</td>
+     <td class="cell">Girl</td>
+     <td class="cell">1,678 [50.9]</td>
+     <td class="cell">7.0 (5.0)</td>
+     <td class="cell">.006 ^{b}</td>
+     <td class="cell">11.7 (5.7)</td>
+     <td class="cell">.313 ^{b}</td>
+     <td class="cell">10.7 (4.9)</td>
+     <td class="cell">.904 ^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Boy</td>
+     <td class="cell">1,617 [49.0]</td>
+     <td class="cell">6.5 (4.6)</td>
+     <td class="empty" />
+     <td class="cell">11.5 (5.7)</td>
+     <td class="empty" />
+     <td class="cell">10.7 (5.1)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent age</td>
+     <td class="cell">10</td>
+     <td class="cell">9 [.3]</td>
+     <td class="cell">5.4 (2.7)</td>
+     <td class="cell">&lt;.001 ^{c}</td>
+     <td class="cell">13.4 (7.5)</td>
+     <td class="cell">.262 ^{c}</td>
+     <td class="cell">15.3 (6.8)</td>
+     <td class="cell">.375 ^{c}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">11</td>
+     <td class="cell">664 [20.2]</td>
+     <td class="cell">5.4 (4.6)</td>
+     <td class="empty" />
+     <td class="cell">11.5 (5.6)</td>
+     <td class="empty" />
+     <td class="cell">10.7 (5.1)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">12</td>
+     <td class="cell">714 [21.7]</td>
+     <td class="cell">6.2 (4.7)</td>
+     <td class="empty" />
+     <td class="cell">11.3 (5.5)</td>
+     <td class="empty" />
+     <td class="cell">10.7 (4.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">13</td>
+     <td class="cell">645 [19.6]</td>
+     <td class="cell">7.0 (4.7)</td>
+     <td class="empty" />
+     <td class="cell">11.7 (5.8)</td>
+     <td class="empty" />
+     <td class="cell">11.0 (5.5)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">14</td>
+     <td class="cell">633 [19.2]</td>
+     <td class="cell">7.5 (4.9)</td>
+     <td class="empty" />
+     <td class="cell">11.7 (5.9)</td>
+     <td class="empty" />
+     <td class="cell">10.6 (4.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">15</td>
+     <td class="cell">630 [19.1]</td>
+     <td class="cell">7.9 (4.8)</td>
+     <td class="empty" />
+     <td class="cell">11.8 (5.8)</td>
+     <td class="empty" />
+     <td class="cell">10.6 (4.7)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Maternal age</td>
+     <td class="cell">&lt;35</td>
+     <td class="cell">306 [9.3]</td>
+     <td class="cell">6.5 (4.5)</td>
+     <td class="cell">.051 ^{c}</td>
+     <td class="cell">12.3 (6.2)</td>
+     <td class="cell">.018 ^{c}</td>
+     <td class="cell">11.0 (5.8)</td>
+     <td class="cell">.689 ^{c}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">35e44</td>
+     <td class="cell">1,682 [51.1]</td>
+     <td class="cell">6.7 (4.8)</td>
+     <td class="empty" />
+     <td class="cell">11.7 (6.0)</td>
+     <td class="empty" />
+     <td class="cell">10.6 (4.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">≥45</td>
+     <td class="cell">1,307 [39.7]</td>
+     <td class="cell">6.9 (4.9)</td>
+     <td class="empty" />
+     <td class="cell">11.3 (5.3)</td>
+     <td class="empty" />
+     <td class="cell">10.8 (5.0)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Paternal age</td>
+     <td class="cell">&lt;35</td>
+     <td class="cell">177 [5.4]</td>
+     <td class="cell">6.4 (4.3)</td>
+     <td class="cell">.020 ^{c}</td>
+     <td class="cell">12.1 (6.0)</td>
+     <td class="cell">.014 ^{c}</td>
+     <td class="cell">10.4 (5.5)</td>
+     <td class="cell">.933 ^{c}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">35e44</td>
+     <td class="cell">1,341 [40.7]</td>
+     <td class="cell">6.6 (4.9)</td>
+     <td class="empty" />
+     <td class="cell">11.8 (6.1)</td>
+     <td class="empty" />
+     <td class="cell">10.7 (5.0)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">≥45</td>
+     <td class="cell">1,777 [53.9]</td>
+     <td class="cell">6.9 (4.8)</td>
+     <td class="empty" />
+     <td class="cell">11.4 (5.4)</td>
+     <td class="empty" />
+     <td class="cell">10.8 (5.0)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Parental marital status</td>
+     <td class="cell">Cohabiting</td>
+     <td class="cell">405 [12.3]</td>
+     <td class="cell">7.3 (4.9)</td>
+     <td class="cell">.070 ^{b}</td>
+     <td class="cell">12.7 (6.2)</td>
+     <td class="cell">.005 ^{b}</td>
+     <td class="cell">11.3 (5.3)</td>
+     <td class="cell">.065 ^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Married</td>
+     <td class="cell">2,890 [87.7]</td>
+     <td class="cell">6.7 (4.8)</td>
+     <td class="empty" />
+     <td class="cell">11.4 (5.6)</td>
+     <td class="empty" />
+     <td class="cell">10.6 (4.9)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Equivalised household</td>
+     <td class="cell">1 (lowest quintile)</td>
+     <td class="cell">765.4 (255.0)</td>
+     <td class="cell">7.3 (5.1)</td>
+     <td class="cell">&lt;.001 ^{c}</td>
+     <td class="cell">12.1 (6.1)</td>
+     <td class="cell">&lt;.001 ^{c}</td>
+     <td class="cell">11.4 (5.4)</td>
+     <td class="cell">.013 ^{c}</td>
+    </tr>
+    <tr>
+     <td class="cell">monthly income (£s)</td>
+     <td class="cell">2</td>
+     <td class="cell">1,119.3 (75.4)</td>
+     <td class="cell">6.9 (4.6)</td>
+     <td class="empty" />
+     <td class="cell">12.1 (6.0)</td>
+     <td class="empty" />
+     <td class="cell">10.6 (5.0)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">3</td>
+     <td class="cell">1,377.9 (79.7)</td>
+     <td class="cell">6.9 (4.7)</td>
+     <td class="empty" />
+     <td class="cell">11.7 (6.1)</td>
+     <td class="empty" />
+     <td class="cell">10.8 (4.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">4</td>
+     <td class="cell">1,728.4 (124.2)</td>
+     <td class="cell">7.0 (5.1)</td>
+     <td class="empty" />
+     <td class="cell">11.6 (5.6)</td>
+     <td class="empty" />
+     <td class="cell">10.4 (4.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">5 (highest quintile)</td>
+     <td class="cell">2,766.4 (1102.9)</td>
+     <td class="cell">6.0 (4.6)</td>
+     <td class="empty" />
+     <td class="cell">10.7 (4.8)</td>
+     <td class="empty" />
+     <td class="cell">10.5 (5.0)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Number of other children</td>
+     <td class="cell">0</td>
+     <td class="cell">1,310 [39.8]</td>
+     <td class="cell">7.2 (4.9)</td>
+     <td class="cell">.050 ^{c}</td>
+     <td class="cell">11.8 (5.7)</td>
+     <td class="cell">.385 ^{c}</td>
+     <td class="cell">10.6 (4.8)</td>
+     <td class="cell">.309 ^{c}</td>
+    </tr>
+    <tr>
+     <td class="cell">in the home</td>
+     <td class="cell">1</td>
+     <td class="cell">1,281 [38.9]</td>
+     <td class="cell">6.3 (4.7)</td>
+     <td class="empty" />
+     <td class="cell">11.3 (5.6)</td>
+     <td class="empty" />
+     <td class="cell">10.9 (5.0)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">2+</td>
+     <td class="cell">704 [21.4]</td>
+     <td class="cell">6.8 (4.7)</td>
+     <td class="empty" />
+     <td class="cell">11.6 (5.9)</td>
+     <td class="empty" />
+     <td class="cell">10.8 (5.3)</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <tr />
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table3/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Dimension of unhappiness </th>
+     <th class="cell">Female adolescent; mean (SD) </th>
+     <th class="cell">Male adolescent; mean (SD) </th>
+     <th class="cell">T-tests for differences </th>
+    </tr>
+    <tr>
+     <td class="cell">School work</td>
+     <td class="cell">2.3 (1.1)</td>
+     <td class="cell">2.6 (1.3)</td>
+     <td class="cell">&lt;.001</td>
+    </tr>
+    <tr>
+     <td class="cell">Appearance</td>
+     <td class="cell">2.8 (1.5)</td>
+     <td class="cell">2.6 (1.3)</td>
+     <td class="cell">&lt;.001</td>
+    </tr>
+    <tr>
+     <td class="cell">Family</td>
+     <td class="cell">1.5 (.9)</td>
+     <td class="cell">1.6 (1.0)</td>
+     <td class="cell">.353</td>
+    </tr>
+    <tr>
+     <td class="cell">Friends</td>
+     <td class="cell">1.6 (1.0)</td>
+     <td class="cell">1.6 (.9)</td>
+     <td class="cell">.601</td>
+    </tr>
+    <tr>
+     <td class="cell">School</td>
+     <td class="cell">2.2 (1.4)</td>
+     <td class="cell">2.3 (1.4)</td>
+     <td class="cell">.097</td>
+    </tr>
+    <tr>
+     <td class="cell">Life in general</td>
+     <td class="cell">2.1 (1.1)</td>
+     <td class="cell">2.0 (1.1)</td>
+     <td class="cell">.013</td>
+    </tr>
+    <tr>
+     <td class="cell">Total</td>
+     <td class="cell">6.6 (4.9)</td>
+     <td class="cell">6.4 (4.6)</td>
+     <td class="cell">.315</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table4/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Outcome (t) </th>
+     <th class="cell">Exposure </th>
+     <th class="cell">Cross-lagged model; coefficient (95% CI) ^{a} </th>
+     <th class="cell">Contemporaneous effects model; coefficient (95% CI) ^{a} </th>
+    </tr>
+    <tr>
+     <td class="cell">Families with female adolescents</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent unhappiness</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.51*** (.44e.58)</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.51*** (.43e.58)</td>
+    </tr>
+    <tr>
+     <td class="cell">unhappiness</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">.06 ^{†}</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.03* (.00e.06)</td>
+     <td class="cell">t</td>
+     <td class="cell">(.00e.12)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">.07 ^{†}</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.04* (.00e.07)</td>
+     <td class="cell">t</td>
+     <td class="cell">(.00e.15)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent unhappiness</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.03 (-.01 to .07)</td>
+     <td class="cell">t</td>
+     <td class="cell">.06 (-.02 to .13)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.49*** (.46e.53)</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.49*** (.45e.52)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.06** (.02e.10)</td>
+     <td class="cell">t</td>
+     <td class="cell">.13** (.03e.22)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent unhappiness</td>
+     <td class="cell">t-1</td>
+     <td class="cell">-.01 (-.06 to .03)</td>
+     <td class="cell">t</td>
+     <td class="cell">-.02 (-.10 to .05)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.04* (.00e.08)</td>
+     <td class="cell">t</td>
+     <td class="cell">.08* (.01e.16)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.46*** (.42e.50)</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.45*** (.41e.49)</td>
+    </tr>
+    <tr>
+     <td class="cell">Families with male adolescents</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent unhappiness</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.62*** (.54e.69)</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.62*** (.54e.69)</td>
+    </tr>
+    <tr>
+     <td class="cell">unhappiness</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.02 (-.01 to .05)</td>
+     <td class="cell">t</td>
+     <td class="cell">.03 (-.01 to .08)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.01 (-.02 to .04)</td>
+     <td class="cell">t</td>
+     <td class="cell">.02 (-.05 to .08)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent unhappiness</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.01 (-.03 to .05)</td>
+     <td class="cell">t</td>
+     <td class="cell">.02 (-.06 to .09)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.58*** (.55e.61)</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.58*** (.55e.61)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.02 (-.02 to .06)</td>
+     <td class="cell">t</td>
+     <td class="cell">.04 (-.04 to .12)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Adolescent unhappiness</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.01 (-.03 to .05)</td>
+     <td class="cell">t</td>
+     <td class="cell">.01 (-.06 to .08)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.04* (.00e.07)</td>
+     <td class="cell">t</td>
+     <td class="cell">.07* (.01e.12)</td>
+    </tr>
+    <tr>
+     <td class="cell">Paternal GHQ-12</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.50*** (.47e.54)</td>
+     <td class="cell">t-1</td>
+     <td class="cell">.50*** (.47e.54)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1016_j.jadohealth.2016.10.001/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

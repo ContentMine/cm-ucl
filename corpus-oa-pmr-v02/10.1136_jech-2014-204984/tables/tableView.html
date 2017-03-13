@@ -1,0 +1,526 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_jech-2014-204984</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_jech-2014-204984/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Accreditation level </th>
+     <th class="cell">Intervention strategy* </th>
+    </tr>
+    <tr>
+     <td class="cell">Level 1</td>
+     <td class="cell">▸ Legislative liquor licencing requirements satisfied in</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">regards to signage, staff training, alcohol-service hours</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">and areas, licensee presence and water provision</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Intoxicated people are not permitted to enter, are not</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">served alcohol and are not permitted to remain in the</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">club</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Alcohol sold at the club is only consumed at the club</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Alcoholic drinks are only served in standard drink</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">measures</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Club maintains a register of alcohol-related incidents</td>
+    </tr>
+    <tr>
+     <td class="cell">Level 2</td>
+     <td class="cell">▸ Level 1, plus:</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Bar servers do not consume alcohol</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Substantial food is provided when alcohol is served</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Non-alcoholic drinks and low-alcoholic drinks are</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">available and are cheaper than full-strength alcoholic</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">drinks</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Club does not serve ‘shots’or double-nips of alcohol or</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">sell ready-to-drink products over 5% alcohol/volume</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Club does not conduct drinking games/promotions that</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">encourage risky alcohol consumption or provide cheap</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">drinks</td>
+    </tr>
+    <tr>
+     <td class="cell">Level 3</td>
+     <td class="cell">▸ Levels 1 and 2, plus:</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Club has some sponsorship that is not from the alcohol</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">industry</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">▸ Club has developed a written alcohol management</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">policy and distributed it to members</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_jech-2014-204984/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_jech-2014-204984/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Characteristic </th>
+     <th class="cell">Control </th>
+     <th class="cell">Intervention </th>
+    </tr>
+    <tr>
+     <td class="cell">(a) Clubs</td>
+     <td class="cell">N=45</td>
+     <td class="cell">N=42*</td>
+    </tr>
+    <tr>
+     <td class="cell">Football code</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Rugby league</td>
+     <td class="cell">33.3%</td>
+     <td class="cell">31%</td>
+    </tr>
+    <tr>
+     <td class="cell">Rugby union</td>
+     <td class="cell">26.7%</td>
+     <td class="cell">33.3%</td>
+    </tr>
+    <tr>
+     <td class="cell">Soccer/association football</td>
+     <td class="cell">24.4%</td>
+     <td class="cell">19%</td>
+    </tr>
+    <tr>
+     <td class="cell">Australian rules football</td>
+     <td class="cell">15.6%</td>
+     <td class="cell">16.7%</td>
+    </tr>
+    <tr>
+     <td class="cell">Geographical region</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Major city</td>
+     <td class="cell">80%</td>
+     <td class="cell">83.3%</td>
+    </tr>
+    <tr>
+     <td class="cell">Inner/outer regional</td>
+     <td class="cell">20%</td>
+     <td class="cell">16.7%</td>
+    </tr>
+    <tr>
+     <td class="cell">Club size</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean number of players (SD)</td>
+     <td class="cell">272 (235)</td>
+     <td class="cell">259 (360)</td>
+    </tr>
+    <tr>
+     <td class="cell">(b) Members who participated in baseline survey</td>
+     <td class="cell">N=700</td>
+     <td class="cell">N=711</td>
+    </tr>
+    <tr>
+     <td class="cell">Club role</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Players</td>
+     <td class="cell">47%</td>
+     <td class="cell">60.1%</td>
+    </tr>
+    <tr>
+     <td class="cell">Spectator/other members</td>
+     <td class="cell">18.3%</td>
+     <td class="cell">13.9%</td>
+    </tr>
+    <tr>
+     <td class="cell">Club committee members</td>
+     <td class="cell">18.3%</td>
+     <td class="cell">12.1%</td>
+    </tr>
+    <tr>
+     <td class="cell">Coaches/umpires/referees</td>
+     <td class="cell">16.5%</td>
+     <td class="cell">13.9%</td>
+    </tr>
+    <tr>
+     <td class="cell">Age of members</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean (SD)</td>
+     <td class="cell">32.7 (12)</td>
+     <td class="cell">36.0 (11.9)</td>
+    </tr>
+    <tr>
+     <td class="cell">Gender</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">87%</td>
+     <td class="cell">77.4%</td>
+    </tr>
+    <tr>
+     <td class="cell">Education</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">University educated</td>
+     <td class="cell">23.2%</td>
+     <td class="cell">21%</td>
+    </tr>
+    <tr>
+     <td class="cell">Income</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">More than AU$52 000</td>
+     <td class="cell">48%</td>
+     <td class="cell">49.3%</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_jech-2014-204984/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_jech-2014-204984/tables/table3/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Control club members </th>
+     <th class="cell">All </th>
+     <th class="cell">Level three clubs‡ </th>
+     <th class="cell">Control club members </th>
+     <th class="cell">All </th>
+     <th class="cell">Level three clubs‡ </th>
+     <th class="cell">Adjusted OR (95% CI)*,† </th>
+     <th class="cell">ICC </th>
+     <th class="cell">Adjusted p-value† </th>
+    </tr>
+    <tr>
+     <td class="cell">Graduated frequency index</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Consumption of 5 or more</td>
+     <td class="cell">175 (25%)</td>
+     <td class="cell">191 (27%)</td>
+     <td class="cell">120 (31%)</td>
+     <td class="cell">138 (24%)</td>
+     <td class="cell">106 (19%)</td>
+     <td class="cell">76 (20%)</td>
+     <td class="cell">0.63 (0.40 to 1.00)</td>
+     <td class="cell">0.18</td>
+     <td class="cell">0.05</td>
+    </tr>
+    <tr>
+     <td class="cell">drinks at least once a</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">month at the club</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Overall AUDIT</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Median (min, max)</td>
+     <td class="cell">7 (0, 26)</td>
+     <td class="cell">8 (0, 28)</td>
+     <td class="cell">8 (0, 28)</td>
+     <td class="cell">7 (0, 25)</td>
+     <td class="cell">6 (0, 26)</td>
+     <td class="cell">6 (0, 26)</td>
+     <td class="cell">–</td>
+     <td class="cell">0.15</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Score ≥8</td>
+     <td class="cell">330 (46%)</td>
+     <td class="cell">374 (54%)</td>
+     <td class="cell">213 (56%)</td>
+     <td class="cell">259 (45%)</td>
+     <td class="cell">218 (38%)</td>
+     <td class="cell">132 (35%)</td>
+     <td class="cell">0.58 (0.38 to 0.87)</td>
+     <td class="cell">0.17</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">AUDIT subscales</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Alcohol consumption</td>
+     <td class="cell">402 (57%)</td>
+     <td class="cell">429 (61%)</td>
+     <td class="cell">240 (63%)</td>
+     <td class="cell">314 (55%)</td>
+     <td class="cell">265 (47%)</td>
+     <td class="cell">167 (45%)</td>
+     <td class="cell">0.60 (0.41 to 0.87)</td>
+     <td class="cell">0.13</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">subscale (score ≥6)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Alcohol dependence</td>
+     <td class="cell">19 (3%)</td>
+     <td class="cell">25 (4%)</td>
+     <td class="cell">12 (3%)</td>
+     <td class="cell">22 (4%)</td>
+     <td class="cell">6 (1%)</td>
+     <td class="cell">5 (1%)</td>
+     <td class="cell">0.20 (0.06 to 0.65)</td>
+     <td class="cell">0.12</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">subscale (score ≥4)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Alcohol-related problems</td>
+     <td class="cell">340 (48%)</td>
+     <td class="cell">378 (54%)</td>
+     <td class="cell">214 (56%)</td>
+     <td class="cell">259 (45%)</td>
+     <td class="cell">234 (41%)</td>
+     <td class="cell">142 (38%)</td>
+     <td class="cell">0.67 (0.43 to 1.03)</td>
+     <td class="cell">0.12</td>
+     <td class="cell">0.07</td>
+    </tr>
+    <tr>
+     <td class="cell">subscale (score ≥1)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_jech-2014-204984/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

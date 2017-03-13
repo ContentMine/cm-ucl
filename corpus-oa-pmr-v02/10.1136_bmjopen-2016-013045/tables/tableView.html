@@ -1,0 +1,488 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_bmjopen-2016-013045</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Percentages are of group total unless specified </th>
+     <th class="cell">Control group (%) </th>
+     <th class="cell">Intervention group (%) </th>
+    </tr>
+    <tr>
+     <td class="cell">Gender</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">31/101 (30.69)</td>
+     <td class="cell">29/99 (29.29)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">70/101 (69.31)</td>
+     <td class="cell">70/99 (70.71)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean (SD)</td>
+     <td class="cell">20.60 (2.39)</td>
+     <td class="cell">20.39 (2.42)</td>
+    </tr>
+    <tr>
+     <td class="cell">16–19 years</td>
+     <td class="cell">33/101 (32.67)</td>
+     <td class="cell">36/99 (36.36)</td>
+    </tr>
+    <tr>
+     <td class="cell">20–24 years</td>
+     <td class="cell">68/101 (67.33)</td>
+     <td class="cell">63/99 (63.64)</td>
+    </tr>
+    <tr>
+     <td class="cell">Ethnicity</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">White</td>
+     <td class="cell">55/101 (54.46)</td>
+     <td class="cell">59/99 (59.60)</td>
+    </tr>
+    <tr>
+     <td class="cell">Black</td>
+     <td class="cell">32/101 (31.68)</td>
+     <td class="cell">21/99 (21.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">Asian</td>
+     <td class="cell">0/101 (0.0)</td>
+     <td class="cell">2/99 (2.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">Chinese</td>
+     <td class="cell">0/101 (0.0)</td>
+     <td class="cell">0/99 (0.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">Other</td>
+     <td class="cell">14/101 (13.86)</td>
+     <td class="cell">17/99 (17.17)</td>
+    </tr>
+    <tr>
+     <td class="cell">Refused/missing</td>
+     <td class="cell">0/101 (0.0)</td>
+     <td class="cell">0/99 (0.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">Sexual orientation</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Heterosexual</td>
+     <td class="cell">83/101 (82.18)</td>
+     <td class="cell">88/99 (88.89)</td>
+    </tr>
+    <tr>
+     <td class="cell">Gay or lesbian</td>
+     <td class="cell">5/101 (4.95)</td>
+     <td class="cell">3/99 (3.03)</td>
+    </tr>
+    <tr>
+     <td class="cell">Bisexual</td>
+     <td class="cell">10/101 (9.90)</td>
+     <td class="cell">5/99 (5.05)</td>
+    </tr>
+    <tr>
+     <td class="cell">Refused/missing</td>
+     <td class="cell">3/101 (2.97)</td>
+     <td class="cell">3/99 (3.03)</td>
+    </tr>
+    <tr>
+     <td class="cell">STI infection at baseline</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No infection</td>
+     <td class="cell">53/101 (52.48)</td>
+     <td class="cell">58/99 (58.59)</td>
+    </tr>
+    <tr>
+     <td class="cell">Chlamydia-positive</td>
+     <td class="cell">42/101 (41.58)</td>
+     <td class="cell">35/99 (35.35)</td>
+    </tr>
+    <tr>
+     <td class="cell">Gonorrhoea/NSU</td>
+     <td class="cell">5/101 (4.95)</td>
+     <td class="cell">5/99 (5.05)</td>
+    </tr>
+    <tr>
+     <td class="cell">Chlamydia/gonorrhoea/</td>
+     <td class="cell">1/101 (0.99)</td>
+     <td class="cell">1/99 (1.01)</td>
+    </tr>
+    <tr>
+     <td class="cell">NSU diagnosis</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Sexual behaviour</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Condom use at last sex</td>
+     <td class="cell">35/101 (34.65)</td>
+     <td class="cell">32/99 (32.32)</td>
+    </tr>
+    <tr>
+     <td class="cell">Condom use at last sex</td>
+     <td class="cell">52/101 (51.49)</td>
+     <td class="cell">48/99 (48.48)</td>
+    </tr>
+    <tr>
+     <td class="cell">with someone new</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Testing prior to last sex</td>
+     <td class="cell">37/101 (36.63)</td>
+     <td class="cell">32/99 (32.32)</td>
+    </tr>
+    <tr>
+     <td class="cell">with someone new</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Partner testing at last</td>
+     <td class="cell">12/101 (11.88)</td>
+     <td class="cell">11/99 (11.11)</td>
+    </tr>
+    <tr>
+     <td class="cell">sex with someone new*</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Number of sexual partners in last 12 months</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">0</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">0/101 (0.0)</td>
+     <td class="empty" />
+     <td class="cell">0/99 (0.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">1</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9/101 (8.91)</td>
+     <td class="empty" />
+     <td class="cell">6/99 (6.06)</td>
+    </tr>
+    <tr>
+     <td class="cell">2+</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">92/101 (91.09)</td>
+     <td class="empty" />
+     <td class="cell">93/99 (93.94)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table2/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Follow-up </th>
+     <th class="cell">Control group n/N (%) </th>
+     <th class="cell">Intervention group n/N (%) </th>
+     <th class="cell">Follow-up n/N (%, 95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">12-month follow-up for cumulative incidence</td>
+     <td class="cell">82/101 (81.19)</td>
+     <td class="cell">80/99 (80.81)</td>
+     <td class="cell">162/200 (81.0, 74.86 to 86.19)</td>
+    </tr>
+    <tr>
+     <td class="cell">of chlamydia (trial test kits+clinic data)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">12-month follow-up for trial test kits</td>
+     <td class="cell">80/101 (79.21)</td>
+     <td class="cell">80/99 (80.81)</td>
+     <td class="cell">160/200 (80.0, 73.78 to 85.31)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table3/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Month 1 n/N (%) </th>
+     <th class="cell">Month 12 n/N (%) </th>
+    </tr>
+    <tr>
+     <td class="cell">Number of text messages read</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">All</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">73/89 (82.02)</td>
+     <td class="cell">57/77 (74.03)</td>
+    </tr>
+    <tr>
+     <td class="cell">Some</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">10/89 (11.24)</td>
+     <td class="cell">18/77 (23.38)</td>
+    </tr>
+    <tr>
+     <td class="cell">None</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6/89 (6.74)</td>
+     <td class="cell">2/77 (2.60)</td>
+    </tr>
+    <tr>
+     <td class="cell">If anyone read messages</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">24/92 (26.09)</td>
+     <td class="cell">19/80 (23.75)</td>
+    </tr>
+    <tr>
+     <td class="cell">sent to the participant</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">If yes, how the participant felt about this</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Happy</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7/24 (29.17)</td>
+     <td class="cell">8/19 (42.11)</td>
+    </tr>
+    <tr>
+     <td class="cell">Unhappy</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2/24 (8.33)</td>
+     <td class="cell">2/19 (10.53)</td>
+    </tr>
+    <tr>
+     <td class="cell">OK</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">15/24 (62.50)</td>
+     <td class="cell">9/19 (47.37)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table4/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Agree n/N (%) </th>
+     <th class="cell">Unsure n/N (%) </th>
+     <th class="cell">Disagree n/N (%) </th>
+    </tr>
+    <tr>
+     <td class="cell">The text messages made me take action</td>
+     <td class="cell">32/85 (37.65)</td>
+     <td class="cell">32/85 (37.65)</td>
+     <td class="cell">21/85 (24.71)</td>
+    </tr>
+    <tr>
+     <td class="cell">The text messages made me think</td>
+     <td class="cell">71/86 (82.56)</td>
+     <td class="cell">7/86 (8.14)</td>
+     <td class="cell">8/86 (9.30)</td>
+    </tr>
+    <tr>
+     <td class="cell">The text messages were from someone I could trust</td>
+     <td class="cell">57/86 (66.28)</td>
+     <td class="cell">21/86 (24.42)</td>
+     <td class="cell">8/86 (9.30)</td>
+    </tr>
+    <tr>
+     <td class="cell">The text messages were respectful</td>
+     <td class="cell">76/86 (88.37)</td>
+     <td class="cell">8/86 (9.30)</td>
+     <td class="cell">2/86 (2.33)</td>
+    </tr>
+    <tr>
+     <td class="cell">The text messages talked down to me</td>
+     <td class="cell">11/85 (12.94)</td>
+     <td class="cell">15/85 (17.65)</td>
+     <td class="cell">59/85 (69.41)</td>
+    </tr>
+    <tr>
+     <td class="cell">The text messages were easy to understand</td>
+     <td class="cell">81/85 (95.29)</td>
+     <td class="cell">3/85 (3.53)</td>
+     <td class="cell">1/85 (1.18)</td>
+    </tr>
+    <tr>
+     <td class="cell">There were too few text messages each day</td>
+     <td class="cell">17/85 (20.0)</td>
+     <td class="cell">18/85 (21.18)</td>
+     <td class="cell">50/85 (58.82)</td>
+    </tr>
+    <tr>
+     <td class="cell">There were too many text messages each day</td>
+     <td class="cell">20/85 (23.53)</td>
+     <td class="cell">17/85 (20.0)</td>
+     <td class="cell">48/85 (56.47)</td>
+    </tr>
+    <tr>
+     <td class="cell">I would have liked the text messages to stop sooner</td>
+     <td class="cell">12/86 (13.95)</td>
+     <td class="cell">25/86 (29.07)</td>
+     <td class="cell">49/86 (56.98)</td>
+    </tr>
+    <tr>
+     <td class="cell">The text messages came at the right time of day</td>
+     <td class="cell">56/86 (65.12)</td>
+     <td class="cell">21/86 (24.42)</td>
+     <td class="cell">9/86 (10.47)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1136_bmjopen-2016-013045/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

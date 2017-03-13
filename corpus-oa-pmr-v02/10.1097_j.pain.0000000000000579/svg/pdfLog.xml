@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="DDGBCP+AdvHelvNeu-MedEx"
+        family="AdvHelvNeu-MedEx" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DDGBCP+AdvHelvNeu-MedEx"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBFA+AdvPSHN-H" family="AdvPSHN-H"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBFA+AdvPSHN-H"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBGA+AdvHelN-L" family="AdvHelN-L"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="DDGBGA+AdvHelN-L" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DDGBGB+AdvPS810E" family="AdvPS810E"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBGB+AdvPS810E"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBGC+AdvPSHN-M" family="AdvPSHN-M"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBGC+AdvPSHN-M"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBHD+AdvHelN-LI" family="AdvHelN-LI"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBHD+AdvHelN-LI"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBIE+AdvOT945f1ecc.I"
+        family="AdvOT945f1ecc.I" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DDGBIE+AdvOT945f1ecc.I"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBKE+AdvPSA189" family="AdvPSA189"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBKE+AdvPSA189"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBKF+AdvHelNeu-BC"
+        family="AdvHelNeu-BC" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DDGBKF+AdvHelNeu-BC" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DDGBKG+AdvPS7DED" family="AdvPS7DED"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBKG+AdvPS7DED"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBKH+AdvHelNeu-LC"
+        family="AdvHelNeu-LC" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DDGBKH+AdvHelNeu-LC" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DDGBKI+AdvPS586B" family="AdvPS586B"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBKI+AdvPS586B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBKJ+AdvTT2876772e+20"
+        family="AdvTT2876772e+20" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="DDGBKJ+AdvTT2876772e+20"
+        bold="false" italic="false" symbol="true"/>
+        <font name="DDGBLJ+AdvOTd1f5cc91.B"
+        family="AdvOTd1f5cc91.B" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DDGBLJ+AdvOTd1f5cc91.B"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBMK+AdvPSHN-MI" family="AdvPSHN-MI"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGBMK+AdvPSHN-MI"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGBML+AdvOT463cc31e"
+        family="AdvOT463cc31e" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="DDGBML+AdvOT463cc31e" bold="false"
+        italic="false" symbol="false"/>
+        <font name="DDGCFJ+AdvPS7DA6" family="AdvPS7DA6"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGCFJ+AdvPS7DA6"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGNDH+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="DDGNDH+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="DDGNDI+AdvP4C4E51" family="AdvP4C4E51"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGNDI+AdvP4C4E51"
+        bold="false" italic="false" symbol="false"/>
+        <font name="DDGODD+AdvPS3D56D5" family="AdvPS3D56D5"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="DDGODD+AdvPS3D56D5"
+        bold="false" italic="false" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1097_j.pain.0000000000000579/fulltext.pdf"
+    pageCount="12">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6">
+            <character font="DDGBKI+AdvPS586B"
+            family="AdvPS586B" name="two"
+            code="50">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="DDGBKI+AdvPS586B"
+            family="AdvPS586B" name="two"
+            code="50">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="7">
+            <character font="DDGBKI+AdvPS586B"
+            family="AdvPS586B" name="two"
+            code="50">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+            <character font="DDGBKI+AdvPS586B"
+            family="AdvPS586B" name="two"
+            code="50">
+                <path stroke="black" fill="none"
+                d="" stroke-width="0.005"
+                xmlns="http://www.w3.org/2000/svg"/>
+            </character>
+        </page>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+        <page num="11"/>
+        <page num="12"/>
+    </pdf>
+</pdfLog>

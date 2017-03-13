@@ -1,0 +1,190 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1186_1471-2431-13-190</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.png" />
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2431-13-190/tables/table1/table.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">VAS (n = 137) </th>
+     <th class="cell">Placebo (n = 137) </th>
+     <th class="cell">P value or PR (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">At enrolment</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Age (days)</td>
+     <td class="cell">200 (183–294) n = 137</td>
+     <td class="cell">198 (183–301) n = 137</td>
+     <td class="cell">0.93</td>
+    </tr>
+    <tr>
+     <td class="cell">Weight (kg)</td>
+     <td class="cell">7.1 (6.1-8.7) n = 88</td>
+     <td class="cell">7.5 (5.9-8.8) n = 79</td>
+     <td class="cell">0.35</td>
+    </tr>
+    <tr>
+     <td class="cell">MUAC (mm)</td>
+     <td class="cell">144 (126–160) n = 86</td>
+     <td class="cell">144 (130–166) n = 80</td>
+     <td class="cell">0.99</td>
+    </tr>
+    <tr>
+     <td class="cell">Breastfeeding</td>
+     <td class="cell">86/94 (91%)</td>
+     <td class="cell">80/90 (89%)</td>
+     <td class="cell">0.55</td>
+    </tr>
+    <tr>
+     <td class="cell">DTP3 vaccinated</td>
+     <td class="cell">84/137 (61%)</td>
+     <td class="cell">95/137 (69%)</td>
+     <td class="cell">0.16</td>
+    </tr>
+    <tr>
+     <td class="cell">At follow up</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Age (years)</td>
+     <td class="cell">7.4 (7.0-7.7) n = 137</td>
+     <td class="cell">7.4 (7.0-7.7) n = 137</td>
+     <td class="cell">0.72</td>
+    </tr>
+    <tr>
+     <td class="cell">Weight (kg)</td>
+     <td class="cell">20.0 (17.0-24.0) n = 136</td>
+     <td class="cell">20.5 (17.0-23.5) n = 137</td>
+     <td class="cell">0.78</td>
+    </tr>
+    <tr>
+     <td class="cell">Height (cm)</td>
+     <td class="cell">119 (112–126) n = 137</td>
+     <td class="cell">118 (111–125) n = 137</td>
+     <td class="cell">0.46</td>
+    </tr>
+    <tr>
+     <td class="cell">MUAC (mm)</td>
+     <td class="cell">166 (150–184) n = 137</td>
+     <td class="cell">166 (152–180) n = 137</td>
+     <td class="cell">0.77</td>
+    </tr>
+    <tr>
+     <td class="cell">BCG scar</td>
+     <td class="cell">105/132 (80%)</td>
+     <td class="cell">110/131 (84%)</td>
+     <td class="cell">0.35</td>
+    </tr>
+    <tr>
+     <td class="cell">Pig at the house</td>
+     <td class="cell">43/134 (32%)</td>
+     <td class="cell">47/133 (35%)</td>
+     <td class="cell">0.57</td>
+    </tr>
+    <tr>
+     <td class="cell">Atopy in all children (n = 263)</td>
+     <td class="cell">22/131 (17%)</td>
+     <td class="cell">18/132 (14%)</td>
+     <td class="cell">1.23 (0.69-2.18)</td>
+    </tr>
+    <tr>
+     <td class="cell">Atopy stratified by sex</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Boys (n = 135)</td>
+     <td class="cell">11/67 (16%)</td>
+     <td class="cell">7/68 (10%)</td>
+     <td class="cell">1.60 (0.66-3.90)</td>
+    </tr>
+    <tr>
+     <td class="cell">Girls (n = 128)</td>
+     <td class="cell">11/64 (17%)</td>
+     <td class="cell">11/64 (17%)</td>
+     <td class="cell">1.00 (0.46-2.15)</td>
+    </tr>
+   </table>
+   <p>../../cm-ucl/corpus-oa-pmr-v02/10.1186_1471-2431-13-190/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

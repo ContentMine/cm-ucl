@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="EEBLNM+AdvGulliv-R" family="AdvGulliv-R"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEBLNM+AdvGulliv-R" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EEBLNN+AdvPSMP13" family="AdvPSMP13"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EEBLNN+AdvPSMP13"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EEBLPO+AdvCORRESAST"
+        family="AdvCORRESAST" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="EEBLPO+AdvCORRESAST" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EEBMAO+AdvGulliv-I" family="AdvGulliv-I"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEBMAO+AdvGulliv-I" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EEBMAP+AdvGulliv-F" family="AdvGulliv-F"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEBMAP+AdvGulliv-F" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EEBMBA+AdvPSSym" family="AdvPSSym"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEBMBA+AdvPSSym" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EEBMBB+AdvGulliv-B" family="AdvGulliv-B"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEBMBB+AdvGulliv-B" bold="true"
+        italic="false" symbol="true"/>
+        <font name="EEBMHA+AdvPSUnv" family="AdvPSUnv"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EEBMHA+AdvPSUnv"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EEBMKA+AdvP4C4E74" family="AdvP4C4E74"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEBMKA+AdvP4C4E74" bold="false"
+        italic="false" symbol="true"/>
+        <font name="EEBMKB+AdvPSMP10" family="AdvPSMP10"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="EEBMKB+AdvPSMP10"
+        bold="false" italic="false" symbol="false"/>
+        <font name="EEDFNM+AdvMTSY" family="AdvMTSY"
+        type="Font" encoding="DictionaryEncoding"
+        fontencoding="DictionaryEncoding"
+        basefont="EEDFNM+AdvMTSY" bold="false"
+        italic="false" symbol="true"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1016_j.pain.2014.08.023/fulltext.pdf"
+    pageCount="10">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+        <page num="9"/>
+        <page num="10"/>
+    </pdf>
+</pdfLog>

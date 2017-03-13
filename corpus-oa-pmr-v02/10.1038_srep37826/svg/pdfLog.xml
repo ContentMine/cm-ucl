@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfLog glyphs="true">
+    <fontList>
+        <font name="UJRZPA+Corbel" family="Corbel"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="UJRZPA+Corbel"
+        bold="false" italic="false" symbol="false"/>
+        <font name="SGSNNE+Corbel-Bold" family="Corbel-Bold"
+        type="Font" encoding="WinAnsiEncoding"
+        fontencoding="WinAnsiEncoding" basefont="SGSNNE+Corbel-Bold"
+        bold="false" italic="false" symbol="false"/>
+        <font name="XQFRFU+Corbel" family="Corbel"
+        type="Font" encoding="null" fontencoding="null"
+        basefont="XQFRFU+Corbel" bold="false"
+        italic="false" symbol="true"/>
+        <font name="ZTZZCQ+Corbel-Bold" family="Corbel-Bold"
+        type="Font" encoding="null" fontencoding="null"
+        basefont="ZTZZCQ+Corbel-Bold" bold="false"
+        italic="false" symbol="true"/>
+        <font name="BMULEM+EuclidSymbol-Bold"
+        family="EuclidSymbol-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="BMULEM+EuclidSymbol-Bold"
+        bold="false" italic="false" symbol="true"/>
+        <font name="ANKFQO+Corbel-BoldItalic"
+        family="Corbel-BoldItalic" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="ANKFQO+Corbel-BoldItalic"
+        bold="false" italic="true" symbol="false"/>
+        <font name="ZJVUCQ+MinionPro-Regular"
+        family="MinionPro-Regular" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="ZJVUCQ+MinionPro-Regular"
+        bold="false" italic="false" symbol="false"/>
+        <font name="RXUYUG+EuclidSymbol"
+        family="EuclidSymbol" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="RXUYUG+EuclidSymbol" bold="false"
+        italic="false" symbol="true"/>
+        <font name="PUVMSK+MinionPro-It"
+        family="MinionPro-It" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="PUVMSK+MinionPro-It" bold="false"
+        italic="true" symbol="false"/>
+        <font name="KKIIAU+MinionPro-Bold"
+        family="MinionPro-Bold" type="Font"
+        encoding="DictionaryEncoding" fontencoding="DictionaryEncoding"
+        basefont="KKIIAU+MinionPro-Bold"
+        bold="false" italic="false" symbol="false"/>
+        <font name="FAVEIE+MinionPro-BoldIt"
+        family="MinionPro-BoldIt" type="Font"
+        encoding="WinAnsiEncoding" fontencoding="WinAnsiEncoding"
+        basefont="FAVEIE+MinionPro-BoldIt"
+        bold="false" italic="true" symbol="false"/>
+    </fontList>
+    <pdf filename="/Users/pm286/workspace/cmdev/svg2xml/../../cm-ucl/corpus-oa/10.1038_srep37826/fulltext.pdf"
+    pageCount="8">
+        <page num="1"/>
+        <page num="2"/>
+        <page num="3"/>
+        <page num="4"/>
+        <page num="5"/>
+        <page num="6"/>
+        <page num="7"/>
+        <page num="8"/>
+    </pdf>
+</pdfLog>
