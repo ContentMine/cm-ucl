@@ -1,0 +1,24 @@
+"Variable ","Mask arm (% and 95% CI) ","Control arm (% and 95% CI) "
+Index case (number),123,122
+Gender (male),56/123,45/122
+"",45.5% (37.0% to 54.3%),36.9% (28.8% to 45.7%)
+Age (mean),40.2 (37.6 to 42.8),39.7 (37.3 to 42.0)
+Education (undergraduate/postgraduate),78/123,74/122
+"",63.4% (54.6% to 71.4%),60.7% (51.8% to 68.9%)
+Smoker (current/ex),29/123,26/122
+"",23.6% (16.9% to 31.8%),21.3% (15.0% to 29.4%)
+Pre-existing illness*,21/123,16/122
+"",17.1% (16.2% to 31.0%),13.1% (8.2% to 20.2%)
+Influenza vaccination (yes),5/123,5/122
+"",4.1% (1.7% to 9.2%),4.1% (1.8% to 9.2%)
+Hand washing (most/all times),98/123,109/122
+"",79.7% (71.7% to 85.8%),89.3% (82.6% to 93.7%)
+Average hour of home stay†,16.6 (15.9 to 17.3),16.6 (15.9 to 17.3)
+Average hour mask wearing†,4.4 (3.9 to 4.9),1.4 (0.9 to 1.8)
+Household (members),302,295
+Number of household per arm,2.5,2.4
+Gender (male),149/302,168/295
+"",49.3% (43.4% to 24.6%),56.9% (51.6% to 62.9%)
+Influenza vaccination (yes)‡,22/298,30/285
+"",7.4% (4.9% to 10.9%),10.5% (7.1% to 14.6%)
+Age (mean),38.3 (36.0 to 40.5),36.4 (34.1 to 38.8)

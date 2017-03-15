@@ -1,0 +1,13 @@
+"Antibody ","Species ","Catalogue number ","Dilution ","Source "
+CTb,Goat,703,1:5000,List biological
+CTb,Mouse,ab35988,1:5000,Abcam
+VGLUT2,Goat,,1:500,M. Watanabe
+VGLUT2,Rabbit,135 402,1:5000,Synaptic
+"",,,,systems
+CGRP,Guinea,T-5027,"1:10,000",Bachem
+"",pig,,,
+Substance,Rat,OBT06435,1:200,Oxford biotech
+P,,,,
+NK1r,Rabbit,S8305,"1:10,000",Sigma Aldrich
+Fluorogold,Guinea,NM101,1:500,Protos biotech
+"",pig,,,

@@ -1,0 +1,29 @@
+"Symptom ","Baseline differences ","Week 14 "
+Change in energy,0.66,0.84
+Skin irritation,0.13,0.69
+Feel colder,0.01^{a},0.48
+Feeling hotter,0.08,0.14
+Feel dizzy,0.19,0.54
+Sweating,0.53,0.44
+Blurred vision,0.26,0.46
+Nauseous,0.63,0.87
+Heart rate increased,0.89,0.86
+Dry mouth,0.34,0.78
+Stomach pains,0.66,0.58
+Eye pains,0.50,0.81
+Ear pains,0.32,0.60
+Change in bowel patterns,0.90,0.62
+Bruising,0.12,0.69
+Change in breathing,0.73,0.40
+Change in hunger,0.34,0.94
+Change in thirst,0.71,0.38
+Constipation,0.62,0.60
+Urination,0.37,0.23
+Fatigue,0.44,0.86
+Stress,1.00,0.44
+Anxiety,0.83,0.22
+Mood,0.08,0.06
+Memory,0.90,0.56
+Attention,0.73,0.68
+Sleep patterns,0.07,1.00
+Tremors,0.13,0.06^{b}

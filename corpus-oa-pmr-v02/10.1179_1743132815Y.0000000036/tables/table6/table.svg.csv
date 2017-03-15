@@ -1,0 +1,34 @@
+"",,"Normal/some n (%) ","Moderate n (%) ","Major n (%) ","Total n (%) ","P "
+DMD use,Yes,674 (61.6)*,355 (32.4),"66 (6.0)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",1095 (100),v0.001
+"",No,"557 (49.2)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",410 (36.2),166 (14.7)*,1133 (100),
+"",Total,1231 (55.3),765 (34.3),232 (10.4),2228 (100),
+Polypharmacy,Yes,"107 (31.6)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",165 (48.7)*,67 (19.8)*,339 (100%),v0.001
+"",No,1160 (59.2)*,"628 (32.0)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+","173 (8.8)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",1961 (100%),
+"",Total,1267 (55.1),793 (34.5),240 (10.4),2300 (100),
+Polypharmacy among,Yes,"48 (41.4) char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",56 (48.3)*,12 (10.3)*,116 (100.0),v0.001
+subsample with DMD use,,,,,,
+"",No,393 (64.3)*,"185 (30.3) char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+","33 (5.4) char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",611 (100.0),
+"",Total,441 (60.7),241 (33.1),45 (6.2),727 (100.0),
+Polypharmacy among,Yes,"38 (24.7)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",70 (45.5)*,46 (29.9)*,154 (100.0),v0.001
+subsample without DMD use,,,,,,
+"",No,519 (53.0)*,"340 (34.7%)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+","120 (12.3%)❾
+  char: 123; name: braceleft; f: AdvPi1; fn: KOMMNO+AdvPi1; e: WinAnsi
+",979 (100.0),
+"",Total,557 (49.2),410 (36.2),166 (14.7),1133 (100.0),

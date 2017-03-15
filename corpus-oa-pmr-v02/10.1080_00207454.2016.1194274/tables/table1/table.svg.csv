@@ -1,0 +1,51 @@
+"Variable ","All patients ","Placebo group "
+n treated,86,43
+Age (y),,
+Mean (SD),62.4 (8.7),62.7 (9.1)
+Range,37–79,43–79
+"Sex, n (%)",,
+Male,57 (66),32 (74)
+Female,29 (34),11 (26)
+"Race, n (%)",,
+White,83 (97),42 (98)
+Asian,2 (2),1 (2)
+Other,1 (1),0
+"Country, n (%)",,
+US,64 (74),32 (74)
+Italy,10 (12),5 (12)
+Serbia,8 (9),4 (9)
+Great Britain,4 (5),2 (5)
+"Modified H&Y stage , n (%)^{a}",,
+1.5,3 (4),2 (5)
+2,50 (58),24 (56)
+2.5,20 (23),11 (26)
+3,13 (15),6 (14)
+"UPDRS Part III score, mean (SD)",,
+OFF state,35.8 (12.0),36.2 (12.1)
+ON state,17.5 (9.0),18.9 (9.8)
+Time since PD diagnosis (mon),,
+Mean (SD),113 (47),117 (48)
+Range,38–255,41–255
+Time since emergence of fluctuations (mon),,
+Mean (SD),51 (43),46 (40)
+Range,0–254,0–150
+OFF time (h/d)^{b},,
+Mean (SD),5.7 (1.8),5.8 (1.5)
+Range,2.6–10.3,2.6–9.2
+Number of daily OFF episodes ^{c},,
+Mean (SD),3.6 (1.1),3.7 (1.0)
+Range,1.0–7.0,1.7–6.0
+Duration of LD treatment (mon),,
+Mean (SD),93 (46)^{d},95 (48)^{e}
+Range,15–254^{d},15–243^{e}
+Number of daily LD doses,,
+Mean (SD),5.9 (1.9),6.1 (2.2)
+Range,4–15,4–15
+LD daily dosage (mg/d),,
+Mean (SD),770 (306),853 (315)
+Range,250–1800,400–1700
+"Other oral PD medications, n (%)",,
+Dopamine agonists,57 (66%),26 (61%)
+MAO-B inhibitors,37 (43%),14 (33%)
+Adamantane derivatives,29 (34%),13 (30%)
+COMT inhibitors,9 (11%),5 (12%)

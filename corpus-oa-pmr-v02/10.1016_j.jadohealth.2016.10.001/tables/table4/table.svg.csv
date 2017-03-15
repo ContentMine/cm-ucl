@@ -1,0 +1,30 @@
+"","Outcome (t) ","Exposure ","Cross-lagged model; coefficient (95% CI) ^{a} ","Contemporaneous effects model; coefficient (95% CI) ^{a} "
+Families with female adolescents,,,,
+Adolescent,,,,
+Adolescent unhappiness,t-1,.51*** (.44e.58),t-1,.51*** (.43e.58)
+unhappiness,,,,.06 ^{†}
+Maternal GHQ-12,t-1,.03* (.00e.06),t,(.00e.12)
+"",,,,.07 ^{†}
+Paternal GHQ-12,t-1,.04* (.00e.07),t,(.00e.15)
+Maternal GHQ-12,,,,
+Adolescent unhappiness,t-1,.03 (-.01 to .07),t,.06 (-.02 to .13)
+Maternal GHQ-12,t-1,.49*** (.46e.53),t-1,.49*** (.45e.52)
+Paternal GHQ-12,t-1,.06** (.02e.10),t,.13** (.03e.22)
+Paternal GHQ-12,,,,
+Adolescent unhappiness,t-1,-.01 (-.06 to .03),t,-.02 (-.10 to .05)
+Maternal GHQ-12,t-1,.04* (.00e.08),t,.08* (.01e.16)
+Paternal GHQ-12,t-1,.46*** (.42e.50),t-1,.45*** (.41e.49)
+Families with male adolescents,,,,
+Adolescent,,,,
+Adolescent unhappiness,t-1,.62*** (.54e.69),t-1,.62*** (.54e.69)
+unhappiness,,,,
+Maternal GHQ-12,t-1,.02 (-.01 to .05),t,.03 (-.01 to .08)
+Paternal GHQ-12,t-1,.01 (-.02 to .04),t,.02 (-.05 to .08)
+Maternal GHQ-12,,,,
+Adolescent unhappiness,t-1,.01 (-.03 to .05),t,.02 (-.06 to .09)
+Maternal GHQ-12,t-1,.58*** (.55e.61),t-1,.58*** (.55e.61)
+Paternal GHQ-12,t-1,.02 (-.02 to .06),t,.04 (-.04 to .12)
+Paternal GHQ-12,,,,
+Adolescent unhappiness,t-1,.01 (-.03 to .05),t,.01 (-.06 to .08)
+Maternal GHQ-12,t-1,.04* (.00e.07),t,.07* (.01e.12)
+Paternal GHQ-12,t-1,.50*** (.47e.54),t-1,.50*** (.47e.54)

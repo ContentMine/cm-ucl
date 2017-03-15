@@ -1,0 +1,7 @@
+"Outcome ","Variable ","Adjusted R ^{2} ","Beta ","SE ","p "
+Mental health composite,Age,0.049,0.100,0.044,0.023
+"",Fish consumption 1– 2/week,,2.734,1.148,0.017
+"",Fish consumption 3+/week,,7.789,1.269,< 0.001
+"",Consumption of fish oil only,,4.609,1.110,< 0.001
+"",Consumption of flaxseed oil only,,8.003,1.727,< 0.001
+"",Consumption of both flaxseed oil and fish oil,,5.562,1.402,< 0.001
