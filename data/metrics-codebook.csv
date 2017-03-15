@@ -1,21 +1,25 @@
-variable,description,notes,
-doi,the doi of the paper,,
-table_nr,the table number within that paper,,
-table_type_apa,0=table not apa-like, 1=table apa-like,Apa-like is defined as adhering to APA style (horizontal lines only) and may include a box
+variable,description,notes
+doi,the doi of the paper,
+table_nr,the table number within that paper,
+scope,0=excluded; 1 = included,Based on data/scope.csv
+content_type,"data (numeric values primarily)
+text (primarily character strings [eg references])
+other (unclassified rest category)",
+table_type_apa,0=table not apa-like; 1=table apa-like ,Apa-like is defined as adhering to APA style (horizontal lines only) and may include a box
 table_complexity,"* tidy = variable p/column + variable p/row + non-nested
 * untidy = nested rows/columns OR multi-line cells
-* messy = medium + multiple subtables/horizontal lines, rotated, continued",,
-rotated,0=not rotated, 1 = rotated,
-title_retrieved,0=nothing at all, 1=title retrieved,
-header_retrieved,0=nothing at all, 1=header retrieved,
-body_retrieved,"0=nothing at all or clearly improper (e.g., 9x9 table in one cell); 1=body retrieved",,
-footer_retrieved,0=nothing at all, 1=footer retrieved,
-header_aligned,0=header misaligned, 1 = header aligned,
-nested_col,0 = columns are NOT nested, 1 = columns contain nesting,
-man_cols,Manually counted columns,,
-cols_retrieved,Automatically retrieved columns,,
-nested_row,0 = rows are NOT nested, 1 = rows contain nesting,
-man_rows,Manually counted rows,,
-rows_retrieved,Automatically retrieved rows,,
-discrepancy_cell_count,"Count of number of cell discrepancies within extracted body (e.g., incorrect extra cell for a double lined, incorrect additional column). ONLY APPLIES WHEN BODY IS RETRIEVED",,
-note,Just notes on the table (preferably on the cell structure discrepancy for future dev),,
+* messy = medium + multiple subtables/horizontal lines, rotated, continued",
+rotated,0=not rotated; 1 = rotated,
+title_retrieved,0=nothing at all; 1=title retrieved ,
+header_retrieved,0=nothing at all; 1=header retrieved ,
+body_retrieved,"0=nothing at all or clearly improper (e.g., 9x9 table in one cell); 1=body retrieved",
+footer_retrieved,0=nothing at all 1=footer retrieved ,
+header_aligned,0=header misaligned 1 = header aligned ,
+nested_col,0 = columns are NOT nested; 1 = columns contain nesting ,
+man_cols,Manually counted columns,
+cols_retrieved,Automatically retrieved columns,
+nested_row,0 = rows are NOT nested; 1 = rows contain nesting ,
+man_rows,Manually counted rows,
+rows_retrieved,Automatically retrieved rows,
+discrepancy_cell_count,"Count of number of cell discrepancies within extracted body (e.g., incorrect extra cell for a double lined, incorrect additional column). ONLY APPLIES WHEN BODY IS RETRIEVED",
+note,Just notes on the table (preferably on the cell structure discrepancy for future dev),
