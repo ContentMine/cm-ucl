@@ -7,6 +7,21 @@ some of the commands have regex-based commands which are sensitive to the shell 
 ```
 java -version
 ```
+This tutorial assumes you have downloaded the `norma` `appassembler` tree and it is in your path, e.g.
+```
+export PATH=$PATH:/Users/pm286/workspace/cmdev/norma/target/appassembler/bin
+```
+and 
+```
+echo $PATH
+```
+should include:
+```
+/Users/pm286/workspace/cmdev/norma/target/appassembler/bin
+```
+This allows you to issue the command:
+`norma`
+which should be all you need.
 
 
 Within a command the order of the arguments is (generally) irrelevant.
