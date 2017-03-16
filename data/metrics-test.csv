@@ -1,169 +1,169 @@
-doi,table_nr,scope,content_type,table_type_apa,table_complexity,rotated,title_retrieved,header_retrieved,body_retrieved,footer_retrieved,header_aligned,nested_col,man_cols,cols_retrieved,nested_row,man_rows,rows_retrieved,discrepancy_cell_count,note,
-10.1007_s00213-015-4198-1,1,1,data,1,untidy,0,0,1,1,0,1,1,5,5,1,19,18,0,,
-10.1007_s00213-016-4471-y,1,0,other,1,untidy,0,0,1,1,0,1,0,8,8,1,14,14,0,,
-10.1007_s00213-016-4471-y,2,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,8,8,0,,
-10.1007_s00213-016-4471-y,3,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,10,9,0,Count nested column headers as two rows,
-10.1007_s00213-016-4471-y,4,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,17,17,1,Count nested column headers as two rows, one discrepancy resulting in additional row (so not perfect!)
-10.1007_s00213-016-4471-y,5,1,data,1,untidy,0,0,0,0,0,0,1,8,8,0,18,2,NA,Count nested column headers as two rows, this one really messes up so no discrepancy count given (uncountable)
-10.1007_s00213-016-4471-y,6,1,data,1,untidy,0,0,0,0,0,0,1,8,8,0,18,2,NA,Count nested column headers as two rows, this one really messes up so no discrepancy count given (uncountable)
-10.1007_s00213-016-4471-y,7,1,data,1,untidy,0,0,1,1,0,1,1,8,7,1,38,57,19,,
-10.1007_s00213-016-4471-y,8,1,data,1,untidy,0,0,1,1,0,1,1,8,7,1,38,57,19,Exactly the same problems as table 7,
-10.1007_s00213-016-4471-y,9,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,29,29,0,,
-10.1007_s00213-016-4477-5,1,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,43,43,0,,
-10.1007_s12975-016-0496-0,1,1,data,1,tidy,0,0,1,1,0,0,0,4,5,0,6,6,1,"Table header LEFT of table, messes up the header alignment",
-10.1016_j.amepre.2016.07.024,1,1,data,1,untidy,0,0,1,1,0,1,0,5,5,1,23,23,0,"Boxed, but works",
-10.1016_j.amepre.2016.07.024,2,1,text,1,tidy,0,0,1,1,0,1,0,2,2,1,18,10,3,"Multiline problems, not extracting entire table",
-10.1016_j.amepre.2016.07.024,3,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,39,58,19,,
-10.1016_j.amepre.2016.08.013,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,45,45,0,,
-10.1016_j.amepre.2016.08.013,2,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,6,5,0,Just misses column nesting,
-10.1016_j.jadohealth.2012.08.009,1,0,text,1,untidy,0,0,1,1,0,1,0,2,2,1,12,35,23,Multiline problems,
-10.1016_j.jadohealth.2012.08.009,2,1,data,1,untidy,0,0,1,1,0,1,1,9,9,1,16,26,13,"Incorrectly parses rows, misses column header levels",
-10.1016_j.jadohealth.2012.08.009,3,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,19,22,2,Multiline problems,
-10.1016_j.jadohealth.2012.08.009,4,1,data,1,untidy,0,0,1,1,0,1,1,5,5,1,36,34,0,Just misses column nesting,
-10.1016_j.jadohealth.2016.10.001,1,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,27,26,0,Just misses column nesting,
-10.1016_j.jadohealth.2016.10.001,2,0,data,1,untidy,,,,,,,,,,,,,,,
-10.1016_j.jadohealth.2016.10.001,3,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,8,8,0,,
-10.1016_j.jadohealth.2016.10.001,4,1,data,1,untidy,0,0,1,1,0,0,0,6,5,1,21,30,10,This is even manually a very difficult table to understand column wise,
-10.1016_j.pain.2014.08.023,1,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,9,13,4,,
-10.1016_j.pain.2014.08.023,2,1,data,1,tidy,0,0,1,1,0,0,0,6,7,0,5,5,1,,
-10.1016_j.pain.2014.08.023,3,1,data,1,tidy,0,0,1,1,0,0,0,7,9,0,6,11,17,Multiline problems, incorrect header splitting
-10.1016_j.pain.2014.08.023,4,1,data,1,untidy,0,0,1,1,0,1,1,9,10,0,4,5,16,Multiline problems,
-10.1016_j.pain.2014.09.020,1,1,text,1,tidy,0,0,1,1,0,1,0,5,5,0,34,34,0,,
-10.1016_j.pain.2014.09.020,2,1,text,1,tidy,0,0,1,1,0,1,0,4,4,0,32,32,0,,
-10.1016_j.pain.2014.09.020,3,1,text,1,tidy,0,0,1,1,0,1,0,6,5,0,68,94,32,,
-10.1016_j.pain.2014.09.020,4,1,text,1,tidy,0,0,1,1,0,0,0,5,5,0,22,22,0,,
-10.1016_j.pain.2014.09.033,1,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,7,7,0,,
-10.1016_j.pain.2014.09.033,2,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,3,3,0,,
-10.1016_j.ypmed.2016.05.012,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,26,25,1,First column contents need to be shifted one down,
-10.1016_j.ypmed.2016.05.012,2,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,11,10,0,Just misses column nesting,
-10.1016_j.ypmed.2016.05.012,3,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,11,10,0,Just misses column nesting,
-10.1016_j.ypmed.2016.05.012,4,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,8,7,0,Just misses column nesting,
-10.1016_j.ypmed.2016.05.012,5,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,7,6,0,Just misses column nesting,
-10.1016_j.ypmed.2016.09.005,1,1,data,1,untidy,0,0,1,1,0,1,0,5,5,1,27,27,0,,
-10.1016_j.ypmed.2016.09.005,2,1,data,1,untidy,0,0,1,1,0,1,1,6,6,0,14,13,0,Just misses column nesting,
-10.1016_j.ypmed.2016.09.005,3,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,5,5,0,,
-10.1016_S0140-6736(16)30388-9,1,0,text,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31461-1,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31461-1,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31589-6,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31589-6,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31589-6,3,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31589-6,4,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31590-2,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31590-2,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31590-2,3,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)31590-2,4,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)32507-7,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)32507-7,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)32507-7,3,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1016_S0140-6736(16)32507-7,4,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1038_ejcn.2016.222,1,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ejcn.2016.222,2,1,data,1,untidy,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ejcn.2016.222,3,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ijo.2016.206,1,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ijo.2016.206,2,1,text,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ijo.2016.206,3,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ijo.2016.206,4,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_ijo.2016.206,5,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work",
-10.1038_pr.2016.187,1,1,data,1,untidy,0,0,1,1,0,1,1,7,7,1,32,59,34,Many missing fonts it seems,
-10.1038_pr.2016.187,2,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,16,15,0,Many missing fonts it seems; just missing column nesting,
-10.1038_pr.2016.187,3,1,data,1,untidy,0,0,1,1,0,1,1,11,11,0,18,17,0,Many missing fonts it seems; just missing column nesting,
-10.1038_pr.2016.187,4,1,data,1,untidy,0,0,1,1,0,1,1,11,11,0,5,4,0,Many missing fonts it seems; just missing column nesting,
-10.1038_srep37826,1,1,data,0,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep37826,2,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep37826,3,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep37826,4,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep37826,5,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep39471,1,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep39471,2,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1038_srep39471,3,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work",
-10.1080_00207454.2016.1185421,1,1,data,1,tidy,0,0,1,1,0,1,0,2,2,0,11,14,3,,
-10.1080_00207454.2016.1185421,2,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,5,5,0,,
-10.1080_00207454.2016.1185421,3,1,data,1,tidy,0,0,1,1,0,0,0,4,5,0,4,6,4,"Multiline problems, also unnecessary cell splits",
-10.1080_00207454.2016.1185421,4,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,4,5,1,Multiline problems,
-10.1080_00207454.2016.1194274,1,1,data,1,untidy,0,0,1,1,0,1,1,3,3,1,52,51,0,Just misses column nesting,
-10.1080_00207454.2016.1194274,2,1,data,1,tidy,0,0,1,1,0,0,0,4,5,0,4,6,3,,
-10.1080_00207454.2016.1194274,3,1,data,1,untidy,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Rotated, doesn’t work",
-10.1080_00207454.2016.1194274,4,1,data,1,untidy,0,0,1,1,0,1,1,3,3,0,5,6,2,Unnecessary cell splits; misses column nesting,
-10.1097_j.pain.0000000000000579,1,1,text,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"This is really messed up, so coded it as not retrieving any header or body because it is SO messed up",
-10.1097_WNR.0000000000000066,NA,1,data,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1097_WNR.0000000000000118,1,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,8,7,0,Just misses column nesting,
-10.1111_bph.13646,1,1,data,0,untidy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1111_bph.13654,1,1,text,0,untidy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1111_bph.13654,2,1,data,0,untidy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1111_ejn.13382,1,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,11,20,10,Multiline problems,
-10.1111_ejn.13418,1,0,text,1,tidy,0,0,1,1,0,1,0,5,5,0,6,66,138,Multiline problems,
-10.1111_ejn.13418,2,1,text,1,tidy,0,0,1,1,0,1,0,5,5,0,6,63,140,Multiline problems,
-10.1111_nyas.13192,1,1,text,1,tidy,0,0,1,1,0,1,0,6,6,0,10,4,6,Multiline problems,
-10.1111_nyas.13192,2,0,text,1,tidy,0,0,1,1,0,1,0,7,7,0,5,71,298,Multiline problems,
-10.1111_nyas.13294,1,1,data,1,untidy,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,NA,,
-10.1111_nyas.13294,2,1,data,1,untidy,0,0,1,1,0,1,1,16,16,0,10,8,0,Just misses column nesting,
-10.1111_nyas.13294,3,1,data,1,untidy,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,NA,,
-10.1136_bmjopen-2016-011048,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,20,20,0,Background box,
-10.1136_bmjopen-2016-011048,2,1,data,1,untidy,0,0,1,1,0,0,1,10,10,0,6,5,0,Just misses column nesting and header;Background box,
-10.1136_bmjopen-2016-011048,3,1,data,1,untidy,0,0,1,1,0,0,1,9,9,1,22,21,0,Just misses column nesting;Background box,
-10.1136_bmjopen-2016-011048,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,16,16,0,Background box,
-10.1136_bmjopen-2016-011048,5,1,data,1,untidy,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,Background box,
-10.1136_bmjopen-2016-012330,1,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,16,24,16,Background box; discrepancies are unclear so can go both ways,
-10.1136_bmjopen-2016-012330,2,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box,
-10.1136_bmjopen-2016-012330,3,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,4,4,0,Background box,
-10.1136_bmjopen-2016-012330,4,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box,
-10.1136_bmjopen-2016-012330,5,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box,
-10.1136_bmjopen-2016-013045,1,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,34,41,6,Background box,
-10.1136_bmjopen-2016-013045,2,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,3,4,1,Background box,
-10.1136_bmjopen-2016-013045,3,1,data,1,untidy,0,0,1,1,0,0,0,3,2,1,11,18,8,"Background box; misses first column (not contents, but span)",
-10.1136_bmjopen-2016-013045,4,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,11,11,0,Background box,
-10.1136_jech-2014-204984,1,0,text,1,tidy,0,0,1,1,0,1,0,2,2,0,15,27,12,Background box; multiline problems,
-10.1136_jech-2014-204984,2,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,26,26,0,Background box,
-10.1136_jech-2014-204984,3,1,data,1,untidy,0,0,1,1,0,1,1,10,10,1,12,15,5,Background box,
-10.1136_jech-2015-206665,1,1,data,1,untidy,0,0,1,1,0,1,1,5,5,1,27,27,0,Background box,
-10.1136_jech-2015-206665,2,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box,
-10.1179_1743132812Y.0000000071,1,0,text,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1179_1743132812Y.0000000071,2,1,data,1,tidy,0,0,1,1,0,0,0,6,7,0,6,6,1,One multi-cell,
-10.1179_1743132812Y.0000000071,3,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,8,8,0,,
-10.1179_1743132812Y.0000000071,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,8,8,0,,
-10.1179_1743132812Y.0000000071,5,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,5,5,0,,
-10.1179_1743132815Y.0000000036,1,1,data,1,tidy,0,0,1,1,0,1,0,8,8,0,25,27,2,Multiline problems,
-10.1179_1743132815Y.0000000036,2,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1179_1743132815Y.0000000036,3,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,11,11,0,,
-10.1179_1743132815Y.0000000036,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,29,29,0,,
-10.1179_1743132815Y.0000000036,5,1,data,1,tidy,0,0,1,1,0,1,0,7,7,0,56,56,0,,
-10.1179_1743132815Y.0000000036,6,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,14,15,2,Multiline problems; weird character things going on,
-10.1179_1743132815Y.0000000050,1,1,data,1,untidy,0,0,1,1,0,0,0,6,8,1,21,43,48,Weird character things going on for plus minus sign,
-10.1179_1743132815Y.0000000050,2,1,data,1,tidy,0,0,1,1,0,0,0,5,6,0,4,8,9,Weird character things going on for plus minus sign,
-10.1179_1743132815Y.0000000050,3,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,6,5,0,Just misses column nesting,
-10.1179_1743132815Y.0000000050,4,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,6,5,0,Just misses column nesting,
-10.1179_1743132815Y.0000000050,5,1,data,1,untidy,0,0,1,1,0,1,1,5,5,0,5,4,0,Just misses column nesting,
-10.1186_1471-2431-13-190,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,18,18,0,,
-10.1186_1471-2458-12-740,1,1,data,1,untidy,0,0,1,1,0,1,1,11,11,1,14,13,0,Just misses column nesting,
-10.1186_1471-2458-9-122,1,1,data,1,untidy,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1186_1471-2458-9-122,2,1,data,1,messy,0,0,1,1,0,1,0,5,5,1,10,6,8,"Subdivided with lines, misses large chunk due to that",
-10.1186_1471-2458-9-122,3,1,data,1,messy,0,0,1,1,0,1,0,3,3,1,7,4,0,"Subdivided with lines, misses large chunk due to that",
-10.1186_1741-7015-11-207,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,22,24,2,Multiline problems,
-10.1186_1741-7015-11-207,2,1,data,1,untidy,0,0,1,1,0,1,0,5,5,1,11,11,0,,
-10.1186_1741-7015-11-207,3,1,data,1,untidy,0,0,1,1,0,0,1,8,8,0,7,6,0,Just misses column nesting; headers not aligned,
-10.1186_s12916-014-0161-y,1,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,19,18,4,Parses header + first row as one row,
-10.1186_s12916-014-0161-y,2,1,data,1,untidy,0,0,1,1,0,0,1,7,9,0,44,40,7,"Multiple line, unecessary cell split",
-10.1186_s12916-014-0161-y,3,1,data,1,untidy,0,0,1,1,0,0,1,7,9,0,43,39,3,"Multiple line, unecessary cell split",
-10.1186_s12916-014-0161-y,4,1,data,1,untidy,0,0,1,1,0,0,1,7,9,0,41,43,5,"Multiple line, unecessary cell split",
-10.1186_s12916-014-0161-y,5,1,data,1,untidy,0,0,1,1,0,0,1,7,8,0,9,9,1,Unnecessary cell splits,
-10.1186_s12916-014-0161-y,6,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,21,17,0,"Missing 4 entire rows, something wrong there",
-10.1186_s12916-014-0161-y,7,1,data,1,untidy,0,0,1,1,0,0,1,7,8,0,21,17,1,"Missing 4 entire rows, something wrong there",
-10.1186_s12974-016-0542-6,1,1,data,1,tidy,0,0,1,1,0,0,0,13,14,0,6,7,2,,
-10.1371_journal.pbio.1000481,1,1,data,1,tidy,0,0,1,1,0,1,0,10,10,0,5,5,0,,
-10.1371_journal.pbio.1001952,1,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1371_journal.pbio.1001952,2,1,data,1,tidy,0,0,1,1,0,0,0,4,4,0,12,12,0,Just header not aligned,
-10.1371_journal.pone.0148292,1,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,4,4,0,,
-10.1371_journal.pone.0148292,2,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,16,18,2,Multiline problems,
-10.1371_journal.pone.0155834,1,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,6,8,2,Multiline problems,
-10.1371_journal.pone.0155834,2,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,6,6,0,,
-10.1371_journal.pone.0155834,3,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1371_journal.pone.0169976,1,0,data,0,tidy,0,0,1,1,0,1,0,2,2,0,11,6,0,Missing last 5 rows,
-10.1371_journal.pone.0169976,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1371_journal.pone.0169976,3,1,data,0,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.1371_journal.pone.0169976,4,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,,
-10.3109_00207454.2013.803104,1,1,data,1,messy,0,0,1,1,0,0,0,2,2,0,30,4,NA,This is messed up table,
-10.3109_00207454.2013.803104,2,1,data,1,messy,0,0,1,1,0,1,0,3,3,0,18,7,0,Missing subtables entirely due to line heuristic,
-10.3109_00207454.2013.803104,3,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,21,21,0,,
-10.3109_00207454.2013.803104,4,1,data,1, tidy,0,0,1,1,0,1,0,6,6,0,30,7,0,"What it gets out it gets out perfectly, but misses subtable",
-10.3109_00207454.2013.803104,5,1,data,1,untidy,0,0,1,1,0,0,1,8,7,0,19,30,12,Missing one column which messes up the table,
+doi,table_nr,scope,content_type,table_type_apa,table_complexity,rotated,title_retrieved,header_retrieved,body_retrieved,footer_retrieved,header_aligned,nested_col,man_cols,cols_retrieved,nested_row,man_rows,rows_retrieved,discrepancy_cell_count,note
+10.1007_s00213-015-4198-1,1,1,data,1,untidy,0,0,1,1,0,1,1,5,5,1,19,18,0,
+10.1007_s00213-016-4471-y,1,0,other,1,untidy,0,0,1,1,0,1,0,8,8,1,14,14,0,
+10.1007_s00213-016-4471-y,2,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,8,8,0,
+10.1007_s00213-016-4471-y,3,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,10,9,0,Count nested column headers as two rows
+10.1007_s00213-016-4471-y,4,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,17,17,1,Count nested column headers as two rows; one discrepancy resulting in additional row (so not perfect!) 
+10.1007_s00213-016-4471-y,5,1,data,1,untidy,0,0,0,0,0,0,1,8,8,0,18,2,NA,Count nested column headers as two rows; this one really messes up so no discrepancy count given (uncountable) 
+10.1007_s00213-016-4471-y,6,1,data,1,untidy,0,0,0,0,0,0,1,8,8,0,18,2,NA,Count nested column headers as two rows this one really messes up so no discrepancy count given (uncountable) 
+10.1007_s00213-016-4471-y,7,1,data,1,untidy,0,0,1,1,0,1,1,8,7,1,38,57,19,
+10.1007_s00213-016-4471-y,8,1,data,1,untidy,0,0,1,1,0,1,1,8,7,1,38,57,19,Exactly the same problems as table 7
+10.1007_s00213-016-4471-y,9,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,29,29,0,
+10.1007_s00213-016-4477-5,1,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,43,43,0,
+10.1007_s12975-016-0496-0,1,1,data,1,tidy,0,0,1,1,0,0,0,4,5,0,6,6,1,"Table header LEFT of table, messes up the header alignment"
+10.1016_j.amepre.2016.07.024,1,1,data,1,untidy,0,0,1,1,0,1,0,5,5,1,23,23,0,"Boxed, but works"
+10.1016_j.amepre.2016.07.024,2,1,text,1,tidy,0,0,1,1,0,1,0,2,2,1,18,10,3,"Multiline problems, not extracting entire table"
+10.1016_j.amepre.2016.07.024,3,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,39,58,19,
+10.1016_j.amepre.2016.08.013,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,45,45,0,
+10.1016_j.amepre.2016.08.013,2,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,6,5,0,Just misses column nesting
+10.1016_j.jadohealth.2012.08.009,1,0,text,1,untidy,0,0,1,1,0,1,0,2,2,1,12,35,23,Multiline problems
+10.1016_j.jadohealth.2012.08.009,2,1,data,1,untidy,0,0,1,1,0,1,1,9,9,1,16,26,13,"Incorrectly parses rows, misses column header levels"
+10.1016_j.jadohealth.2012.08.009,3,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,19,22,2,Multiline problems
+10.1016_j.jadohealth.2012.08.009,4,1,data,1,untidy,0,0,1,1,0,1,1,5,5,1,36,34,0,Just misses column nesting
+10.1016_j.jadohealth.2016.10.001,1,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,27,26,0,Just misses column nesting
+10.1016_j.jadohealth.2016.10.001,2,0,data,1,untidy,,,,,,,,,,,,,,
+10.1016_j.jadohealth.2016.10.001,3,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,8,8,0,
+10.1016_j.jadohealth.2016.10.001,4,1,data,1,untidy,0,0,1,1,0,0,0,6,5,1,21,30,10,This is even manually a very difficult table to understand column wise
+10.1016_j.pain.2014.08.023,1,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,9,13,4,
+10.1016_j.pain.2014.08.023,2,1,data,1,tidy,0,0,1,1,0,0,0,6,7,0,5,5,1,
+10.1016_j.pain.2014.08.023,3,1,data,1,tidy,0,0,1,1,0,0,0,7,9,0,6,11,17,Multiline problems; incorrect header splitting 
+10.1016_j.pain.2014.08.023,4,1,data,1,untidy,0,0,1,1,0,1,1,9,10,0,4,5,16,Multiline problems
+10.1016_j.pain.2014.09.020,1,1,text,1,tidy,0,0,1,1,0,1,0,5,5,0,34,34,0,
+10.1016_j.pain.2014.09.020,2,1,text,1,tidy,0,0,1,1,0,1,0,4,4,0,32,32,0,
+10.1016_j.pain.2014.09.020,3,1,text,1,tidy,0,0,1,1,0,1,0,6,5,0,68,94,32,
+10.1016_j.pain.2014.09.020,4,1,text,1,tidy,0,0,1,1,0,0,0,5,5,0,22,22,0,
+10.1016_j.pain.2014.09.033,1,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,7,7,0,
+10.1016_j.pain.2014.09.033,2,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,3,3,0,
+10.1016_j.ypmed.2016.05.012,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,26,25,1,First column contents need to be shifted one down
+10.1016_j.ypmed.2016.05.012,2,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,11,10,0,Just misses column nesting
+10.1016_j.ypmed.2016.05.012,3,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,11,10,0,Just misses column nesting
+10.1016_j.ypmed.2016.05.012,4,1,data,1,untidy,0,0,1,1,0,1,1,9,9,0,8,7,0,Just misses column nesting
+10.1016_j.ypmed.2016.05.012,5,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,7,6,0,Just misses column nesting
+10.1016_j.ypmed.2016.09.005,1,1,data,1,untidy,0,0,1,1,0,1,0,5,5,1,27,27,0,
+10.1016_j.ypmed.2016.09.005,2,1,data,1,untidy,0,0,1,1,0,1,1,6,6,0,14,13,0,Just misses column nesting
+10.1016_j.ypmed.2016.09.005,3,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,5,5,0,
+10.1016_S0140-6736(16)30388-9,1,0,text,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31461-1,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31461-1,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31589-6,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31589-6,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31589-6,3,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31589-6,4,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31590-2,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31590-2,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31590-2,3,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)31590-2,4,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)32507-7,1,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)32507-7,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)32507-7,3,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1016_S0140-6736(16)32507-7,4,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1038_ejcn.2016.222,1,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ejcn.2016.222,2,1,data,1,untidy,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ejcn.2016.222,3,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ijo.2016.206,1,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ijo.2016.206,2,1,text,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ijo.2016.206,3,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ijo.2016.206,4,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_ijo.2016.206,5,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Boxed, doesn’t work"
+10.1038_pr.2016.187,1,1,data,1,untidy,0,0,1,1,0,1,1,7,7,1,32,59,34,Many missing fonts it seems
+10.1038_pr.2016.187,2,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,16,15,0,Many missing fonts it seems; just missing column nesting 
+10.1038_pr.2016.187,3,1,data,1,untidy,0,0,1,1,0,1,1,11,11,0,18,17,0,Many missing fonts it seems; just missing column nesting 
+10.1038_pr.2016.187,4,1,data,1,untidy,0,0,1,1,0,1,1,11,11,0,5,4,0,Many missing fonts it seems; just missing column nesting 
+10.1038_srep37826,1,1,data,0,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep37826,2,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep37826,3,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep37826,4,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep37826,5,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep39471,1,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep39471,2,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1038_srep39471,3,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Gridded, doesn’t work"
+10.1080_00207454.2016.1185421,1,1,data,1,tidy,0,0,1,1,0,1,0,2,2,0,11,14,3,
+10.1080_00207454.2016.1185421,2,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,5,5,0,
+10.1080_00207454.2016.1185421,3,1,data,1,tidy,0,0,1,1,0,0,0,4,5,0,4,6,4,"Multiline problems, also unnecessary cell splits"
+10.1080_00207454.2016.1185421,4,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,4,5,1,Multiline problems
+10.1080_00207454.2016.1194274,1,1,data,1,untidy,0,0,1,1,0,1,1,3,3,1,52,51,0,Just misses column nesting
+10.1080_00207454.2016.1194274,2,1,data,1,tidy,0,0,1,1,0,0,0,4,5,0,4,6,3,
+10.1080_00207454.2016.1194274,3,1,data,1,untidy,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"Rotated, doesn’t work"
+10.1080_00207454.2016.1194274,4,1,data,1,untidy,0,0,1,1,0,1,1,3,3,0,5,6,2,Unnecessary cell splits; misses column nesting 
+10.1097_j.pain.0000000000000579,1,1,text,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,"This is really messed up, so coded it as not retrieving any header or body because it is SO messed up"
+10.1097_WNR.0000000000000066,NA,1,data,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1097_WNR.0000000000000118,1,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,8,7,0,Just misses column nesting
+10.1111_bph.13646,1,1,data,0,untidy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1111_bph.13654,1,1,text,0,untidy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1111_bph.13654,2,1,data,0,untidy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1111_ejn.13382,1,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,11,20,10,Multiline problems
+10.1111_ejn.13418,1,0,text,1,tidy,0,0,1,1,0,1,0,5,5,0,6,66,138,Multiline problems
+10.1111_ejn.13418,2,1,text,1,tidy,0,0,1,1,0,1,0,5,5,0,6,63,140,Multiline problems
+10.1111_nyas.13192,1,1,text,1,tidy,0,0,1,1,0,1,0,6,6,0,10,4,6,Multiline problems
+10.1111_nyas.13192,2,0,text,1,tidy,0,0,1,1,0,1,0,7,7,0,5,71,298,Multiline problems
+10.1111_nyas.13294,1,1,data,1,untidy,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,NA,
+10.1111_nyas.13294,2,1,data,1,untidy,0,0,1,1,0,1,1,16,16,0,10,8,0,Just misses column nesting
+10.1111_nyas.13294,3,1,data,1,untidy,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,NA,
+10.1136_bmjopen-2016-011048,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,20,20,0,Background box
+10.1136_bmjopen-2016-011048,2,1,data,1,untidy,0,0,1,1,0,0,1,10,10,0,6,5,0,Just misses column nesting and header;Background box 
+10.1136_bmjopen-2016-011048,3,1,data,1,untidy,0,0,1,1,0,0,1,9,9,1,22,21,0,Just misses column nesting; Background box 
+10.1136_bmjopen-2016-011048,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,16,16,0,Background box
+10.1136_bmjopen-2016-011048,5,1,data,1,untidy,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,Background box
+10.1136_bmjopen-2016-012330,1,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,16,24,16,Background box; discrepancies are unclear so can go both ways 
+10.1136_bmjopen-2016-012330,2,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box
+10.1136_bmjopen-2016-012330,3,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,4,4,0,Background box
+10.1136_bmjopen-2016-012330,4,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box
+10.1136_bmjopen-2016-012330,5,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box
+10.1136_bmjopen-2016-013045,1,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,34,41,6,Background box
+10.1136_bmjopen-2016-013045,2,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,3,4,1,Background box
+10.1136_bmjopen-2016-013045,3,1,data,1,untidy,0,0,1,1,0,0,0,3,2,1,11,18,8,"Background box; misses first column (not contents, but span)"
+10.1136_bmjopen-2016-013045,4,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,11,11,0,Background box
+10.1136_jech-2014-204984,1,0,text,1,tidy,0,0,1,1,0,1,0,2,2,0,15,27,12,Background box; multiline problems 
+10.1136_jech-2014-204984,2,1,data,1,untidy,0,0,1,1,0,1,0,3,3,1,26,26,0,Background box
+10.1136_jech-2014-204984,3,1,data,1,untidy,0,0,1,1,0,1,1,10,10,1,12,15,5,Background box
+10.1136_jech-2015-206665,1,1,data,1,untidy,0,0,1,1,0,1,1,5,5,1,27,27,0,Background box
+10.1136_jech-2015-206665,2,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,Background box
+10.1179_1743132812Y.0000000071,1,0,text,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1179_1743132812Y.0000000071,2,1,data,1,tidy,0,0,1,1,0,0,0,6,7,0,6,6,1,One multi-cell
+10.1179_1743132812Y.0000000071,3,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,8,8,0,
+10.1179_1743132812Y.0000000071,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,8,8,0,
+10.1179_1743132812Y.0000000071,5,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,5,5,0,
+10.1179_1743132815Y.0000000036,1,1,data,1,tidy,0,0,1,1,0,1,0,8,8,0,25,27,2,Multiline problems
+10.1179_1743132815Y.0000000036,2,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1179_1743132815Y.0000000036,3,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,11,11,0,
+10.1179_1743132815Y.0000000036,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,29,29,0,
+10.1179_1743132815Y.0000000036,5,1,data,1,tidy,0,0,1,1,0,1,0,7,7,0,56,56,0,
+10.1179_1743132815Y.0000000036,6,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,14,15,2,Multiline problems weird character things going on 
+10.1179_1743132815Y.0000000050,1,1,data,1,untidy,0,0,1,1,0,0,0,6,8,1,21,43,48,Weird character things going on for plus minus sign
+10.1179_1743132815Y.0000000050,2,1,data,1,tidy,0,0,1,1,0,0,0,5,6,0,4,8,9,Weird character things going on for plus minus sign
+10.1179_1743132815Y.0000000050,3,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,6,5,0,Just misses column nesting
+10.1179_1743132815Y.0000000050,4,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,6,5,0,Just misses column nesting
+10.1179_1743132815Y.0000000050,5,1,data,1,untidy,0,0,1,1,0,1,1,5,5,0,5,4,0,Just misses column nesting
+10.1186_1471-2431-13-190,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,18,18,0,
+10.1186_1471-2458-12-740,1,1,data,1,untidy,0,0,1,1,0,1,1,11,11,1,14,13,0,Just misses column nesting
+10.1186_1471-2458-9-122,1,1,data,1,untidy,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1186_1471-2458-9-122,2,1,data,1,messy,0,0,1,1,0,1,0,5,5,1,10,6,8,"Subdivided with lines, misses large chunk due to that"
+10.1186_1471-2458-9-122,3,1,data,1,messy,0,0,1,1,0,1,0,3,3,1,7,4,0,"Subdivided with lines, misses large chunk due to that"
+10.1186_1741-7015-11-207,1,1,data,1,untidy,0,0,1,1,0,1,0,4,4,1,22,24,2,Multiline problems
+10.1186_1741-7015-11-207,2,1,data,1,untidy,0,0,1,1,0,1,0,5,5,1,11,11,0,
+10.1186_1741-7015-11-207,3,1,data,1,untidy,0,0,1,1,0,0,1,8,8,0,7,6,0,Just misses column nesting; headers not aligned 
+10.1186_s12916-014-0161-y,1,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,19,18,4,Parses header + first row as one row
+10.1186_s12916-014-0161-y,2,1,data,1,untidy,0,0,1,1,0,0,1,7,9,0,44,40,7,"Multiple line, unecessary cell split"
+10.1186_s12916-014-0161-y,3,1,data,1,untidy,0,0,1,1,0,0,1,7,9,0,43,39,3,"Multiple line, unecessary cell split"
+10.1186_s12916-014-0161-y,4,1,data,1,untidy,0,0,1,1,0,0,1,7,9,0,41,43,5,"Multiple line, unecessary cell split"
+10.1186_s12916-014-0161-y,5,1,data,1,untidy,0,0,1,1,0,0,1,7,8,0,9,9,1,Unnecessary cell splits
+10.1186_s12916-014-0161-y,6,1,data,1,untidy,0,0,1,1,0,1,1,7,7,0,21,17,0,"Missing 4 entire rows, something wrong there"
+10.1186_s12916-014-0161-y,7,1,data,1,untidy,0,0,1,1,0,0,1,7,8,0,21,17,1,"Missing 4 entire rows, something wrong there"
+10.1186_s12974-016-0542-6,1,1,data,1,tidy,0,0,1,1,0,0,0,13,14,0,6,7,2,
+10.1371_journal.pbio.1000481,1,1,data,1,tidy,0,0,1,1,0,1,0,10,10,0,5,5,0,
+10.1371_journal.pbio.1001952,1,1,data,1,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1371_journal.pbio.1001952,2,1,data,1,tidy,0,0,1,1,0,0,0,4,4,0,12,12,0,Just header not aligned
+10.1371_journal.pone.0148292,1,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,4,4,0,
+10.1371_journal.pone.0148292,2,1,data,1,tidy,0,0,1,1,0,1,0,4,4,0,16,18,2,Multiline problems
+10.1371_journal.pone.0155834,1,1,data,1,tidy,0,0,1,1,0,1,0,3,3,0,6,8,2,Multiline problems
+10.1371_journal.pone.0155834,2,1,data,1,tidy,0,0,1,1,0,1,0,5,5,0,6,6,0,
+10.1371_journal.pone.0155834,3,1,data,1,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1371_journal.pone.0169976,1,0,data,0,tidy,0,0,1,1,0,1,0,2,2,0,11,6,0,Missing last 5 rows
+10.1371_journal.pone.0169976,2,1,data,0,messy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1371_journal.pone.0169976,3,1,data,0,untidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.1371_journal.pone.0169976,4,1,data,0,tidy,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,
+10.3109_00207454.2013.803104,1,1,data,1,messy,0,0,1,1,0,0,0,2,2,0,30,4,NA,This is messed up table
+10.3109_00207454.2013.803104,2,1,data,1,messy,0,0,1,1,0,1,0,3,3,0,18,7,0,Missing subtables entirely due to line heuristic
+10.3109_00207454.2013.803104,3,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,21,21,0,
+10.3109_00207454.2013.803104,4,1,data,1,tidy,0,0,1,1,0,1,0,6,6,0,30,7,0,"What it gets out it gets out perfectly, but misses subtable"
+10.3109_00207454.2013.803104,5,1,data,1,untidy,0,0,1,1,0,0,1,8,7,0,19,30,12,Missing one column which messes up the table
