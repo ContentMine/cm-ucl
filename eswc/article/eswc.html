@@ -37,6 +37,9 @@
     <meta property="prism:keyword" content="PDF"/>
     <meta property="prism:keyword" content="semantic web"/>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML"> </script>
+	<style>
+	.monospace {font-family : monospace;}
+	</style>
   </head>
   <body>
     <section id="SectionAbstract" role="doc-abstract">
@@ -59,7 +62,7 @@
 	  <p>
 		 The analysis was blinded from the developers. We used expert classification of the raw table structure into a matrix of (contents {bad, reasonable, close to perfect, perfect}). AMI was used to extract HTML5 from these with the same expert classification. Of 106 tables, 33 were perfect:perfect (33%) with 70% (reasonable:reasonable) or better. 
       </p>
-	  <p> The project is ongoing and carried out as Open Notebook Science where all data and discussion is immediately uploaded to the public web.</p>
+	  <p> The project is ongoing and carried out as Open Notebook Science where all data and discussion is immediately uploaded to the public web. This paper is in part an overlay on the Open Notebook and material is linked rather than being copied (with semantic loss and error).</p>
     </section>
     <section>
       <h1>Introduction</h1>
@@ -106,7 +109,7 @@
 				 </tr>
 					</table>
 				</td>
-				<td>
+				<td class="monospace">
 	   			 &lt;table><br/>
 	   				 &lt;tr><
 	   					 &lt;th>Sample&lt;/th>
@@ -132,10 +135,13 @@
 			</td>
 		</table>
 		The task is to go from the left side (with no semantic structure) to the right, using heuristics.
+		A simple table:
+		AdvPSMP13
+		
 	</section>
 	<section>
 		<h3>Complex table</h3>
-		Many scientific tables have mopre complex semantics, often iimplict and only indicated by visial clues.
+		Many scientific tables have mopre complex semantics, often implicit and only indicated by visial clues.
 		<table height="65%">
 			<tr><th>Original (screen shot)</th>
 				<th>AMI-annotation</th>
@@ -147,6 +153,7 @@
 </tr>
 	<table>
 	</section>
+	AdvPSMP13
 			
 	 </section>
 	 <section>
@@ -161,99 +168,88 @@
 	 </section>
 	 
  </section>
+ 
 
+The precision of using GROBID to extract tables was 0.769 whereas the recall was 0.745. The table above
+depicts the classification problem, with columns indicating the true situation and the rows indicating the
+result from GROBID. There were 21 false positives and 70 true positives, resulting in a estimated Positive
+Predictive Value (PPV) of 0.769.
       <section>
         <h1>Results</h1>
-        <figure id="table1">
-          <table>
-			  <caption>Retrieved structure of tables</caption>
-            <tr>
-              <th rowspan="1" colspan="1">
-                
-              </th>
-              <th rowspan="1" colspan="1">
-                bad
-              </th>
-              <th rowspan="1" colspan="1">
-                reasonable
-              </th>
-              <th rowspan="1" colspan="1">
-                almost perfect
-              </th>
-              <th rowspan="1" colspan="1">
-                perfect
-              </th>
-            </tr>
-            <tr>
-              <td rowspan="1" colspan="1">
-                <p>bad</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-            </tr>
-            <tr>
-              <td rowspan="1" colspan="1">
-                <p>reasonable</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-		  </tr>
-            <tr>
-              <td rowspan="1" colspan="1">
-                <p>perfect</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-            </tr>
-            <tr>
-              <td rowspan="1" colspan="1">
-                <p>almost perfect</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-              <td rowspan="1" colspan="1">
-                <p>xx</p>
-              </td>
-            </tr>
-          </table>
+		<table>GROBID
+			<tr>
+				<th/>
+				<th>No table</th>
+				<th>Table</th>
+				<th>Total</th>
+			</tr>
+			<tr>
+				<td>"No table"</td>
+				<td>-</td>
+				<td>24 (0.209)</td>
+				<td>24 (0.209)</td>
+			</tr>
+			<tr>
+				<td>"Table"</td>
+				<td>21 (0.183)</td>
+				<td>70 (0.609)</td>
+				<td>91 (0.791)</td>
+			</tr>
+			<tr>
+				<td>Total</td>
+				<td>21 (0.183)</td>
+				<td>94 (0.817)</td>
+				<td>115 (1)</td>
+			</tr>
+					
+		</table>
       </section>
+	  
+	  <section>
+		  <h1>Table structure</h1>
+		 <table>
+			 <tr>
+				 <th><em>AMI \ original</em>
+				 <th>Bad</th>
+				 <th>Reasonable</th>
+				 <th>Excellnt</th>
+				 <th>Perfect</th>
+			 </tr>
+			 <tr>
+				 <td>Bad</td>
+				 <td>21</td>
+				 <td>2</td>
+				 <td>1</td>
+				 <td>3</td>
+			 </tr>
+			 <tr>
+				 <td>Reasonable</td>
+				 <td>3</td>
+				 <td>8</td>
+				 <td>0</td>
+				 <td>3</td>
+			 </tr>
+			 <tr>
+				 <td>Excellent</td>
+				 <td>1</td>
+				 <td>2</td>
+				 <td>7</td>
+				 <td>21</td>
+			 </tr>
+			 <tr>
+				 <td>Perfect</td>
+				 <td>0</td>
+				 <td>0</td>
+				 <td>1</td>
+				 <td>33</td>
+			 </tr>
+				</table>
+		  
+			  
+			  
+			  
+			  
+	  </section>
     <section id="SectionAcknowledgements" role="doc-acknowledgements">
       <h1>Acknowledgements</h1>
       <p>We would like to thank all the people who participated to our (intensive and stressing)
