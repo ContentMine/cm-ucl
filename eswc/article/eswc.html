@@ -63,63 +63,197 @@
     </section>
     <section>
       <h1>Introduction</h1>
-	  <p></p>
+	  <section>
+		  <h2>Note on Strategy</h2>
+		  <em>
+	  <p>
+	  	This paper reports on progress in extracting semantic data from tables in PDF documents, especially in the biomedical sciences. We have written a general, heuristic approach which covers a range of tables and which we believe will perform well against the gridded tables in the ESWC2017 challenge. If this paper is accepted we will tune the tools for EWSC-like tables (mainly explicitly gridded) and submit a results paper before the Meeting. 
+	  </p>
+	  <p>All our work is carried out as Open Notebook Science (Bradley) where all parts of the process are visible to the world as it happens (e.g. daily or better commits). We also believe in Collaborative Science, exemplified by the Human Genome project, GalaxyZoo, and OpenSourceMalaria. We will announce this project to the world and invite collaboration, with the aim to refining the heuristics (and, where appropriate, Machine Learning).
+	  </p>
+  </em>
      </section>
-    <section id="SectionRelatedWorks">
-      <h1>Related works</h1>
-    </section>
-    <section id="SectionCiTO">
-      <h1>Users' adoption of CiTO</h1>
-      <section>
-        <h1>CiTO annotations and mental models</h1>
-      </section>
-    </section>
-    <section id="SectionTest">
-      <h1>Experimental analysis of CiTO use </h1>
+	 <section>
+		 <h2>What is a Table?</h2>
+		 <p>To extract tables we need a target schema, but few of these have a semantic structure. 
+			 <section>
+				 <h3>Simple table</h3>
+				 The simplest tables, as exemplified by the CSV (TSV) format, consist of the cartesian product of <em>rows</em> and <em>columns</em>, ideally with row and column labels.
+			 <table>
+				 <caption>simple cartesian table. </caption>
+				 <tr>
+					 <td>
+			 <table>
+				 <tr>
+					 <th class="sample">Sample</th>
+					 <th class="age_yr">Age(yr)</th>
+					 <th class="mass_y">mass(g)</th>
+				 </tr>
+				 <tr>
+					 <td class="rowtitle">A123</td>
+					 <td>23</td>
+					 <td>99</td>
+				 </tr>
+				 <tr>
+					 <td class="rowtitle">A456</td>
+					 <td>33</td>
+					 <td>56</td>
+				 </tr>
+				 <tr>
+					 <td class="rowtitle">A678</td>
+					 <td>34</td>
+					 <td>57</td>
+				 </tr>
+					</table>
+				</td>
+				<td>
+	   			 &lt;table><br/>
+	   				 &lt;tr><
+	   					 &lt;th>Sample&lt;/th>
+	   					 &lt;th>Age(yr)&lt;/th>
+	   					 &lt;th>mass(g)&lt;/th>
+	   				 &lt;/tr><br/>
+	   				 &lt;tr>
+	   					 &lt;td>A123&lt;/td>
+	   					 &lt;td>23&lt;/td>
+	   					 &lt;td>99&lt;/td>
+	   				 &lt;/tr><br/>
+	   				 &lt;tr>
+	   					 &lt;td>A456&lt;/td>
+	   					 &lt;td>33&lt;/td>
+	   					 &lt;td>56&lt;/td>
+	   				 &lt;/tr><br/>
+	   				 &lt;tr>
+	   					 &lt;td>A678&lt;/td>
+	   					 &lt;td>34&lt;/td>
+	   					 &lt;td>57&lt;/td>
+	   				 &lt;/tr><br/>
+				&lt;/table>
+			</td>
+		</table>
+		The task is to go from the left side (with no semantic structure) to the right, using heuristics.
+	</section>
+	<section>
+		<h3>Complex table</h3>
+		Many scientific tables have mopre complex semantics, often iimplict and only indicated by visial clues.
+		<table height="65%">
+			<tr><th>Original (screen shot)</th>
+				<th>AMI-annotation</th>
+			</tr>
+			<tr>
+				
+				<td><img height="75%" width="75%" src="_subtable_a.png"/></td>
+				<td><img src="_subtables.png"/></td>
+</tr>
+	<table>
+	</section>
+			
+	 </section>
+	 <section>
+		 <h2>PDF Documents</h2>
+		 <p>
+			 PDF documents have very little structure; character streams, graphicsPaths, and bitmaps, but no support for higher primitives such as words, phrases, rectangles, etc. Table reconstruction therefore requires heuristics. Our process includes:
+			 <ul>
+				 <li><b>normalization of character stream</b>. Unfortaunely many publishers use non-standard, undocumented, font-families. While the US-ASCII range(32-127) is normally correct, higher code points, especially maths, are frequently totally corrupted. Other problems include diacritics, ligatures, small caps, etc. TeX-based fonts and Mathematical PI  can suffer from this. Many publishers (typesetters) have arcane fonts ("Adv"). AMI has conversion tables for the commonest.</li>
+					 <li>Sub and superscripts (figure 1)</li>
+		 </p>
+		 <figure><img="./">
+	 </section>
+	 
+ </section>
+
       <section>
         <h1>Results</h1>
-        <figure id="TableCitationFuctionsHumans">
+        <figure id="table1">
           <table>
+			  <caption>Retrieved structure of tables</caption>
             <tr>
               <th rowspan="1" colspan="1">
-                CiTO property in T41
+                
               </th>
               <th rowspan="1" colspan="1">
-                # in T41
+                bad
               </th>
               <th rowspan="1" colspan="1">
-                CiTO property in T10
+                reasonable
               </th>
               <th rowspan="1" colspan="1">
-                # in T10
+                almost perfect
+              </th>
+              <th rowspan="1" colspan="1">
+                perfect
               </th>
             </tr>
             <tr>
               <td rowspan="1" colspan="1">
-                <p>citesForInformation</p>
+                <p>bad</p>
               </td>
               <td rowspan="1" colspan="1">
-                <p>151</p>
+                <p>xx</p>
               </td>
               <td rowspan="1" colspan="1">
-                <p>citesForInformation</p>
+                <p>xx</p>
               </td>
               <td rowspan="1" colspan="1">
-                <p>190</p>
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <p>reasonable</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+		  </tr>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <p>perfect</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <p>almost perfect</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>xx</p>
               </td>
             </tr>
           </table>
       </section>
-      <section>
-        <h1>Data evaluation</h1>
-    </section>
-    <section id="SectionDiscussion">
-      <h1>Users' feedback: SUS and grounded analysis</h1>
-    </section>
-    <section id="SectionConclusions">
-      <h1>Lessons learnt and conclusions</h1>
-
-    </section>
     <section id="SectionAcknowledgements" role="doc-acknowledgements">
       <h1>Acknowledgements</h1>
       <p>We would like to thank all the people who participated to our (intensive and stressing)
