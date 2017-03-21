@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+  prefix="
+  schema: http://schema.org/
+  prism: http://prismstandard.org/namespaces/basic/2.0/
+  dcterms: http://purl.org/dc/terms/">
+  <head>
+    <!-- Visualisation requirements (mandatory for optimal reading) -->
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="../css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../css/rash.css"/>
+    <script src="../js/jquery.min.js"><![CDATA[ ]]></script>
+    <script src="../js/bootstrap.min.js"><![CDATA[ ]]></script>
+    <script src="../js/rash.js"><![CDATA[ ]]></script>
+    <!-- /END Visualisation requirements (mandatory for optimal reading) -->
+
+    <title property="dcterms:title">AMI-Table: Creation of Semantic Tables from PDF documents</title>
+
+    <!-- Author's data (one or more) -->
+    <meta about="#pmr" property="schema:name" name="dc.creator" content="Peter Murray-Rust"/>
+    <meta about="#pmr" property="schema:email" content="peter@contentmine.org"/>
+    <link about="#pmr" property="schema:affiliation" href="#contentmine"/>
+    <link about="#pmr" property="schema:affiliation" href="#chem-unicam"/>
+
+    <meta about="#chjh" property="schema:name" name="dc.creator" content="Chris H J Hartgerink"/>
+    <meta about="#chjh" property="schema:email" content="chjh@protonmail.com"/>
+    <link about="#chjh" property="schema:affiliation" href="#contentmine"/>
+    <link about="#chjh" property="schema:affiliation" href="#uni-tilburg"/>
+
+    <!-- Affiliations -->
+    <meta about="#contentmine" property="schema:name" content="ContentMine Ltd, Future Business Centre, Kings Hedges Road, CB4 2HY, Cambridge, UK"/>
+    <meta about="#chem-unicam" property="schema:name" content="Department of Chemistry, University of Cambridge, CB2 1EW, UK"/>
+    <meta about="#uni-tilburg" property="schema:name" content="Methodology and Statistics Tilburg School of Social and Behavioral Sciences Tilburg University"/>
+
+    <!-- Paper keywords (one or more) -->
+    <meta property="prism:keyword" content="PDF"/>
+    <meta property="prism:keyword" content="semantic web"/>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML"> </script>
+  </head>
+  <body>
+    <section id="SectionAbstract" role="doc-abstract">
+      <h1>Abstract</h1>
+      <p>Tables in PDF documents are located (<em>retrieved</em>) and the contents are semantically <em>extracted</em> into valid XHTML tables. 
+		  These tables can transformed into <em>Tidy Data</em> which is then searchable using XPath and SPARQL. The workflow uses 
+		  Apache <em>PDFBox</em> to create a stream of characters and graphics paths in normalized page coordinates. The tables are located with 
+		  <em>GROBID</em> which passes coordinates to <em>AMI</em> to extract contents (caption, and contents). AMI futher analyses contents
+		  into title, header, body, footer. The header and body are further extracted into "rows" and "columns". Since many "tables" are not a strict 
+		  cartesian product of rows and columns, we develop the semantics of "split-column", "subheaders", "subtables" and "split-row". 
+		  These can be normalised into <em>HTML5</em> and <em>Tidy data</em> allowing search by semantic tools.
+	  </p>
+	  <p>We developed the system against 20 journals in the biomedical sciences giving 50 articles and 170 tables. Most were created in APA-like style 
+		  (American Psychological Association) style, with multi-row split-column headers and frequent subtables and few explict table cells.  
+		  We classified tables as messy, untidy and tidy (usually single header rows and no subtables). GROBID ws used to extract table coordinates 
+		  and gave metrics of 91 TP, 20 FP, and 21 FN. AMI was tested separately by manually excising 167 true tables. These were transformed into raw SVG
+		  files, and the contents re-assembled heuristically into high-level primitives (words, phrases, styles, superscripts) and regions (lines, boxes).
+		  Heuristics were used to create table rows, columns and cells which were populated with HTML content. 
+	  </p>
+	  <p>
+		 The analysis was blinded from the developers. We used expert classification of the raw table structure into a matrix of (contents {bad, reasonable, close to perfect, perfect}). AMI was used to extract HTML5 from these with the same expert classification. Of 106 tables, 33 were perfect:perfect (33%) with 70% (reasonable:reasonable) or better. 
+      </p>
+	  <p> The project is ongoing and carried out as Open Notebook Science where all data and discussion is immediately uploaded to the public web.</p>
+    </section>
+    <section>
+      <h1>Introduction</h1>
+	  <p></p>
+     </section>
+    <section id="SectionRelatedWorks">
+      <h1>Related works</h1>
+    </section>
+    <section id="SectionCiTO">
+      <h1>Users' adoption of CiTO</h1>
+      <section>
+        <h1>CiTO annotations and mental models</h1>
+      </section>
+    </section>
+    <section id="SectionTest">
+      <h1>Experimental analysis of CiTO use </h1>
+      <section>
+        <h1>Results</h1>
+        <figure id="TableCitationFuctionsHumans">
+          <table>
+            <tr>
+              <th rowspan="1" colspan="1">
+                CiTO property in T41
+              </th>
+              <th rowspan="1" colspan="1">
+                # in T41
+              </th>
+              <th rowspan="1" colspan="1">
+                CiTO property in T10
+              </th>
+              <th rowspan="1" colspan="1">
+                # in T10
+              </th>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <p>citesForInformation</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>151</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>citesForInformation</p>
+              </td>
+              <td rowspan="1" colspan="1">
+                <p>190</p>
+              </td>
+            </tr>
+          </table>
+      </section>
+      <section>
+        <h1>Data evaluation</h1>
+    </section>
+    <section id="SectionDiscussion">
+      <h1>Users' feedback: SUS and grounded analysis</h1>
+    </section>
+    <section id="SectionConclusions">
+      <h1>Lessons learnt and conclusions</h1>
+
+    </section>
+    <section id="SectionAcknowledgements" role="doc-acknowledgements">
+      <h1>Acknowledgements</h1>
+      <p>We would like to thank all the people who participated to our (intensive and stressing)
+        evaluation.</p>
+    </section>
+    <section id="SectionReferences" role="doc-bibliography">
+      <h1>References</h1>
+      <ul>
+        <li id="PeroniCiTOFaBiO" role="doc-biblioentry">
+          <p>Peroni, S., Shotton, D. (2012). FaBiO and CiTO: ontologies for describing bibliographic
+            resources and citations. In Journal of Web Semantics, 17 (December 2012): 33-43. DOI:
+            10.1016/j.websem.2012.08.001</p>
+        </li>
+
+      </ul>
+    </section>
+    <section role="doc-endnotes">
+      <section id="ftn6" role="doc-endnote">
+        <p>CiTO: <a href="http://purl.org/spar/cito">http://purl.org/spar/cito</a>.</p>
+      </section>
+    </section>
+  </body>
+</html>

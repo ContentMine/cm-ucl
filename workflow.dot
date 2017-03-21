@@ -1,0 +1,28 @@
+digraph workflow {
+
+"pdf" [label="pdf", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"pdf.svg" [label="pdf.svg", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"grobid.xml" [label="grobid.xml", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"x" [label="", style="filled", color="pink", shape="point", fixedsize=shape, width="0.2", height="0.2"]
+"y" [label="", style="filled", color="pink", shape="point", fixedsize=shape, width="0.2", height="0.2"]
+"table.png" [label="table.png", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"table.svg" [label="table.svg", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"table.annot.svg" [label="table.annot.svg", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"table.svg.html" [label="table.svg.html", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+"png_html" [label="png+html", style="filled", color="yellow", fontname="Helvetica", fontsize="20"]
+
+"pdf" -> "grobid.xml" [label="grobid"]
+"pdf" -> "pdf.svg" [label="pdf2svg"]
+"grobid.xml" -> "x" [label="table.coords"]
+"grobid.xml" -> "table.png" [label="table.coords"]
+"pdf.svg" -> "x" 
+"x" -> "table.svg" [label="extract table"]
+"table.svg" -> "table.annot.svg" [label="find blocks"]
+"table.annot.svg" -> "table.svg.html" [label="rows+columns"]
+"pdf" -> "table.png" [label="manual snip", style="dotted"]
+"table.svg.html" -> "y" [label="align"]
+"table.png" -> "y" [label="align"]
+"y" -> "png_html" [label="display"]
+"pdf.svg" -> "table.svg" [label="manual snip", style="dotted"]
+
+}
