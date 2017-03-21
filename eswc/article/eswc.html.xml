@@ -79,7 +79,7 @@
      </section>
 	 <section>
 		 <h2>What is a Table?</h2>
-		 To extract tables we need a target schema, but few of these have a semantic structure. 
+		 <p>To extract tables we need a target schema, but few of these have a semantic structure. 
 			 <section>
 				 <h3>Simple table</h3>
 				 The simplest tables, as exemplified by the CSV (TSV) format, consist of the cartesian product of <em>rows</em> and <em>columns</em>, ideally with row and column labels.
@@ -134,7 +134,6 @@
 	   				 &lt;/tr><br/>
 				&lt;/table>
 			</td>
-</tr>
 		</table>
 		The task is to go from the left side (with no semantic structure) to the right, using heuristics.
 		Here is a simple table in the wild which AMI has converted perfectly to semantic HTML:
@@ -181,18 +180,25 @@
 					 <li><b>Indents</b>. Authors (or typesetters) will indent cells to indicate (a) continuation os running text (b) subtables. There is no standard and much error.</li>
 					 <li><b>Subtables</b>. Authors may break the body of the table into sub-sections. Sometimes these are completely new tables, sometimes they are subcategories of preceding information. Subtables are almost always implicit and may by indicated by (a) interleaved (bold) title rows (b) different backgrounds (c) nested boxes, etc. Again there are no explicit standards
 					 </li>
-					 <li><b>Scientific illiteracy</b>. It is appallingly common that typsetters retype minus signs ("-") as em-dashes (U+2014, &mdash;) as in Figure . or create not-equals (U+2260, &#x2260;) by overstriking "=" with "/". We are slowly developing heuristics to detect and correct these.</li>
-				 </ul>
+					 <li><b>Scientific illiteracy</b>. It is appallingly common that typsetters retype minus signs ("-") as em-dashes (U+2014, &mdash;) as in Figure . or create not-equals (U+2260, &#x2260;) by overstriking "=" with "/". We are slowly developing heuristics to detect and correct these.
 		 </p>
+		 <figure><img="./">
 	 </section>
 	 
  </section>
  
+https://github.com/ContentMine/cm-ucl/interim-reports/grobid-table-retrieval.pdf
+
+The precision of using GROBID to extract tables was 0.769 whereas the recall was 0.745. The table above
+depicts the classification problem, with columns indicating the true situation and the rows indicating the
+result from GROBID. There were 21 false positives and 70 true positives, resulting in a estimated Positive
+Predictive Value (PPV) of 0.769.
       <section>
         <h1>Results</h1>
 		<section>
 			<h2>Retrieval of tables</h2>
-				We used the GROBID program to extract the main structure and text of the documents. The report is at: https://github.com/ContentMine/cm-ucl/interim-reports/grobid-table-retrieval.pdf
+			<p>
+				We used the GROBID program to extract the main structure and text of the documents. Because
 		<table>GROBID
 			<tr>
 				<th/>
@@ -220,20 +226,13 @@
 			</tr>
 					
 		</table>
-		
-
-		The precision of using GROBID to extract tables was 0.769 whereas the recall was 0.745. The table above
-		depicts the classification problem, with columns indicating the true situation and the rows indicating the
-		result from GROBID. There were 21 false positives and 70 true positives, resulting in a estimated Positive
-		Predictive Value (PPV) of 0.769.
-		
       </section>
 	  
 	  <section>
 		  <h1>Table structure</h1>
 		 <table>
 			 <tr>
-				 <th><em>AMI \ original</em></th>
+				 <th><em>AMI \ original</em>
 				 <th>Bad</th>
 				 <th>Reasonable</th>
 				 <th>Excellnt</th>
@@ -268,31 +267,21 @@
 				 <td>33</td>
 			 </tr>
 				</table>
-	  </section>
-    <section id="SectionAcknowledgements" role="doc-acknowledgements">
-      <h1>Acknowledgements</h1>
-      <ul>
-		  <li>To Prof. James Thomas and Alison O'Mara-Hayes at University College , London for funding and in-depeth discussions.</li>
-		  <li>To Laurent Romary and Patrice XXX for the Grobid.</li>
-	  </ul>
-    </section>
-	
-    <section id="SectionReferences" role="doc-bibliography">
-      <h1>References</h1>
-      <ul>
-        <li id="PeroniCiTOFaBiO" role="doc-biblioentry">
-          <p></p>
-        </li>
+		  
+			  
+			  
+			  
+			  
+	  </section> <section id="SectionAcknowledgements" role="doc-acknowledgements"> <h1>Acknowledgements</h1> <ul> <li>To Prof. James Thomas and Alison O'Mara-Hayes at
+	  University College , London for funding and in-depeth discussions.</li> <li>To Laurent Romary and Patrice XXX for the Grobid. </ul> </section> <section
+	  id="SectionReferences" role="doc-bibliography"> <h1>References</h1> <ul> <li id="PeroniCiTOFaBiO" role="doc-biblioentry"> <p></p> </li>
 
       </ul>
     </section>
-	
     <section role="doc-endnotes">
       <section id="ftn6" role="doc-endnote">
-        <p></p>
+        <p>CiTO: <a href="http://purl.org/spar/cito">http://purl.org/spar/cito</a>.</p>
       </section>
     </section>
-	
-</section>
   </body>
 </html>

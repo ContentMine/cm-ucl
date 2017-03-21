@@ -36,13 +36,18 @@
     <!-- Paper keywords (one or more) -->
     <meta property="prism:keyword" content="PDF"/>
     <meta property="prism:keyword" content="semantic web"/>
+	
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML"> </script>
 	<style>
 	.monospace {font-family : monospace;}
 	.border {border:solid 1px;}
+	section {border: solid red 1px; margin: 1px;}
 	</style>
+	
   </head>
+  
   <body>
+	  
     <section id="SectionAbstract" role="doc-abstract">
       <h1>Abstract</h1>
       <p>Tables in PDF documents are located (<em>retrieved</em>) and the contents are semantically <em>extracted</em> into valid XHTML tables. 
@@ -65,9 +70,10 @@
       </p>
 	  <p> The project is ongoing and carried out as Open Notebook Science where all data and discussion is immediately uploaded to the public web. This paper is in part an overlay on the Open Notebook and material is linked rather than being copied (with semantic loss and error). All data and code is on or referenced from http://github.com/contentmine/cm-ucl. Discussion, including summary results is at http://discuss.contentmine.org/t/ami-eppi-cm-ucl-table-extraction-project/322 which has many sequential postings commenting on strategy and progress.</p>
     </section>
+	
     <section>
       <h1>Introduction</h1>
-	  <section>
+	  <section class="subsection">
 		  <h2>Note on Strategy</h2>
 		  <em>
 	  <p>
@@ -77,10 +83,11 @@
 	  </p>
   </em>
      </section>
-	 <section>
+
+	  <section class="subsection">
 		 <h2>What is a Table?</h2>
 		 To extract tables we need a target schema, but few of these have a semantic structure. 
-			 <section>
+	  <section class="subsubsection">
 				 <h3>Simple table</h3>
 				 The simplest tables, as exemplified by the CSV (TSV) format, consist of the cartesian product of <em>rows</em> and <em>columns</em>, ideally with row and column labels.
 			 <table>
@@ -142,7 +149,8 @@
 		(Note: It is marred by the typesetter's use of an undocumented font ("AdvPSMP13") where the symbol for &mu; is represented by "1".)
 		
 	</section>
-	<section>
+	
+	  <section class="subsubsection">
 		<h3>Complex table</h3>
 		Many scientific tables have more complex semantics, often implicit and only indicated by visual clues. 
 		<figure>
@@ -171,7 +179,8 @@
 	</section>
 			
 	 </section>
-	 <section>
+	 
+	  <section class="subsection">
 		 <h2>PDF Documents</h2>
 		 <p>
 			 PDF documents have very little structure; simply character streams, graphicsPaths, and bitmaps, but no support for higher primitives such as words, phrases, lines, rectangles, etc. Table reconstruction therefore requires heuristics. Our process includes:
@@ -185,12 +194,12 @@
 				 </ul>
 		 </p>
 	 </section>
-	 
  </section>
  
-      <section>
+	  <section class="section">
         <h1>Results</h1>
-		<section>
+		
+		<section class="subsection">
 			<h2>Retrieval of tables</h2>
 				We used the GROBID program to extract the main structure and text of the documents. The report is at: https://github.com/ContentMine/cm-ucl/interim-reports/grobid-table-retrieval.pdf
 		<table>GROBID
@@ -229,7 +238,7 @@
 		
       </section>
 	  
-	  <section>
+		    <section class="subsection">
 		  <h1>Table structure</h1>
 		 <table>
 			 <tr>
@@ -269,6 +278,7 @@
 			 </tr>
 				</table>
 	  </section>
+
     <section id="SectionAcknowledgements" role="doc-acknowledgements">
       <h1>Acknowledgements</h1>
       <ul>
@@ -276,23 +286,16 @@
 		  <li>To Laurent Romary and Patrice XXX for the Grobid.</li>
 	  </ul>
     </section>
-	
+
     <section id="SectionReferences" role="doc-bibliography">
       <h1>References</h1>
       <ul>
         <li id="PeroniCiTOFaBiO" role="doc-biblioentry">
-          <p></p>
+          <p>...</p>
         </li>
 
       </ul>
     </section>
 	
-    <section role="doc-endnotes">
-      <section id="ftn6" role="doc-endnote">
-        <p></p>
-      </section>
-    </section>
-	
-</section>
   </body>
 </html>
