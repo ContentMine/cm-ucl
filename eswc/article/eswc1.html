@@ -185,7 +185,7 @@
 		 <p>
 			 PDF documents have very little structure; simply character streams, graphicsPaths, and bitmaps, but no support for higher primitives such as words, phrases, lines, rectangles, etc. Table reconstruction therefore requires heuristics. Our process includes:
 			 <ul>
-				 <li><b>normalization of character stream</b>. Unfortaunely many publishers use non-standard, undocumented, font-families. While the US-ASCII range(32-127) is normally correct, higher code points, especially maths, are frequently totally corrupted. Other problems include diacritics, ligatures, small caps, etc. TeX-based fonts and Mathematical PI  can suffer from this. Many publishers (typesetters) have arcane fonts ("Adv"). AMI has conversion tables for the commonest. See Figure </li>
+				 <li><b>normalization of character stream</b>. Unfortunately many publishers use non-standard, undocumented, font-families. While the US-ASCII range(32-127) is normally correct, higher code points, especially maths, are frequently totally corrupted. Other problems include diacritics, ligatures, small caps, etc. TeX-based fonts and Mathematical PI  can suffer from this. Many publishers (typesetters) have arcane fonts ("Adv"). AMI has conversion tables for the commonest. See Figure </li>
 					 <li><b>Sub and superscripts (figure 1)</b>. Sub- and super-scripts ("suscripts") are critical for STEM subjects but PDF can only represent them by different-sized characters offset in X and Y. Suscripts cause large problems in adding semantics to PDFs; in AMI we convert them to semantic form at an early stage and preserve them through the process.</li>
 					 <li><b>Indents</b>. Authors (or typesetters) will indent cells to indicate (a) continuation os running text (b) subtables. There is no standard and much error.</li>
 					 <li><b>Subtables</b>. Authors may break the body of the table into sub-sections. Sometimes these are completely new tables, sometimes they are subcategories of preceding information. Subtables are almost always implicit and may by indicated by (a) interleaved (bold) title rows (b) different backgrounds (c) nested boxes, etc. Again there are no explicit standards
@@ -198,9 +198,38 @@
  
 	  <section class="section">
         <h1>Results</h1>
-		
+		The tasks can be split into the following:
+		<ul>
+			<li><b>Conversion of PDFs to character streams</b>. Two complementary approaches were used:
+				<ul>
+					<li><b>Grobid</b>. Grobid (originally created to extract bibliographic information) reads a PDF document and outputs XML according to the TEI schema (<tt>xmlns="http://www.tei-c.org/ns/1.0"</tt>); a typical result is <a href="https://github.com/ContentMine/cm-ucl/blob/master/corpus-oa-pmr-v01/10.1007_s00213-015-4198-1/fulltext.grobid.xml">grobid.xml[1]</a>. Grobid uses PDFBox 1.8 as the orimary parser and uses its output to create chunks of text, e.g.
+						<pre>
+&lt;figDesc 
+coords="7,306.14,57.96,238.05,7.71;7,306.14,67.88,237.58,7.71">
+Table 1 Mean percent changes from vehicle in serotonergic markers after chronic (14 days)
+ vilazodone, citalopram, and paroxetine treatment&lt;/figDesc>
+&lt;table coords="7,306.14,86.76,238.14,314.59">Brain region Vilazodone (%) 
+Citalopram (%) Paroxetine (%)
+						</pre>
+						Grobid uses machine-learning (CRF) to segment the document and classify components and annotate with page coordinates. 
+					</li>
+					<li>
+						Our AMI suite also uses PDFBox to create XML - first SVG and then HTML.
+						<table>
+							<p><em>The dotted lines indicate how the development and validation corpus was created.</em></p>
+							<tr>
+								<td width="38%"><img src="_architecture.png"/></td>
+								<td><p>The PDF is parsed independently to <tt>grobid.xml</tt> and also to a stream (<tt>pdf.svg</tt> of characters 
+									(<tt>svg:text</tt>) and graphics paths (<tt>svg:path</tt>). The character stream is processed for sub- and super-scripts and combined into words->phrases->sentences. The paths are heuristically transformed to higher semantic primitives (mainly <tt>svg:rect</tt> and  <tt>svg:line</tt>)</td>
+							</tr>
+						</table>
+					</li>
+				</ul>
+					This was carried out by our AMI suite of tools (https://github.com/ContentMine/ami/ and ) </li>
+		</ul>
 		<section class="subsection">
 			<h2>Retrieval of tables</h2>
+			
 				We used the GROBID program to extract the main structure and text of the documents. The report is at: https://github.com/ContentMine/cm-ucl/interim-reports/grobid-table-retrieval.pdf
 		<table>GROBID
 			<tr>
@@ -287,6 +316,15 @@
 	  </ul>
     </section>
 
+GROBID: Combining Automatic Bibliographic Data Recognition and Term Extraction for Scholarship Publications. P. Lopez. Proceedings of the 13th European Conference on Digital Library (ECDL), Corfu, Greece, 2009.
+
+Automatic Extraction and Resolution of Bibliographical References in Patent Documents. P. Lopez. First Information Retrieval Facility Conference (IRFC), Vienna, May 2010. LNCS 6107, pp. 120-135. Springer, Heidelberg (2010).
+
+Evaluation of Header Metadata Extraction Approaches and 
+Tools
+ for Scientific PDF Documents 
+Mario Lipinski, Kevin Yao, Corinna Breitinger, Joeran Beel
+, Bela Gipp 
     <section id="SectionReferences" role="doc-bibliography">
       <h1>References</h1>
       <ul>
@@ -296,6 +334,8 @@
 
       </ul>
     </section>
+
+[1] https://github.com/ContentMine/cm-ucl/blob/master/corpus-oa-pmr-v01/10.1007_s00213-015-4198-1/fulltext.grobid.xml
 	
   </body>
 </html>
