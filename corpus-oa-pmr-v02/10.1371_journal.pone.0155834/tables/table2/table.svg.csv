@@ -1,6 +1,0 @@
-"Antibody ","Type ","Antigenretrieval ","Source ","Binding locus "
-Ubiquitin[1:1000],Mouse (mono),Citric acid,"Invitrogen UK, (cat: 13.1600)",Ubiquitin polypeptide (50)
-S830[1:20000],Sheep (poly),Citric acid,Bates lab. Kings College London,mHTT: N-terminal exon 1 to 53Q (32)
-EM48[1:500],mouse (mono),Citric acid,"Millipore UK, (cat: MAB5374)",mHTT: N-terminal (AA1-212) of exon-1 and 82-150Q (16)
-MW8[1:1000],mouse (mono),Citric acid,see “*”below,mHTT: C-Terminal 8AA (AEEPLHRP) sequence of exon1 (34)
-1C2[1:4000],mouse (mono),Formic acid,"Millipore UK, (cat: MAB1574)",polyglutamine stretches of >38Q (31)
