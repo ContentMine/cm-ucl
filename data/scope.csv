@@ -1,181 +1,181 @@
-Order-id,sha256sum,file_table-imgs,file_corpus-oa,pmr,chjh,notes_pmr,notes_chjh
-1,01b0cf58f4234aae20d652e3dcd70256199722557892e01bab709aa25f2511c0, table-imgs-scope/table1.png, corpus-oa/10.1007_s00213-015-4198-1/table1.png,in,in,,
-2,97841cda84ee5e433cbb0f7b93b27313b174895cc105e5be36fc8c86732821db, table-imgs-scope/table1_(2).png, corpus-oa/10.1007_s00213-016-4471-y/table1.png,q,q,unclear header,
-3,67f119602ba5fc346915c6b8e5df3fa68a3d4a9515aea4e31d0de139fd69485e, table-imgs-scope/table1_(3).png, corpus-oa/10.1007_s00213-016-4477-5/table1.png,in,in,,Non-aligned columns
-4,2f28bb1521ac39ed1bd54cd6dfdc24fd2ffe2798da4d5cbf8a3a1b3b0510db73, table-imgs-scope/table1_(4).png, corpus-oa/10.1007_s12975-016-0496-0/table1.png,in,in,,Multiple notes
-5,e40b0fe413e65de2ba5cb51980e3db1d59d3de4b21210cf22798a785f1a04131, table-imgs-scope/table1_(5).png, corpus-oa/10.1016_j.amepre.2016.07.024/table1.png,in,in,,"Boxed, nested rows, partially blank lines"
-6,29774b00df31d36915c7e323de4e2ee8f00bcd9be05275275e926ff0a8a57050, table-imgs-scope/table1_(6).png, corpus-oa/10.1016_j.amepre.2016.08.013/table1.png,in,in,,"Boxed, nested rows, partially blank lines"
-7,a21d2db60c8fdfbf9b5bc5a32f2f7925e5d0f19c14ae4241c5c7a3068aac0162, table-imgs-scope/table1_(7).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table1.png,in,out,cell list,
-8,07ba889c149cc1902c39c1fe09c7e893aa24e7108ba6f99df76b7d933f62fb9e, table-imgs-scope/table1_(8).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table1.png,in,in,,"Nested rows, partially blank lines"
-9,1320fd0198ff2c0b6b8f64ba310f5a4d4836e95f66a5b503665d81f1ed1f7ae9, table-imgs-scope/table1_(9).png, corpus-oa/10.1016_j.pain.2014.08.023/table1.png,in,in,,
-10,47ef8180d3c3111471ad48fe25f4196e42b035c988da6aa483761c13bde6f5fd, table-imgs-scope/table1_(10).png, corpus-oa/10.1016_j.pain.2014.09.020/table1.png,in,in,,
-11,3d578281aefab50ea9e331836fade2daa5f0ebd079974ca414f2eb1f318e9d33, table-imgs-scope/table1_(11).png, corpus-oa/10.1016_j.pain.2014.09.033/table1.png,in,in,,
-12,c514f2703ddd724dcfaf0a13c97733a392393d60730124d928a428fedc1f684f, table-imgs-scope/table1_(12).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table1.png,in,in,,"Nested rows, partially blank lines, non-header column description"
-13,b392ca094d88fca0ef71781ef52aa2a3ef9aced8c0b217f27a4a84165f98582d, table-imgs-scope/table1_(13).png, corpus-oa/10.1016_j.ypmed.2016.09.005/table1.png,in,in,,
-14,b381024905ab158771c96843463962ec02f080dc6e67ee4a5cb9daccd61128e5, table-imgs-scope/table1_(14).png, corpus-oa/10.1016_S0140-6736(16)30388-9/table1.png,q,out,list with subheads,"Boxed, not a table for information but an enumeration"
-15,0d3e5ab271c927131d456922c53ae99b4848c670bedee08d2199aa3a13610ca0, table-imgs-scope/table1_(15).png, corpus-oa/10.1016_S0140-6736(16)31461-1/table1.png,in,in,,Boxed
-16,16b5fcbc5a420758d60f730150188960abfb1c8dcdcb1209e4a4c86aaaab495a, table-imgs-scope/table1_(16).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table1.png,in,in,,"Nested rows, partially blank lines, boxed"
-17,5c06aac521c808ee68df72cf68cd55039d6472b160721ea3267c54122b121981, table-imgs-scope/table1_(17).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table1.png,in,in,,"Nested rows, partially blank lines, boxed"
-18,b6d5969e16457cf8899bdbb79609fc1d5183a3215e79fdd462d4bc7230051d86, table-imgs-scope/table1_(18) cont.png, corpus-oa/10.1016_S0140-6736(16)32507-7/table1cont.png,in,in,,"Nested rows, partially blank lines, boxed"
-18,72020bebfa727c8289998ed4e0312ed6b807248ab7956e33b4d89c6e87d5a372, table-imgs-scope/table1_(18).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table1.png,in,in,,"Nested rows, partially blank lines, boxed"
-19,672f28e99e80e96b70b2e719f5b00ed560ecbdaef2c01991c759cca4fb79cf80, table-imgs-scope/table1_(19).png, corpus-oa/10.1038_ejcn.2016.222/table1.png,in,in,,"boxed, double level row descriptors"
-20,6b22a109064388520ead6e77d221228c911cafa45ed5c72d9efae41c948554e9, table-imgs-scope/table1_(20).png, corpus-oa/10.1038_ijo.2016.206/table1.png,in,in,,"Nested rows, blank lines"
-21,f4433f1d4a6a64ff2be4a1f314b4d68e2ca01c0c7d634b7ddb4cf80fde022278, table-imgs-scope/table1_(21).png, corpus-oa/10.1038_pr.2016.187/table1.png,in,in,,"Nested rows, blank lines"
-22,a40227bc1abb987d35af29830dbd51c06660db5c1fb2b776fbe522696d479124, table-imgs-scope/table1_(22).png, corpus-oa/10.1038_srep37826/table1.png,in,in,,"Gridded, nested rows"
-23,98a56f6ff5e64f5f36e12474c6411d2b68b72f31bf4d4c5e69d6b8d4eb415a66, table-imgs-scope/table1_(23).png, corpus-oa/10.1038_srep39471/table1.png,in,in,,"Gridded, nested rows"
-24,014e6b05e364d82fa65998316f146061096634d670d59164fe7b04e0f5f5ddcf, table-imgs-scope/table1_(24).png, corpus-oa/10.1080_00207454.2016.1185421/table1.png,in,in,,No column header
-25,cefbc902775f8cfc1d737fa658d85fcd4408bdcc7460bdef0e5cb65032bd8a4c, table-imgs-scope/table1_(25).png, corpus-oa/10.1080_00207454.2016.1194274/table1.png,in,in,,"Nested rows, blank lines"
-26,d9d1974cb8568361a6d5f1d27f31edb14e7cedee4f9ef1b092ab57fff816168a, table-imgs-scope/table1_(26) cont1.png, corpus-oa/10.1097_j.pain.0000000000000579/table1cont1.png,in,in,,
-26,0c51e66ee543e61e23290333e1af993fa1a7ba39b7cd705d60783559b9f33ee8, table-imgs-scope/table1_(26) cont2.png, corpus-oa/10.1097_j.pain.0000000000000579/table1cont2.png,in,in,,
-26,030a1ab069b5513ce441e4a335a23b0c504e94a6a1323be06ff478bf5d7a43e5, table-imgs-scope/table1_(26).png, corpus-oa/10.1097_j.pain.0000000000000579/table1.png,in,in,,
-27,1fdf5d9ee6c9310f52d739304807dc429eaa174fd83a88a36d0b71a1a8c6f04a, table-imgs-scope/table1_(27).png, corpus-oa/10.1097_WNR.0000000000000066/table1.png,in,in,,
-28,919f87079298a7b77eaa4686b478bd3bad34e50078aba288ca7681780d24eec7, table-imgs-scope/table1_(28).png, corpus-oa/10.1097_WNR.0000000000000118/table1.png,in,in,,
-29,a77ff111e361e4c13250ed430f9061de44579beb33eed786d21813093d710aef, table-imgs-scope/table1_(29).png, corpus-oa/10.1111_bph.13646/table1.png,in,in,,"Boxed, blank lines"
-30,378b5d4d1b523de933629aefdf4c73d604de6365cfb2af01cc14faab09cacaa2, table-imgs-scope/table1_(30).png, corpus-oa/10.1111_bph.13654/table1.png,in,in,,Boxed
-31,83dfcf640471677dff12a0d436584452d20ff3e9abededeff2c50e4bc703b766, table-imgs-scope/table1_(31).png, corpus-oa/10.1111_ejn.13382/table1.png,in,in,cell list,
-32,ec485db9ac35ab2cd2a3a42a6b8c3a69fedd096b3b3d02714e3ff377d552d365, table-imgs-scope/table1_(32) cont1.png, corpus-oa/10.1111_ejn.13418/table1cont1.png,q,in,cell list,
-32,edd4e6db9103aedb66ae1cdafdef4231e87d4ba1caadbb354b26ae74d5c839ca, table-imgs-scope/table1_(32) cont2.png, corpus-oa/10.1111_ejn.13418/table1cont2.png,q,in,cell list,
-32,10806974ef205dc369b443c59ccc06cf27e2de76d07f7080a326fbea8529cbc7, table-imgs-scope/table1_(32).png, corpus-oa/10.1111_ejn.13418/table1.png,q,in,cell list,
-33,609fa2e4024312f9d17a4018b3e7dd4f7a75017d907fc24e1efa2d51803b2f10, table-imgs-scope/table1_(33).png, corpus-oa/10.1111_nyas.13192/table1.png,in,in,,
-34,78d40d0e9e359c61b87812649b3644d064b7ad6dc91fefd3d4e0bf90789e609a, table-imgs-scope/table1_(34).png, corpus-oa/10.1111_nyas.13294/table1.png,in,in,,"Nested rows, blank lines"
-35,d2015f37b6c1b05045d2f55f257b3f690ebb481359efc9dbb9cb4cec47d596f8, table-imgs-scope/table1_(35).png, corpus-oa/10.1136_bmjopen-2016-011048/table1.png,in,in,,"Nested rows, blank lines"
-36,800be716479abf1868bc21abeebeb8437d0402ba74ddf80732900766cab83fc8, table-imgs-scope/table1_(36).png, corpus-oa/10.1136_bmjopen-2016-012330/table1.png,in,in,,"Nested rows, but each level contains data"
-37,be01645c5be1e49c51684bb30fdb7768da4301abf4aadda3faaab4347b85f585, table-imgs-scope/table1_(37).png, corpus-oa/10.1136_bmjopen-2016-013045/table1.png,in,in,,"Nested rows, blank lines"
-38,5aeb7c92b346c505fd997696b550bc91c463e50a3fecf8650ad1ff9ccf807ba0, table-imgs-scope/table1_(38).png, corpus-oa/10.1136_jech-2014-204984/table1.png,q,out,cell list,Not a data table but enumeration
-39,6110babf75633de3a010a02f082ac8405e0f9e1a09b5ef39f8d7b016cb216107, table-imgs-scope/table1_(39).png, corpus-oa/10.1136_jech-2015-206665/table1.png,in,in,,"Nested rows, some higher-levels contain data while others don’t"
-40,837820d08619db95dd7a626a9314b45f58e192b01c6cb27494f5cead6ef70407, table-imgs-scope/table1_(40).png, corpus-oa/10.1179_1743132812Y.0000000071/table1.png,q,out,list,enumeration
-41,167e4e092a87105ec206a711eeb1ec50fed3fceae15475cffcc8518c2feed0e3, table-imgs-scope/table1_(41).png, corpus-oa/10.1179_1743132815Y.0000000036/table1.png,in,in,,
-42,d00575126d11eaa0bd5f09d224076fca4cc73e6d61d9919a9911b8312097af5c, table-imgs-scope/table1_(42).png, corpus-oa/10.1179_1743132815Y.0000000050/table1.png,in,in,,
-43,26eb98a17a9187fd3b552fe4a00f2512d5eb8face31a62c56039cee373bb320b, table-imgs-scope/table1_(43).png, corpus-oa/10.1186_1471-2431-13-190/table1.png,in,in,,"Nested rows, blank lines"
-44,623930fea7f3326802e0073a1827682dc03f5e86740d05cb228b60dc87dfbfa4, table-imgs-scope/table1_(44).png, corpus-oa/10.1186_1471-2458-9-122/table1.png,in,in,,"Nested rows, blank lines"
-45,dc2e7954fb08431d9c8f1900b926c095dbb62ddbeb1dbed8848780edc398ca4a, table-imgs-scope/table1_(45).png, corpus-oa/10.1186_1471-2458-12-740/table1.png,in,in,,"Nested rows, blank lines"
-46,37046d69aa6101dccc0f1e731ebcc20250e1be6f502f488050e8b74ecef8ec89, table-imgs-scope/table1_(46).png, corpus-oa/10.1186_1741-7015-11-207/table1.png,in,in,,"Nested rows, blank lines"
-47,1bf741f681ed322f4ea228d081e645f4837d2cd98fd501f1ff880d1eb23950dd, table-imgs-scope/table1_(47).png, corpus-oa/10.1186_s12916-014-0161-y/table1.png,in,in,,"Nested rows, blank lines"
-48,00c1d1693db42bf3abad6334e1704509d340b8039db9cc7c1b4352f6cf5adf1e, table-imgs-scope/table1_(48).png, corpus-oa/10.1186_s12974-016-0542-6/table1.png,in,in,,Empty cells
-49,77d7ac57c4491e34182acc16c67d5eeaee2332145e8fd631816725b3d87e36a2, table-imgs-scope/table1_(49).png, corpus-oa/10.1371_journal.pbio.1000481/table1.png,in,in,,"Super, subscripts, weird underscores, line along table"
-50,7cfb7d304c36f9678414c1dc8a0a0e28d43898a248c3a71b66ce85e4cf40cd98, table-imgs-scope/table1_(50).png, corpus-oa/10.1371_journal.pbio.1001952/table1.png,in,in,,Line along table
-51,dd80efceb4744aec437ffe4c67adf1e0f7af71ca02a411022efc20166df4ea89, table-imgs-scope/table1_(51).png, corpus-oa/10.1371_journal.pone.0148292/table1.png,in,in,,
-52,53761094866c5c9af17811192db08dc237bb07a27fe570e9bffd93ed05e2b4ca, table-imgs-scope/table1_(52).png, corpus-oa/10.1371_journal.pone.0155834/table1.png,in,in,,
-53,44df07ff432f9f04f984b01d264c426e47eae232263743d9e1669c9f4646b10e, table-imgs-scope/table1_(53).png, corpus-oa/10.1371_journal.pone.0169976/table1.png,in,q,,multiple datapoints per row
-54,f5e1d7d0fa6cfdbcde7ca8b1656871c90721e3fa122177cd9a6df8d87b1a08a8, table-imgs-scope/table1_(54).png, corpus-oa/10.3109_00207454.2013.803104/table1.png,in,in,,no culumn headers
-55,f7a2e1cb8f6a36309f35c640004c8e59be892604fa44cc5c8ffe1915343da61a, table-imgs-scope/table2.png, corpus-oa/10.1007_s00213-016-4471-y/table2.png,in,in,,
-56,8a90a3b4ef9fd1a39579b628b4d8f79e790366225be1d67c7859897c734bcf16, table-imgs-scope/table2_(2).png, corpus-oa/10.1016_j.amepre.2016.07.024/table2.png,in,in,,"Nested rows, blank lines, boxed"
-57,54b75c6e40506fc4bdc15173e08ada345d6182e950c476457e179d4fb01bb0e8, table-imgs-scope/table2_(3).png, corpus-oa/10.1016_j.amepre.2016.08.013/table2.png,in,in,,"nested column headers, nested rows, blank lines"
-58,5691dd15231cb2dcc7e262409d7e7b70e596dad9ab182e08897db273efe68dfa, table-imgs-scope/table2_(4).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table2.png,in,in,,nested columns
-59,b1355d42794dbec88ffac3e90969ee927c1aaa3ac13d4970fd2f8a66ba412459, table-imgs-scope/table2_(5) cont.png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table2cont.png,out,out,corrmat,"correlation matrix, double datapoints"
-59,5cbfb1be3a084e3d7ea4e767990a982096996d4bafcc15a5a156591a7a3fd10c, table-imgs-scope/table2_(5).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table2.png,out,out,corrmat rot,"correlation matrix, double datapoints"
-60,3d771b23b2c766415f890533a41fc2134c92beaa2ad501c95be343b9980eaf05, table-imgs-scope/table2_(6).png, corpus-oa/10.1016_j.pain.2014.08.023/table2.png,in,in,,
-61,0b9a147c9be096d7fc0cc7280ca7bfc0e604f5f257f454d251f3c29de6e26f0f, table-imgs-scope/table2_(7).png, corpus-oa/10.1016_j.pain.2014.09.020/table2.png,in,in,,empty cells
-62,11a7bbd181d9049a57686e0925b3020541ec346a2f02b20584cd1fe904cba310, table-imgs-scope/table2_(8).png, corpus-oa/10.1016_j.pain.2014.09.033/table2.png,in,in,,
-63,c9d90eebe494738a79a8fbf868ae527d6621c21811fd0e787e7336a62f04d288, table-imgs-scope/table2_(9).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table2.png,in,in,,
-64,18ee30311f2973218c4e3aec2743d7a30e0cfa8a1531283189ece2ad1643a368, table-imgs-scope/table2_(10).png, corpus-oa/10.1016_j.ypmed.2016.09.005/table2.png,in,in,,"Nested rows and columns, blank lines/cells"
-65,caa950bbf136b62d23e606df09199cd10d65c459e3422ca2125fad331c9008ab, table-imgs-scope/table2_(11).png, corpus-oa/10.1016_S0140-6736(16)31461-1/table2.png,in,in,,"Boxed, nested rows and columns"
-66,a05d8572853162b3cc8a9d24d49659451ecc75588024bbfd303534a381795550, table-imgs-scope/table2_(12).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table2.png,in,in,,"Nested rows, boxed"
-67,4ef2727ef4176f7a98b079c5bc6d82a06094223936b16305cfd77854cb8292d0, table-imgs-scope/table2_(13).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table2.png,in,in,,"Nested rows, boxed"
-68,7d3fc4c6588c05d1b72c2a32529313f3d1649cb307ce6ba8f29c0388a9051bcf, table-imgs-scope/table2_(14).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table2.png,in,in,,"Nested columns, boxed"
-69,b6a2e2bfec35a979403515ede16d4520c83491642f3469ec4ec59d4c7cd7f504, table-imgs-scope/table2_(15).png, corpus-oa/10.1038_ejcn.2016.222/table2.png,in,in,,"Nested rows and columns, rotated, boxed"
-70,e8fcee91322b7d59b5b10bb938456e17b09fe95c48fa07445dbbebf1e9e11917, table-imgs-scope/table2_(16).png, corpus-oa/10.1038_ijo.2016.206/table2.png,in,in,,boxed
-71,aba38ca95a27742e7e017633f7e3c65ea4068afa423cde9e6cb7b48087709ac9, table-imgs-scope/table2_(17).png, corpus-oa/10.1038_pr.2016.187/table2.png,in,in,,"Nested rows and columns, blank lines/cells"
-72,8c621baa982f1f9d56b0368e0a128a7ee70d790bc82af406a5239eb733c38019, table-imgs-scope/table2_(18).png, corpus-oa/10.1038_srep37826/table2.png,in,in,,gridded
-73,ce6f2b96debd41b325e40aaa13683b216d62d9aa970dc4897896a950a0a5b9dc, table-imgs-scope/table2_(19).png, corpus-oa/10.1038_srep39471/table2.png,in,in,,"gridded, nested rows with rowspan"
-74,a452e42742644ef0c4800796782fbd5d49419786ed840e6ed90c97165f81bd2a, table-imgs-scope/table2_(20).png, corpus-oa/10.1080_00207454.2016.1185421/table2.png,in,in,,
-75,e18d04db4791c4b3090c45aa7cd50380e9fddc50f94b64d66ffebe3b7477d318, table-imgs-scope/table2_(21).png, corpus-oa/10.1080_00207454.2016.1194274/table2.png,in,in,,
-76,7608ec978d4d78f469931aa584a82aa14d48f18e024bc3d5889a442e64b8d70a, table-imgs-scope/table2_(22).png, corpus-oa/10.1111_bph.13654/table2.png,in,in,,"boxed, nested rows"
-77,8c907d127f1cadd9bdf8656295a53fcbe58b5560ffe9dd03c10a3a8776a118b9, table-imgs-scope/table2_(23).png, corpus-oa/10.1111_ejn.13418/table2.png,in,in,cell list,Special characters
-78,bff6b779f93cebcf149e87630f0c78fba3699319172037dec5b223d3b7b0909a, table-imgs-scope/table2_(24) cont.png, corpus-oa/10.1111_nyas.13192/table2cont.png,in,q,cell list,cell headers?
-78,1437004c42552e4ddf90aaea8885477f68e0302ec0b1ca11885738d2e8504596, table-imgs-scope/table2_(24).png, corpus-oa/10.1111_nyas.13192/table2.png,in,q,cell list,cell headers?
-79,2797a1263f9a5bdaf491b02cba8a92be54d69f9d1ee1d21826d23f7ce34ede4d, table-imgs-scope/table2_(25).png, corpus-oa/10.1111_nyas.13294/table2.png,in,in,,"nested columns, data in header"
-80,2ea98c588bc4418a168e19d4a9f20eab04cee90aa272b7341d3fb9640973687d, table-imgs-scope/table2_(26).png, corpus-oa/10.1136_bmjopen-2016-011048/table2.png,in,in,,
-81,a41e1ba91566a937c4e6c33900bf898a086f2926a1ccaadad265f32e774bf050, table-imgs-scope/table2_(27).png, corpus-oa/10.1136_bmjopen-2016-012330/table2.png,in,in,,
-82,8fc506987f29d1473572838a292b5c851603e8e6845f8c68e5992bd4e618ecbd, table-imgs-scope/table2_(28).png, corpus-oa/10.1136_bmjopen-2016-013045/table2.png,in,in,,
-83,9d6836683ad95c8ef786852c626ac7db26addc496eb62b7657ba3d45900500bb, table-imgs-scope/table2_(29).png, corpus-oa/10.1136_jech-2014-204984/table2.png,in,in,,nested rows
-84,9c151abedac35fe61c87525c58f6a99d6f2c66f73d35c0e2ae91749c11e9bb84, table-imgs-scope/table2_(30).png, corpus-oa/10.1136_jech-2015-206665/table2.png,in,in,,nested orws
-85,b5eaf9b919d6b1ba335b2454adb3b396976e7aecd7be558883702b666141ef7d, table-imgs-scope/table2_(31).png, corpus-oa/10.1179_1743132812Y.0000000071/table2.png,in,in,,inconsistent colspan
-86,743e1a0bba407870887aa0f05322f14a1ab5750de9387aa62ef7796f553d8d41, table-imgs-scope/table2_(32).png, corpus-oa/10.1179_1743132815Y.0000000036/table2.png,in,in,,
-87,6472b659d172ef615ae829b247ee39f178993955ba4d4846b80a8e6777bac989, table-imgs-scope/table2_(33).png, corpus-oa/10.1179_1743132815Y.0000000050/table2.png,in,in,,
-88,7eede9bf476028785b07ffaa84f73d6193d4e6f9cc8cbabeecd1210bdc694048, table-imgs-scope/table2_(34).png, corpus-oa/10.1186_1471-2458-9-122/table2.png,in,in,,nested rows
-89,d48e95a353f013fbeb4d196e5f0c70e428e4a6b5929ece494cd41ff95f1cddd3, table-imgs-scope/table2_(35).png, corpus-oa/10.1186_1741-7015-11-207/table2.png,in,in,,nested rows
-90,071b8e6b3c5fddceb575bac7454335bd56a255d071858534e4ebf2ac9aa79c12, table-imgs-scope/table2_(36) cont.png, corpus-oa/10.1186_s12916-014-0161-y/table2cont.png,in,in,,
-90,b7fbbd4167858bfa5f7a801adb5772438c5e3dd3fd51eaa7cc4e996400faafb2, table-imgs-scope/table2_(36).png, corpus-oa/10.1186_s12916-014-0161-y/table2.png,in,in,,
-91,839defc0e8a01f259c6dd4250e4802a648762f20f74bf3c83159797302a6e414, table-imgs-scope/table2_(37).png, corpus-oa/10.1371_journal.pbio.1001952/table2.png,in,in,,line along table
-92,e4b0ab65a554af7ae44d0eca55f3a369d0b55d900bb60678d547d93a4cf45ab9, table-imgs-scope/table2_(38).png, corpus-oa/10.1371_journal.pone.0148292/table2.png,in,in,,
-93,641a62284e17aeb7726d94a4d7b16c19fdfb2b25c100a8653bb34f130b874065, table-imgs-scope/table2_(39).png, corpus-oa/10.1371_journal.pone.0155834/table2.png,in,in,,
-94,28409e93b1d72d2dd49f6d13c1e8e5a560ec0be2b83faacffc5cbec307b2d784, table-imgs-scope/table2_(40).png, corpus-oa/10.1371_journal.pone.0169976/table2.png,in,in,,Double-table
-95,e071d8984f72270be033cf5ca51328829879e45b626d303201c7e5c4b081883d, table-imgs-scope/table2_(41).png, corpus-oa/10.3109_00207454.2013.803104/table2.png,in,in,,nested rows
-95,c94bfaf1904df67465b20c0dade8bb05d10698419fc58103d0190042405466f8, table-imgs-scope/table3.png, corpus-oa/10.1007_s00213-016-4471-y/table3.png,in,in,,
-97,5cebb215a5b47c8f4b1a4a9952f3116418ca16acbf99ac21221386b82e6ec398, table-imgs-scope/table3_(2).png, corpus-oa/10.1016_j.amepre.2016.07.024/table3.png,in,in,,"boxed, nested rows"
-98,98d4af754d4d03a6a1b20d187961b14a4a611385c8145a03c543eedeed57650e, table-imgs-scope/table3_(3).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table3.png,in,in,,nested rows
-99,51a420905c4d85e6a851601633d6eb91cd188e1f2d51b8d6f03f32c223e226aa, table-imgs-scope/table3_(4).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table3.png,in,in,,
-100,2f08ce7a75689fee9e12646c3a13048af259d0933d4f1b1e443fc222772d053e, table-imgs-scope/table3_(5).png, corpus-oa/10.1016_j.pain.2014.08.023/table3.png,in,in,,
-101,7502fbe4d6db88cbc67dd45afb238a6d0df34c60567ab30c538ea9156aeae0dc, table-imgs-scope/table3_(6) cont.png, corpus-oa/10.1016_j.pain.2014.09.020/table3cont.png,in,in,cell list,
-101,3e95e2d6952d14c462af3a1fcb0ebe691c2847795e630e467ce71a5e78858424, table-imgs-scope/table3_(6).png, corpus-oa/10.1016_j.pain.2014.09.020/table3.png,in,in,,
-102,a1033e6368444d5d20010a9d5996fd6b24a2ca6c541288342d3a5962e9c3d4d6, table-imgs-scope/table3_(7).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table3.png,in,in,,nested columns
-103,32bf70c1d8bcbb49ea99d2b22d4f28ac675cd1862a048340fc8fef310a0234d8, table-imgs-scope/table3_(8).png, corpus-oa/10.1016_j.ypmed.2016.09.005/table3.png,in,in,,
-104,1fbee0ec08c2bbdf350ab9d0cadcd9fd7847dd126e7d05c9b343f3b03ab1dce7, table-imgs-scope/table3_(9).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table3.png,in,in,,"boxed, nested rows"
-105,ec64a36ee687a0ffe84b84ab3487d1f0d7929fdbf06ee1f1c5dfbcbb8409c493, table-imgs-scope/table3_(10).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table3.png,in,in,,"boxed, nested rows"
-106,eb0745ca3dcb34457cd7966446c4912843fff847adef8c8a864ea35ecf13e54a, table-imgs-scope/table3_(11).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table3.png,in,in,,boxed
-107,69289c897e651d170b28d4a5a20f5c1f0d7d89cdf3b3d9ef2e82cd9948d0ca1d, table-imgs-scope/table3_(12).png, corpus-oa/10.1038_ejcn.2016.222/table3.png,in,in,,"nested columns and rows, special characters, boxed"
-108,dd95ac72685ac82e9a533e180e49b03825e0d96634380cda2b7f011331e5117f, table-imgs-scope/table3_(13).png, corpus-oa/10.1038_ijo.2016.206/table3.png,in,in,,"nested columns, boxed"
-109,e3329fb0073d380d591009c54d4d061a03727952d3faafc8cb23475c9efae009, table-imgs-scope/table3_(14).png, corpus-oa/10.1038_pr.2016.187/table3.png,in,in,,nested columns and rows
-110,89beec2a5e42508daf4c01b36030becf59272629188619edc8dc7f3456032de3, table-imgs-scope/table3_(15).png, corpus-oa/10.1038_srep37826/table3.png,in,in,,gridded
-111,026ac30ef8486e3445ed19401fdad0312cdc3f3a3a92724f8905e15d5d6daf6e, table-imgs-scope/table3_(16).png, corpus-oa/10.1038_srep39471/table3.png,in,in,,gridded
-112,2acca8d49330ea932e17edf52ac328d9211ab1dbc0778eca86f4db3a0deae9bb, table-imgs-scope/table3_(17).png, corpus-oa/10.1080_00207454.2016.1185421/table3.png,in,in,,
-113,7705e74154cf697fae7757cd01b3ad3ebcd3fb536b2d6354df68d7761b60dfac, table-imgs-scope/table3_(18).png, corpus-oa/10.1080_00207454.2016.1194274/table3.png,in,in,rot,"nested columns,  rotated"
-114,bad3d2262bfda6e35aa218024568555a8a7d88c9030c165899533b3561dc7195, table-imgs-scope/table3_(19).png, corpus-oa/10.1111_nyas.13294/table3.png,in,in,,nested columns and rows
-115,7287d9cf62518df0999a49450966bc9d3b04b4ce2f8fbbd9ecb0d3db30e0593b, table-imgs-scope/table3_(20).png, corpus-oa/10.1136_bmjopen-2016-011048/table3.png,in,in,,nested columns and rows
-116,6f98f240f5d62987cf1013b1f2626b1e939a6a71d2117e3af4660d82a7728f1a, table-imgs-scope/table3_(21).png, corpus-oa/10.1136_bmjopen-2016-012330/table3.png,in,in,,
-117,5a619f24cb27534c1b30f4bc5ce8394b2d66518cf32986daf94e120c8a451a65, table-imgs-scope/table3_(22).png, corpus-oa/10.1136_bmjopen-2016-013045/table3.png,in,in,,nested rows
-118,06cd29bf263440bc4db21e37391650b51c3c3a325d686bc4caa8ed6246db024d, table-imgs-scope/table3_(23).png, corpus-oa/10.1136_jech-2014-204984/table3.png,in,in,,nested columns and rows
-119,8547dd2a9cece9e853bb7314c45911ec469e9b0cd7a31a6edef208d34c710460, table-imgs-scope/table3_(24).png, corpus-oa/10.1179_1743132812Y.0000000071/table3.png,in,in,,
-120,850112512aac12a684b30144aa84e87286ba6c058b776d5cdf4b2bd7d121c660, table-imgs-scope/table3_(25).png, corpus-oa/10.1179_1743132815Y.0000000036/table3.png,in,in,,
-121,4ef1d74f44d3889d24ac05272a40c1645d689d573def0b848dcbe3c8c45a425a, table-imgs-scope/table3_(26).png, corpus-oa/10.1179_1743132815Y.0000000050/table3.png,in,in,,nested columns
-122,ef366fa0ba591521602db89db56da9475485ea48cfe3091ef4038e993d6099de, table-imgs-scope/table3_(27).png, corpus-oa/10.1186_1471-2458-9-122/table3.png,in,in,,nested rows
-123,ee03dccb1c31cf06ce50a94a0775372d4e715785706c09e8d223a4481e21a2ed, table-imgs-scope/table3_(28).png, corpus-oa/10.1186_1741-7015-11-207/table3.png,in,in,,nested columns
-124,32b28dfe1f137999cd597c7b8a28ef2431e0b745faa09f95b104045da986fdfa, table-imgs-scope/table3_(29) cont.png, corpus-oa/10.1186_s12916-014-0161-y/table3cont.png,in,in,,
-124,dc8f69bdc61c3fd4e4e6ebb2ec9539ff5cc95bb2603e3dac4827be97286e8682, table-imgs-scope/table3_(29).png, corpus-oa/10.1186_s12916-014-0161-y/table3.png,in,in,,
-125,9f9aa13c0ef3c2dc1cc604b0f7685cc66c83c8dbf19356d7ec6a2ce17f6730a7, table-imgs-scope/table3_(30).png, corpus-oa/10.1371_journal.pone.0155834/table3.png,in,in,,nested columns
-126,06406884b1356bd063e51fc567c57fefe12ae744ae7784f3edd05cb298cf7e7d, table-imgs-scope/table3_(31).png, corpus-oa/10.1371_journal.pone.0169976/table3.png,in,in,,"gridded, nested columns, inconsistent rowspan"
-127,236e5f1a1c0b15cdb814b833c725d80a8f735a42940762c00db51bcea9081342, table-imgs-scope/table3_(32).png, corpus-oa/10.3109_00207454.2013.803104/table3.png,in,in,,nested rows
-128,ea1ca7abf3aa46330e3db07852dc5f706f08ff31f90cb6f03f48db18d958b2cc, table-imgs-scope/table4.png, corpus-oa/10.1007_s00213-016-4471-y/table4.png,in,in,,nested columns
-129,449851a1889aa617f7baa40d572f4f9a488f66bf757796336e0f820616b2f71b, table-imgs-scope/table4_(2).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table4.png,in,in,,nested columns and rows
-130,edff13aa15a6f797f15215020664090a086d6c4d66f1360e8f83379f40ef301e, table-imgs-scope/table4_(3).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table4.png,in,in,,nested rows
-131,0c83c088e32be9d517e77d1306637b58005fcb0446528edf373df622738a0cc4, table-imgs-scope/table4_(4).png, corpus-oa/10.1016_j.pain.2014.08.023/table4.png,in,in,,nested columns
-132,c512b829ba609a8497001dd48c67ba6c2f5c8ac44388abc63149fc7d04980026, table-imgs-scope/table4_(5).png, corpus-oa/10.1016_j.pain.2014.09.020/table4.png,in,in,,
-133,c12ee5166050aa9460e7858af0455cab2f5577c7dde18787a65e71a46f8b0de0, table-imgs-scope/table4_(6).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table4.png,in,in,,nested columns
-134,8a424b6353cbb85d14cc2edd2934d0c4ed3d05c5c7f9746b71e5e5f5197716a9, table-imgs-scope/table4_(7).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table4.png,in,in,,boxed
-135,07d964c57251cf08509507a5d4d73a2a4767f2cab69d67628a7f8c1e16a5ba26, table-imgs-scope/table4_(8).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table4.png,in,in,,boxed
-136,d5d5e15fef76b4eceae313937d448ec6e217998a2b4aa70aef3036ccc3fe382d, table-imgs-scope/table4_(9).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table4.png,in,in,,"boxed, nested columns"
-137,4d47e7ffa42059f306e5bbd3d389f9134e6c665ed428484c682516cff768f4ec, table-imgs-scope/table4_(10).png, corpus-oa/10.1038_ijo.2016.206/table4.png,in,in,,"boxed, nested rows and columns"
-138,8ed7bcd8b08a0626339679c10d02418648595d44cf6945b8e37a4b02b6cecad0, table-imgs-scope/table4_(11).png, corpus-oa/10.1038_pr.2016.187/table4.png,in,in,,nested columns
-139,cd426f1c97609a791775abe536782d86d764cde49efdc60d23104e8bfd805c4b, table-imgs-scope/table4_(12).png, corpus-oa/10.1038_srep37826/table4.png,in,in,,gridded
-140,b064f73628586a905cd482561beb9daadbedc9f1a80b33a9fc437c484ffe6539, table-imgs-scope/table4_(13).png, corpus-oa/10.1080_00207454.2016.1185421/table4.png,in,in,,
-141,38827601d57beee681cd3db6396f91b185bf0df3a886a32b17281569186958cb, table-imgs-scope/table4_(14).png, corpus-oa/10.1080_00207454.2016.1194274/table4.png,in,in,,
-142,5b40738645dbf89f7adff28a372b77e071ae0d65fdedea9ff1286033820745ab, table-imgs-scope/table4_(15).png, corpus-oa/10.1136_bmjopen-2016-011048/table4.png,in,in,,nested rows
-143,c3b9b621c9ab24248e19b9bbdb673b8444aa7bf5ee4153f99bab85e3ae6a1b41, table-imgs-scope/table4_(16).png, corpus-oa/10.1136_bmjopen-2016-012330/table4.png,in,in,,
-144,34c64f426cab4b383c62762fe19385afda4600c54ab58ab9b32baae22377a9f9, table-imgs-scope/table4_(17).png, corpus-oa/10.1136_bmjopen-2016-013045/table4.png,in,in,,
-145,9b7e0aef0562598092e3e2be3a2129f7f6235adcc5fb94389572c71616b8e125, table-imgs-scope/table4_(18).png, corpus-oa/10.1179_1743132812Y.0000000071/table4.png,in,in,,
-146,a3038454177b8e808f721d22e92aebe69ae62252a5344187b9925e08909bd9c9, table-imgs-scope/table4_(19).png, corpus-oa/10.1179_1743132815Y.0000000036/table4.png,in,in,,
-147,be5a99d48fa63a8f426cb6ab3d4750bd63a4a9a24f3406cbb79687ad90ac53a8, table-imgs-scope/table4_(20).png, corpus-oa/10.1179_1743132815Y.0000000050/table4.png,in,in,,nested columns
-148,8182b5c560f65226542260d34da99793080519902ac4fb7ad7d459e9e37caa74, table-imgs-scope/table4_(21) cont.png, corpus-oa/10.1186_s12916-014-0161-y/table4cont.png,in,in,,nested columns
-148,039a85a5f06281de228c26a6920901dd6680cff1f52e347ea46c71e30586a217, table-imgs-scope/table4_(21).png, corpus-oa/10.1186_s12916-014-0161-y/table4.png,in,in,,nested columns
-149,447dcc4b074a21c8c58e71d1f6de48433c0b197c74808cf3ecc039192cb0332b, table-imgs-scope/table4_(22) cont.png, corpus-oa/10.1371_journal.pone.0169976/table4cont.png,in,in,,"gridded, continued"
-149,88b99a52d71caf068090c1d17aa45b979a484016427c17eac969f50bdbc01865, table-imgs-scope/table4_(22).png, corpus-oa/10.1371_journal.pone.0169976/table4.png,in,in,,"gridded, continued"
-150,00a689f86cf9fb374c7773cdf8d950a614355112c4a45c28882cf33d0e65f2d1, table-imgs-scope/table4_(23).png, corpus-oa/10.3109_00207454.2013.803104/table4.png,in,in,,
-151,a064b02f4b7a192aad50a52dcbc1d9449690023c20e79265065b890a9cf1c809, table-imgs-scope/table5.png, corpus-oa/10.1007_s00213-016-4471-y/table5.png,in,in,,nested columns
-152,e48311ab347ea9236ab2c24685e75a628115e95fd42731fc5fe3b2b8aa2c9b60, table-imgs-scope/table5_(2).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table5.png,in,in,,nested columns
-153,c68f88f6f31b2c24ab3a76af05a97068ba80b23ad8b359a9723874fde456acfd, table-imgs-scope/table5_(3).png, corpus-oa/10.1038_ijo.2016.206/table5.png,in,in,,"nested columns, boxed"
-154,19bd525a3b8de9228784a6158d9f1e25d83afc963fa44c3f31cd89b37f7630c3, table-imgs-scope/table5_(4).png, corpus-oa/10.1038_srep37826/table5.png,in,in,,gridded
-155,760c29d3dbfddc451fbd5fab935f6991bca2dbe5c4d834821a42ea6013bd9cc2, table-imgs-scope/table5_(5).png, corpus-oa/10.1136_bmjopen-2016-011048/table5.png,in,in,,nested columns
-156,015e16aec2648b45d2083231d12dddfb88b46176250e9ed5006f41e53bb479e6, table-imgs-scope/table5_(6).png, corpus-oa/10.1136_bmjopen-2016-012330/table5.png,in,in,,
-157,ac3e3c57ca5cfd28ccbea6004f1e899dfd54b353d842461151fe02cd9933fac0, table-imgs-scope/table5_(7).png, corpus-oa/10.1179_1743132812Y.0000000071/table5.png,in,in,,
-158,cb2e76302fa4bf210917cb5b0aa97a78404fbadc44c39f4b8f7400d35b680c37, table-imgs-scope/table5_(8).png, corpus-oa/10.1179_1743132815Y.0000000036/table5.png,in,in,,
-159,55ddc3928d05007f7b6464790fe352bbe77715d4f5c9f39d7d0b3f6d39b28f8d, table-imgs-scope/table5_(9).png, corpus-oa/10.1179_1743132815Y.0000000050/table5.png,in,in,,nested columns
-160,89970cb791b8f8b7b1e8cb55fd52f951a6ffa37477401459dff96387b608a53e, table-imgs-scope/table5_(10).png, corpus-oa/10.1186_s12916-014-0161-y/table5.png,in,in,,
-161,56c4eb7b3f9422ffe611fb55a08da949e867844187e5c25cdf1d46cafdb3db75, table-imgs-scope/table5_(11).png, corpus-oa/10.3109_00207454.2013.803104/table5.png,in,in,,nested columns
-162,bbf75c696fda81bb516c06c00c8a919a9c9232f4e855acfb691493b43a284632, table-imgs-scope/table6.png, corpus-oa/10.1007_s00213-016-4471-y/table6.png,in,in,,nested columns
-163,d12467fdc76090c20f166232206ee485dc9ca929542982139ee31782bd8c44e3, table-imgs-scope/table6_(2).png, corpus-oa/10.1179_1743132815Y.0000000036/table6.png,in,in,,nested columns
-164,c981703f6ec21ecac53b68dc7aa7d9d4ca449fda984ba9601f407313c5edb2db, table-imgs-scope/table6_(3).png, corpus-oa/10.1186_s12916-014-0161-y/table6.png,in,in,,
-165,ccdc7a94a58856d5c7b519b962515a84e4e1605054322b16c15f699f87127af4, table-imgs-scope/table7.png, corpus-oa/10.1007_s00213-016-4471-y/table7.png,in,in,,redundant nesting columns
-166,7ce4e6ff991277a5d1469f9dc9c66a774260b11a1f60ec49556a1a9433df4651, table-imgs-scope/table7_(2).png, corpus-oa/10.1186_s12916-014-0161-y/table7.png,in,in,,
-167,1ba06a10b6ed2554d9bf3e8268b50184b76ddc5d7a816a6354275e2cd43d5276, table-imgs-scope/table8.png, corpus-oa/10.1007_s00213-016-4471-y/table8.png,in,in,,redundant nesting columns
-168,0da8eb7ebb59a51ec11714b9e4ca06aa29990321ebbf3f81ecd03754e35a09a8, table-imgs-scope/table9.png, corpus-oa/10.1007_s00213-016-4471-y/table9.png,in,in,,
+Order-id,sha256sum,file_table-imgs,file_corpus-oa,pmr,chjh,notes_pmr,notes_chjh,ucl,notes_ucl
+1,01b0cf58f4234aae20d652e3dcd70256199722557892e01bab709aa25f2511c0, table-imgs-scope/table1.png, corpus-oa/10.1007_s00213-015-4198-1/table1.png,in,in,,,out,
+2,97841cda84ee5e433cbb0f7b93b27313b174895cc105e5be36fc8c86732821db, table-imgs-scope/table1_(2).png, corpus-oa/10.1007_s00213-016-4471-y/table1.png,q,q,unclear header,,out,
+3,67f119602ba5fc346915c6b8e5df3fa68a3d4a9515aea4e31d0de139fd69485e, table-imgs-scope/table1_(3).png, corpus-oa/10.1007_s00213-016-4477-5/table1.png,in,in,,Non-aligned columns,in,
+4,2f28bb1521ac39ed1bd54cd6dfdc24fd2ffe2798da4d5cbf8a3a1b3b0510db73, table-imgs-scope/table1_(4).png, corpus-oa/10.1007_s12975-016-0496-0/table1.png,in,in,,Multiple notes,in,
+5,e40b0fe413e65de2ba5cb51980e3db1d59d3de4b21210cf22798a785f1a04131, table-imgs-scope/table1_(5).png, corpus-oa/10.1016_j.amepre.2016.07.024/table1.png,in,in,,"Boxed, nested rows, partially blank lines",out,baseline
+6,29774b00df31d36915c7e323de4e2ee8f00bcd9be05275275e926ff0a8a57050, table-imgs-scope/table1_(6).png, corpus-oa/10.1016_j.amepre.2016.08.013/table1.png,in,in,,"Boxed, nested rows, partially blank lines",in,baseline
+7,a21d2db60c8fdfbf9b5bc5a32f2f7925e5d0f19c14ae4241c5c7a3068aac0162, table-imgs-scope/table1_(7).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table1.png,in,out,cell list,,out,
+8,07ba889c149cc1902c39c1fe09c7e893aa24e7108ba6f99df76b7d933f62fb9e, table-imgs-scope/table1_(8).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table1.png,in,in,,"Nested rows, partially blank lines",in,
+9,1320fd0198ff2c0b6b8f64ba310f5a4d4836e95f66a5b503665d81f1ed1f7ae9, table-imgs-scope/table1_(9).png, corpus-oa/10.1016_j.pain.2014.08.023/table1.png,in,in,,,out,
+10,47ef8180d3c3111471ad48fe25f4196e42b035c988da6aa483761c13bde6f5fd, table-imgs-scope/table1_(10).png, corpus-oa/10.1016_j.pain.2014.09.020/table1.png,in,in,,,out,
+11,3d578281aefab50ea9e331836fade2daa5f0ebd079974ca414f2eb1f318e9d33, table-imgs-scope/table1_(11).png, corpus-oa/10.1016_j.pain.2014.09.033/table1.png,in,in,,,in,
+12,c514f2703ddd724dcfaf0a13c97733a392393d60730124d928a428fedc1f684f, table-imgs-scope/table1_(12).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table1.png,in,in,,"Nested rows, partially blank lines, non-header column description",in,baseline
+13,b392ca094d88fca0ef71781ef52aa2a3ef9aced8c0b217f27a4a84165f98582d, table-imgs-scope/table1_(13).png, corpus-oa/10.1016_j.ypmed.2016.09.005/table1.png,in,in,,,in,baseline
+14,b381024905ab158771c96843463962ec02f080dc6e67ee4a5cb9daccd61128e5, table-imgs-scope/table1_(14).png, corpus-oa/10.1016_S0140-6736(16)30388-9/table1.png,q,out,list with subheads,"Boxed, not a table for information but an enumeration",out,
+15,0d3e5ab271c927131d456922c53ae99b4848c670bedee08d2199aa3a13610ca0, table-imgs-scope/table1_(15).png, corpus-oa/10.1016_S0140-6736(16)31461-1/table1.png,in,in,,Boxed,in,baseline
+16,16b5fcbc5a420758d60f730150188960abfb1c8dcdcb1209e4a4c86aaaab495a, table-imgs-scope/table1_(16).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table1.png,in,in,,"Nested rows, partially blank lines, boxed",in,baseline
+17,5c06aac521c808ee68df72cf68cd55039d6472b160721ea3267c54122b121981, table-imgs-scope/table1_(17).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table1.png,in,in,,"Nested rows, partially blank lines, boxed",in,baseline
+18,b6d5969e16457cf8899bdbb79609fc1d5183a3215e79fdd462d4bc7230051d86, table-imgs-scope/table1_(18) cont.png, corpus-oa/10.1016_S0140-6736(16)32507-7/table1cont.png,in,in,,"Nested rows, partially blank lines, boxed",in,baseline
+18,72020bebfa727c8289998ed4e0312ed6b807248ab7956e33b4d89c6e87d5a372, table-imgs-scope/table1_(18).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table1.png,in,in,,"Nested rows, partially blank lines, boxed",in,baseline
+19,672f28e99e80e96b70b2e719f5b00ed560ecbdaef2c01991c759cca4fb79cf80, table-imgs-scope/table1_(19).png, corpus-oa/10.1038_ejcn.2016.222/table1.png,in,in,,"boxed, double level row descriptors",in,baseline
+20,6b22a109064388520ead6e77d221228c911cafa45ed5c72d9efae41c948554e9, table-imgs-scope/table1_(20).png, corpus-oa/10.1038_ijo.2016.206/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+21,f4433f1d4a6a64ff2be4a1f314b4d68e2ca01c0c7d634b7ddb4cf80fde022278, table-imgs-scope/table1_(21).png, corpus-oa/10.1038_pr.2016.187/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+22,a40227bc1abb987d35af29830dbd51c06660db5c1fb2b776fbe522696d479124, table-imgs-scope/table1_(22).png, corpus-oa/10.1038_srep37826/table1.png,in,in,,"Gridded, nested rows",in,
+23,98a56f6ff5e64f5f36e12474c6411d2b68b72f31bf4d4c5e69d6b8d4eb415a66, table-imgs-scope/table1_(23).png, corpus-oa/10.1038_srep39471/table1.png,in,in,,"Gridded, nested rows",in,baseline
+24,014e6b05e364d82fa65998316f146061096634d670d59164fe7b04e0f5f5ddcf, table-imgs-scope/table1_(24).png, corpus-oa/10.1080_00207454.2016.1185421/table1.png,in,in,,No column header,in,baseline
+25,cefbc902775f8cfc1d737fa658d85fcd4408bdcc7460bdef0e5cb65032bd8a4c, table-imgs-scope/table1_(25).png, corpus-oa/10.1080_00207454.2016.1194274/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+26,d9d1974cb8568361a6d5f1d27f31edb14e7cedee4f9ef1b092ab57fff816168a, table-imgs-scope/table1_(26) cont1.png, corpus-oa/10.1097_j.pain.0000000000000579/table1cont1.png,in,in,,,out,
+26,0c51e66ee543e61e23290333e1af993fa1a7ba39b7cd705d60783559b9f33ee8, table-imgs-scope/table1_(26) cont2.png, corpus-oa/10.1097_j.pain.0000000000000579/table1cont2.png,in,in,,,out,
+26,030a1ab069b5513ce441e4a335a23b0c504e94a6a1323be06ff478bf5d7a43e5, table-imgs-scope/table1_(26).png, corpus-oa/10.1097_j.pain.0000000000000579/table1.png,in,in,,,out,
+27,1fdf5d9ee6c9310f52d739304807dc429eaa174fd83a88a36d0b71a1a8c6f04a, table-imgs-scope/table1_(27).png, corpus-oa/10.1097_WNR.0000000000000066/table1.png,in,in,,,out,
+28,919f87079298a7b77eaa4686b478bd3bad34e50078aba288ca7681780d24eec7, table-imgs-scope/table1_(28).png, corpus-oa/10.1097_WNR.0000000000000118/table1.png,in,in,,,in,
+29,a77ff111e361e4c13250ed430f9061de44579beb33eed786d21813093d710aef, table-imgs-scope/table1_(29).png, corpus-oa/10.1111_bph.13646/table1.png,in,in,,"Boxed, blank lines",in,
+30,378b5d4d1b523de933629aefdf4c73d604de6365cfb2af01cc14faab09cacaa2, table-imgs-scope/table1_(30).png, corpus-oa/10.1111_bph.13654/table1.png,in,in,,Boxed,out,
+31,83dfcf640471677dff12a0d436584452d20ff3e9abededeff2c50e4bc703b766, table-imgs-scope/table1_(31).png, corpus-oa/10.1111_ejn.13382/table1.png,in,in,cell list,,out,
+32,ec485db9ac35ab2cd2a3a42a6b8c3a69fedd096b3b3d02714e3ff377d552d365, table-imgs-scope/table1_(32) cont1.png, corpus-oa/10.1111_ejn.13418/table1cont1.png,q,in,cell list,,out,review
+32,edd4e6db9103aedb66ae1cdafdef4231e87d4ba1caadbb354b26ae74d5c839ca, table-imgs-scope/table1_(32) cont2.png, corpus-oa/10.1111_ejn.13418/table1cont2.png,q,in,cell list,,out,review
+32,10806974ef205dc369b443c59ccc06cf27e2de76d07f7080a326fbea8529cbc7, table-imgs-scope/table1_(32).png, corpus-oa/10.1111_ejn.13418/table1.png,q,in,cell list,,out,review
+33,609fa2e4024312f9d17a4018b3e7dd4f7a75017d907fc24e1efa2d51803b2f10, table-imgs-scope/table1_(33).png, corpus-oa/10.1111_nyas.13192/table1.png,in,in,,,out,
+34,78d40d0e9e359c61b87812649b3644d064b7ad6dc91fefd3d4e0bf90789e609a, table-imgs-scope/table1_(34).png, corpus-oa/10.1111_nyas.13294/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+35,d2015f37b6c1b05045d2f55f257b3f690ebb481359efc9dbb9cb4cec47d596f8, table-imgs-scope/table1_(35).png, corpus-oa/10.1136_bmjopen-2016-011048/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+36,800be716479abf1868bc21abeebeb8437d0402ba74ddf80732900766cab83fc8, table-imgs-scope/table1_(36).png, corpus-oa/10.1136_bmjopen-2016-012330/table1.png,in,in,,"Nested rows, but each level contains data",in,baseline
+37,be01645c5be1e49c51684bb30fdb7768da4301abf4aadda3faaab4347b85f585, table-imgs-scope/table1_(37).png, corpus-oa/10.1136_bmjopen-2016-013045/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+38,5aeb7c92b346c505fd997696b550bc91c463e50a3fecf8650ad1ff9ccf807ba0, table-imgs-scope/table1_(38).png, corpus-oa/10.1136_jech-2014-204984/table1.png,q,out,cell list,Not a data table but enumeration,out,
+39,6110babf75633de3a010a02f082ac8405e0f9e1a09b5ef39f8d7b016cb216107, table-imgs-scope/table1_(39).png, corpus-oa/10.1136_jech-2015-206665/table1.png,in,in,,"Nested rows, some higher-levels contain data while others don’t",out,demographics
+40,837820d08619db95dd7a626a9314b45f58e192b01c6cb27494f5cead6ef70407, table-imgs-scope/table1_(40).png, corpus-oa/10.1179_1743132812Y.0000000071/table1.png,q,out,list,enumeration,out,list of equipment needed - wouldnt be needed for SR MA
+41,167e4e092a87105ec206a711eeb1ec50fed3fceae15475cffcc8518c2feed0e3, table-imgs-scope/table1_(41).png, corpus-oa/10.1179_1743132815Y.0000000036/table1.png,in,in,,,in,baseline
+42,d00575126d11eaa0bd5f09d224076fca4cc73e6d61d9919a9911b8312097af5c, table-imgs-scope/table1_(42).png, corpus-oa/10.1179_1743132815Y.0000000050/table1.png,in,in,,,in,baseline
+43,26eb98a17a9187fd3b552fe4a00f2512d5eb8face31a62c56039cee373bb320b, table-imgs-scope/table1_(43).png, corpus-oa/10.1186_1471-2431-13-190/table1.png,in,in,,"Nested rows, blank lines",in,
+44,623930fea7f3326802e0073a1827682dc03f5e86740d05cb228b60dc87dfbfa4, table-imgs-scope/table1_(44).png, corpus-oa/10.1186_1471-2458-9-122/table1.png,in,in,,"Nested rows, blank lines",out,demographics
+45,dc2e7954fb08431d9c8f1900b926c095dbb62ddbeb1dbed8848780edc398ca4a, table-imgs-scope/table1_(45).png, corpus-oa/10.1186_1471-2458-12-740/table1.png,in,in,,"Nested rows, blank lines",in,
+46,37046d69aa6101dccc0f1e731ebcc20250e1be6f502f488050e8b74ecef8ec89, table-imgs-scope/table1_(46).png, corpus-oa/10.1186_1741-7015-11-207/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+47,1bf741f681ed322f4ea228d081e645f4837d2cd98fd501f1ff880d1eb23950dd, table-imgs-scope/table1_(47).png, corpus-oa/10.1186_s12916-014-0161-y/table1.png,in,in,,"Nested rows, blank lines",in,baseline
+48,00c1d1693db42bf3abad6334e1704509d340b8039db9cc7c1b4352f6cf5adf1e, table-imgs-scope/table1_(48).png, corpus-oa/10.1186_s12974-016-0542-6/table1.png,in,in,,Empty cells,in,
+49,77d7ac57c4491e34182acc16c67d5eeaee2332145e8fd631816725b3d87e36a2, table-imgs-scope/table1_(49).png, corpus-oa/10.1371_journal.pbio.1000481/table1.png,in,in,,"Super, subscripts, weird underscores, line along table",out,
+50,7cfb7d304c36f9678414c1dc8a0a0e28d43898a248c3a71b66ce85e4cf40cd98, table-imgs-scope/table1_(50).png, corpus-oa/10.1371_journal.pbio.1001952/table1.png,in,in,,Line along table,in,might not typically use this data but have included as it is in a format that relevant may be presented in in other graphs
+51,dd80efceb4744aec437ffe4c67adf1e0f7af71ca02a411022efc20166df4ea89, table-imgs-scope/table1_(51).png, corpus-oa/10.1371_journal.pone.0148292/table1.png,in,in,,,in,
+52,53761094866c5c9af17811192db08dc237bb07a27fe570e9bffd93ed05e2b4ca, table-imgs-scope/table1_(52).png, corpus-oa/10.1371_journal.pone.0155834/table1.png,in,in,,,out,
+53,44df07ff432f9f04f984b01d264c426e47eae232263743d9e1669c9f4646b10e, table-imgs-scope/table1_(53).png, corpus-oa/10.1371_journal.pone.0169976/table1.png,in,q,,multiple datapoints per row,out,
+54,f5e1d7d0fa6cfdbcde7ca8b1656871c90721e3fa122177cd9a6df8d87b1a08a8, table-imgs-scope/table1_(54).png, corpus-oa/10.3109_00207454.2013.803104/table1.png,in,in,,no culumn headers,out,demographics
+55,f7a2e1cb8f6a36309f35c640004c8e59be892604fa44cc5c8ffe1915343da61a, table-imgs-scope/table2.png, corpus-oa/10.1007_s00213-016-4471-y/table2.png,in,in,,,out,demographics
+56,8a90a3b4ef9fd1a39579b628b4d8f79e790366225be1d67c7859897c734bcf16, table-imgs-scope/table2_(2).png, corpus-oa/10.1016_j.amepre.2016.07.024/table2.png,in,in,,"Nested rows, blank lines, boxed",out,text
+57,54b75c6e40506fc4bdc15173e08ada345d6182e950c476457e179d4fb01bb0e8, table-imgs-scope/table2_(3).png, corpus-oa/10.1016_j.amepre.2016.08.013/table2.png,in,in,,"nested column headers, nested rows, blank lines",in,
+58,5691dd15231cb2dcc7e262409d7e7b70e596dad9ab182e08897db273efe68dfa, table-imgs-scope/table2_(4).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table2.png,in,in,,nested columns,in,process data
+59,b1355d42794dbec88ffac3e90969ee927c1aaa3ac13d4970fd2f8a66ba412459, table-imgs-scope/table2_(5) cont.png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table2cont.png,out,out,corrmat,"correlation matrix, double datapoints",out,correlations relevant to some reviews?
+59,5cbfb1be3a084e3d7ea4e767990a982096996d4bafcc15a5a156591a7a3fd10c, table-imgs-scope/table2_(5).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table2.png,out,out,corrmat rot,"correlation matrix, double datapoints",out,correlations relevant to some reviews?
+60,3d771b23b2c766415f890533a41fc2134c92beaa2ad501c95be343b9980eaf05, table-imgs-scope/table2_(6).png, corpus-oa/10.1016_j.pain.2014.08.023/table2.png,in,in,,,out,
+61,0b9a147c9be096d7fc0cc7280ca7bfc0e604f5f257f454d251f3c29de6e26f0f, table-imgs-scope/table2_(7).png, corpus-oa/10.1016_j.pain.2014.09.020/table2.png,in,in,,empty cells,out,review
+62,11a7bbd181d9049a57686e0925b3020541ec346a2f02b20584cd1fe904cba310, table-imgs-scope/table2_(8).png, corpus-oa/10.1016_j.pain.2014.09.033/table2.png,in,in,,,in,
+63,c9d90eebe494738a79a8fbf868ae527d6621c21811fd0e787e7336a62f04d288, table-imgs-scope/table2_(9).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table2.png,in,in,,,in,
+64,18ee30311f2973218c4e3aec2743d7a30e0cfa8a1531283189ece2ad1643a368, table-imgs-scope/table2_(10).png, corpus-oa/10.1016_j.ypmed.2016.09.005/table2.png,in,in,,"Nested rows and columns, blank lines/cells",in,
+65,caa950bbf136b62d23e606df09199cd10d65c459e3422ca2125fad331c9008ab, table-imgs-scope/table2_(11).png, corpus-oa/10.1016_S0140-6736(16)31461-1/table2.png,in,in,,"Boxed, nested rows and columns",in,
+66,a05d8572853162b3cc8a9d24d49659451ecc75588024bbfd303534a381795550, table-imgs-scope/table2_(12).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table2.png,in,in,,"Nested rows, boxed",in,
+67,4ef2727ef4176f7a98b079c5bc6d82a06094223936b16305cfd77854cb8292d0, table-imgs-scope/table2_(13).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table2.png,in,in,,"Nested rows, boxed",in,
+68,7d3fc4c6588c05d1b72c2a32529313f3d1649cb307ce6ba8f29c0388a9051bcf, table-imgs-scope/table2_(14).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table2.png,in,in,,"Nested columns, boxed",in,
+69,b6a2e2bfec35a979403515ede16d4520c83491642f3469ec4ec59d4c7cd7f504, table-imgs-scope/table2_(15).png, corpus-oa/10.1038_ejcn.2016.222/table2.png,in,in,,"Nested rows and columns, rotated, boxed",in,
+70,e8fcee91322b7d59b5b10bb938456e17b09fe95c48fa07445dbbebf1e9e11917, table-imgs-scope/table2_(16).png, corpus-oa/10.1038_ijo.2016.206/table2.png,in,in,,boxed,out,design
+71,aba38ca95a27742e7e017633f7e3c65ea4068afa423cde9e6cb7b48087709ac9, table-imgs-scope/table2_(17).png, corpus-oa/10.1038_pr.2016.187/table2.png,in,in,,"Nested rows and columns, blank lines/cells",in,
+72,8c621baa982f1f9d56b0368e0a128a7ee70d790bc82af406a5239eb733c38019, table-imgs-scope/table2_(18).png, corpus-oa/10.1038_srep37826/table2.png,in,in,,gridded,in,
+73,ce6f2b96debd41b325e40aaa13683b216d62d9aa970dc4897896a950a0a5b9dc, table-imgs-scope/table2_(19).png, corpus-oa/10.1038_srep39471/table2.png,in,in,,"gridded, nested rows with rowspan",in,baseline
+74,a452e42742644ef0c4800796782fbd5d49419786ed840e6ed90c97165f81bd2a, table-imgs-scope/table2_(20).png, corpus-oa/10.1080_00207454.2016.1185421/table2.png,in,in,,,in,
+75,e18d04db4791c4b3090c45aa7cd50380e9fddc50f94b64d66ffebe3b7477d318, table-imgs-scope/table2_(21).png, corpus-oa/10.1080_00207454.2016.1194274/table2.png,in,in,,,in,
+76,7608ec978d4d78f469931aa584a82aa14d48f18e024bc3d5889a442e64b8d70a, table-imgs-scope/table2_(22).png, corpus-oa/10.1111_bph.13654/table2.png,in,in,,"boxed, nested rows",out,
+77,8c907d127f1cadd9bdf8656295a53fcbe58b5560ffe9dd03c10a3a8776a118b9, table-imgs-scope/table2_(23).png, corpus-oa/10.1111_ejn.13418/table2.png,in,in,cell list,Special characters,out,
+78,bff6b779f93cebcf149e87630f0c78fba3699319172037dec5b223d3b7b0909a, table-imgs-scope/table2_(24) cont.png, corpus-oa/10.1111_nyas.13192/table2cont.png,in,q,cell list,cell headers?,out,
+78,1437004c42552e4ddf90aaea8885477f68e0302ec0b1ca11885738d2e8504596, table-imgs-scope/table2_(24).png, corpus-oa/10.1111_nyas.13192/table2.png,in,q,cell list,cell headers?,out,
+79,2797a1263f9a5bdaf491b02cba8a92be54d69f9d1ee1d21826d23f7ce34ede4d, table-imgs-scope/table2_(25).png, corpus-oa/10.1111_nyas.13294/table2.png,in,in,,"nested columns, data in header",in,
+80,2ea98c588bc4418a168e19d4a9f20eab04cee90aa272b7341d3fb9640973687d, table-imgs-scope/table2_(26).png, corpus-oa/10.1136_bmjopen-2016-011048/table2.png,in,in,,,in,
+81,a41e1ba91566a937c4e6c33900bf898a086f2926a1ccaadad265f32e774bf050, table-imgs-scope/table2_(27).png, corpus-oa/10.1136_bmjopen-2016-012330/table2.png,in,in,,,in,
+82,8fc506987f29d1473572838a292b5c851603e8e6845f8c68e5992bd4e618ecbd, table-imgs-scope/table2_(28).png, corpus-oa/10.1136_bmjopen-2016-013045/table2.png,in,in,,,in,
+83,9d6836683ad95c8ef786852c626ac7db26addc496eb62b7657ba3d45900500bb, table-imgs-scope/table2_(29).png, corpus-oa/10.1136_jech-2014-204984/table2.png,in,in,,nested rows,in,baseline
+84,9c151abedac35fe61c87525c58f6a99d6f2c66f73d35c0e2ae91749c11e9bb84, table-imgs-scope/table2_(30).png, corpus-oa/10.1136_jech-2015-206665/table2.png,in,in,,nested orws,in,
+85,b5eaf9b919d6b1ba335b2454adb3b396976e7aecd7be558883702b666141ef7d, table-imgs-scope/table2_(31).png, corpus-oa/10.1179_1743132812Y.0000000071/table2.png,in,in,,inconsistent colspan,out,review
+86,743e1a0bba407870887aa0f05322f14a1ab5750de9387aa62ef7796f553d8d41, table-imgs-scope/table2_(32).png, corpus-oa/10.1179_1743132815Y.0000000036/table2.png,in,in,,,in,not typical in vivo data but potentially useful
+87,6472b659d172ef615ae829b247ee39f178993955ba4d4846b80a8e6777bac989, table-imgs-scope/table2_(33).png, corpus-oa/10.1179_1743132815Y.0000000050/table2.png,in,in,,,in,
+88,7eede9bf476028785b07ffaa84f73d6193d4e6f9cc8cbabeecd1210bdc694048, table-imgs-scope/table2_(34).png, corpus-oa/10.1186_1471-2458-9-122/table2.png,in,in,,nested rows,in,
+89,d48e95a353f013fbeb4d196e5f0c70e428e4a6b5929ece494cd41ff95f1cddd3, table-imgs-scope/table2_(35).png, corpus-oa/10.1186_1741-7015-11-207/table2.png,in,in,,nested rows,in,
+90,071b8e6b3c5fddceb575bac7454335bd56a255d071858534e4ebf2ac9aa79c12, table-imgs-scope/table2_(36) cont.png, corpus-oa/10.1186_s12916-014-0161-y/table2cont.png,in,in,,,in,
+90,b7fbbd4167858bfa5f7a801adb5772438c5e3dd3fd51eaa7cc4e996400faafb2, table-imgs-scope/table2_(36).png, corpus-oa/10.1186_s12916-014-0161-y/table2.png,in,in,,,in,
+91,839defc0e8a01f259c6dd4250e4802a648762f20f74bf3c83159797302a6e414, table-imgs-scope/table2_(37).png, corpus-oa/10.1371_journal.pbio.1001952/table2.png,in,in,,line along table,in,
+92,e4b0ab65a554af7ae44d0eca55f3a369d0b55d900bb60678d547d93a4cf45ab9, table-imgs-scope/table2_(38).png, corpus-oa/10.1371_journal.pone.0148292/table2.png,in,in,,,in,
+93,641a62284e17aeb7726d94a4d7b16c19fdfb2b25c100a8653bb34f130b874065, table-imgs-scope/table2_(39).png, corpus-oa/10.1371_journal.pone.0155834/table2.png,in,in,,,out,
+94,28409e93b1d72d2dd49f6d13c1e8e5a560ec0be2b83faacffc5cbec307b2d784, table-imgs-scope/table2_(40).png, corpus-oa/10.1371_journal.pone.0169976/table2.png,in,in,,Double-table,out,
+95,e071d8984f72270be033cf5ca51328829879e45b626d303201c7e5c4b081883d, table-imgs-scope/table2_(41).png, corpus-oa/10.3109_00207454.2013.803104/table2.png,in,in,,nested rows,out,not the type of comparison that we do
+95,c94bfaf1904df67465b20c0dade8bb05d10698419fc58103d0190042405466f8, table-imgs-scope/table3.png, corpus-oa/10.1007_s00213-016-4471-y/table3.png,in,in,,,in,not our typical type of comparison but data could be useful
+97,5cebb215a5b47c8f4b1a4a9952f3116418ca16acbf99ac21221386b82e6ec398, table-imgs-scope/table3_(2).png, corpus-oa/10.1016_j.amepre.2016.07.024/table3.png,in,in,,"boxed, nested rows",in,process data
+98,98d4af754d4d03a6a1b20d187961b14a4a611385c8145a03c543eedeed57650e, table-imgs-scope/table3_(3).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table3.png,in,in,,nested rows,out,not the type of comparison that we do
+99,51a420905c4d85e6a851601633d6eb91cd188e1f2d51b8d6f03f32c223e226aa, table-imgs-scope/table3_(4).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table3.png,in,in,,,in,not typically the type of comparison that we do
+100,2f08ce7a75689fee9e12646c3a13048af259d0933d4f1b1e443fc222772d053e, table-imgs-scope/table3_(5).png, corpus-oa/10.1016_j.pain.2014.08.023/table3.png,in,in,,,in,
+101,7502fbe4d6db88cbc67dd45afb238a6d0df34c60567ab30c538ea9156aeae0dc, table-imgs-scope/table3_(6) cont.png, corpus-oa/10.1016_j.pain.2014.09.020/table3cont.png,in,in,cell list,,out,review
+101,3e95e2d6952d14c462af3a1fcb0ebe691c2847795e630e467ce71a5e78858424, table-imgs-scope/table3_(6).png, corpus-oa/10.1016_j.pain.2014.09.020/table3.png,in,in,,,out,review
+102,a1033e6368444d5d20010a9d5996fd6b24a2ca6c541288342d3a5962e9c3d4d6, table-imgs-scope/table3_(7).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table3.png,in,in,,nested columns,in,
+103,32bf70c1d8bcbb49ea99d2b22d4f28ac675cd1862a048340fc8fef310a0234d8, table-imgs-scope/table3_(8).png, corpus-oa/10.1016_j.ypmed.2016.09.005/table3.png,in,in,,,in,
+104,1fbee0ec08c2bbdf350ab9d0cadcd9fd7847dd126e7d05c9b343f3b03ab1dce7, table-imgs-scope/table3_(9).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table3.png,in,in,,"boxed, nested rows",in,econ data
+105,ec64a36ee687a0ffe84b84ab3487d1f0d7929fdbf06ee1f1c5dfbcbb8409c493, table-imgs-scope/table3_(10).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table3.png,in,in,,"boxed, nested rows",in,econ data
+106,eb0745ca3dcb34457cd7966446c4912843fff847adef8c8a864ea35ecf13e54a, table-imgs-scope/table3_(11).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table3.png,in,in,,boxed,out,not the type of comparison that we do
+107,69289c897e651d170b28d4a5a20f5c1f0d7d89cdf3b3d9ef2e82cd9948d0ca1d, table-imgs-scope/table3_(12).png, corpus-oa/10.1038_ejcn.2016.222/table3.png,in,in,,"nested columns and rows, special characters, boxed",in,
+108,dd95ac72685ac82e9a533e180e49b03825e0d96634380cda2b7f011331e5117f, table-imgs-scope/table3_(13).png, corpus-oa/10.1038_ijo.2016.206/table3.png,in,in,,"nested columns, boxed",in,sensitivity analysis
+109,e3329fb0073d380d591009c54d4d061a03727952d3faafc8cb23475c9efae009, table-imgs-scope/table3_(14).png, corpus-oa/10.1038_pr.2016.187/table3.png,in,in,,nested columns and rows,in,
+110,89beec2a5e42508daf4c01b36030becf59272629188619edc8dc7f3456032de3, table-imgs-scope/table3_(15).png, corpus-oa/10.1038_srep37826/table3.png,in,in,,gridded,in,
+111,026ac30ef8486e3445ed19401fdad0312cdc3f3a3a92724f8905e15d5d6daf6e, table-imgs-scope/table3_(16).png, corpus-oa/10.1038_srep39471/table3.png,in,in,,gridded,in,
+112,2acca8d49330ea932e17edf52ac328d9211ab1dbc0778eca86f4db3a0deae9bb, table-imgs-scope/table3_(17).png, corpus-oa/10.1080_00207454.2016.1185421/table3.png,in,in,,,out,no comparator
+113,7705e74154cf697fae7757cd01b3ad3ebcd3fb536b2d6354df68d7761b60dfac, table-imgs-scope/table3_(18).png, corpus-oa/10.1080_00207454.2016.1194274/table3.png,in,in,rot,"nested columns,  rotated",in,
+114,bad3d2262bfda6e35aa218024568555a8a7d88c9030c165899533b3561dc7195, table-imgs-scope/table3_(19).png, corpus-oa/10.1111_nyas.13294/table3.png,in,in,,nested columns and rows,in,
+115,7287d9cf62518df0999a49450966bc9d3b04b4ce2f8fbbd9ecb0d3db30e0593b, table-imgs-scope/table3_(20).png, corpus-oa/10.1136_bmjopen-2016-011048/table3.png,in,in,,nested columns and rows,in,
+116,6f98f240f5d62987cf1013b1f2626b1e939a6a71d2117e3af4660d82a7728f1a, table-imgs-scope/table3_(21).png, corpus-oa/10.1136_bmjopen-2016-012330/table3.png,in,in,,,in,
+117,5a619f24cb27534c1b30f4bc5ce8394b2d66518cf32986daf94e120c8a451a65, table-imgs-scope/table3_(22).png, corpus-oa/10.1136_bmjopen-2016-013045/table3.png,in,in,,nested rows,out,no comparator
+118,06cd29bf263440bc4db21e37391650b51c3c3a325d686bc4caa8ed6246db024d, table-imgs-scope/table3_(23).png, corpus-oa/10.1136_jech-2014-204984/table3.png,in,in,,nested columns and rows,in,
+119,8547dd2a9cece9e853bb7314c45911ec469e9b0cd7a31a6edef208d34c710460, table-imgs-scope/table3_(24).png, corpus-oa/10.1179_1743132812Y.0000000071/table3.png,in,in,,,out,review
+120,850112512aac12a684b30144aa84e87286ba6c058b776d5cdf4b2bd7d121c660, table-imgs-scope/table3_(25).png, corpus-oa/10.1179_1743132815Y.0000000036/table3.png,in,in,,,out,
+121,4ef1d74f44d3889d24ac05272a40c1645d689d573def0b848dcbe3c8c45a425a, table-imgs-scope/table3_(26).png, corpus-oa/10.1179_1743132815Y.0000000050/table3.png,in,in,,nested columns,out,Probably out as no comparator
+122,ef366fa0ba591521602db89db56da9475485ea48cfe3091ef4038e993d6099de, table-imgs-scope/table3_(27).png, corpus-oa/10.1186_1471-2458-9-122/table3.png,in,in,,nested rows,in,
+123,ee03dccb1c31cf06ce50a94a0775372d4e715785706c09e8d223a4481e21a2ed, table-imgs-scope/table3_(28).png, corpus-oa/10.1186_1741-7015-11-207/table3.png,in,in,,nested columns,in,
+124,32b28dfe1f137999cd597c7b8a28ef2431e0b745faa09f95b104045da986fdfa, table-imgs-scope/table3_(29) cont.png, corpus-oa/10.1186_s12916-014-0161-y/table3cont.png,in,in,,,in,
+124,dc8f69bdc61c3fd4e4e6ebb2ec9539ff5cc95bb2603e3dac4827be97286e8682, table-imgs-scope/table3_(29).png, corpus-oa/10.1186_s12916-014-0161-y/table3.png,in,in,,,in,
+125,9f9aa13c0ef3c2dc1cc604b0f7685cc66c83c8dbf19356d7ec6a2ce17f6730a7, table-imgs-scope/table3_(30).png, corpus-oa/10.1371_journal.pone.0155834/table3.png,in,in,,nested columns,out,not our typical type of comparison?
+126,06406884b1356bd063e51fc567c57fefe12ae744ae7784f3edd05cb298cf7e7d, table-imgs-scope/table3_(31).png, corpus-oa/10.1371_journal.pone.0169976/table3.png,in,in,,"gridded, nested columns, inconsistent rowspan",in,
+127,236e5f1a1c0b15cdb814b833c725d80a8f735a42940762c00db51bcea9081342, table-imgs-scope/table3_(32).png, corpus-oa/10.3109_00207454.2013.803104/table3.png,in,in,,nested rows,out,no comparator
+128,ea1ca7abf3aa46330e3db07852dc5f706f08ff31f90cb6f03f48db18d958b2cc, table-imgs-scope/table4.png, corpus-oa/10.1007_s00213-016-4471-y/table4.png,in,in,,nested columns,in,baseline
+129,449851a1889aa617f7baa40d572f4f9a488f66bf757796336e0f820616b2f71b, table-imgs-scope/table4_(2).png, corpus-oa/10.1016_j.jadohealth.2012.08.009/table4.png,in,in,,nested columns and rows,in,
+130,edff13aa15a6f797f15215020664090a086d6c4d66f1360e8f83379f40ef301e, table-imgs-scope/table4_(3).png, corpus-oa/10.1016_j.jadohealth.2016.10.001/table4.png,in,in,,nested rows,in,
+131,0c83c088e32be9d517e77d1306637b58005fcb0446528edf373df622738a0cc4, table-imgs-scope/table4_(4).png, corpus-oa/10.1016_j.pain.2014.08.023/table4.png,in,in,,nested columns,in,
+132,c512b829ba609a8497001dd48c67ba6c2f5c8ac44388abc63149fc7d04980026, table-imgs-scope/table4_(5).png, corpus-oa/10.1016_j.pain.2014.09.020/table4.png,in,in,,,out,review
+133,c12ee5166050aa9460e7858af0455cab2f5577c7dde18787a65e71a46f8b0de0, table-imgs-scope/table4_(6).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table4.png,in,in,,nested columns,in,
+134,8a424b6353cbb85d14cc2edd2934d0c4ed3d05c5c7f9746b71e5e5f5197716a9, table-imgs-scope/table4_(7).png, corpus-oa/10.1016_S0140-6736(16)31589-6/table4.png,in,in,,boxed,out,econ data
+135,07d964c57251cf08509507a5d4d73a2a4767f2cab69d67628a7f8c1e16a5ba26, table-imgs-scope/table4_(8).png, corpus-oa/10.1016_S0140-6736(16)31590-2/table4.png,in,in,,boxed,out,econ data
+136,d5d5e15fef76b4eceae313937d448ec6e217998a2b4aa70aef3036ccc3fe382d, table-imgs-scope/table4_(9).png, corpus-oa/10.1016_S0140-6736(16)32507-7/table4.png,in,in,,"boxed, nested columns",in,
+137,4d47e7ffa42059f306e5bbd3d389f9134e6c665ed428484c682516cff768f4ec, table-imgs-scope/table4_(10).png, corpus-oa/10.1038_ijo.2016.206/table4.png,in,in,,"boxed, nested rows and columns",in,
+138,8ed7bcd8b08a0626339679c10d02418648595d44cf6945b8e37a4b02b6cecad0, table-imgs-scope/table4_(11).png, corpus-oa/10.1038_pr.2016.187/table4.png,in,in,,nested columns,in,
+139,cd426f1c97609a791775abe536782d86d764cde49efdc60d23104e8bfd805c4b, table-imgs-scope/table4_(12).png, corpus-oa/10.1038_srep37826/table4.png,in,in,,gridded,in,
+140,b064f73628586a905cd482561beb9daadbedc9f1a80b33a9fc437c484ffe6539, table-imgs-scope/table4_(13).png, corpus-oa/10.1080_00207454.2016.1185421/table4.png,in,in,,,out,no comparator
+141,38827601d57beee681cd3db6396f91b185bf0df3a886a32b17281569186958cb, table-imgs-scope/table4_(14).png, corpus-oa/10.1080_00207454.2016.1194274/table4.png,in,in,,,out,
+142,5b40738645dbf89f7adff28a372b77e071ae0d65fdedea9ff1286033820745ab, table-imgs-scope/table4_(15).png, corpus-oa/10.1136_bmjopen-2016-011048/table4.png,in,in,,nested rows,in,
+143,c3b9b621c9ab24248e19b9bbdb673b8444aa7bf5ee4153f99bab85e3ae6a1b41, table-imgs-scope/table4_(16).png, corpus-oa/10.1136_bmjopen-2016-012330/table4.png,in,in,,,in,
+144,34c64f426cab4b383c62762fe19385afda4600c54ab58ab9b32baae22377a9f9, table-imgs-scope/table4_(17).png, corpus-oa/10.1136_bmjopen-2016-013045/table4.png,in,in,,,out,process data
+145,9b7e0aef0562598092e3e2be3a2129f7f6235adcc5fb94389572c71616b8e125, table-imgs-scope/table4_(18).png, corpus-oa/10.1179_1743132812Y.0000000071/table4.png,in,in,,,out,review
+146,a3038454177b8e808f721d22e92aebe69ae62252a5344187b9925e08909bd9c9, table-imgs-scope/table4_(19).png, corpus-oa/10.1179_1743132815Y.0000000036/table4.png,in,in,,,in,
+147,be5a99d48fa63a8f426cb6ab3d4750bd63a4a9a24f3406cbb79687ad90ac53a8, table-imgs-scope/table4_(20).png, corpus-oa/10.1179_1743132815Y.0000000050/table4.png,in,in,,nested columns,out,no comparator
+148,8182b5c560f65226542260d34da99793080519902ac4fb7ad7d459e9e37caa74, table-imgs-scope/table4_(21) cont.png, corpus-oa/10.1186_s12916-014-0161-y/table4cont.png,in,in,,nested columns,in,
+148,039a85a5f06281de228c26a6920901dd6680cff1f52e347ea46c71e30586a217, table-imgs-scope/table4_(21).png, corpus-oa/10.1186_s12916-014-0161-y/table4.png,in,in,,nested columns,in,
+149,447dcc4b074a21c8c58e71d1f6de48433c0b197c74808cf3ecc039192cb0332b, table-imgs-scope/table4_(22) cont.png, corpus-oa/10.1371_journal.pone.0169976/table4cont.png,in,in,,"gridded, continued",out,
+149,88b99a52d71caf068090c1d17aa45b979a484016427c17eac969f50bdbc01865, table-imgs-scope/table4_(22).png, corpus-oa/10.1371_journal.pone.0169976/table4.png,in,in,,"gridded, continued",out,
+150,00a689f86cf9fb374c7773cdf8d950a614355112c4a45c28882cf33d0e65f2d1, table-imgs-scope/table4_(23).png, corpus-oa/10.3109_00207454.2013.803104/table4.png,in,in,,,in,
+151,a064b02f4b7a192aad50a52dcbc1d9449690023c20e79265065b890a9cf1c809, table-imgs-scope/table5.png, corpus-oa/10.1007_s00213-016-4471-y/table5.png,in,in,,nested columns,in,
+152,e48311ab347ea9236ab2c24685e75a628115e95fd42731fc5fe3b2b8aa2c9b60, table-imgs-scope/table5_(2).png, corpus-oa/10.1016_j.ypmed.2016.05.012/table5.png,in,in,,nested columns,in,
+153,c68f88f6f31b2c24ab3a76af05a97068ba80b23ad8b359a9723874fde456acfd, table-imgs-scope/table5_(3).png, corpus-oa/10.1038_ijo.2016.206/table5.png,in,in,,"nested columns, boxed",in,
+154,19bd525a3b8de9228784a6158d9f1e25d83afc963fa44c3f31cd89b37f7630c3, table-imgs-scope/table5_(4).png, corpus-oa/10.1038_srep37826/table5.png,in,in,,gridded,in,
+155,760c29d3dbfddc451fbd5fab935f6991bca2dbe5c4d834821a42ea6013bd9cc2, table-imgs-scope/table5_(5).png, corpus-oa/10.1136_bmjopen-2016-011048/table5.png,in,in,,nested columns,in,
+156,015e16aec2648b45d2083231d12dddfb88b46176250e9ed5006f41e53bb479e6, table-imgs-scope/table5_(6).png, corpus-oa/10.1136_bmjopen-2016-012330/table5.png,in,in,,,in,
+157,ac3e3c57ca5cfd28ccbea6004f1e899dfd54b353d842461151fe02cd9933fac0, table-imgs-scope/table5_(7).png, corpus-oa/10.1179_1743132812Y.0000000071/table5.png,in,in,,,out,review
+158,cb2e76302fa4bf210917cb5b0aa97a78404fbadc44c39f4b8f7400d35b680c37, table-imgs-scope/table5_(8).png, corpus-oa/10.1179_1743132815Y.0000000036/table5.png,in,in,,,in,
+159,55ddc3928d05007f7b6464790fe352bbe77715d4f5c9f39d7d0b3f6d39b28f8d, table-imgs-scope/table5_(9).png, corpus-oa/10.1179_1743132815Y.0000000050/table5.png,in,in,,nested columns,out,no comparator
+160,89970cb791b8f8b7b1e8cb55fd52f951a6ffa37477401459dff96387b608a53e, table-imgs-scope/table5_(10).png, corpus-oa/10.1186_s12916-014-0161-y/table5.png,in,in,,,in,
+161,56c4eb7b3f9422ffe611fb55a08da949e867844187e5c25cdf1d46cafdb3db75, table-imgs-scope/table5_(11).png, corpus-oa/10.3109_00207454.2013.803104/table5.png,in,in,,nested columns,in,
+162,bbf75c696fda81bb516c06c00c8a919a9c9232f4e855acfb691493b43a284632, table-imgs-scope/table6.png, corpus-oa/10.1007_s00213-016-4471-y/table6.png,in,in,,nested columns,in,
+163,d12467fdc76090c20f166232206ee485dc9ca929542982139ee31782bd8c44e3, table-imgs-scope/table6_(2).png, corpus-oa/10.1179_1743132815Y.0000000036/table6.png,in,in,,nested columns,in,
+164,c981703f6ec21ecac53b68dc7aa7d9d4ca449fda984ba9601f407313c5edb2db, table-imgs-scope/table6_(3).png, corpus-oa/10.1186_s12916-014-0161-y/table6.png,in,in,,,in,
+165,ccdc7a94a58856d5c7b519b962515a84e4e1605054322b16c15f699f87127af4, table-imgs-scope/table7.png, corpus-oa/10.1007_s00213-016-4471-y/table7.png,in,in,,redundant nesting columns,in,
+166,7ce4e6ff991277a5d1469f9dc9c66a774260b11a1f60ec49556a1a9433df4651, table-imgs-scope/table7_(2).png, corpus-oa/10.1186_s12916-014-0161-y/table7.png,in,in,,,in,
+167,1ba06a10b6ed2554d9bf3e8268b50184b76ddc5d7a816a6354275e2cd43d5276, table-imgs-scope/table8.png, corpus-oa/10.1007_s00213-016-4471-y/table8.png,in,in,,redundant nesting columns,in,
+168,0da8eb7ebb59a51ec11714b9e4ca06aa29990321ebbf3f81ecd03754e35a09a8, table-imgs-scope/table9.png, corpus-oa/10.1007_s00213-016-4471-y/table9.png,in,in,,,in,
