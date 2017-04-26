@@ -1,0 +1,101 @@
+---
+title: "Table retrieval project report [CM-UCL I]"
+author: "Contentmine"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+The current project aims to extract information from scholarly tables (semi-)automatically. Scholarly articles frequently contain vital information/statistics in tabular format, but given that the PDF format is a visually oriented tool instead of also being machine-readable, the information from these tables is not readily exportable. For example, simply copy-pasting a table into a spreadsheet is virtually impossible. This greatly decreases the efficiency of data collection in systematic reviews. This document is the final report for the project that ran from circa March 2017 through April 2017, contracted by the [EPPI-centre](https://www.ucl.ac.uk/public-policy/spotlight/eppi-centre). 
+
+We developed software for table extraction in two stages: (1) testing and (2) validation. Throughout this report the results of both will be presented alongside each other in order to improve comparison of the software's performance.
+
+The current report showcases some of the vital metrics of the resulting software. However, in no way is this meant to be exhaustive of the data collected. Considering this, the [data are freely available](https://github.com/ContentMine/cm-ucl/tree/master/data) for reanalysis and the code behind this report as well. Additionally, the steps taken to come to this end-product are more extensive than a summary report can contain; more extensive technical details are available on the project's [Open Notebook](http://discuss.contentmine.org/t/ami-eppi-cm-ucl-table-extraction-project/322/47) and [Github repository](https://github.com/contentmine/cm-ucl).
+
+## Corpus collection
+
+We collected non-restrictively licensed scholarly articles from journals selected by the UCL-
+
+## Metrics collection
+
+
+
+```{r read in data}
+library(ggplot2)
+library(plyr)
+
+testdf <- read.csv('data/metrics-test.csv')
+valdf <- read.csv('data/metrics-validation.csv')
+
+```
+
+## Table sections
+
+## Table structure
+
+## Limitations
+
+
+```{r}
+
+# Add normalized
+dat$normal_disc <- dat$discrepancy_cell_count / (dat$man_cols * dat$man_rows)
+
+# Select only the in scope
+sum(dat$scope_ucl == 0 | is.na(dat$table_nr))
+dat <- dat[dat$scope_ucl == 1 & !is.na(dat$table_nr), ]
+
+# Failure rate
+sum(is.na(dat$discrepancy_cell_count))
+# split p complexity
+table(is.na(dat$discrepancy_cell_count), dat$table_complexity)
+
+dat <- dat[!is.na(dat$discrepancy_cell_count), ] 
+
+# Perfect
+sum(dat$normal_disc == 0 &
+      dat$man_cols == dat$cols_retrieved &
+      dat$man_rows == dat$rows_retrieved, na.rm = TRUE)
+# Split p complexity
+table(round(dat$normal_disc, 2) == 0 & dat$man_cols == dat$cols_retrieved & dat$man_rows == dat$rows_retrieved, dat$table_complexity)
+
+# 
+tmp <- abs(dat$man_cols - dat$cols_retrieved) + abs(dat$man_rows - dat$rows_retrieved)
+
+dat$structure_retrieved <- ifelse(tmp == 0, 'perfect structure',
+       ifelse(tmp == 1, 'close to perfect structure',
+              ifelse(tmp > 1 & tmp < 4, 
+                     'reasonable structure',
+                     'bad structure')))
+dat$discrepancy_factor <- ifelse(dat$discrepancy_cell_count == 0,
+                                 'perfect contents',
+                                 ifelse(dat$discrepancy_cell_count == 1,
+                                        'close to perfect contents',
+                                        ifelse(dat$discrepancy_cell_count > 1  & dat$discrepancy_cell_count < 4,
+                                               'reasonable contents',
+                                               'bad contents')))
+dat$table_complexity <- factor(dat$table_complexity, 
+                               levels = c('messy',
+                                          'untidy',
+                                          'tidy'))
+dat$structure_retrieved <- factor(dat$structure_retrieved,
+                         levels = c('bad structure',
+                                    'reasonable structure',
+                                    'close to perfect structure',
+                                    'perfect structure'))
+dat$discrepancy_factor <- factor(dat$discrepancy_factor,
+                                  levels = c('bad contents',
+                                             'reasonable contents',
+                                             'close to perfect contents',
+                                             'perfect contents'))
+
+write.csv(table(dat$structure_retrieved, dat$discrepancy_factor), 'tmp2.csv')
+
+
+ggplot(dat, aes(x = normal_disc)) + 
+  geom_density(aes(color = table_complexity, fill = table_complexity,
+                   alpha = .2)) + 
+  xlim(0, 0.50)
+
+sum(dat$man_cols == dat$cols_retrieved, na.rm = TRUE)
+
+```
