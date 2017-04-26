@@ -1,0 +1,103 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1186_s12974-017-0807-8</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1186_s12974-017-0807-8/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Gene </th>
+     <th class="cell">Forward primer sequence </th>
+     <th class="cell">Reverse primer sequence </th>
+    </tr>
+    <tr>
+     <td class="cell">IL-1β</td>
+     <td class="cell">5′-CACCTCTCAAGCAGAGCACAG-3′</td>
+     <td class="cell">5′-GGGTTGCATGGTGAAGTCAAC-3′</td>
+    </tr>
+    <tr>
+     <td class="cell">TNFα</td>
+     <td class="cell">5′-AAATGGGCTCCCTCTCATCAGTCC-3′</td>
+     <td class="cell">5′-TCTGCTTGGTGGTTTGCTACGAC-3′</td>
+    </tr>
+    <tr>
+     <td class="cell">SDHA</td>
+     <td class="cell">5′-CCCTGAGCATTGCAGAATC-3′</td>
+     <td class="cell">5′-CATTTGCCTTAATCGGAGGA-3′</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1186_s12974-017-0807-8/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

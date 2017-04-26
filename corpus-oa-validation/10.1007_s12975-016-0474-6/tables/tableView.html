@@ -1,0 +1,228 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s12975-016-0474-6</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-016-0474-6/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Area </th>
+     <th class="cell">Conclusion/recommendation </th>
+     <th class="cell">Benefit </th>
+    </tr>
+    <tr>
+     <td class="cell">P3PT implementation</td>
+     <td class="cell">Careful and stepwise implementation recommended</td>
+     <td class="cell">Widespread acceptance more likely</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Initial preclinical multicenter studies should be</td>
+     <td class="cell">Swift and exact estimation of P3PT</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">performed by experienced centers, ideally</td>
+     <td class="cell">benefit under practical conditions</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">having a long-standing history of collaboration</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">P3PT organization and governance</td>
+     <td class="cell">Centralized study governance and central study protocol</td>
+     <td class="cell">Clinical-trial like design, enhanced</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">result comparability</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Core endpoints addressed by all centers according</td>
+     <td class="cell">Enhanced statistical power and higher</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">to P3PT protocol</td>
+     <td class="cell">predictability for primary endpoints</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Additional: individual endpoints addressed</td>
+     <td class="cell">Broad spectrum of translationally</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">by single centers with outstanding competencies</td>
+     <td class="cell">endpoints addressable (but no</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">benefit for study power)</td>
+    </tr>
+    <tr>
+     <td class="cell">P3PT animal models</td>
+     <td class="cell">Use of multiple models, if applicable</td>
+     <td class="cell">Better representation of patient population</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(polypharmacy, age, sex, comorbidities)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Use of large animal models, if available</td>
+     <td class="cell">Reflecting gyrencephalic brain structure,</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">closer similarity to human situation</td>
+    </tr>
+    <tr>
+     <td class="cell">P3PT quality assurance</td>
+     <td class="cell">Further enhancing awareness for those (might require</td>
+     <td class="cell">Increasing scientific rigor and result</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">institutional support [9])</td>
+     <td class="cell">comparability, reducing divergences</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">in relevance acknowledgment throughout</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">the community</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Strict application of quality assurance criteria</td>
+     <td class="cell">Enhanced result comparability and relevance</td>
+    </tr>
+    <tr>
+     <td class="cell">P3PT financing and result publication</td>
+     <td class="cell">Establishing and recruiting of global funds</td>
+     <td class="cell">International and -continental collaboration</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">facilitated, reduced financial burden for</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">national public funding authorities</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Early enrolment of high-quality academic-industry</td>
+     <td class="cell">Timely involvement of key stakeholders,</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">collaborations</td>
+     <td class="cell">preventing failure of clinical trials,</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">bolstering financial resources for P3PT</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Establishing centralized writing committees</td>
+     <td class="cell">More efficient workflow, comparability to</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">large scale clinical trials</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-016-0474-6/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

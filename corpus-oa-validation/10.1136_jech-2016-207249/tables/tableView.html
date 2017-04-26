@@ -1,0 +1,893 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_jech-2016-207249</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-207249/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Low connectivity/amenities (n=545 (23.2%)) </th>
+     <th class="cell">p for equality of coefficients (low vs high income)§ </th>
+     <th class="cell">Average connectivity/ amenities (n=409 (17.4%)) </th>
+     <th class="cell">p for equality of coefficients (average vs high income)§ </th>
+     <th class="cell">High connectivity/ amenities (n=1398 (59.4%)) </th>
+    </tr>
+    <tr>
+     <td class="cell">Low income (first tertile)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">White¶</td>
+     <td class="cell">−0.13 (−0.65 to 0.40)</td>
+     <td class="cell">0.29</td>
+     <td class="cell">0.16 (−0.28 to 0.59)</td>
+     <td class="cell">0.05</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">−0.07 (−0.39 to 0.26)</td>
+     <td class="cell">0.0001</td>
+     <td class="cell">−0.11 (−0.39 to 0.17)</td>
+     <td class="cell">0.09</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Education**</td>
+     <td class="cell">−0.26 (−0.54 to 0.02)</td>
+     <td class="cell">0.14</td>
+     <td class="cell">−0.20 (−0.42 to 0.03)</td>
+     <td class="cell">0.45</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (years)</td>
+     <td class="cell">0.03 (0.01 to 0.07)</td>
+     <td class="cell">0.16</td>
+     <td class="cell">0.01 (−0.03 to 0.04)</td>
+     <td class="cell">0.15</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score</td>
+     <td class="cell">−0.24 (−0.71 to 0.23)</td>
+     <td class="cell">0.14</td>
+     <td class="cell">−0.05 (−0.49 to 0.40)</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population</td>
+     <td class="cell">0.01 (−0.0002 to 0.03)*</td>
+     <td class="cell">0.36</td>
+     <td class="cell">0.01 (−0.004 to 0.02)</td>
+     <td class="cell">0.002</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years</td>
+     <td class="cell">0.10 (0.07 to 0.14)*</td>
+     <td class="cell">0.25</td>
+     <td class="cell">0.07 (0.04 to 0.10)*</td>
+     <td class="cell">0.48</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage rental properties</td>
+     <td class="cell">−0.03 (−0.04 to −0.01)*</td>
+     <td class="cell">0.10</td>
+     <td class="cell">−0.02 (−0.04 to −0.01)*</td>
+     <td class="cell">0.80</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Home price index</td>
+     <td class="cell">−0.002 (−0.01 to 0.01)</td>
+     <td class="cell">0.15</td>
+     <td class="cell">0.003 (−0.005 to 0.01)</td>
+     <td class="cell">0.12</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood land area</td>
+     <td class="cell">0.35 (0.26 to 0.44)*</td>
+     <td class="cell">0.11</td>
+     <td class="cell">−0.10 (−0.20 to −0.01)*</td>
+     <td class="cell">0.03</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Examination year</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Year 0</td>
+     <td class="cell">0.00</td>
+     <td class="cell">−</td>
+     <td class="cell">0.00</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 7</td>
+     <td class="cell">−0.46 (−1.02 to 0.10)</td>
+     <td class="cell">0.14</td>
+     <td class="cell">−0.32 (−0.81 to 0.16)</td>
+     <td class="cell">0.46</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 10</td>
+     <td class="cell">−0.14 (−0.79 to 0.51)</td>
+     <td class="cell">0.89</td>
+     <td class="cell">−0.26 (−0.80 to 0.29)</td>
+     <td class="cell">0.81</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 15</td>
+     <td class="cell">−0.15 (−1.05 to 0.76)</td>
+     <td class="cell">0.63</td>
+     <td class="cell">−0.35 (−1.14 to 0.43)</td>
+     <td class="cell">0.94</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 20</td>
+     <td class="cell">−0.26 (−1.77 to 1.26)</td>
+     <td class="cell">0.33</td>
+     <td class="cell">−0.40 (−1.60 to 0.81)</td>
+     <td class="cell">0.37</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 25</td>
+     <td class="cell">−0.34 (−1.68 to 0.99)</td>
+     <td class="cell">0.68</td>
+     <td class="cell">−0.42 (−1.47 to 0.63)</td>
+     <td class="cell">0.76</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Baseline city††</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Birmingham</td>
+     <td class="cell">1.38 (0.25 to 2.52)*</td>
+     <td class="cell">0.45</td>
+     <td class="cell">−0.31 (−1.20 to 0.59)</td>
+     <td class="cell">0.13</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Chicago</td>
+     <td class="empty" />
+     <td class="cell">−</td>
+     <td class="empty" />
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Minneapolis</td>
+     <td class="cell">3.40 (2.02 to 4.77)*</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.67 (−0.49 to 1.84)</td>
+     <td class="cell">0.21</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Oakland</td>
+     <td class="cell">3.52 (2.04 to 5.00)*</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.56 (−0.66 to 1.79)</td>
+     <td class="cell">0.57</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Medium income (second tertile)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">White¶</td>
+     <td class="cell">0.04 (−0.72 to 0.81)</td>
+     <td class="cell">0.16</td>
+     <td class="cell">0.30 (−0.10 to 0.71)</td>
+     <td class="cell">0.10</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">−0.02 (−0.43 to 0.39)</td>
+     <td class="cell">0.0001</td>
+     <td class="cell">0.01 (−0.34 to 0.36)</td>
+     <td class="cell">0.20</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Education**</td>
+     <td class="cell">−0.40 (−0.81 to 0.02)</td>
+     <td class="cell">0.07</td>
+     <td class="cell">−0.31 (−0.64 to 0.03)</td>
+     <td class="cell">0.30</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (years)</td>
+     <td class="cell">0.01 (−0.04 to 0.07)</td>
+     <td class="cell">0.20</td>
+     <td class="cell">0.02 (−0.02 to 0.06)</td>
+     <td class="cell">0.08</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score</td>
+     <td class="cell">−0.28 (−0.79 to 0.23)</td>
+     <td class="cell">0.10</td>
+     <td class="cell">0.16 (−0.34 to 0.66)</td>
+     <td class="cell">0.001</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population</td>
+     <td class="cell">0.01 (−0.01 to 0.02)</td>
+     <td class="cell">0.15</td>
+     <td class="cell">0.01 (−0.01 to 0.03)</td>
+     <td class="cell">0.01</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years</td>
+     <td class="cell">0.12 (0.07 to 0.17)*</td>
+     <td class="cell">0.42</td>
+     <td class="cell">0.08 (0.05 to 0.12)*</td>
+     <td class="cell">0.65</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage rental properties</td>
+     <td class="cell">−0.04 (−0.06 to −0.02)*</td>
+     <td class="cell">0.04</td>
+     <td class="cell">−0.04 (−0.05 to −0.02)*</td>
+     <td class="cell">0.32</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Home price index</td>
+     <td class="cell">0.0002 (−0.01 to 0.01)</td>
+     <td class="cell">0.20</td>
+     <td class="cell">0.003 (−0.01 to 0.01)</td>
+     <td class="cell">0.14</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood land area</td>
+     <td class="cell">0.36 (0.24 to 0.47)*</td>
+     <td class="cell">0.01</td>
+     <td class="cell">−0.12 (−0.21 to −0.03)*</td>
+     <td class="cell">0.03</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Examination year</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Year 0</td>
+     <td class="cell">0.00</td>
+     <td class="cell">−</td>
+     <td class="cell">0.00</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 7</td>
+     <td class="cell">0.07 (−0.69 to 0.83)</td>
+     <td class="cell">0.77</td>
+     <td class="cell">−0.23 (−0.86 to 0.39)</td>
+     <td class="cell">0.61</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 10</td>
+     <td class="cell">−0.16 (−1.14 to 0.81)</td>
+     <td class="cell">0.92</td>
+     <td class="cell">−0.49 (−1.29 to 0.32)</td>
+     <td class="cell">0.49</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 15</td>
+     <td class="cell">−0.23 (−1.53 to 1.06)</td>
+     <td class="cell">0.71</td>
+     <td class="cell">−0.52 (−1.62 to 0.59)</td>
+     <td class="cell">0.90</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 20</td>
+     <td class="cell">−0.89 (−3.10 to 1.31)</td>
+     <td class="cell">0.60</td>
+     <td class="cell">−0.89 (−2.67 to 0.88)</td>
+     <td class="cell">0.56</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Year 25</td>
+     <td class="cell">−0.74 (−2.68 to 1.19)</td>
+     <td class="cell">0.91</td>
+     <td class="cell">−1.24 (−2.84 to 0.36)</td>
+     <td class="cell">0.70</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Baseline city ††</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Birmingham</td>
+     <td class="cell">1.37 (0.0003 to 2.74)*</td>
+     <td class="cell">0.38</td>
+     <td class="cell">−0.58 (−1.39 to 0.24)</td>
+     <td class="cell">0.36</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Chicago</td>
+     <td class="cell">0.00</td>
+     <td class="cell">−</td>
+     <td class="cell">0.00</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Minneapolis</td>
+     <td class="cell">3.66 (2.17 to 5.16)*</td>
+     <td class="cell">0.76</td>
+     <td class="cell">0.21 (−0.74 to 1.15)</td>
+     <td class="cell">0.70</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Oakland</td>
+     <td class="cell">4.18 (2.44 to 5.93)*</td>
+     <td class="cell">0.44</td>
+     <td class="cell">0.67 (−0.41 to 1.75)</td>
+     <td class="cell">0.44</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">High income (third tertile)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">White ¶</td>
+     <td class="cell">−0.68 (−1.56 to 0.20)</td>
+     <td class="cell">−</td>
+     <td class="cell">−0.63 (−1.26 to 0.0001)</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">1.07 (0.59 to 1.54)*</td>
+     <td class="cell">−</td>
+     <td class="cell">0.33 (−0.11 to 0.77)</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Education**</td>
+     <td class="cell">0.29 (−0.37 to 0.96)</td>
+     <td class="cell">−</td>
+     <td class="cell">0.09 (−0.60 to 0.78)</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year)</td>
+     <td class="cell">−0.05 (−0.14 to 0.05)</td>
+     <td class="cell">−</td>
+     <td class="cell">−0.05 (−0.12 to 0.02)</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score</td>
+     <td class="cell">0.21 (−0.36 to 0.77)</td>
+     <td class="cell">−</td>
+     <td class="cell">1.04 (0.45 to 1.63)*</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population</td>
+     <td class="cell">0.03 (−0.0003 to 0.05)*</td>
+     <td class="cell">−</td>
+     <td class="cell">0.03 (0.02 to 0.05)*</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years</td>
+     <td class="cell">0.16 (0.07 to 0.25)*</td>
+     <td class="cell">−</td>
+     <td class="cell">0.10 (0.02 to 0.18)*</td>
+     <td class="cell">−</td>
+     <td class="cell">1.00</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-207249/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-207249/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Low connectivity/amenities (n=545 (23.2%)) </th>
+     <th class="cell">Average connectivity/amenities (409 (17.4%)) </th>
+     <th class="cell">High connectivity/amenities (1398 (59.4%)) </th>
+    </tr>
+    <tr>
+     <td class="cell">Low income (first tertile)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Black</td>
+     <td class="cell">0.28 (0.23 to 0.32)</td>
+     <td class="cell">0.52 (0.47 to 0.58)*</td>
+     <td class="cell">0.20 (0.16 to 0.23)</td>
+    </tr>
+    <tr>
+     <td class="cell">White</td>
+     <td class="cell">0.25 (0.20 to 0.29)</td>
+     <td class="cell">0.57 (0.51 to 0.62)*</td>
+     <td class="cell">0.19 (0.14 to 0.23)</td>
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">0.27 (0.23 to 0.30)*</td>
+     <td class="cell">0.55 (0.50 to 0.59)</td>
+     <td class="cell">0.19 (0.16 to 0.22)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">0.27 (0.23 to 0.31)*</td>
+     <td class="cell">0.53 (0.48 to 0.58)</td>
+     <td class="cell">0.20 (0.16 to 0.24)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education&lt;high school</td>
+     <td class="cell">0.27 (0.23 to 0.31)</td>
+     <td class="cell">0.55 (0.50 to 0.60)</td>
+     <td class="cell">0.18 (0.15 to 0.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education≥high school</td>
+     <td class="cell">0.26 (0.22 to 0.30)</td>
+     <td class="cell">0.53 (0.48 to 0.58)</td>
+     <td class="cell">0.21 (0.18 to 0.24)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year) (−1SD)</td>
+     <td class="cell">0.24 (0.18 to 0.30)</td>
+     <td class="cell">0.55 (0.48 to 0.63)</td>
+     <td class="cell">0.21 (0.15 to 0.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year) (+1SD)</td>
+     <td class="cell">0.29 (0.25 to 0.34)</td>
+     <td class="cell">0.52 (0.47 to 0.58)</td>
+     <td class="cell">0.18 (0.15 to 0.22)</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score (−1SD)</td>
+     <td class="cell">0.29 (0.23 to 0.35)</td>
+     <td class="cell">0.53 (0.45 to 0.61)*</td>
+     <td class="cell">0.18 (0.13 to 0.24)</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score (+1SD)</td>
+     <td class="cell">0.24 (0.20 to 0.29)</td>
+     <td class="cell">0.55 (0.49 to 0.62)*</td>
+     <td class="cell">0.20 (0.15 to 0.25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population (−1SD)</td>
+     <td class="cell">0.24 (0.16 to 0.31)</td>
+     <td class="cell">0.53 (0.43 to 0.63)*</td>
+     <td class="cell">0.23 (0.17 to 0.29)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population (+1SD)</td>
+     <td class="cell">0.29 (0.25 to 0.34)</td>
+     <td class="cell">0.54 (0.49 to 0.60)*</td>
+     <td class="cell">0.16 (0.13 to 0.20)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years (−1SD)</td>
+     <td class="cell">0.22 (0.18 to 0.25)</td>
+     <td class="cell">0.51 (0.45 to 0.56)</td>
+     <td class="cell">0.28 (0.22 to 0.33)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years (+1SD)</td>
+     <td class="cell">0.33 (0.26 to 0.39)</td>
+     <td class="cell">0.57 (0.49 to 0.64)</td>
+     <td class="cell">0.10 (0.08 to 0.13)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage rental properties (−1SD)</td>
+     <td class="cell">0.27 (0.22 to 0.33)</td>
+     <td class="cell">0.60 (0.53 to 0.66)*</td>
+     <td class="cell">0.13 (0.10 to 0.16)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage rental properties (+1SD)</td>
+     <td class="cell">0.26 (0.22 to 0.30)</td>
+     <td class="cell">0.48 (0.43 to 0.54)*</td>
+     <td class="cell">0.26 (0.21 to 0.31)</td>
+    </tr>
+    <tr>
+     <td class="cell">HPI (−1SD)</td>
+     <td class="cell">0.29 (0.21 to 0.38)</td>
+     <td class="cell">0.50 (0.41 to 0.59)</td>
+     <td class="cell">0.21 (0.14 to 0.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">HPI (+1SD)</td>
+     <td class="cell">0.25 (0.20 to, 0.30)</td>
+     <td class="cell">0.56 (0.50 to 0.62)</td>
+     <td class="cell">0.19 (0.14 to 0.23)</td>
+    </tr>
+    <tr>
+     <td class="cell">Medium income (second tertile)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Black</td>
+     <td class="cell">0.26 (0.21 to 0.31)</td>
+     <td class="cell">0.55 (0.50 to 0.61)†</td>
+     <td class="cell">0.19 (0.16 to 0.22)</td>
+    </tr>
+    <tr>
+     <td class="cell">White</td>
+     <td class="cell">0.23 (0.18 to 0.9)</td>
+     <td class="cell">0.61 (0.55 to 0.66)†</td>
+     <td class="cell">0.16 (0.12 to 0.20)</td>
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">0.25 (0.21 to 0.29)†</td>
+     <td class="cell">0.58 (0.53 to 0.63)</td>
+     <td class="cell">0.17 (0.14 to 0.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">0.24 (0.21 to 0.28)†</td>
+     <td class="cell">0.58 (0.54 to 0.63)</td>
+     <td class="cell">0.17 (0.14 to 0.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education&lt;high school</td>
+     <td class="cell">0.26 (0.21 to 0.30)</td>
+     <td class="cell">0.59 (0.54 to 0.65)</td>
+     <td class="cell">0.15 (0.11 to 0.18)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education≥high school</td>
+     <td class="cell">0.24 (0.21 to 0.27)</td>
+     <td class="cell">0.58 (0.54 to 0.62)</td>
+     <td class="cell">0.18 (0.15 to 0.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year) (−1SD)</td>
+     <td class="cell">0.25 (0.18 to 0.31)</td>
+     <td class="cell">0.56 (0.48 to 0.64)</td>
+     <td class="cell">0.19 (0.13 to 0.25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year) (+1SD)</td>
+     <td class="cell">0.24 (0.20 to 0.29)</td>
+     <td class="cell">0.59 (0.53 to 0.65)</td>
+     <td class="cell">0.16 (0.13 to 0.20)</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score (−1SD)</td>
+     <td class="cell">0.28 (0.22 to 0.34)</td>
+     <td class="cell">0.54 (0.46 to 0.62)†</td>
+     <td class="cell">0.18 (0.12 to 0.23)</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score (+1SD)</td>
+     <td class="cell">0.20 (0.15 to 0.25)</td>
+     <td class="cell">0.64 (0.56 to 0.72)†</td>
+     <td class="cell">0.16 (0.11 to 0.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population (−1SD)</td>
+     <td class="cell">0.26 (0.17 to 0.34)</td>
+     <td class="cell">0.53 (0.42 to 0.65)†</td>
+     <td class="cell">0.21 (0.14 to 0.28)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population (+1SD)</td>
+     <td class="cell">0.24 (0.19 to 0.29)</td>
+     <td class="cell">0.61 (0.55 to 0.67)†</td>
+     <td class="cell">0.15 (0.11 to 0.19)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years (−1SD)</td>
+     <td class="cell">0.19 (0.14 to 0.24)</td>
+     <td class="cell">0.56 (0.50 to 0.61)</td>
+     <td class="cell">0.26 (0.20 to 0.31)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage population ≤18 years (+1SD)</td>
+     <td class="cell">0.30 (0.24 to 0.37)</td>
+     <td class="cell">0.61 (0.54 to 0.68)</td>
+     <td class="cell">0.09 (0.06 to 0.11)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage rental properties (−1SD)</td>
+     <td class="cell">0.27 (0.22 to 0.31)</td>
+     <td class="cell">0.65 (0.59 to 0.70)</td>
+     <td class="cell">0.09 (0.06 to 0.11)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage rental properties (+1SD)</td>
+     <td class="cell">0.21 (0.16 to 0.26)</td>
+     <td class="cell">0.52 (0.45 to 0.58)</td>
+     <td class="cell">0.28 (0.22 to 0.33)</td>
+    </tr>
+    <tr>
+     <td class="cell">HPI (−1SD)</td>
+     <td class="cell">0.26 (0.17 to 0.36)</td>
+     <td class="cell">0.55 (0.44 to 0.66)</td>
+     <td class="cell">0.19 (0.12 to 0.26)</td>
+    </tr>
+    <tr>
+     <td class="cell">HPI (+1SD)</td>
+     <td class="cell">0.24 (0.19 to 0.28)</td>
+     <td class="cell">0.60 (0.53 to 0.67)</td>
+     <td class="cell">0.16 (0.11 to 0.21)</td>
+    </tr>
+    <tr>
+     <td class="cell">High income (third tertile)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Black</td>
+     <td class="cell">0.25 (0.19 to 0.30)</td>
+     <td class="cell">0.53 (0.46 to 0.60)</td>
+     <td class="cell">0.22 (0.17 to 0.28)</td>
+    </tr>
+    <tr>
+     <td class="cell">White</td>
+     <td class="cell">0.22 (0.17 to 0.28)</td>
+     <td class="cell">0.48 (0.42 to 0.55)</td>
+     <td class="cell">0.29 (0.24 to 0.35)</td>
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">0.18 (0.14 to 0.22)</td>
+     <td class="cell">0.52 (0.46 to 0.58)</td>
+     <td class="cell">0.30 (0.25 to 0.35)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">0.28 (0.23 to 0.33)</td>
+     <td class="cell">0.48 (0.42 to 0.53)</td>
+     <td class="cell">0.24 (0.20 to 0.29)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education&lt;high school</td>
+     <td class="cell">0.21 (0.15 to 0.27)</td>
+     <td class="cell">0.50 (0.42 to 0.59)</td>
+     <td class="cell">0.28 (0.21 to 0.36)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education≥high school</td>
+     <td class="cell">0.24 (0.20 to 0.28)</td>
+     <td class="cell">0.49 (0.44 to 0.54)</td>
+     <td class="cell">0.27 (0.23 to 0.31)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year) (−1SD)</td>
+     <td class="cell">0.24 (0.12 to 0.37)</td>
+     <td class="cell">0.54 (0.41 to 0.67)</td>
+     <td class="cell">0.22 (0.14 to 0.30)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (year) (+1SD)</td>
+     <td class="cell">0.23 (0.17 to 0.29)</td>
+     <td class="cell">0.47 (0.40 to 0.54)</td>
+     <td class="cell">0.30 (0.25 to 0.35)</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score (−1SD)</td>
+     <td class="cell">0.29 (0.21 to 0.37)</td>
+     <td class="cell">0.37 (0.28 to 0.45)</td>
+     <td class="cell">0.35 (0.27 to 0.42)</td>
+    </tr>
+    <tr>
+     <td class="cell">Neighbourhood deprivation score (+1SD)</td>
+     <td class="cell">0.16 (0.12 to 0.20)</td>
+     <td class="cell">0.67 (0.59 to 0.75)</td>
+     <td class="cell">0.17 (0.11 to 0.24)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population (−1SD)</td>
+     <td class="cell">0.23 (0.13 to 0.33)</td>
+     <td class="cell">0.37 (0.28 to 0.47)</td>
+     <td class="cell">0.40 (0.30 to 0.49)</td>
+    </tr>
+    <tr>
+     <td class="cell">Percentage white population (+1SD)</td>
+     <td class="cell">0.22 (0.17 to 0.28)</td>
+     <td class="cell">0.56 (0.50 to 0.63)</td>
+     <td class="cell">0.21 (0.17 to 0.26)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-207249/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-207249/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Individual-level exposures (% or mean (SD)) White (%) 43.9 Female (%) 58.1 Education (%) 53.9 Age (years) (mean (SD)) 24.8 (3.7) Neighbourhood-level exposures (mean (SD)) Neighbourhood deprivation score 0.56 (0.88) Percentage white population 51.9 (29.6) Percentage population ≤18 years 25.0 (9.1) Percentage rental properties 57.4 (22.3) Home price index 41.2 (5.8) </th>
+     <th class="cell">30.9 67.7 58.2 50.1 (3.8) 0.63 (1.02) 38.8 (29.5) 22.9 (7.2) 43.7 (18.2) 139.0 (21.1) </th>
+     <th class="cell">&lt;0.001 &lt;0.001 0.01 &lt;0.001 0.03 &lt;0.001 &lt;0.001 &lt;0.001 &lt;0.001 </th>
+    </tr>
+    <tr>
+     <td class="cell">*The analytic sample only included participants who remained in the four baseline</td>
+    </tr>
+    <tr>
+     <td class="cell">CARDIA cities at any given examination year, with a total of 4314, 2461, 1727,</td>
+    </tr>
+    <tr>
+     <td class="cell">1480, 1202 and 1119 participants at baseline and examination years 7, 10, 15, 20</td>
+    </tr>
+    <tr>
+     <td class="cell">and 25, respectively.</td>
+    </tr>
+    <tr>
+     <td class="cell">†One-way ANOVA was used to test whether the difference between values at</td>
+    </tr>
+    <tr>
+     <td class="cell">baseline and examination year 25 was statistically significantly different from one</td>
+    </tr>
+    <tr>
+     <td class="cell">another.</td>
+    </tr>
+    <tr>
+     <td class="cell">ANOVA, analysis of variance; CARDIA, Coronary Artery Risk Development in Young</td>
+    </tr>
+    <tr>
+     <td class="cell">Adults.</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-207249/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

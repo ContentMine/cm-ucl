@@ -1,0 +1,8 @@
+"MRI measure ","Estimated change (95% CI) ","Residual standard deviation (95% CI) ","p Value ","Sample size – two-arm study^{A} ","Sample size – one-arm study^{B} "
+Raw thalamus,"¡0.307 (¡0.647, 0.033)","0.499 (0.360, 0.692)",0.074_{*},2660,667
+Raw caudate,"¡0.103 (¡0.188, ¡0.019)","0.124 (0.089, 0.172)",0.020,1456,365
+Raw putamen,"¡0.233 (¡0.586, 0.121)","0.519 (0.374, 0.719)",0.184,4988,1249
+Raw globus pallidus,"¡0.106 (¡0.222, 0.011)","0.171 (0.124, 0.238)",0.074_{*},2622,657
+Raw deep gray matter,"¡0.749 (¡1.455, ¡0.043)","1.036 (0.747, 1.436)",0.039,1924,483
+Note:,,,,,
+"^{*p < 0.05. Sample sizes represent the total number of patients required to test a therapy showing a 25% reduction in the rate of atrophy. A D one-year}",,,,,

@@ -1,0 +1,36 @@
+"","Model ","COR (95% CI) ","AOR (95% CI)^{b} "
+1,Household income (2010),,
+"","char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,
+"","char: 8804; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+$75,000","2.8 (1.1❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+7.4)","2.9 (1.1❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+8.2)"
+"","char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,
+"",">$75,000",Ref.,Ref.
+2,Unmet healthcare needs,,
+"","char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,
+"",Yes,"5.0 (1.2❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+20.5)","5.2 (1.2❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+22.9)"
+"","char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,
+"",No,Ref.,Ref.
+3,At least one mental health,,
+"",condition ^{a},,
+"","char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,
+"",Yes,"4.2 (1.2❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+14.6)","6.1 (1.5❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+24.7)"
+"","char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,
+"",No,Ref.,Ref.

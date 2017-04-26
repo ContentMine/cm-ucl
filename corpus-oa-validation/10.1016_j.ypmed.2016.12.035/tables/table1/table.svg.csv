@@ -1,0 +1,27 @@
+"Variable ","Mean ","SD ","Variance "
+Outcome variable,,,
+Health services utilization per 1000 live births by,2.2,2.7,7.1
+communities,,,
+Community level factors,,,
+Multiple childhood deprivation index ^{a},0.0,1.0,
+Risky birth interval (%),17.1,9.2,83.9
+High birth order (%),44.7,16.0,257.2
+Low birth weight (%),13.3,10.3,105.2
+Never breastfed (%),2.6,3.8,14.6
+High number of under-fives (%),9.1,11.5,132.6
+Maternal deprivation,0.0,1.0,
+Poverty rate (%),13.0,24.9,621.6
+Unemployment rate (%),26.1,20.0,400.5
+Illiteracy rate (%),33.0,37.1,1376.3
+Rural residency (%),58.6,49.3,2428.9
+Community environmental factor index ^{a},0.0,1.0,
+Safe water source (%),27.4,32.5,1057.6
+Proper sanitation (%),32.6,32.8,1072.7
+Low pollution cooking fuel (%),2.9,11.5,133.3
+Maternal health-seeking behaviour index ^{a},0.0,1.0,
+Child received at least one vaccination (%),66.1,19.4,375.6
+Ante-natal attendance (%),16.2,19.4,378.1
+Medical assistance at delivery (%),50.1,35.4,1249.6
+Tetanus injection during pregnancy (%),19.4,19.2,369.7
+Ethnicity diversity index ^{a},0.0,1.0,
+Male gender,17.8,9.4,48.0

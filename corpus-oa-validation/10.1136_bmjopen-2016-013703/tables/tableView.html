@@ -1,0 +1,731 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_bmjopen-2016-013703</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Group 1 </th>
+     <th class="cell">Group 2 </th>
+     <th class="cell">Group 3 </th>
+     <th class="cell">Group 4 </th>
+    </tr>
+    <tr>
+     <td class="cell">n</td>
+     <td class="cell">51</td>
+     <td class="cell">49</td>
+     <td class="cell">51</td>
+     <td class="cell">49</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (years)</td>
+     <td class="cell">69.1 (7.4)</td>
+     <td class="cell">68.3 (5.7)</td>
+     <td class="cell">70.3 (6.3)</td>
+     <td class="cell">68.9 (6.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">Body mass index (kg/m )^{2}</td>
+     <td class="cell">26.7 (5.1)</td>
+     <td class="cell">27.1 (4.7)</td>
+     <td class="cell">26.4 (4.4)</td>
+     <td class="cell">26.5 (5.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female (%)</td>
+     <td class="cell">86</td>
+     <td class="cell">71</td>
+     <td class="cell">75</td>
+     <td class="cell">90</td>
+    </tr>
+    <tr>
+     <td class="cell">European descent (%)</td>
+     <td class="cell">92</td>
+     <td class="cell">98</td>
+     <td class="cell">94</td>
+     <td class="cell">96</td>
+    </tr>
+    <tr>
+     <td class="cell">Fracture after 50 years (%)</td>
+     <td class="cell">41</td>
+     <td class="cell">31</td>
+     <td class="cell">35</td>
+     <td class="cell">22</td>
+    </tr>
+    <tr>
+     <td class="cell">Bone mineral density T-score</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Lumbar spine</td>
+     <td class="cell">−0.5 (1.6)</td>
+     <td class="cell">−0.3 (1.8)</td>
+     <td class="cell">−0.4 (2.0)</td>
+     <td class="cell">−0.1 (1.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">Total hip</td>
+     <td class="cell">−1.2 (1.1)</td>
+     <td class="cell">−0.9 (1.3)</td>
+     <td class="cell">−1.1 (1.2)</td>
+     <td class="cell">−1.1 (2.3)</td>
+    </tr>
+    <tr>
+     <td class="cell">Femoral neck</td>
+     <td class="cell">−1.6 (0.9)</td>
+     <td class="cell">−1.3 (1.1)</td>
+     <td class="cell">−1.5 (1.0)</td>
+     <td class="cell">−1.3 (0.9)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th />
+     <th />
+    </tr>
+    <tr>
+     <td class="cell">Prior to bone density scan</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">n (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">30 (15)</td>
+     <td class="cell">67 (34)</td>
+     <td class="cell">101 (51)</td>
+    </tr>
+    <tr>
+     <td class="cell">After information on fracture risk and treatment benefits</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">provided</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Should you take osteoporosis medication?</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">20 (67)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">3 (4)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">14 (14)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">8 (27)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">54 (81)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">39 (39)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Don’t know (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2 (7)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">10 (15)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">48 (48)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">At 3-month follow-up</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Started/intend to start osteoporosis medication</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">17 (65)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">12 (19)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">34 (35)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9 (35)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">51 (81)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">62 (65)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Group 1 (n=51) </th>
+     <th class="cell">Group 2 (n=49) </th>
+     <th class="cell">Group 3 (n=51) </th>
+     <th class="cell">Group 4 (n=49) </th>
+     <th class="cell">Entire cohort </th>
+    </tr>
+    <tr>
+     <td class="cell">Participant estimates at baseline</td>
+    </tr>
+    <tr>
+     <td class="cell">5-year fracture risk high enough to consider taking medications (tablet/intravenous) to prevent fracture (any/hip) (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">Any fracture/tablets (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (23, 75)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (28, 60)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (35, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (20, 60)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (25, 70)</td>
+    </tr>
+    <tr>
+     <td class="cell">Any fracture/intravenous (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">53 (40, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">55 (20, 72)</td>
+    </tr>
+    <tr>
+     <td class="cell">60 (50, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">60 (30, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">60 (30, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">Hip fracture/tablets (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (30, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (35, 73)</td>
+    </tr>
+    <tr>
+     <td class="cell">55 (50, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">48 (20, 60)</td>
+    </tr>
+    <tr>
+     <td class="cell">50 (30, 75)</td>
+    </tr>
+    <tr>
+     <td class="cell">Hip fracture/intravenous (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">60 (45, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">55 (30, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">60 (40, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">65 (30, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">60 (40, 80)</td>
+    </tr>
+    <tr>
+     <td class="cell">Risk of any fracture in next 5 years (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">25 (10, 50)</td>
+    </tr>
+    <tr>
+     <td class="cell">25 (10, 50)</td>
+    </tr>
+    <tr>
+     <td class="cell">20 (10, 50)</td>
+    </tr>
+    <tr>
+     <td class="cell">15 (10, 40)</td>
+    </tr>
+    <tr>
+     <td class="cell">20 (10, 50)</td>
+    </tr>
+    <tr>
+     <td class="cell">None/very low risk</td>
+    </tr>
+    <tr>
+     <td class="cell">14</td>
+    </tr>
+    <tr>
+     <td class="cell">17</td>
+    </tr>
+    <tr>
+     <td class="cell">16</td>
+    </tr>
+    <tr>
+     <td class="cell">24</td>
+    </tr>
+    <tr>
+     <td class="cell">18</td>
+    </tr>
+    <tr>
+     <td class="cell">Low risk</td>
+    </tr>
+    <tr>
+     <td class="cell">44</td>
+    </tr>
+    <tr>
+     <td class="cell">38</td>
+    </tr>
+    <tr>
+     <td class="cell">45</td>
+    </tr>
+    <tr>
+     <td class="cell">47</td>
+    </tr>
+    <tr>
+     <td class="cell">43</td>
+    </tr>
+    <tr>
+     <td class="cell">Moderate risk</td>
+    </tr>
+    <tr>
+     <td class="cell">30</td>
+    </tr>
+    <tr>
+     <td class="cell">42</td>
+    </tr>
+    <tr>
+     <td class="cell">29</td>
+    </tr>
+    <tr>
+     <td class="cell">24</td>
+    </tr>
+    <tr>
+     <td class="cell">31</td>
+    </tr>
+    <tr>
+     <td class="cell">High risk</td>
+    </tr>
+    <tr>
+     <td class="cell">12</td>
+    </tr>
+    <tr>
+     <td class="cell">4</td>
+    </tr>
+    <tr>
+     <td class="cell">10</td>
+    </tr>
+    <tr>
+     <td class="cell">2</td>
+    </tr>
+    <tr>
+     <td class="cell">7</td>
+    </tr>
+    <tr>
+     <td class="cell">Very high risk</td>
+    </tr>
+    <tr>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">2</td>
+    </tr>
+    <tr>
+     <td class="cell">1</td>
+    </tr>
+    <tr>
+     <td class="cell">Risk of hip fracture in next 5 years (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">15 (10, 50)</td>
+    </tr>
+    <tr>
+     <td class="cell">20 (10, 45)</td>
+    </tr>
+    <tr>
+     <td class="cell">20 (10, 40)</td>
+    </tr>
+    <tr>
+     <td class="cell">10 (5, 30)</td>
+    </tr>
+    <tr>
+     <td class="cell">19 (10, 40)</td>
+    </tr>
+    <tr>
+     <td class="cell">Garvan fracture risk calculator estimates</td>
+    </tr>
+    <tr>
+     <td class="cell">5-year osteoporotic fracture risk</td>
+    </tr>
+    <tr>
+     <td class="cell">7.9 (5.8, 12.3)</td>
+    </tr>
+    <tr>
+     <td class="cell">7.3 (4.4, 9.9)</td>
+    </tr>
+    <tr>
+     <td class="cell">8.5 (5.6, 14.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">7.1 (5.0, 9.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">7.4 (5.5, 12.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">5-year hip fracture risk</td>
+    </tr>
+    <tr>
+     <td class="cell">1.6 (0.8, 3.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">1.2 (0.7, 2.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">1.8 (0.8, 4.1)</td>
+    </tr>
+    <tr>
+     <td class="cell">1.3 (0.6, 2.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">1.4 (0.8, 3.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">Participant estimates after information on fracture risk and treatment benefits provided</td>
+    </tr>
+    <tr>
+     <td class="cell">Risk of any fracture in next 5 years (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">14 (9, 30)</td>
+    </tr>
+    <tr>
+     <td class="cell">19 (10, 27)</td>
+    </tr>
+    <tr>
+     <td class="cell">15 (7, 30)</td>
+    </tr>
+    <tr>
+     <td class="cell">10 (8, 20)</td>
+    </tr>
+    <tr>
+     <td class="cell">12 (8, 30)</td>
+    </tr>
+    <tr>
+     <td class="cell">None/very low risk</td>
+    </tr>
+    <tr>
+     <td class="cell">20</td>
+    </tr>
+    <tr>
+     <td class="cell">29</td>
+    </tr>
+    <tr>
+     <td class="cell">27</td>
+    </tr>
+    <tr>
+     <td class="cell">33</td>
+    </tr>
+    <tr>
+     <td class="cell">27</td>
+    </tr>
+    <tr>
+     <td class="cell">Low risk</td>
+    </tr>
+    <tr>
+     <td class="cell">45</td>
+    </tr>
+    <tr>
+     <td class="cell">47</td>
+    </tr>
+    <tr>
+     <td class="cell">47</td>
+    </tr>
+    <tr>
+     <td class="cell">47</td>
+    </tr>
+    <tr>
+     <td class="cell">47</td>
+    </tr>
+    <tr>
+     <td class="cell">Moderate risk</td>
+    </tr>
+    <tr>
+     <td class="cell">31</td>
+    </tr>
+    <tr>
+     <td class="cell">18</td>
+    </tr>
+    <tr>
+     <td class="cell">20</td>
+    </tr>
+    <tr>
+     <td class="cell">10</td>
+    </tr>
+    <tr>
+     <td class="cell">20</td>
+    </tr>
+    <tr>
+     <td class="cell">High risk</td>
+    </tr>
+    <tr>
+     <td class="cell">4</td>
+    </tr>
+    <tr>
+     <td class="cell">6</td>
+    </tr>
+    <tr>
+     <td class="cell">4</td>
+    </tr>
+    <tr>
+     <td class="cell">8</td>
+    </tr>
+    <tr>
+     <td class="cell">6</td>
+    </tr>
+    <tr>
+     <td class="cell">Very high risk</td>
+    </tr>
+    <tr>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">2</td>
+    </tr>
+    <tr>
+     <td class="cell">2</td>
+    </tr>
+    <tr>
+     <td class="cell">1</td>
+    </tr>
+    <tr>
+     <td class="cell">Risk of hip fracture in next 5 years (%)</td>
+    </tr>
+    <tr>
+     <td class="cell">8 (2, 20)</td>
+    </tr>
+    <tr>
+     <td class="cell">10 (2, 20)</td>
+    </tr>
+    <tr>
+     <td class="cell">10 (2, 20)</td>
+    </tr>
+    <tr>
+     <td class="cell">10 (2, 15)</td>
+    </tr>
+    <tr>
+     <td class="cell">10 (2, 20)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Common text Group 1: framed as chance of having an event and treatment benefits in natural frequencies Group 2: framed as chance of not having an event and treatment benefits in natural frequencies Group 3: framed as chance of having an event and treatment benefits as number needed to treat Group 4: framed as chance of not having an event and treatment benefits as number needed to treat </th>
+     <th class="cell">▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ </th>
+     <th class="cell">Based on the information in your questionnaire and your bone density: Your estimated risk of osteoporotic fracture (ie, all fractures except fractures of the skull, face, hands and feet) in the next 5 years is: 20%. Your estimated risk of hip fracture in the next 5 years is: 5%. This means that in a group of 100 people of the same age and gender as you, who had similar risk factors for fracture as you, 20 would have an osteoporotic fracture within the next 5 years, and 5 would have a hip fracture within the next 5 years. Osteoporosis medication reduces osteoporotic fractures by 33%, and hip fractures by 40%. This means that if all these 100 people took osteoporosis medication for 5 years, the number of people who would have an osteoporotic fracture within those 5 years would decrease from 20 to 13. The number who would have a hip fracture within those 5 years would decrease from 5 to 3. This means that in a group of 100 people of the same age and gender as you, who had similar risk factors for fracture as you, 80 will not have an osteoporotic fracture within the next 5 years, and 95 will not have a hip fracture within the next 5 years. Osteoporosis medication reduces osteoporotic fractures by 33%, and hip fractures by 40%. This means that if all these 100 people took osteoporosis treatments for 5 years, the number of people who would not have an osteoporotic fracture within those 5 years would increase from 80 to 87. The number of people who would not have a hip fracture within those 5 years would increase from 95 to 97. This means that in a group of 100 people of the same age and gender as you, who had similar risk factors for fracture as you, 20 would have an osteoporotic fracture within the next 5 years, and 5 would have a hip fracture within the next 5 years. Osteoporosis medication reduces osteoporotic fractures by 33%, and hip fractures by 40%. This means that 15 people like you would need to be treated with osteoporosis medications for 5 years to prevent 1 osteoporotic fracture. 50 people like you would need to be treated for 5 years to prevent 1 hip fracture. This means that in a group of 100 people of the same age and gender as you, who had similar risk factors for fracture as you, 80 will not have an osteoporotic fracture within the next 5 years, and 95 will not have a hip fracture within the next 5 years. Osteoporosis medication reduces osteoporotic fractures by 33%, and hip fractures by 40%. This means that if 15 people like you were treated with osteoporosis medications for 5 years, 14 would receive no benefit in terms of osteoporotic fracture prevention, and in 1 person a fracture would be prevented. If 50 people like you were treated for 5 years, 49 would receive no benefit in terms of hip fracture prevention, and in 1 person a hip fracture would be prevented. </th>
+    </tr>
+    <tr>
+     <td class="cell">For illustrative purposes, all options use a 5-year 20% risk of osteoporotic fracture and 5% risk of hip fracture.</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_bmjopen-2016-013703/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

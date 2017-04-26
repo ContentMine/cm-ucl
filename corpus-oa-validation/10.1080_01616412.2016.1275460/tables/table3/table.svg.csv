@@ -1,0 +1,8 @@
+"Metabolites ratio c ho/c r ","MSSS ns ","RIO = 0 vs. RIO = 1❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: OIJSQG+MyriadPro-Regular; e: WinAnsi
+2 p = 0.2 "
+Na a /c r,ns,p = 0.4
+mins/c r,ns,p = 0.3
+mins/Na a,ns,*p = 0.036
+glx/c r,"r = 0.4, p = 0.02",*p = 0.005
+glx/Na a,"r = 0.56, p = 0.001",*p = 0.00018

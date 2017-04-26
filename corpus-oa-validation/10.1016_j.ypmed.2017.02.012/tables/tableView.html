@@ -1,0 +1,586 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_j.ypmed.2017.02.012</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variables </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+    </tr>
+    <tr>
+     <td class="cell">Proportion of smokers among ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">All social ties</td>
+     <td class="cell">0.25</td>
+     <td class="cell">0.10–0.66</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Household members</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">0.27</td>
+     <td class="cell">0.12–0.56</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Friends</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">0.26</td>
+     <td class="cell">0.11–0.59</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Family members outside the household</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">1.02</td>
+     <td class="cell">0.43–2.24</td>
+    </tr>
+    <tr>
+     <td class="cell">Network size</td>
+     <td class="cell">0.94</td>
+     <td class="cell">0.87–1.01</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.80–1.17</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.85–1.10</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.86–1.09</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (10 yrs)</td>
+     <td class="cell">0.94</td>
+     <td class="cell">0.82–1.08</td>
+     <td class="cell">0.96</td>
+     <td class="cell">0.83–1.10</td>
+     <td class="cell">0.94</td>
+     <td class="cell">0.82–1.08</td>
+     <td class="cell">0.98</td>
+     <td class="cell">0.85–1.12</td>
+    </tr>
+    <tr>
+     <td class="cell">Sex –female</td>
+     <td class="cell">1.29</td>
+     <td class="cell">0.84–1.98</td>
+     <td class="cell">1.23</td>
+     <td class="cell">0.81–1.88</td>
+     <td class="cell">1.32</td>
+     <td class="cell">0.86–2.03</td>
+     <td class="cell">1.2</td>
+     <td class="cell">0.79–1.84</td>
+    </tr>
+    <tr>
+     <td class="cell">Education –low (ref)</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Education –middle</td>
+     <td class="cell">1.49</td>
+     <td class="cell">0.90–2.49</td>
+     <td class="cell">1.45</td>
+     <td class="cell">0.87–2.42</td>
+     <td class="cell">1.54</td>
+     <td class="cell">0.93–2.58</td>
+     <td class="cell">1.46</td>
+     <td class="cell">0.89–2.44</td>
+    </tr>
+    <tr>
+     <td class="cell">Education –high</td>
+     <td class="cell">1.93</td>
+     <td class="cell">1.10–3.41</td>
+     <td class="cell">1.71</td>
+     <td class="cell">0.97–3.00</td>
+     <td class="cell">2.06</td>
+     <td class="cell">1.16–3.65</td>
+     <td class="cell">1.97</td>
+     <td class="cell">1.13–3.44</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variable </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+    </tr>
+    <tr>
+     <td class="cell">Proportion of smokers among ^{b}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">All social ties</td>
+     <td class="cell">0.26</td>
+     <td class="cell">0.10–0.66</td>
+     <td class="cell">0.48</td>
+     <td class="cell">0.08–2.33</td>
+     <td class="cell">0.02</td>
+     <td class="cell">0.001–0.25</td>
+     <td class="cell">1.59</td>
+     <td class="cell">0.25–9.02</td>
+     <td class="cell">0.02</td>
+     <td class="cell">0.0003–0.41</td>
+     <td class="cell">0.38</td>
+     <td class="cell">0.02–4.07</td>
+    </tr>
+    <tr>
+     <td class="cell">Household members</td>
+     <td class="cell">0.31</td>
+     <td class="cell">0.13–0.67</td>
+     <td class="cell">0.21</td>
+     <td class="cell">0.03–0.98</td>
+     <td class="cell">0.09</td>
+     <td class="cell">0.01–0.51</td>
+     <td class="cell">0.78</td>
+     <td class="cell">0.18–2.79</td>
+     <td class="cell">0.30</td>
+     <td class="cell">0.02–1.72</td>
+     <td class="cell">0.74</td>
+     <td class="cell">0.03–8.89</td>
+    </tr>
+    <tr>
+     <td class="cell">Friends</td>
+     <td class="cell">0.29</td>
+     <td class="cell">0.10–0.72</td>
+     <td class="cell">0.61</td>
+     <td class="cell">0.14–2.24</td>
+     <td class="cell">0.07</td>
+     <td class="cell">0.01–0.53</td>
+     <td class="cell">1.00</td>
+     <td class="cell">0.14–5.34</td>
+     <td class="cell">0.02</td>
+     <td class="cell">0.002–0.50</td>
+     <td class="cell">0.00</td>
+     <td class="cell">-Inf - Inf</td>
+    </tr>
+    <tr>
+     <td class="cell">Family outside the household</td>
+     <td class="cell">1.16</td>
+     <td class="cell">0.44–2.73</td>
+     <td class="cell">1.22</td>
+     <td class="cell">0.17–6.66</td>
+     <td class="cell">0.13</td>
+     <td class="cell">0.003–1.59</td>
+     <td class="cell">1.96</td>
+     <td class="cell">0.35–8.72</td>
+     <td class="cell">1.26</td>
+     <td class="cell">0.08–11.32</td>
+     <td class="cell">3.00</td>
+     <td class="cell">0.02–123</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variables </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+     <th class="cell">OR </th>
+     <th class="cell">95% CI </th>
+    </tr>
+    <tr>
+     <td class="cell">Proportion of smokers among ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">All social ties</td>
+     <td class="cell">6.08</td>
+     <td class="cell">3.01–12.00</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Household members</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">4.33</td>
+     <td class="cell">2.54–7.18</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Friends</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">2.68</td>
+     <td class="cell">1.44–4.83</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Family members outside the household</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">1.04</td>
+     <td class="cell">0.48–2.06</td>
+    </tr>
+    <tr>
+     <td class="cell">Network size</td>
+     <td class="cell">0.99</td>
+     <td class="cell">0.93–1.06</td>
+     <td class="cell">0.89</td>
+     <td class="cell">0.74–1.05</td>
+     <td class="cell">1.02</td>
+     <td class="cell">0.91–1.14</td>
+     <td class="cell">0.95</td>
+     <td class="cell">0.84–1.05</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (10 yrs)</td>
+     <td class="cell">0.64</td>
+     <td class="cell">0.56–0.71</td>
+     <td class="cell">0.62</td>
+     <td class="cell">0.55–0.70</td>
+     <td class="cell">0.64</td>
+     <td class="cell">0.57–0.72</td>
+     <td class="cell">0.63</td>
+     <td class="cell">0.56–0.70</td>
+    </tr>
+    <tr>
+     <td class="cell">Sex –female</td>
+     <td class="cell">0.80</td>
+     <td class="cell">0.54–1.18</td>
+     <td class="cell">0.77</td>
+     <td class="cell">0.52–1.14</td>
+     <td class="cell">0.80</td>
+     <td class="cell">0.54–1.18</td>
+     <td class="cell">0.81</td>
+     <td class="cell">0.55–1.18</td>
+    </tr>
+    <tr>
+     <td class="cell">Education –low</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Education –middle</td>
+     <td class="cell">0.81</td>
+     <td class="cell">0.50–1.31</td>
+     <td class="cell">0.76</td>
+     <td class="cell">0.47–1.21</td>
+     <td class="cell">0.77</td>
+     <td class="cell">0.48–1.23</td>
+     <td class="cell">0.74</td>
+     <td class="cell">0.46–1.18</td>
+    </tr>
+    <tr>
+     <td class="cell">Education –high</td>
+     <td class="cell">1.17</td>
+     <td class="cell">0.73–1.88</td>
+     <td class="cell">1.05</td>
+     <td class="cell">0.66–1.69</td>
+     <td class="cell">1.07</td>
+     <td class="cell">0.67–1.72</td>
+     <td class="cell">1.01</td>
+     <td class="cell">0.64–1.61</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variables </th>
+     <th class="cell">Smokers at baseline (N = 762) </th>
+     <th class="cell">Former smokers at baseline (N = 1905) </th>
+    </tr>
+    <tr>
+     <td class="cell">Smoking cessation, n (%)</td>
+     <td class="cell">103 (13.5)</td>
+     <td class="cell">–</td>
+    </tr>
+    <tr>
+     <td class="cell">Smoking relapse, n (%)</td>
+     <td class="cell">–</td>
+     <td class="cell">121 (6.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">Proportion of smokers among , mean^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">All social ties</td>
+     <td class="cell">0.30 (0.28)</td>
+     <td class="cell">0.15 (0.22)</td>
+    </tr>
+    <tr>
+     <td class="cell">Household members</td>
+     <td class="cell">0.25 (0.39)</td>
+     <td class="cell">0.09 (0.25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Friends</td>
+     <td class="cell">0.26 (0.35)</td>
+     <td class="cell">0.13 (0.26)</td>
+    </tr>
+    <tr>
+     <td class="cell">Family members outside the</td>
+     <td class="cell">0.13 (0.26)</td>
+     <td class="cell">0.10 (0.24)</td>
+    </tr>
+    <tr>
+     <td class="cell">household</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Network size, mean (SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">All social ties</td>
+     <td class="cell">5.00 (3.00)</td>
+     <td class="cell">5.00 (3.15)</td>
+    </tr>
+    <tr>
+     <td class="cell">Household members</td>
+     <td class="cell">1.20 (1.22)</td>
+     <td class="cell">1.27 (1.14)</td>
+    </tr>
+    <tr>
+     <td class="cell">Friends</td>
+     <td class="cell">2.01 (1.83)</td>
+     <td class="cell">1.88 (1.81)</td>
+    </tr>
+    <tr>
+     <td class="cell">Family members outside the</td>
+     <td class="cell">1.80 (1.91)</td>
+     <td class="cell">1.86 (1.92)</td>
+    </tr>
+    <tr>
+     <td class="cell">household</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Age (years), mean (SD)</td>
+     <td class="cell">49.6 (15.40)</td>
+     <td class="cell">57.7 (14.70)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female, n (%)</td>
+     <td class="cell">367 (48.2)</td>
+     <td class="cell">933 (49.0)</td>
+    </tr>
+    <tr>
+     <td class="cell">Education, n (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Low</td>
+     <td class="cell">285 (37.4)</td>
+     <td class="cell">642 (33.7)</td>
+    </tr>
+    <tr>
+     <td class="cell">Middle</td>
+     <td class="cell">309 (40.6)</td>
+     <td class="cell">672 (35.3)</td>
+    </tr>
+    <tr>
+     <td class="cell">High</td>
+     <td class="cell">168 (22.0)</td>
+     <td class="cell">591 (31.0)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.ypmed.2017.02.012/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

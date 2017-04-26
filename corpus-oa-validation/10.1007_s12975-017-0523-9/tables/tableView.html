@@ -1,0 +1,302 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s12975-017-0523-9</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-017-0523-9/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">characteristics of the included ischemic stroke survivors </th>
+     <th class="cell">Variable </th>
+     <th class="cell">Survivors without recurrent stroke (n = 76) </th>
+     <th class="cell">Survivors with recurrent stroke (n = 8) </th>
+    </tr>
+    <tr>
+     <td class="cell">Sex, n (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">26 (34)</td>
+     <td class="cell">4 (50)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age at follow-up, median (range)</td>
+     <td class="cell">68 (33–80)</td>
+     <td class="cell">72 (62–77)</td>
+    </tr>
+    <tr>
+     <td class="cell">Stroke severity , n (%)^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No symptoms</td>
+     <td class="cell">40 (53)</td>
+     <td class="cell">2 (25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Mild</td>
+     <td class="cell">31 (41)</td>
+     <td class="cell">4 (50)</td>
+    </tr>
+    <tr>
+     <td class="cell">Moderately severe</td>
+     <td class="cell">5 (7)</td>
+     <td class="cell">2 (25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Severe</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">Overall disability , n (%)^{b}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No/slight</td>
+     <td class="cell">71 (93)</td>
+     <td class="cell">5 (63)</td>
+    </tr>
+    <tr>
+     <td class="cell">Moderate</td>
+     <td class="cell">4 (5)</td>
+     <td class="cell">1 (13)</td>
+    </tr>
+    <tr>
+     <td class="cell">Severe</td>
+     <td class="cell">1 (1)</td>
+     <td class="cell">2 (25)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-017-0523-9/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-017-0523-9/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">included ischemic stroke survivors with no or partial UEMI recovery versus those with </th>
+     <th class="cell">Variable </th>
+     <th class="cell">No or partial UEMI recovery (n = 10) </th>
+     <th class="cell">Complete UEMI recovery (n = 31) </th>
+     <th class="cell">p value </th>
+    </tr>
+    <tr>
+     <td class="cell">complete recovery</td>
+     <td class="cell">Sex, n (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">5 (50)</td>
+     <td class="cell">10 (32)</td>
+     <td class="cell">ns^{a}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Age at stroke onset, median (range)</td>
+     <td class="cell">65 (36–74)</td>
+     <td class="cell">64 (28–75)</td>
+     <td class="cell">ns^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">NIHSS at baseline, median (range)</td>
+     <td class="cell">7 (2–18)</td>
+     <td class="cell">3 (1–8)</td>
+     <td class="cell">&lt;0.001^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">NIHSS arm/hand at baseline, median (range)</td>
+     <td class="cell">2 (1–6)</td>
+     <td class="cell">1 (1–3)</td>
+     <td class="cell">0.004^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Lesion volume in mL, median (range)</td>
+     <td class="cell">26.5 (0.4–155.3)</td>
+     <td class="cell">1.0 (0.1–23.3)</td>
+     <td class="cell">0.003^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Lesion location, n (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Cortical only</td>
+     <td class="cell">0</td>
+     <td class="cell">3 (11)</td>
+     <td class="cell">ns^{a}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Subcortical only</td>
+     <td class="cell">3 (30)</td>
+     <td class="cell">16 (57)</td>
+     <td class="cell">ns^{a}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Corticosubcortical</td>
+     <td class="cell">7 (70)</td>
+     <td class="cell">7 (25)</td>
+     <td class="cell">0.02^{a}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Motor cortex involvement, n (%)</td>
+     <td class="cell">7 (70)</td>
+     <td class="cell">8 (29)</td>
+     <td class="cell">0.03^{a}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Corticospinal tract involvement, n (%)</td>
+     <td class="cell">8 (80)</td>
+     <td class="cell">18 (64)</td>
+     <td class="cell">ns^{a}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-017-0523-9/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-017-0523-9/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">baseline characteristics for included ischemic stroke patients </th>
+     <th class="cell">Variable </th>
+     <th class="cell">Survivors (n = 84) </th>
+     <th class="cell">Deceased before _{a} follow-up (n = 11) </th>
+    </tr>
+    <tr>
+     <td class="cell">Sex, n (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">30 (36)</td>
+     <td class="cell">3 (27)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age at stroke onset, median (range)</td>
+     <td class="cell">64 (28–75)</td>
+     <td class="cell">67 (60–71)</td>
+    </tr>
+    <tr>
+     <td class="cell">Acute recanalization treatment , n (%)^{b}</td>
+     <td class="cell">13 (15)</td>
+     <td class="cell">1 (9)</td>
+    </tr>
+    <tr>
+     <td class="cell">NIHSS on days 2–4 after stroke onset, median (range)</td>
+     <td class="cell">3 (1–18)</td>
+     <td class="cell">3 (1–7)</td>
+    </tr>
+    <tr>
+     <td class="cell">UEMI on days 2–4 after stroke onset, n (%)</td>
+     <td class="cell">44 (52)</td>
+     <td class="cell">5 (46)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-017-0523-9/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

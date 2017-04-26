@@ -1,0 +1,141 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s00213-016-4518-0</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4518-0/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <tr />
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4518-0/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4518-0/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">alcohol use indices for the whole sample and split by condition </th>
+     <th class="cell">Sample (n = 64) </th>
+     <th class="cell">Bar lab (n = 32) </th>
+     <th class="cell">Standard lab (n = 32) </th>
+     <th class="cell">t(62) _{2} </th>
+     <th class="cell">p </th>
+    </tr>
+    <tr>
+     <td class="cell">(values are mean ± SD)</td>
+     <td class="cell">Gender (F:M)</td>
+     <td class="cell">53:11</td>
+     <td class="cell">27:5</td>
+     <td class="cell">26:6</td>
+     <td class="cell">χ = .11</td>
+     <td class="cell">.74</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Age</td>
+     <td class="cell">19.54 (±3.50)</td>
+     <td class="cell">19.92 (±4.90)</td>
+     <td class="cell">19.20 (±1.37)</td>
+     <td class="cell">0.78</td>
+     <td class="cell">.44</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Alcohol cons.</td>
+     <td class="cell">22.74 (±14.03)</td>
+     <td class="cell">24.09 (±14.79)</td>
+     <td class="cell">21.39 (±13.31)</td>
+     <td class="cell">0.77</td>
+     <td class="cell">.44</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">AUDIT</td>
+     <td class="cell">12.78 (±4.78)</td>
+     <td class="cell">12.53 (±4.97)</td>
+     <td class="cell">13.03 (±4.65)</td>
+     <td class="cell">−0.05</td>
+     <td class="cell">.62</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4518-0/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

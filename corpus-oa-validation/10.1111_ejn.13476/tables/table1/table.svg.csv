@@ -1,0 +1,34 @@
+"","Factor E: Exposome Type of modifier (or surrogate) ","Nature of risk modifer (if known) ","Assigned value ","Select ref(s) used to create value "
+Association with elevated risk,,,,
+Neurotoxin,i.v. MPTP exposure (each event)_{2+},,1,"Langston et al., Science 1983"
+"",i.v. Mn,exposure (each event),0.5,"Stepens et al., NEJM 2008"
+"",Pesticide exposure (cumulative),,0.25,"Bellou et al., Parkins Rel Dis 2016"
+"",Farm life before age 20 years,,0.25,"Bellou et al., Parkins Rel Dis 2016"
+Head trauma,Concussive events (cumulative),,1,"Mez et al., Alz Res Therap 2015"
+"",(Sub)concussive events (cumulative),,0.5,"Mez et al., Alz Res Therap 2015"
+Xenobiotic exposure,Encephalitis (select pathogens),,2,"Jang et al., Biochim Biophys Acta 2008"
+"",Chronic infection (e.g. H. pylori),,1,"Bu et al., Park Rel Dis 2015"
+Chronic constipation,Lasting for ≥ 20 years,,1,"Ross et al., Park Rel Dis 2012"
+"",Lasting for 10–19 years,,0.5,"Ross et al., Park Rel Dis 2012"
+"",Lasting for 5–9 years,,0.25,"Ross et al., Park Rel Dis 2012"
+Reduced olfaction,Anosmia (UPSIT score ≤ 28/40),,1,"Muirhead et al., The Otolaryngol 2013"
+"",Hyposmia (UPSIT score 29–33/40),,0.5,"Muirhead et al., The Otolaryngol 2013"
+No,,,,
+known association with risk modulator,Little cumulative pathogen exposure,,,
+"",Age of proband,,,
+"",≤ 50 years,,0,
+"",51–59 years,,0.005,
+"",60–69 years,,0.0075,
+"",70–79 years,,0.02,
+"",≥ 80 years,,0.03,
+Association with lower risk,,,,
+Smoking history,Current smoker for ≥ 20 years,,-0.75,"Ritz et al., Arch Neurol 2007"
+"",Current smoker for 11–19 years,,-0.5,"Ritz et al., Arch Neurol 2007"
+"",Past smoker for ≥ 20 years,,-0.25,"Ritz et al., Arch Neurol 2007"
+"",Past smoker for 11–19 years,,-0.125,"Ritz et al., Arch Neurol 2007"
+"",Any smoking history ≤ 10 years,,-0.0625,"Ritz et al., Arch Neurol 2007"
+Caffeine intake,≥ 2 cups/day (recent),,-0.25,"Palacios et al., Mov Dis 2012"
+"",≥ 1 cup/day (recent),,-0.125,"Palacios et al., Mov Dis 2012"
+Physical exercise,Regular for ≥ 20 years,,-0.25,"Bellou et al., Parkins Rel Dis 2016"
+"",Irregular for ≥ 20 years,,-0.125,"Bellou et al., Parkins Rel Dis 2016"
+"",Regular for ≤ 19 years,,-0.125,"Bellou et al., Parkins Rel Dis 2016"

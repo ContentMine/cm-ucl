@@ -1,0 +1,509 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1186_s12974-017-0812-y</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1186_s12974-017-0812-y/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th />
+     <th class="cell">Detection limit (pg/ml) </th>
+     <th class="cell">Intra-assay variation (%) </th>
+     <th class="cell">Recovery percentage range (90–110%) </th>
+    </tr>
+    <tr>
+     <td class="cell">BCA1/CXCL13</td>
+     <td class="cell">Chemokine (C-X-C motif) ligand 13 (CXCL13) or</td>
+     <td class="cell">0.42–6694</td>
+     <td class="cell">6.0</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">B lymphocyte chemoattractant (BLC) or</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">B cell-attracting chemokine 1 (BCA-1)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">SDF1αβ/CXCL12</td>
+     <td class="cell">C-X-C motif chemokine 12 (CXCL12) or stromal</td>
+     <td class="cell">12.73–160,858</td>
+     <td class="cell">5.4</td>
+     <td class="cell">104</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">cell-derived factor 1 (SDF1)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6Ckine/CCL21</td>
+     <td class="cell">Chemokine (C-C motif) ligand 21</td>
+     <td class="cell">11.30–160,686</td>
+     <td class="cell">4.0</td>
+     <td class="cell">104</td>
+    </tr>
+    <tr>
+     <td class="cell">IP10/CXCL10</td>
+     <td class="cell">C-X-C motif chemokine 10 (CXCL10) or interferon</td>
+     <td class="cell">1.04–14,668</td>
+     <td class="cell">1.5</td>
+     <td class="cell">95</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">gamma-induced protein 10 (IP-10)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">BAFF/TNFSF13B</td>
+     <td class="cell">B cell activating factor (BAFF) or tumour necrosis</td>
+     <td class="cell">70.19–197,936</td>
+     <td class="cell">6.3</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">factor ligand superfamily member 13B (TNFSF13B)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">APRIL/TNFSF13</td>
+     <td class="cell">A proliferation-inducing ligand (APRIL), or tumour</td>
+     <td class="cell">906.31–4,745,900</td>
+     <td class="cell">7.5</td>
+     <td class="cell">103</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">necrosis factor ligand superfamily member 13 (TNFSF13)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">TWEAK/TNFSF12</td>
+     <td class="cell">TNF-related weak inducer of apoptosis (TWEAK) or tumour</td>
+     <td class="cell">3.59–6346</td>
+     <td class="cell">4.4</td>
+     <td class="cell">106</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">necrosis factor ligand superfamily member 12</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">LIGTH/TNFSF14</td>
+     <td class="cell">Tumour necrosis factor superfamily member 14 (TNFSF14)</td>
+     <td class="cell">1.92–4647</td>
+     <td class="cell">5.8</td>
+     <td class="cell">98</td>
+    </tr>
+    <tr>
+     <td class="cell">TNFα</td>
+     <td class="cell">Tumour necrosis factor alpha</td>
+     <td class="cell">0.24–13,148</td>
+     <td class="cell">2.5</td>
+     <td class="cell">99</td>
+    </tr>
+    <tr>
+     <td class="cell">sTNFR1</td>
+     <td class="cell">Soluble- tumour necrosis factor-receptor 1</td>
+     <td class="cell">2.33–48,047</td>
+     <td class="cell">5.0</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="cell">sTNFR2</td>
+     <td class="cell">Soluble- tumour necrosis factor-receptor 2</td>
+     <td class="cell">3.72–63,484</td>
+     <td class="cell">4.2</td>
+     <td class="cell">98</td>
+    </tr>
+    <tr>
+     <td class="cell">MIP3β/CCL19</td>
+     <td class="cell">Chemokine (C-C motif) ligand 19 (CCL19) or EBI1 ligand</td>
+     <td class="cell">3.08–49,150</td>
+     <td class="cell">2.8</td>
+     <td class="cell">103</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">chemokine (ELC) or macrophage inflammatory</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">protein-3-beta (MIP-3-beta)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">MIG/CXCL9</td>
+     <td class="cell">Chemokine (C-X-C motif) ligand 9 (CXCL9) or monokine</td>
+     <td class="cell">1.19–23,643</td>
+     <td class="cell">5.4</td>
+     <td class="cell">97</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">induced by gamma interferon (MIG)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">sCD163</td>
+     <td class="cell">Soluble-CD163 (Cluster of Differentiation 163)</td>
+     <td class="cell">0.38–10,497</td>
+     <td class="cell">6.0</td>
+     <td class="cell">102</td>
+    </tr>
+    <tr>
+     <td class="cell">GM-CSF</td>
+     <td class="cell">Granulocyte-macrophage colony-stimulating factor</td>
+     <td class="cell">2.32–34,028</td>
+     <td class="cell">5.2</td>
+     <td class="cell">104</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(GM-CSF) or colony-stimulating factor 2 (CSF2)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">INFα2</td>
+     <td class="cell">Interferon alpha-2</td>
+     <td class="cell">1.24–19,334</td>
+     <td class="cell">5.3</td>
+     <td class="cell">99</td>
+    </tr>
+    <tr>
+     <td class="cell">INFβ</td>
+     <td class="cell">Interferon beta</td>
+     <td class="cell">1.50–8727</td>
+     <td class="cell">6.0</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="cell">INFγ</td>
+     <td class="cell">Interferon gamma</td>
+     <td class="cell">1.50–2326</td>
+     <td class="cell">3.0</td>
+     <td class="cell">99</td>
+    </tr>
+    <tr>
+     <td class="cell">IL1β</td>
+     <td class="cell">Interleukin-1 beta</td>
+     <td class="cell">0.15–2326</td>
+     <td class="cell">2.0</td>
+     <td class="cell">102</td>
+    </tr>
+    <tr>
+     <td class="cell">IL2</td>
+     <td class="cell">Interleukin-2</td>
+     <td class="cell">0.47–10,334</td>
+     <td class="cell">4.0</td>
+     <td class="cell">98</td>
+    </tr>
+    <tr>
+     <td class="cell">IL4</td>
+     <td class="cell">Interleukin-4</td>
+     <td class="cell">0.35–5258</td>
+     <td class="cell">6.0</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="cell">IL6</td>
+     <td class="cell">Interleukin-6</td>
+     <td class="cell">0.68–57,162</td>
+     <td class="cell">3.0</td>
+     <td class="cell">99</td>
+    </tr>
+    <tr>
+     <td class="cell">IL8/CXCL8</td>
+     <td class="cell">Interleukin-8 (C-X-C motif) or chemokine</td>
+     <td class="cell">11.56–8523</td>
+     <td class="cell">1.0</td>
+     <td class="cell">103</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">ligand 8, CXCL8)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">IL10</td>
+     <td class="cell">Interleukin-10</td>
+     <td class="cell">0.84–2997</td>
+     <td class="cell">3.0</td>
+     <td class="cell">98</td>
+    </tr>
+    <tr>
+     <td class="cell">OPN</td>
+     <td class="cell">Osteopontin</td>
+     <td class="cell">123.64–286,066</td>
+     <td class="cell">7.3</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="cell">MMP1</td>
+     <td class="cell">Matrix metallopeptidase 1</td>
+     <td class="cell">298.2–216,430</td>
+     <td class="cell">4.5</td>
+     <td class="cell">100</td>
+    </tr>
+    <tr>
+     <td class="cell">MMP2</td>
+     <td class="cell">Matrix metallopeptidase 2</td>
+     <td class="cell">90.63–2,109,030</td>
+     <td class="cell">3.3</td>
+     <td class="cell">104</td>
+    </tr>
+    <tr>
+     <td class="cell">MIF</td>
+     <td class="cell">Macrophage migration inhibitor factor</td>
+     <td class="cell">8.25–456,461</td>
+     <td class="cell">2.6</td>
+     <td class="cell">103</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1186_s12974-017-0812-y/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1186_s12974-017-0812-y/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">OCB+ </th>
+     <th class="cell">OCB− </th>
+     <th class="cell">Whole group </th>
+     <th class="cell">p value </th>
+    </tr>
+    <tr>
+     <td class="cell">N (f/m)</td>
+     <td class="cell">50 (34/16)</td>
+     <td class="cell">40 (28/12)</td>
+     <td class="cell">90 (62/28)</td>
+     <td class="cell">0.511</td>
+    </tr>
+    <tr>
+     <td class="cell">Age (years)</td>
+     <td class="cell">42.5 ± 10.4 (19–67)</td>
+     <td class="cell">42.4 ± 11.2 (17–69)</td>
+     <td class="cell">42.5 ± 10.7 (17–69)</td>
+     <td class="cell">0.943</td>
+    </tr>
+    <tr>
+     <td class="cell">Years from onset to diagnosis</td>
+     <td class="cell">3.0 ± 5.1 (0–21)</td>
+     <td class="cell">2.6 ± 3.9 (0–17)</td>
+     <td class="cell">2.8 ± 4.6 (0–21)</td>
+     <td class="cell">0.356</td>
+    </tr>
+    <tr>
+     <td class="cell">Years from diagnosis to enrolment</td>
+     <td class="cell">7.8 ± 5.2 (0–20)</td>
+     <td class="cell">7.9 ± 6.4 (0–22)</td>
+     <td class="cell">7.9 ± 5.7 (0–22)</td>
+     <td class="cell">0.918</td>
+    </tr>
+    <tr>
+     <td class="cell">Years from onset to enrolment (disease duration)</td>
+     <td class="cell">10.8 ± 7.0 (1–31)</td>
+     <td class="cell">10.5 ± 7.3 (1–29)</td>
+     <td class="cell">10.7 ± 7.1 (1–31)</td>
+     <td class="cell">0.878</td>
+    </tr>
+    <tr>
+     <td class="cell">EDSS at diagnosis</td>
+     <td class="cell">1.5 (0–3.0)</td>
+     <td class="cell">1.0 (0–3.5)</td>
+     <td class="cell">1.5 (0–3.5)</td>
+     <td class="cell">0.645</td>
+    </tr>
+    <tr>
+     <td class="cell">EDSS at enrolment</td>
+     <td class="cell">2.8 (1.0–8.0)</td>
+     <td class="cell">1.5 (0–6.5)</td>
+     <td class="cell">2.0 (1.0–8.0)</td>
+     <td class="cell">&lt;0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">RRMS/SPMS at enrolment</td>
+     <td class="cell">35/15</td>
+     <td class="cell">36/4</td>
+     <td class="cell">71/19</td>
+     <td class="cell">0.018</td>
+    </tr>
+    <tr>
+     <td class="cell">Time to SPMS transition in months</td>
+     <td class="cell">123 ± 23 (98–187)</td>
+     <td class="cell">183 ± 13 (165–198)</td>
+     <td class="cell">136 ± 33 (98–198)</td>
+     <td class="cell">&lt;0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">Cognitive impairment CN/mCI/sCI</td>
+     <td class="cell">30/9/11</td>
+     <td class="cell">34/5/1</td>
+     <td class="cell">64/14/12</td>
+     <td class="cell">0.013</td>
+    </tr>
+    <tr>
+     <td class="cell">CL number at enrolment</td>
+     <td class="cell">6.1 ± 6.1 (0–24)</td>
+     <td class="cell">2.2 ± 2.8 (0–11)</td>
+     <td class="cell">4.4 ± 5.3 (0–24)</td>
+     <td class="cell">&lt;0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">WMLV at enrolment (cm )^{3}</td>
+     <td class="cell">7.1 ± 3.6 (1.1–16.4)</td>
+     <td class="cell">6.5 ± 4.1 (1.3–18.1)</td>
+     <td class="cell">6.8 ± 4.0 (1.1–18.1)</td>
+     <td class="cell">0.258</td>
+    </tr>
+    <tr>
+     <td class="cell">Treatment until now</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">None</td>
+     <td class="cell">0</td>
+     <td class="cell">5</td>
+     <td class="cell">5</td>
+     <td class="cell">0.033</td>
+    </tr>
+    <tr>
+     <td class="cell">Only 1° line^{a}</td>
+     <td class="cell">34</td>
+     <td class="cell">28</td>
+     <td class="cell">62</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">At least 2° line^{a}</td>
+     <td class="cell">11</td>
+     <td class="cell">6</td>
+     <td class="cell">17</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">At least 3° line^{a}</td>
+     <td class="cell">5</td>
+     <td class="cell">1</td>
+     <td class="cell">6</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1186_s12974-017-0812-y/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

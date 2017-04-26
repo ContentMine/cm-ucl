@@ -1,0 +1,9 @@
+"Education ","Unadjusted OR (95% CI) ","Model 1: core covariates* OR (95% CI) ","+ biomass fuel use OR (95% CI) ","+ unsafe water consumption OR (95% CI) ","fuel use and unsafe water consumption OR (95% CI) "
+None,1.08 (0.73 to 1.59),1.19 (0.78 to 1.82),,,
+Lower primary,1.51 (0.98 to 2.33),1.62 (1.04 to 2.52),1.51 (0.95 to,1.57 (1.00 to 2.47),1.47 (0.92 to 2.37)
+"",,,2.41),,
+Upper primary,0.86 (0.53 to 1.38),0.98 (0.60 to 1.60),,,
+Some middle/JSS,1.10 (0.69 to 1.76),1.26 (0.78 to 2.02),,,
+Completed middle/,1.06 (0.72 to 1.58),1.11 (0.74 to 1.65),,,
+JSS,,,,,
+Secondary +,1.00,1.00,1.00,1.00,1.00

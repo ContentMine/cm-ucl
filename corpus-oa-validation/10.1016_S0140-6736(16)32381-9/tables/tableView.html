@@ -1,0 +1,92 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_S0140-6736(16)32381-9</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_S0140-6736(16)32381-9/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Australia* Austria* Belgium* Bulgaria Canada* Chile* Croatia Czech Republic Denmark* Finland* France* Germany† Greece Hungary* Ireland* Italy* Japan* Macedonia Mexico* Netherlands* New Zealand* Norway* Poland* Portugal* Romania* Serbia Singapore Slovakia Slovenia South Korea‡ Spain* Sweden* Switzerland* UK* USA* *Used for measuring the performance of the Bayesian model averaging projections. †For pre-unification years, we added German Democratic Republic and Federal Republic of Germany death counts and populations. ‡Data for South Korea in 2014 were taken directly from the South Korean Statistical Information Service database. </th>
+     <th class="cell">1960 1960 1960 1964 1960 1960 1982 1982 1960 1960 1960 1973 1961 1960 1960 1960 1960 1982 1960 1960 1960 1960 1960 1960 1960 1985 1963 1982 1982 1985 1960 1960 1960 1960 1960 </th>
+     <th class="cell">2012 2014 2012 2012 2011 2013 2013 2013 2012 2013 2012 2013 2012 2013 2012 2012 2013 2010 2013 2013 2011 2013 2013 2013 2012 2013 2014 2014 2010 2014 2013 2014 2012 2013 2013 </th>
+     <th class="cell">·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· 1975, 1979 ·· 1969–74 ·· ·· ·· ·· ·· ·· ·· ·· ·· 1969, 1971–73, 1975–79 1979 ·· ·· ·· ·· ·· 1975 ·· ·· ·· ·· </th>
+    </tr>
+    <tr>
+     <td class="cell">Table: Mortality data availability by country</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_S0140-6736(16)32381-9/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

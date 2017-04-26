@@ -1,0 +1,11 @@
+"Group ","Treatment ","n ","Mean (h) ","SD (min) ","Paired t-test "
+Acrophase,,,,,
+80 lM,Control,6,20.21,18,t = 0.388
+"",Ryanodine,6,20.03,54,P = 0.714
+100 nM,Control,4,16.34,179,t = -2.927
+"",Ryanodine,4,17.47,221,P = 0.061
+Period,,,,,
+80 lM,Control,6,25.28,07,t = 8.233
+"",Ryanodine,6,23.54,31,P = 0.000
+100 nM,Control,4,24.86,20,t = 2.153
+"",Ryanodine,4,24.25,21,P = 0.120

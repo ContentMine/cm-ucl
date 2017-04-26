@@ -1,0 +1,86 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1371_journal.pbio.2000942</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1371_journal.pbio.2000942/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">The table presents the results of the minimum adequate model (MAM) for alien species richness in terms of the variables in S5 Table as described in the Methods (section xiv), and so includes only variables that improved model fit relative to a model excluding that variable (i.e., that reduced wAIC of the model by &gt;4). Parameter estimates derive from fitting a Gaussian random field to the data to approximate the patterns of spatial autocorrelation in a Bayesian additive regression model inferred using INLA. Measures of goodness of fit for this model: wAIC = –13,839, conditional predictive ordinate (CPO) = 5,665.1, pseudo R^{2} = 98.6%. For comparison, fitting an intercept-only model gives wAIC = –11,610.6 and CPO = 4,457.5. S.E. = standard error. n = 10,258 grid cells. ΔwAIC = the change in wAIC relative to the MAM as a result of removing the variable, with larger positive changes for variables that more strongly influence the model. </th>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1371_journal.pbio.2000942/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

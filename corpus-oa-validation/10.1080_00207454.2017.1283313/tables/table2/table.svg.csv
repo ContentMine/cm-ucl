@@ -1,0 +1,15 @@
+"Scanner manufacturer and model ","Siemens Skyra "
+Type of sequence,3D MPRAGE
+Orientation,Sagittal
+Field of view (cm),24 £ 25.6
+Matrix size,240 £ 256
+Number of slices,176
+Repetition time (msec),2300
+Echo time (msec),2.96
+Inversion time (msec),900
+Flip angle (degrees),9
+Voxel size (mm),1.0 £ 1.0 £ 1.0
+Scan time (minutes),5.2
+Number of signal averages,1
+Coil,20 channel craniospinal
+Gradient strength,45 mT/m @ 200 T/m/s

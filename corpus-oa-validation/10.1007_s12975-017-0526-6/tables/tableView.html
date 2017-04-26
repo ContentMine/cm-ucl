@@ -1,0 +1,351 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s12975-017-0526-6</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-017-0526-6/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">outcomes </th>
+     <th class="cell">All enrolled patients </th>
+     <th class="cell">STS (N = 21) </th>
+     <th class="cell">Placebo (N = 21) </th>
+     <th class="cell">F/χ </th>
+     <th class="cell">P value </th>
+    </tr>
+    <tr>
+     <td class="cell">10 day-NIHSS</td>
+     <td class="cell">2.81 ± 2.64</td>
+     <td class="cell">4.10 ± 3.81</td>
+     <td class="cell">1.853</td>
+     <td class="cell">0.211</td>
+    </tr>
+    <tr>
+     <td class="cell">10 day-ADL</td>
+     <td class="cell">82.62 ± 20.89</td>
+     <td class="cell">72.38 ± 25.18</td>
+     <td class="cell">1.016</td>
+     <td class="cell">0.159</td>
+    </tr>
+    <tr>
+     <td class="cell">90 day-mRS ≤1</td>
+     <td class="cell">16 (76.19%)</td>
+     <td class="cell">9 (42.86%)</td>
+     <td class="cell">6.462</td>
+     <td class="cell">0.028*</td>
+    </tr>
+    <tr>
+     <td class="cell">HT during hospitalization</td>
+     <td class="cell">2 (9.52%)</td>
+     <td class="cell">5 (23.81%)</td>
+     <td class="cell">1.543</td>
+     <td class="cell">0.410</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-017-0526-6/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-017-0526-6/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">measured by CTP-derived PS </th>
+     <th class="cell">Parameters </th>
+     <th class="cell">STS (N = 16) </th>
+     <th class="cell">Placebo (N = 14) </th>
+     <th class="cell">P value </th>
+    </tr>
+    <tr>
+     <td class="cell">Baseline</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Ipsilateral PS value (ml/100 g/min)</td>
+     <td class="cell">0.373 ± 0.062</td>
+     <td class="cell">0.395 ± 0.073</td>
+     <td class="cell">0.371</td>
+    </tr>
+    <tr>
+     <td class="cell">Contralateral PS value (ml/100 g/min)</td>
+     <td class="cell">0.175 ± 0.025</td>
+     <td class="cell">0.179 ± 0.022</td>
+     <td class="cell">0.703</td>
+    </tr>
+    <tr>
+     <td class="cell">rPS</td>
+     <td class="cell">2.128 ± 0.219</td>
+     <td class="cell">2.225 ± 0.380</td>
+     <td class="cell">0.394</td>
+    </tr>
+    <tr>
+     <td class="cell">PS region area (cm )^{2}</td>
+     <td class="cell">2.586 ± 2.461</td>
+     <td class="cell">2.893 ± 3.131</td>
+     <td class="cell">0.766</td>
+    </tr>
+    <tr>
+     <td class="cell">10 days after STS or placebo</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Ipsilateral PS value (ml/100 g/min)</td>
+     <td class="cell">0.266 ± 0.083</td>
+     <td class="cell">0.332 ± 0.079</td>
+     <td class="cell">0.034*</td>
+    </tr>
+    <tr>
+     <td class="cell">Contralateral PS value (ml/100 g/min)</td>
+     <td class="cell">0.170 ± 0.170</td>
+     <td class="cell">0.172 ± 0.017</td>
+     <td class="cell">0.761</td>
+    </tr>
+    <tr>
+     <td class="cell">rPS</td>
+     <td class="cell">1.548 ± 0.393</td>
+     <td class="cell">1.910 ± 0.345</td>
+     <td class="cell">0.013*</td>
+    </tr>
+    <tr>
+     <td class="cell">PS region area (cm )^{2}</td>
+     <td class="cell">1.773 ± 1.563</td>
+     <td class="cell">2.287 ± 2.214</td>
+     <td class="cell">0.464</td>
+    </tr>
+    <tr>
+     <td class="cell">Infarct volumes (cm )^{3}</td>
+     <td class="cell">2.020 ± 1.762</td>
+     <td class="cell">2.415 ± 3.083</td>
+     <td class="cell">0.676</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-017-0526-6/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s12975-017-0526-6/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">STS (N = 21) </th>
+     <th class="cell">Placebo (N = 21) </th>
+     <th class="cell">F/χ </th>
+     <th class="cell">P value </th>
+    </tr>
+    <tr>
+     <td class="cell">Average age (years)</td>
+     <td class="cell">63.81 ± 9.872</td>
+     <td class="cell">63.62 ± 11.561</td>
+     <td class="cell">1.321</td>
+     <td class="cell">0.954</td>
+    </tr>
+    <tr>
+     <td class="cell">Male (%)</td>
+     <td class="cell">14 (66.7%)</td>
+     <td class="cell">14 (66.7%)</td>
+     <td class="cell">0.000</td>
+     <td class="cell">1.000</td>
+    </tr>
+    <tr>
+     <td class="cell">Hypertension</td>
+     <td class="cell">12 (57.1%)</td>
+     <td class="cell">17 (81.0%)</td>
+     <td class="cell">2.785</td>
+     <td class="cell">0.181</td>
+    </tr>
+    <tr>
+     <td class="cell">Diabetes</td>
+     <td class="cell">3 (14.3%)</td>
+     <td class="cell">5 (23.8%)</td>
+     <td class="cell">0.618</td>
+     <td class="cell">0.694</td>
+    </tr>
+    <tr>
+     <td class="cell">Hyperlipidemia</td>
+     <td class="cell">7(33.3%)</td>
+     <td class="cell">6 (28.6%)</td>
+     <td class="cell">0.111</td>
+     <td class="cell">1.000</td>
+    </tr>
+    <tr>
+     <td class="cell">Hyperhomocysteinemia</td>
+     <td class="cell">5 (23.8%)</td>
+     <td class="cell">4 (19.0%)</td>
+     <td class="cell">0.141</td>
+     <td class="cell">1.000</td>
+    </tr>
+    <tr>
+     <td class="cell">Atrial fibrillation</td>
+     <td class="cell">4 (19.0%)</td>
+     <td class="cell">2 (9.5%)</td>
+     <td class="cell">0.778</td>
+     <td class="cell">0.663</td>
+    </tr>
+    <tr>
+     <td class="cell">Coronary heart disease</td>
+     <td class="cell">3 (14.3%)</td>
+     <td class="cell">1 (4.8%)</td>
+     <td class="cell">1.105</td>
+     <td class="cell">0.606</td>
+    </tr>
+    <tr>
+     <td class="cell">Previous cerebral infarction</td>
+     <td class="cell">2 (9.5%)</td>
+     <td class="cell">3 (14.3%)</td>
+     <td class="cell">0.227</td>
+     <td class="cell">1.000</td>
+    </tr>
+    <tr>
+     <td class="cell">Smoking</td>
+     <td class="cell">5 (23.8%)</td>
+     <td class="cell">3 (14.3%)</td>
+     <td class="cell">0.618</td>
+     <td class="cell">0.238</td>
+    </tr>
+    <tr>
+     <td class="cell">Alcohol use</td>
+     <td class="cell">6 (28.6%)</td>
+     <td class="cell">2 (9.5%)</td>
+     <td class="cell">2.471</td>
+     <td class="cell">0.238</td>
+    </tr>
+    <tr>
+     <td class="cell">At admission</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">SBP (mmHg)</td>
+     <td class="cell">153.48 ± 17.665</td>
+     <td class="cell">154.81 ± 21.558</td>
+     <td class="cell">1.896</td>
+     <td class="cell">0.828</td>
+    </tr>
+    <tr>
+     <td class="cell">DBP (mmHg)</td>
+     <td class="cell">86.62 ± 14.333</td>
+     <td class="cell">85.29 ± 13.050</td>
+     <td class="cell">0.527</td>
+     <td class="cell">0.754</td>
+    </tr>
+    <tr>
+     <td class="cell">Glu (mmol/L)</td>
+     <td class="cell">7.93 ± 2.595</td>
+     <td class="cell">8.66 ± 4.070</td>
+     <td class="cell">6.424</td>
+     <td class="cell">0.492</td>
+    </tr>
+    <tr>
+     <td class="cell">Time to rt-PA (min)</td>
+     <td class="cell">214.62 ± 43.246</td>
+     <td class="cell">198.71 ± 42.717</td>
+     <td class="cell">0.021</td>
+     <td class="cell">0.238</td>
+    </tr>
+    <tr>
+     <td class="cell">NIHSS</td>
+     <td class="cell">8.05 ± 4.522</td>
+     <td class="cell">7.38 ± 5.220</td>
+     <td class="cell">0.427</td>
+     <td class="cell">0.661</td>
+    </tr>
+    <tr>
+     <td class="cell">ADL</td>
+     <td class="cell">54.29 ± 25.801</td>
+     <td class="cell">53.33 ± 27.034</td>
+     <td class="cell">0.054</td>
+     <td class="cell">0.908</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s12975-017-0526-6/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

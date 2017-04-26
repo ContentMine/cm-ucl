@@ -1,0 +1,1392 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1038_pr.2016.190</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Controlled </th>
+     <th class="cell">% ^{c} </th>
+     <th class="cell">Poorly/very poorly controlled </th>
+     <th class="cell">%^{c} </th>
+     <th class="cell">P value </th>
+    </tr>
+    <tr>
+     <td class="cell">Total</td>
+     <td class="cell">77</td>
+     <td class="cell">77.0</td>
+     <td class="cell">23</td>
+     <td class="cell">23.0</td>
+     <td class="cell">---</td>
+    </tr>
+    <tr>
+     <td class="cell">Demographic</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Gender</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">45</td>
+     <td class="cell">74.8</td>
+     <td class="cell">16</td>
+     <td class="cell">26.2</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">32</td>
+     <td class="cell">82.0</td>
+     <td class="cell">7</td>
+     <td class="cell">17.9</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Age on 9/11</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&lt; 2 (10❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 11)</td>
+     <td class="cell">16</td>
+     <td class="cell">64.0</td>
+     <td class="cell">9</td>
+     <td class="cell">36.0</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2 to &lt; 5 (12❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 14)</td>
+     <td class="cell">27</td>
+     <td class="cell">84.4</td>
+     <td class="cell">5</td>
+     <td class="cell">15.6</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5 to 8 (15❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 19)</td>
+     <td class="cell">34</td>
+     <td class="cell">79.1</td>
+     <td class="cell">9</td>
+     <td class="cell">20.9</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Race/ethnicity</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">White</td>
+     <td class="cell">35</td>
+     <td class="cell">83.3</td>
+     <td class="cell">7</td>
+     <td class="cell">16.7</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">African American</td>
+     <td class="cell">7</td>
+     <td class="cell">50.0</td>
+     <td class="cell">7</td>
+     <td class="cell">50.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Hispanic</td>
+     <td class="cell">13</td>
+     <td class="cell">81.3</td>
+     <td class="cell">3</td>
+     <td class="cell">18.7</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Asian/mulitracial/other</td>
+     <td class="cell">22</td>
+     <td class="cell">78.6</td>
+     <td class="cell">6</td>
+     <td class="cell">21.4</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Household income (2010)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8804; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi $75,000</td>
+     <td class="cell">29</td>
+     <td class="cell">65.9</td>
+     <td class="cell">15</td>
+     <td class="cell">34.1</td>
+     <td class="cell">0.04</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&gt;$75,000</td>
+     <td class="cell">43</td>
+     <td class="cell">84.3</td>
+     <td class="cell">8</td>
+     <td class="cell">15.7</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Unmet healthcare needs</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">4</td>
+     <td class="cell">44.4</td>
+     <td class="cell">5</td>
+     <td class="cell">55.6</td>
+     <td class="cell">0.02</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">72</td>
+     <td class="cell">80.0</td>
+     <td class="cell">18</td>
+     <td class="cell">20.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9/11 exposures^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Dust cloud exposure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">43</td>
+     <td class="cell">75.4</td>
+     <td class="cell">14</td>
+     <td class="cell">24.6</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">34</td>
+     <td class="cell">79.1</td>
+     <td class="cell">9</td>
+     <td class="cell">20.9</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Witnessed disturbing events</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">47</td>
+     <td class="cell">78.3</td>
+     <td class="cell">13</td>
+     <td class="cell">21.7</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">30</td>
+     <td class="cell">75.0</td>
+     <td class="cell">10</td>
+     <td class="cell">25.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Sustained injury</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">5</td>
+     <td class="cell">71.4</td>
+     <td class="cell">2</td>
+     <td class="cell">28.6</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">72</td>
+     <td class="cell">77.4</td>
+     <td class="cell">21</td>
+     <td class="cell">22.6</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Family exposure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">29</td>
+     <td class="cell">78.4</td>
+     <td class="cell">8</td>
+     <td class="cell">21.6</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">48</td>
+     <td class="cell">76.2</td>
+     <td class="cell">15</td>
+     <td class="cell">23.8</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Behavioral screening measure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Strengths and Difficulties Questionnaire</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Abnormal/borderline</td>
+     <td class="cell">11</td>
+     <td class="cell">68.7</td>
+     <td class="cell">5</td>
+     <td class="cell">31.3</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Normal</td>
+     <td class="cell">65</td>
+     <td class="cell">79.3</td>
+     <td class="cell">17</td>
+     <td class="cell">20.7</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mental health screening measure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">At least one mental health condition^{b}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">6</td>
+     <td class="cell">50.0</td>
+     <td class="cell">6</td>
+     <td class="cell">50.0</td>
+     <td class="cell">0.02</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">71</td>
+     <td class="cell">80.7</td>
+     <td class="cell">17</td>
+     <td class="cell">19.3</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Model </th>
+     <th class="cell">COR (95% CI) </th>
+     <th class="cell">AOR (95% CI)^{b} </th>
+    </tr>
+    <tr>
+     <td class="cell">1</td>
+     <td class="cell">Household income (2010)</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8804; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi $75,000</td>
+     <td class="cell">2.8 (1.1❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 7.4)</td>
+     <td class="cell">2.9 (1.1❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 8.2)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">&gt;$75,000</td>
+     <td class="cell">Ref.</td>
+     <td class="cell">Ref.</td>
+    </tr>
+    <tr>
+     <td class="cell">2</td>
+     <td class="cell">Unmet healthcare needs</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Yes</td>
+     <td class="cell">5.0 (1.2❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 20.5)</td>
+     <td class="cell">5.2 (1.2❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 22.9)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">No</td>
+     <td class="cell">Ref.</td>
+     <td class="cell">Ref.</td>
+    </tr>
+    <tr>
+     <td class="cell">3</td>
+     <td class="cell">At least one mental health</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">condition ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Yes</td>
+     <td class="cell">4.2 (1.2❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 14.6)</td>
+     <td class="cell">6.1 (1.5❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 24.7)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">No</td>
+     <td class="cell">Ref.</td>
+     <td class="cell">Ref.</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Controlled N = 77 (%) </th>
+     <th class="cell">Poorly/very poorly controlled N = 23 (%) </th>
+     <th class="cell">P value </th>
+    </tr>
+    <tr>
+     <td class="cell">Symptoms, past 12 mo^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Wheezing or whistling</td>
+     <td class="cell">50.6</td>
+     <td class="cell">82.6</td>
+     <td class="cell">0.02</td>
+    </tr>
+    <tr>
+     <td class="cell">in chest</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary Sleep disturbed because</td>
+     <td class="cell">20.8</td>
+     <td class="cell">78.3</td>
+     <td class="cell">&lt;0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">of wheezing or whistling^{b}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Events and care seeking, past 12 mo^{c}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">42.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">One or more asthma</td>
+     <td class="empty" />
+     <td class="cell">69.6</td>
+     <td class="cell">0.004</td>
+    </tr>
+    <tr>
+     <td class="cell">attacks</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">One or more asthma-</td>
+     <td class="empty" />
+     <td class="cell">17.4</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">related ER visits</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">No. adolescents </th>
+     <th class="cell">% </th>
+     <th class="cell">Physician diagnosed asthma^{a} </th>
+     <th class="cell">%* </th>
+     <th class="cell">P value </th>
+    </tr>
+    <tr>
+     <td class="cell">Total</td>
+     <td class="cell">392</td>
+     <td class="cell">100</td>
+     <td class="cell">100</td>
+     <td class="cell">25.5</td>
+     <td class="cell">---</td>
+    </tr>
+    <tr>
+     <td class="cell">Demographic</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Gender</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="cell">193</td>
+     <td class="cell">49.2</td>
+     <td class="cell">61</td>
+     <td class="cell">31.6</td>
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">199</td>
+     <td class="cell">50.8</td>
+     <td class="cell">39</td>
+     <td class="cell">19.6</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Age on 9/11 (years at W3)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&lt; 2 (10❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 11)</td>
+     <td class="cell">93</td>
+     <td class="cell">23.7</td>
+     <td class="cell">25</td>
+     <td class="cell">26.9</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2 to &lt; 5 (12❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 14)</td>
+     <td class="cell">146</td>
+     <td class="cell">37.2</td>
+     <td class="cell">32</td>
+     <td class="cell">21.9</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5 to 8 (15❾ char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 19)</td>
+     <td class="cell">153</td>
+     <td class="cell">39.0</td>
+     <td class="cell">43</td>
+     <td class="cell">28.1</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Race/ethnicity</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">White</td>
+     <td class="cell">213</td>
+     <td class="cell">54.3</td>
+     <td class="cell">42</td>
+     <td class="cell">19.7</td>
+     <td class="cell">&lt;0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">African American</td>
+     <td class="cell">22</td>
+     <td class="cell">5.6</td>
+     <td class="cell">14</td>
+     <td class="cell">63.6</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Hispanic</td>
+     <td class="cell">41</td>
+     <td class="cell">10.5</td>
+     <td class="cell">16</td>
+     <td class="cell">39.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Asian/Multiracial/Other</td>
+     <td class="cell">116</td>
+     <td class="cell">29.6</td>
+     <td class="cell">28</td>
+     <td class="cell">24.1</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Household income (2010)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8804; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi $75,000</td>
+     <td class="cell">136</td>
+     <td class="cell">36.6</td>
+     <td class="cell">44</td>
+     <td class="cell">32.4</td>
+     <td class="cell">0.02</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&gt;$75,000</td>
+     <td class="cell">236</td>
+     <td class="cell">63.4</td>
+     <td class="cell">51</td>
+     <td class="cell">21.6</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Unmet healthcare needs</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">17</td>
+     <td class="cell">4.4</td>
+     <td class="cell">9</td>
+     <td class="cell">52.9</td>
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">367</td>
+     <td class="cell">95.6</td>
+     <td class="cell">90</td>
+     <td class="cell">24.5</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9/11 Exposures^{b}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Dust cloud exposure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">166</td>
+     <td class="cell">42.4</td>
+     <td class="cell">57</td>
+     <td class="cell">34.3</td>
+     <td class="cell">0.001</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">221</td>
+     <td class="cell">57.6</td>
+     <td class="cell">43</td>
+     <td class="cell">19.5</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Witnessed ❾ char: 8805; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi 1 disturbing events</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">227</td>
+     <td class="cell">57.9</td>
+     <td class="cell">60</td>
+     <td class="cell">26.4</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">165</td>
+     <td class="cell">42.1</td>
+     <td class="cell">40</td>
+     <td class="cell">24.2</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Sustained injury</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">22</td>
+     <td class="cell">5.6</td>
+     <td class="cell">7</td>
+     <td class="cell">31.8</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">370</td>
+     <td class="cell">94.4</td>
+     <td class="cell">93</td>
+     <td class="cell">25.1</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Family exposure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">135</td>
+     <td class="cell">34.4</td>
+     <td class="cell">37</td>
+     <td class="cell">27.4</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">257</td>
+     <td class="cell">65.6</td>
+     <td class="cell">63</td>
+     <td class="cell">24.5</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Behavioral screening measure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Strengths and Difficulties Questionnaire</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Abnormal/borderline</td>
+     <td class="cell">48</td>
+     <td class="cell">12.4</td>
+     <td class="cell">16</td>
+     <td class="cell">33.3</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Normal</td>
+     <td class="cell">338</td>
+     <td class="cell">87.6</td>
+     <td class="cell">82</td>
+     <td class="cell">24.3</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mental health screening measure</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">At least one mental health condition^{c}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="cell">57</td>
+     <td class="cell">14.5</td>
+     <td class="cell">19</td>
+     <td class="cell">33.3</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary </td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="cell">335</td>
+     <td class="cell">85.5</td>
+     <td class="cell">81</td>
+     <td class="cell">24.2</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1038_pr.2016.190/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

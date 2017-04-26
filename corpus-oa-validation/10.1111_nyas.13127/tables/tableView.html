@@ -1,0 +1,1291 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_nyas.13127</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_nyas.13127/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Year </th>
+     <th class="cell">No. of studied subjects </th>
+     <th class="cell">Disease group (No.) </th>
+     <th class="cell">Control group (No.) </th>
+     <th class="cell">Exclusion criteria </th>
+     <th class="cell">Method </th>
+     <th class="cell">Samples </th>
+     <th class="cell">Sampled esophageal tract </th>
+     <th class="cell">Main findings </th>
+     <th class="cell">Reference </th>
+    </tr>
+    <tr>
+     <td class="cell">1981</td>
+     <td class="cell">79</td>
+     <td class="cell">EC (79)</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">Culture-based</td>
+     <td class="cell">Aspirate</td>
+     <td class="cell">–</td>
+     <td class="cell">Detected bacteria</td>
+     <td class="cell">34</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">included</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Bacteroidetes (39%),</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Streptococcus (10%),</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">and coliforms (8%)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">1982</td>
+     <td class="cell">12</td>
+     <td class="cell">EAC (7)</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">Culture-based</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">Proximal resection line</td>
+     <td class="cell">Streptococcus and</td>
+     <td class="cell">35</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">ESCC (5)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">after cancer excision</td>
+     <td class="cell">Bacteroidetes most</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">prevalent taxa</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">1983</td>
+     <td class="cell">101</td>
+     <td class="cell">EC (50)</td>
+     <td class="cell">NE (51)</td>
+     <td class="cell">Use of antibiotics</td>
+     <td class="cell">Culture-based</td>
+     <td class="cell">Aspirate</td>
+     <td class="cell">–</td>
+     <td class="cell">No differences in the</td>
+     <td class="cell">36</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">presence/absence of</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">specific taxa in EC vs.</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">controls.</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Streptococcus and</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Peptococcus the most</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">prevalent taxa</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2004</td>
+     <td class="cell">20</td>
+     <td class="cell">EC (20)</td>
+     <td class="cell">–</td>
+     <td class="cell">–</td>
+     <td class="cell">Culture independent</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">Cancerous and</td>
+     <td class="cell">Treponema denticola,</td>
+     <td class="cell">68</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(sequencing of 16S</td>
+     <td class="empty" />
+     <td class="cell">noncancerous tissues</td>
+     <td class="cell">Streptococcus mitis,</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">rRNA gene clones of</td>
+     <td class="empty" />
+     <td class="cell">from each patient</td>
+     <td class="cell">and Streptococcus</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">most members of the</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">anginosus prevalent</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">oral microbiota,</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">in both cancerous</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">except Neisseria, &gt;10</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">and noncancerous</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">clones/sample</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">tissues and suggested</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">analyzed)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">to have roles in</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">carcinogenic process</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2005</td>
+     <td class="cell">24</td>
+     <td class="cell">E (12)</td>
+     <td class="cell">NE (9)</td>
+     <td class="cell">Recent antibiotic use</td>
+     <td class="cell">Culture independent</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">2 cm above the</td>
+     <td class="cell">Proof-of-concept study</td>
+     <td class="cell">41</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">BE (3)</td>
+     <td class="empty" />
+     <td class="cell">Previous gastric/</td>
+     <td class="cell">(sequencing of 16S</td>
+     <td class="empty" />
+     <td class="cell">squamocolumnar</td>
+     <td class="cell">demonstrating the</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">esophageal surgery</td>
+     <td class="cell">rRNA gene clones,</td>
+     <td class="empty" />
+     <td class="cell">junction (NE and E),</td>
+     <td class="cell">presence of a</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Active oral cavity</td>
+     <td class="cell">two clones/sample</td>
+     <td class="empty" />
+     <td class="cell">2 cm above the</td>
+     <td class="cell">nontransient</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">infection</td>
+     <td class="cell">analyzed)</td>
+     <td class="empty" />
+     <td class="cell">gastroesophageal</td>
+     <td class="cell">microbiota in the</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">junction (BE)</td>
+     <td class="cell">reflux-exposed</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">esophageal mucosa</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">and the importance</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">of culture-</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">independent</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">approaches</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2007</td>
+     <td class="cell">14</td>
+     <td class="cell">BE (7)</td>
+     <td class="cell">NE (6)</td>
+     <td class="cell">Recent antibiotic use</td>
+     <td class="cell">Culture-based</td>
+     <td class="cell">Biopsy and</td>
+     <td class="cell">Middle to distal</td>
+     <td class="cell">High-level colonization</td>
+     <td class="cell">42</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">E (1)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">aspirate</td>
+     <td class="empty" />
+     <td class="cell">by Campylobacter</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(mostly C. concisus)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">in BE, absence in</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">controls</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2009</td>
+     <td class="cell">34</td>
+     <td class="cell">E (12)</td>
+     <td class="cell">NE (12)</td>
+     <td class="cell">Recent antibiotic use</td>
+     <td class="cell">Culture-independent</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">2 cm above the</td>
+     <td class="cell">Type I microbiota</td>
+     <td class="cell">43</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">BE (10)</td>
+     <td class="empty" />
+     <td class="cell">Previous gastric/</td>
+     <td class="cell">(sequencing of 16S</td>
+     <td class="empty" />
+     <td class="cell">squamocolumnar</td>
+     <td class="cell">(dominated by</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">esophageal surgery</td>
+     <td class="cell">rRNA gene clones,</td>
+     <td class="empty" />
+     <td class="cell">junction</td>
+     <td class="cell">Gram-positive taxa</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Active oral cavity</td>
+     <td class="cell">200 clones/sample</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">of the phylum</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">infection</td>
+     <td class="cell">analyzed)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Firmicutes) in</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">HIV infection</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">normal esophagus,</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">type II microbiota</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(enriched in</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Gram-negative taxa)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">in E and BE</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2013</td>
+     <td class="cell">18</td>
+     <td class="cell">E (6)</td>
+     <td class="cell">NE (6)</td>
+     <td class="cell">Recent use of</td>
+     <td class="cell">Culture-independent</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">1 cm above the</td>
+     <td class="cell">Enrichment of</td>
+     <td class="cell">44</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">BE (6)</td>
+     <td class="empty" />
+     <td class="cell">antibiotics or PPIs</td>
+     <td class="cell">(sequencing of 16S</td>
+     <td class="empty" />
+     <td class="cell">gastroesophageal</td>
+     <td class="cell">Prevotella,</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Gastric/esophageal</td>
+     <td class="cell">rRNA gene clones,</td>
+     <td class="empty" />
+     <td class="cell">junction</td>
+     <td class="cell">Fusobacterium,</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">surgery</td>
+     <td class="cell">about 24</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Veillonella, and</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Active oral cavity</td>
+     <td class="cell">clones/sample</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Neisseria in BE</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">infection</td>
+     <td class="cell">analyzed)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">HIV, HBV, or HCV</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">infection</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2013</td>
+     <td class="cell">34</td>
+     <td class="cell">E (8)</td>
+     <td class="cell">NE (8)</td>
+     <td class="cell">Recent use of</td>
+     <td class="cell">Culture-based plus</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">5 cm above the</td>
+     <td class="cell">Campylobacter (mostly</td>
+     <td class="cell">45</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">BE (8)</td>
+     <td class="empty" />
+     <td class="cell">antibiotics or PPIs</td>
+     <td class="cell">qRT-PCR for</td>
+     <td class="empty" />
+     <td class="cell">esophagogastric</td>
+     <td class="cell">C. concisus)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">EAC (10)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">detection of specific</td>
+     <td class="empty" />
+     <td class="cell">junction, or at the</td>
+     <td class="cell">expansion in E and</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">taxa in a larger</td>
+     <td class="empty" />
+     <td class="cell">upper limit of BE or</td>
+     <td class="cell">BE compared to AD</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">cohort</td>
+     <td class="empty" />
+     <td class="cell">at site of pathology</td>
+     <td class="cell">and controls</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(suggested to be</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">specific to</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">reflux-exposed</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">mucosa)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2014</td>
+     <td class="cell">34</td>
+     <td class="cell">E (13)</td>
+     <td class="cell">NE in</td>
+     <td class="cell">Recent use of</td>
+     <td class="cell">Culture-independent</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">Normal-appearing</td>
+     <td class="cell">No significant</td>
+     <td class="cell">46</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">BE (6)</td>
+     <td class="cell">GERD (15)</td>
+     <td class="cell">antibiotics or PPIs</td>
+     <td class="cell">(NGS, V6– V7 region</td>
+     <td class="empty" />
+     <td class="cell">mucosa above the</td>
+     <td class="cell">difference between</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">of 16S rRNA genes)</td>
+     <td class="empty" />
+     <td class="cell">inflammation site or</td>
+     <td class="cell">microbiota of normal</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">BE</td>
+     <td class="cell">and abnormal</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">esophagus. Relevant</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">effect of PPI</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">treatment</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_nyas.13127/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_nyas.13127/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Year </th>
+     <th class="cell">No. of studied subjects </th>
+     <th class="cell">Disease group (No.) </th>
+     <th class="cell">Control group (No.) </th>
+     <th class="cell">Exclusion criteria </th>
+     <th class="cell">Method </th>
+     <th class="cell">Samples </th>
+     <th class="cell">Sampled esophageal tract </th>
+     <th class="cell">Main findings </th>
+     <th class="cell">Reference </th>
+    </tr>
+    <tr>
+     <td class="cell">2002</td>
+     <td class="cell">25</td>
+     <td class="cell">CME (15)</td>
+     <td class="cell">NE (10)</td>
+     <td class="cell">Grade IV megaesophagus</td>
+     <td class="cell">Culture-based</td>
+     <td class="cell">Aspirate</td>
+     <td class="cell">Distal</td>
+     <td class="cell">Higher bacterial load</td>
+     <td class="cell">48</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Recent antibiotic use</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">and greater</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">GERD (for controls)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">variability in CME</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(e.g., enrichment in</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Veillonella)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">compared to controls</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2015</td>
+     <td class="cell">68</td>
+     <td class="cell">EoE (35)</td>
+     <td class="cell">NE and</td>
+     <td class="cell">Use of antibiotics or oral</td>
+     <td class="cell">Culture-independent</td>
+     <td class="cell">Biopsy</td>
+     <td class="cell">Distal</td>
+     <td class="cell">Enrichment in</td>
+     <td class="cell">49</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">mild</td>
+     <td class="cell">steroids</td>
+     <td class="cell">(NGS, V1– V2 region</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Proteobacteria</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">non-EoE</td>
+     <td class="cell">Immune or other</td>
+     <td class="cell">of 16S rRNA genes)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(Neisseria and</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(33)</td>
+     <td class="cell">inflammatory GI disorders</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Corynebacterium)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">and decrease of</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Firmicutes</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(Streptococcus and</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Atopobium) in EoE</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2015</td>
+     <td class="cell">70</td>
+     <td class="cell">EoE (37)</td>
+     <td class="cell">NE (25)</td>
+     <td class="cell">Age &lt;7 years</td>
+     <td class="cell">Culture-independent</td>
+     <td class="cell">Esophageal string</td>
+     <td class="cell">Middle to distal</td>
+     <td class="cell">Enrichment in</td>
+     <td class="cell">50</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">E (8)</td>
+     <td class="empty" />
+     <td class="cell">Esophageal abnormalities</td>
+     <td class="cell">(NGS, V1– V2 region</td>
+     <td class="cell">test</td>
+     <td class="empty" />
+     <td class="cell">Proteobacteria</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Antibiotic use</td>
+     <td class="cell">of 16S rRNA genes)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(Haemophilus) and</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Increased risk for endoscopic</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">decrease of</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">complications</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Firmicutes in active</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">EoE</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_nyas.13127/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_nyas.13127/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Year </th>
+     <th class="cell">No. of studied subjects </th>
+     <th class="cell">Exclusion criteria </th>
+     <th class="cell">Method </th>
+     <th class="cell">Samples </th>
+     <th class="cell">Sampled esophageal tract </th>
+     <th class="cell">Main findings </th>
+     <th class="cell">Reference </th>
+    </tr>
+    <tr>
+     <td class="cell">1998</td>
+     <td class="cell">20</td>
+     <td class="cell">Esophageal abnormalities</td>
+     <td class="cell">Culture-based</td>
+     <td class="cell">Aspirate</td>
+     <td class="cell">Middle third</td>
+     <td class="cell">Streptococcus, Enterococcus,</td>
+     <td class="cell">38</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">Staphylococcus, Klebsiella</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_nyas.13127/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

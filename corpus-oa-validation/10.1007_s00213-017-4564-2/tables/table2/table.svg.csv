@@ -1,0 +1,4 @@
+"testified responses (and 95% confidence intervals) for correct (out of 10), incorrect (out of 10) and misled (out of 5) responses ","Proportion testified ","Alcohol ","Control ","Reverse Placebo "
+"for each condition (alcohol,",Correct responses,".49 [.416, .561]",".50 [.427, .573]",".50 [.432, .575]"
+control and reverse placebo),Incorrect responses,".10 [.061, .146]",".04 [.002, .087]",".09 [.051, .135]"
+"",Misled responses,".30 [.213, .380]^{a}",".50 [.420, .587]^{ab}",".27 [.189, .353]^{b}"

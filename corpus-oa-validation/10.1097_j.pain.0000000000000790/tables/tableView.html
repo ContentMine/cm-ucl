@@ -1,0 +1,178 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1097_j.pain.0000000000000790</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000790/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Studied parameters </th>
+     <th class="cell">KGNOP1 </th>
+     <th class="cell">KGOP1 </th>
+     <th class="cell">KGNOP3 </th>
+     <th class="cell">Morphine </th>
+     <th class="cell">Tramadol </th>
+    </tr>
+    <tr>
+     <td class="cell">Cold hyperalgesia</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">ED_{50}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">, mmol/kg</td>
+     <td class="cell">0.0031 (49.7)</td>
+     <td class="cell">0.29 (9)</td>
+     <td class="cell">12.1 (16.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">E , %_{0}</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi 19.48 (10.1)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi 20.1 (20.7)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi 26.4 (21.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">E_{max}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">, %</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi 92.52 (2)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi 76 (5.1)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi 92 (5.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">g</td>
+     <td class="cell">1.12 (31)</td>
+     <td class="cell">10*</td>
+     <td class="cell">6.1 (45.8)</td>
+    </tr>
+    <tr>
+     <td class="cell">T_{max}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">, min</td>
+     <td class="cell">5</td>
+     <td class="cell">5</td>
+     <td class="cell">5</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000790/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000790/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th />
+     <th class="cell">Compound </th>
+     <th class="cell">m-opioid receptor </th>
+     <th class="cell">d-opioid receptor </th>
+     <th class="cell">k-opioid receptor </th>
+     <th class="cell">NOP receptor </th>
+     <th class="cell">MVD* </th>
+    </tr>
+    <tr>
+     <td class="cell">KGNOP1</td>
+     <td class="cell">5 ± 1.7</td>
+     <td class="cell">99 ± 4</td>
+     <td class="cell">33 ± 15</td>
+     <td class="cell">42 ± 6</td>
+     <td class="cell">6.1 ± 0.1</td>
+     <td class="cell">5.3 ± 1.4</td>
+     <td class="cell">5.23</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000790/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

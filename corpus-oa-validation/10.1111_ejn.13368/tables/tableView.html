@@ -1,0 +1,341 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_ejn.13368</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_ejn.13368/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Group </th>
+     <th class="cell">Treatment </th>
+     <th class="cell">n </th>
+     <th class="cell">Mean (h) </th>
+     <th class="cell">SD (min) </th>
+     <th class="cell">Independent t-test </th>
+    </tr>
+    <tr>
+     <td class="cell">80 lM at peak</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">23.93</td>
+     <td class="cell">24</td>
+     <td class="cell">t = 0.728</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">23.74</td>
+     <td class="cell">30</td>
+     <td class="cell">P = 0.484</td>
+    </tr>
+    <tr>
+     <td class="cell">80 lM at trough</td>
+     <td class="cell">Control</td>
+     <td class="cell">4</td>
+     <td class="cell">23.28</td>
+     <td class="cell">20</td>
+     <td class="cell">t = -0.310</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">4</td>
+     <td class="cell">23.32</td>
+     <td class="cell">17</td>
+     <td class="cell">P = 0.768</td>
+    </tr>
+    <tr>
+     <td class="cell">100 nM at peak</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">24.36</td>
+     <td class="cell">13</td>
+     <td class="cell">t = -0.105</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">24.38</td>
+     <td class="cell">32</td>
+     <td class="cell">P = 0.919</td>
+    </tr>
+    <tr>
+     <td class="cell">100 nM at trough</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">24.84</td>
+     <td class="cell">26</td>
+     <td class="cell">t = 1.039</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">24.52</td>
+     <td class="cell">37</td>
+     <td class="cell">P = 0.326</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_ejn.13368/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_ejn.13368/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Group </th>
+     <th class="cell">Treatment </th>
+     <th class="cell">n </th>
+     <th class="cell">Mean (h) </th>
+     <th class="cell">SD (min) </th>
+     <th class="cell">Paired t-test </th>
+    </tr>
+    <tr>
+     <td class="cell">Acrophase</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">80 lM</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">20.21</td>
+     <td class="cell">18</td>
+     <td class="cell">t = 0.388</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">20.03</td>
+     <td class="cell">54</td>
+     <td class="cell">P = 0.714</td>
+    </tr>
+    <tr>
+     <td class="cell">100 nM</td>
+     <td class="cell">Control</td>
+     <td class="cell">4</td>
+     <td class="cell">16.34</td>
+     <td class="cell">179</td>
+     <td class="cell">t = -2.927</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">4</td>
+     <td class="cell">17.47</td>
+     <td class="cell">221</td>
+     <td class="cell">P = 0.061</td>
+    </tr>
+    <tr>
+     <td class="cell">Period</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">80 lM</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">25.28</td>
+     <td class="cell">07</td>
+     <td class="cell">t = 8.233</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">23.54</td>
+     <td class="cell">31</td>
+     <td class="cell">P = 0.000</td>
+    </tr>
+    <tr>
+     <td class="cell">100 nM</td>
+     <td class="cell">Control</td>
+     <td class="cell">4</td>
+     <td class="cell">24.86</td>
+     <td class="cell">20</td>
+     <td class="cell">t = 2.153</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">4</td>
+     <td class="cell">24.25</td>
+     <td class="cell">21</td>
+     <td class="cell">P = 0.120</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_ejn.13368/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_ejn.13368/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Group </th>
+     <th class="cell">Treatment </th>
+     <th class="cell">n </th>
+     <th class="cell">Mean (h) </th>
+     <th class="cell">SD (min) </th>
+     <th class="cell">Independent t-test </th>
+    </tr>
+    <tr>
+     <td class="cell">80 lM at peak</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">14.44</td>
+     <td class="cell">376</td>
+     <td class="cell">t = -1.360</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">18.69</td>
+     <td class="cell">264</td>
+     <td class="cell">P = 0.207</td>
+    </tr>
+    <tr>
+     <td class="cell">80 lM at trough</td>
+     <td class="cell">Control</td>
+     <td class="cell">4</td>
+     <td class="cell">17.37</td>
+     <td class="cell">91</td>
+     <td class="cell">t = -1.615</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">4</td>
+     <td class="cell">19.46</td>
+     <td class="cell">125</td>
+     <td class="cell">P = 0.162</td>
+    </tr>
+    <tr>
+     <td class="cell">100 nM at peak</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">20.97</td>
+     <td class="cell">227</td>
+     <td class="cell">t = 0.424</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">20.1</td>
+     <td class="cell">217</td>
+     <td class="cell">P = 0.681</td>
+    </tr>
+    <tr>
+     <td class="cell">100 nM at trough</td>
+     <td class="cell">Control</td>
+     <td class="cell">6</td>
+     <td class="cell">16.54</td>
+     <td class="cell">192</td>
+     <td class="cell">t = -1.696</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Ryanodine</td>
+     <td class="cell">6</td>
+     <td class="cell">20.43</td>
+     <td class="cell">278</td>
+     <td class="cell">P = 0.125</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_ejn.13368/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

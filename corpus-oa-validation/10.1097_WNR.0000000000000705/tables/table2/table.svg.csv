@@ -1,0 +1,20 @@
+"","Participant type ","Hemispheric position ","Interactions "
+Occipital,,,
+P1,,,
+Amplitude,MACT > non-,NS,NS
+"",MACT,,
+Latency,NS,NS,NS
+N1,,,
+Amplitude,MACT < non-,NS,NS
+"",MACT,,
+Latency,NS,NS,NS
+Centrofrontal,,,
+N1,,,
+Amplitude,MACT < non-,NS,NS
+"",MACT,,
+Latency,MACT > non-,NS,NS
+"",MACT,,
+P2,,,
+Amplitude,NS,NS,MACT-right > non-
+"",,,MACT-right
+Latency,NS,NS,NS

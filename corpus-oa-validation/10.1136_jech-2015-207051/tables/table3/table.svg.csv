@@ -1,0 +1,20 @@
+"Class ","Hours physical activity per week B (95% CI) ","Hours sedentary time per week B (95% CI) ","BMI≥25 (ref: <25) OR (95% CI) ","Raised WHR OR (95% CI) ","Index of poor health behaviours (ordinal) OR (95% CI) "
+Men (N=4970),,,,,
+"Class 1: Married in 20s/early 30s, married",0.00,0.00,1.00,1.00,1.00
+once (REF),,,,,
+Class 2: Divorced at late 30s not remarried,0.29 (0.08 to 0.62),−0.08 (–0.14 to 0.01),0.94 (0.73 to 1.39),1.17 (0.93 to 1.66),2.00 (1.58 to 2.52)
+"Class 3: Cohabiting, not married",−0.14 (−0.41 to 0.29),−0.05 (−0.10 to 0.04),0.73 (0.56 to 1.08),1.12 (0.89 to 1.60),1.30 (1.01 to 1.69)
+"Class 4: Married in mid/late 30s, married once",−0.09 (−0.25 to 0.15),0.03 (−0.02 to 0.11),0.93 (0.73 to 1.35),1.01 (0.82 to 1.38),1.06 (0.86 to 1.31)
+"Class 5: Divorced in 30s, later remarried",−0.50 (−1.12 to 0.47),−0.12 (−0.25 to 0.08),1.66 (0.94 to 4.04),1.42 (0.91 to 2.82),1.81 (1.15 to 2.85)
+Class 6: Never married or cohabited,−0.31 (−0.50 to 0.00),−0.09 (−0.15 to 0.00),0.56 (0.44 to 0.80),1.06 (0.87 to 1.45),1.10 (0.88 to 1.36)
+Women (N=5256),,,,,
+"Class 1: Married in early 20s, married once",0.00,0.00,1.00,1.00,1.00
+"(REF)",,,,,
+"Class 2: Married in late 20s/early 30s, married",−0.14 (−0.27 to 0.07),−0.03 (−0.08 to 0.04),0.71 (0.6 to 0.93),0.96 (0.81 to 1.27),0.86 (0.73 to 1.03)
+once,,,,,
+"Class 3: Cohabiting, not married",−0.08 (−0.27 to 0.21),0.09 (0.02 to 0.20),0.71 (0.56 to 1.05),0.92 (0.73 to 1.33),0.99 (0.77 to 1.27)
+"Class 4: Divorced in 20s/early 30s, cohabited",0.06 (−0.15 to 0.39),0.02 (−0.05 to 0.14),0.76 (0.58 to 1.17),0.85 (0.63 to 1.34),1.00 (0.75 to 1.32)
+or remarried,,,,,
+"Class 5: Divorced in mid/late 30s, not",0.02 (−0.15 to 0.28),0.06 (0.00 to 0.15),0.70 (0.56 to 1.00),0.93 (0.74 to 1.32),1.07 (0.85 to 1.33)
+remarried,,,,,
+Class 6: Never married or cohabited,−0.04 (−0.22 to 0.24),0.13 (0.07 to 0.22),0.80 (0.64 to 1.11),1.14 (0.93 to 1.56),0.89 (0.72 to 1.11)

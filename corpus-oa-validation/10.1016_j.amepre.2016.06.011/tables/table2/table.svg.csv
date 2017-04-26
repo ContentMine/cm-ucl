@@ -1,0 +1,22 @@
+"Dietary components ","M ","Median ","10th, 90th percentile ","% meeting guideline ","Relative difference ^{b} (95% CI) "
+Vegetables (servings/day),,,,,
+Higher-income non-participants,1.3,1.3,"0.7, 2.2",0,ref
+Income-eligible nonparticipants,1.5,1.4,"0.7, 2.4",0,"1.07 (0.90, 1.27)"
+SNAP participants,1.3,1.2,"0.6, 2.1",0,"1.05 (0.86, 1.28)"
+Fruit (servings/day),,,,,
+Higher-income non-participants,0.8,0.5,"0.1, 1.9",0.8,ref
+Income-eligible nonparticipants,1.0,0.7,"0.1, 2.2",1.2,"1.57 (1.19, 2.08)"
+SNAP participants,0.8,0.6,"0.1, 2.0",1.0,"1.40 (0.99, 1.98)"
+100% fruit juice (servings/day),,,,,
+Higher-income non-participants,0.3,0.2,"0.0, 0.8",—,ref
+Income-eligible nonparticipants,0.5,0.3,"0.1, 1.1",—,"0.81 (0.52, 1.26)"
+"",,,,,0.58 ^{c}
+SNAP participants,0.4,0.2,"0.0, 0.9",—,"(0.37, 0.91)"
+Whole grains (servings/day),,,,,
+Higher-income non-participants,0.5,0.4,"0.1, 1.0",0,ref
+Income-eligible nonparticipants,0.4,0.3,"0.1, 0.9",0,"0.96 (0.72, 1.27)"
+SNAP participants,0.4,0.3,"0.1, 0.9",0,"0.89 (0.67, 1.19)"
+Sugary beverages (servings/day),,,,,
+Higher-income non-participants,3.0,2.9,"1.2, 5.0",2.2,ref
+Income-eligible nonparticipants,3.1,2.9,"1.3, 5.2",2.3,"0.98 (0.81, 1.18)"
+SNAP participants,3.0,2.8,"1.4, 4.8",1.4,"1.06 (0.87, 1.29)"

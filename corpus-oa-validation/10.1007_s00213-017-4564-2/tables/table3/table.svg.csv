@@ -1,0 +1,6 @@
+"intervals) of confidence ratings to correct, incorrect and misled responses for each condition (alcohol, control and reverse ","Confidence % ","Alcohol ","_{a} ","Control ","b ","Reverse placebo ","c "
+placebo),Correct responses,"74.30 [66.61, 81.98]","70.64 [62.63, 78.66]","73.20 [64.81, 81.58]"
+"",Incorrect responses,"33.80 [23.43, 44.16]^{a}","37.25 [26.44, 48.05]^{b}","39.56 [27.79, 50.41]^{c}"
+"",Misled responses,"57.13 [48.76, 65.51]^{a}","65.14 [56.41, 73.87]^{b}","69.29 [60.15, 78.42]^{c}"
+"",Testified responses,"78.41 [72.36, 84.47]^{d}","79.19 [73.25, 85.13]^{e}","80.86 [74.93, 86.80]^{f}"
+"",Withheld responses,"35.85 [28.92, 42.78]^{d}","39.99 [33.19, 46.79]^{e}","38.07 [31.27, 44.87]^{f}"

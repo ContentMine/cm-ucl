@@ -1,0 +1,22 @@
+"Subgroup by ","Odds ratio ","95% CI ","Odds ratio ","95% CI "
+Gender,,Men N (unemployed) = 305,,Women N (unemployed) = 253
+"",,,,2.81
+"",Underweight,5.99,2.27–15.80,1.17–6.75
+"",,,,0.94
+"",Overweight,0.58,0.41–0.82,0.65–1.35
+"",,,,1.18
+"",Obesity,0.87,0.60–1.24,0.82–1.70
+Household income,,Above median N (unemployed) = 90,,Below median N (unemployed) = 468
+"",,,,3.79
+"",Underweight,0.0 ^{b},,1.88–7.63
+"",,1.56,,0.69
+"",Overweight,0.85–2.89,,0.52–0.92
+"",,1.54,,0.98
+"",Obesity,0.77–0.34,,0.74–1.30
+Current smoking,,No N (unemployed) = 282,,Yes N (unemployed) = 276
+"",,4.76,,2.96
+"",Underweight,1.96–11.55,,1.21–7.27
+"",,0.84,,0.77
+"",Overweight,0.58–1.20,,0.54–1.10
+"",,1.52,,0.67
+"",Obesity,1.06–2.18,,0.46–0.98

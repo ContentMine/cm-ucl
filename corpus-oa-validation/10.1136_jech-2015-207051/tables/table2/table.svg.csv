@@ -1,0 +1,15 @@
+"","AUDIT Score ≥8 OR (95% CI) ","Frequency of heavy episodic drinking (ordinal) OR (95% CI) ","Smoking (ordinal) OR (95% CI) ","Years of regular smoking (age 23–42) IRR (95% CI) "
+Men (N=4970),,,,
+"Class 1: Married in 20s/early 30s, married once (REF)",1.00,1.00,1.00,0.00
+Class 2: Divorced at late 30s not remarried,1.32 (1.07 to 1.82),1.21 (1.01 to 1.63),1.86 (1.46 to 2.72),0.24 (0.19 to 0.32)
+"Class 3: Cohabiting, not married",1.52 (1.23 to 2.12),1.27 (1.04 to 1.73),1.55 (1.22 to 2.24),0.30 (0.24 to 0.40)
+"Class 4: Married in mid/late 30s, married once",1.18 (0.97 to 1.62),1.02 (0.86 to 1.34),1.08 (0.86 to 1.53),0.09 (0.03 to 0.19)
+"Class 5: Divorced in 30s, later remarried",1.33 (0.89 to 2.51),1.55 (1.10 to 2.63),1.22 (0.78 to 2.49),0.01 (−0.11 to 0.20)
+Class 6: Never married or cohabited,1.41 (1.16 to 1.89),1.16 (0.97 to 1.55),1.67 (1.34 to 2.37),0.37 (0.31 to 0.46)
+Women (N=5256),,,,
+"Class 1: Married in early 20s, married once (REF)",1.00,1.00,1.00,0.00
+"Class 2: Married in late 20s/early 30s, married once",1.18 (0.94 to 1.68),0.97 (0.84 to 1.22),0.70 (0.59 to 0.92),−0.15 (-0.19 to 0.09)
+"Class 3: Cohabiting, not married",1.21 (0.91 to 1.91),1.19 (0.98 to 1.61),1.67 (1.31 to 2.46),0.14 (0.10 to 0.20)
+"Class 4: Divorced in 20s/early 30s, cohabited or remarried",1.17 (0.83 to 1.99),1.13 (0.91 to 1.59),1.46 (1.09 to 2.30),0.08 (0.03 to 0.16)
+"Class 5: Divorced in mid/late 30s, not remarried",1.75 (1.37 to 2.59),1.54 (1.27 to 2.08),1.57 (1.23 to 2.29),0.25 (0.21 to 0.32)
+Class 6: Never married or cohabited,1.32 (1.03 to 1.96),1.21 (1.01 to 1.59),1.28 (1.04 to 1.76),0.11 (0.08 to 0.17)

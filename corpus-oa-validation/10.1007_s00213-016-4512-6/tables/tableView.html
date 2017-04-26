@@ -1,0 +1,304 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s00213-016-4512-6</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Age, mean (SD) Male (%) Higher education (%) Cigarettes smoked per day before starting EC use, mean (SD) Fagerstrom Test for Nicotine Dependence (FTND) before EC use, mean (SD) EC cartridges used per day, mean (SD)^{a} Millilitres of e-liquid used per day, mean (SD)^{b} No. months using EC daily, mean (SD) Days EC used in last week, mean (SD) Cigarettes smoked per day currently, mean (SD)^{c} </th>
+     <th class="cell">34.1 (12.0) 91 73 12.4 (8.4) 3.4 (2.5) 1.5 (1.5) 3.3 (1.1) 15.7 (16.2) 7 (0) 1.6 (2.0) </th>
+    </tr>
+    <tr>
+     <td class="cell">^{a}</td>
+     <td class="cell">N = 5</td>
+    </tr>
+    <tr>
+     <td class="cell">^{b}</td>
+     <td class="cell">N = 6</td>
+    </tr>
+    <tr>
+     <td class="cell">^{c}</td>
+     <td class="cell">Calculated by dividing the answer to the question about cigarettes</td>
+    </tr>
+    <tr>
+     <td class="cell">smoked per week by 7</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Measure </th>
+     <th class="cell">Cig-a-like EC </th>
+     <th class="cell">Re-fillable EC </th>
+     <th class="cell">Difference </th>
+    </tr>
+    <tr>
+     <td class="cell">C_{max}</td>
+     <td class="cell">(SD)</td>
+     <td class="cell">8.5 (4.6)</td>
+     <td class="cell">11.7 (6.5)</td>
+     <td class="cell">P = 0.044</td>
+    </tr>
+    <tr>
+     <td class="cell">T_{max}</td>
+     <td class="cell">(range)</td>
+     <td class="cell">6 (2–30)</td>
+     <td class="cell">6 (4–30)</td>
+     <td class="cell">ns</td>
+    </tr>
+    <tr>
+     <td class="cell">AUC_{0–&gt;30}</td>
+     <td class="cell">(SD)</td>
+     <td class="cell">158.0 (70.0)</td>
+     <td class="cell">235.2 (80.4)</td>
+     <td class="cell">P = 0.001</td>
+    </tr>
+    <tr>
+     <td class="cell">No. puffs (SD)</td>
+     <td class="empty" />
+     <td class="cell">20.0 (6.3)</td>
+     <td class="cell">17.5 (5.3)</td>
+     <td class="cell">ns</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">number of puffs from own brand cigarette, own brand EC and eight EC products </th>
+     <th class="cell">Product </th>
+     <th class="cell">Mean no. of puffs (SD) </th>
+     <th class="cell">Mean C_{max} </th>
+     <th class="cell">(SD) </th>
+     <th class="cell">Mean T_{max} </th>
+     <th class="cell">(range) </th>
+     <th class="cell">Mean AUC_{0–&gt;30} </th>
+     <th class="cell">(SD) </th>
+    </tr>
+    <tr>
+     <td class="cell">Cigarette</td>
+     <td class="cell">14 (4.5)</td>
+     <td class="cell">17.9 (16.0)</td>
+     <td class="cell">4 (2–30)</td>
+     <td class="cell">314.6 (155.1.)</td>
+    </tr>
+    <tr>
+     <td class="cell">Vuse</td>
+     <td class="cell">19 (5.1)*</td>
+     <td class="cell">13.6 (9.7)</td>
+     <td class="cell">4 (2–10)</td>
+     <td class="cell">244.9 (116.1)</td>
+    </tr>
+    <tr>
+     <td class="cell">Innokin</td>
+     <td class="cell">17 (5.2)</td>
+     <td class="cell">11.9 (7.0)</td>
+     <td class="cell">6 (4–30)</td>
+     <td class="cell">232.1 (112.5)</td>
+    </tr>
+    <tr>
+     <td class="cell">KangerTech EVOD</td>
+     <td class="cell">18 (5.9)</td>
+     <td class="cell">9.9 (6.6)</td>
+     <td class="cell">6 (6–30)</td>
+     <td class="cell">200.6 (120.1.)</td>
+    </tr>
+    <tr>
+     <td class="cell">Gamucci</td>
+     <td class="cell">18 (5.4)*</td>
+     <td class="cell">9.7 (4.4)</td>
+     <td class="cell">6 (2–10)</td>
+     <td class="cell">169.9* (74.9)</td>
+    </tr>
+    <tr>
+     <td class="cell">Own Brand EC</td>
+     <td class="cell">18 (5.3)*</td>
+     <td class="cell">9.5 (6.1)</td>
+     <td class="cell">6 (2–30)</td>
+     <td class="cell">186.4* (96.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">Blu</td>
+     <td class="cell">20 (6.4)*</td>
+     <td class="cell">9.1 (6.8)</td>
+     <td class="cell">6 4–30</td>
+     <td class="cell">173.1* (112.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">Vype</td>
+     <td class="cell">22 (7.1)*</td>
+     <td class="cell">8.5 (5.7)</td>
+     <td class="cell">6 4–30)</td>
+     <td class="cell">161.0* (98.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">E-lites</td>
+     <td class="cell">17 (5.1)</td>
+     <td class="cell">7.8 (4.6)</td>
+     <td class="cell">6 (4–30)</td>
+     <td class="cell">157.6* (69.9)</td>
+    </tr>
+    <tr>
+     <td class="cell">Puritane</td>
+     <td class="cell">22 (11.4)*</td>
+     <td class="cell">7.5 (5.0)</td>
+     <td class="cell">4 (4–10)</td>
+     <td class="cell">144.4* (67.2)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">products tested </th>
+     <th class="cell">Brand and manufacturer </th>
+     <th class="cell">Nicotine content per ml as per packaging </th>
+     <th class="cell">Starter pack and cartridge or e-liquid price </th>
+    </tr>
+    <tr>
+     <td class="cell">Gamucci (Gamucci XL Distributors Inc.)</td>
+     <td class="cell">16 mg</td>
+     <td class="cell">£9.99/ £2.33 per cartridge</td>
+    </tr>
+    <tr>
+     <td class="cell">Blu (Imperial Tobacco)</td>
+     <td class="cell">18 mg</td>
+     <td class="cell">£14.99/ £2 per cartridge</td>
+    </tr>
+    <tr>
+     <td class="cell">Vype (British American Tobacco)</td>
+     <td class="cell">16.8 mg</td>
+     <td class="cell">£14.99/ £2 per cartridge</td>
+    </tr>
+    <tr>
+     <td class="cell">E-lites Original Instant Use (Japan Tobacco)</td>
+     <td class="cell">24 mg</td>
+     <td class="cell">£6.49/ £3.49 per cartridge</td>
+    </tr>
+    <tr>
+     <td class="cell">Puritane (Imperial Tobacco)</td>
+     <td class="cell">20 mg</td>
+     <td class="cell">£22.99/ £4.50 per cartridge</td>
+    </tr>
+    <tr>
+     <td class="cell">Vuse (RJ Reynolds)</td>
+     <td class="cell">48 mg</td>
+     <td class="cell">£6.25/ £1.90 per cartridge</td>
+    </tr>
+    <tr>
+     <td class="cell">KangerTech EVOD (Kanger Technology)</td>
+     <td class="cell">20 mg</td>
+     <td class="cell">£32/ £4.99 per 10 ml e-liquid</td>
+    </tr>
+    <tr>
+     <td class="cell">Innokin itaste MVP 2, 4.8v (Innokin Technology)</td>
+     <td class="cell">20 mg</td>
+     <td class="cell">£34/ £4.99 per 10 ml e-liquid</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4512-6/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

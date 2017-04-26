@@ -1,0 +1,39 @@
+"","High medical risk (n = 38) ","Low medical risk (n = 25) ","P "
+"Birth weight, g (SD)",920.66 (265.0),"1,241.6 (188.7)",0.000
+"Discharge weight, g (SD)","3,413.68 (526.6)","2,359 (525.4)",0.000
+"Birth GA, weeks (SD)",26.5977 (1.93),30.89 (1.99),0.000
+"Discharge GA, weeks (SD)",40.83 (2.54),37.27 (1.75),0.000
+"Mean weekly weight gain, g/kg/day (SD)",16.24 (1.63),18.66 (3.42),0.000
+"Length of stay, days (SD)",99.63 (26.98),44.68 (17.55),0.000
+"Head circumference (birth), cm (SD)",24.27 (2.65),27.4 (1.79),0.000
+"Head circumference (discharge), cm (SD)",35.24 (2.48),32.44 (1.91),0.000
+"Head circumference (change), cm (SD)",10.97 (3.81),5.04 (2.33),0.000
+"NTISS total score, (SD)",31.76 (5.65),18.6 (3.39),0.000
+"NTISS respiratory score, (SD)",6.4 (0.5),2.36 (1.68),0.000
+"NTISS cardiovascular score, (SD)",0.82 (1.25),0.2 (0.82),0.033
+"NTISS drug therapy score, (SD)",4.63 (2.10),2.36 (0.99),0.000
+"NTISS monitoring score, (SD)",7.57 (0.68),6.72 (0.79),0.000
+"NTISS metabolic score, (SD)",4.05 (0.32),3.96 (0.2),0.207
+"NTISS transfusion score, (SD)",1.71 (1.37),0.24 (0.66),0.000
+"NTISS procedural score, (SD)",2.18 (1.81),0.76 (1.05),0.001
+"NTISS vascular access score, (SD)",4.37 (1.05),2 (1.30),0.000
+"Intraventricular hemorrhage, n (%)",11 (29),5 (20),0.433
+"Bronchopulmonary dysplasia, n (%)",26 (68),2 (8),0.000
+"Necrotizing enterocolitis, n (%)",10 (26),3 (12),0.175
+"Retinopathy of prematurity, n (%)",18 (47),2 (8),0.001
+"Steroid administration, n (%)",11 (29),0 (0),0.003
+"Mechanical ventilation, n (%)",38 (100),4 (16),0.000
+"High-frequency ventilation, n (%)",17 (45),0 (0),0.000
+"Surfactant administration, n (%)",37 (97),4 (16),0.000
+"Endotracheal intubation, n (%)",38 (100),4 (16),0.000
+"Diuretic administration, n (%)",16 (42),0 (0),0.000
+"Phlebotomy (5❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: IYAAHI+MyriadPro-Regular; e: WinAnsi
+10), n (%)",28 (74),17 (68),0.632
+"Extensive phlebotomy (>10), n (%)",33 (87),15 (60),0.014
+"Arterial pressure monitoring, n (%)",26 (68),2 (8),0.000
+"Red blood cell transfusion (<15), n (%)",27 (71),3 (12),0.000
+"Thoracentesis, n (%)",11 (29),1 (4),0.013
+"Minor operation, n (%)",14 (37),7 (28),0.474
+"Arterial line, n (%)",28 (74),2 (8),0.000
+"Central venous line, n (%)",36 (95),11 (44),0.000

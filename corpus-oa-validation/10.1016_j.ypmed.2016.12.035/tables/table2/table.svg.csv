@@ -1,0 +1,25 @@
+"Variable ","Unadjusted model IRR (95% CI) ","Adjusted model IRR (95% CI) "
+Main effects,,
+Community factors,,
+Male gender,1.00 (0.99–1.01),1.01 (0.99–1.02)
+Multiple child deprivation index ^{a},1.05 (0.98–1.13),1.23 (1.12–1.35)
+Maternal deprivation index ^{a},0.88 (0.82–0.94),1.06 (0.98–1.33)
+Maternal health seeking behaviour,0.78 (0.73–0.84),0.64 (0.56–0.73)
+index ^{a},,
+Community environmental factor index ^{a},1.14 (1.05–1.22),0.99(0.90–1.08)
+Ethnicity diversity index ^{a},1.006,1.005
+"",(1.003–1.008),(1.002–1.007)
+Interaction effects,,
+Multiple child deprivation index ^{a},,
+"× gender",,1.00 (0.99–1.01)
+Maternal deprivation index ^{a},,
+"× gender",,1.00 (0.99–1.01)
+Maternal health seeking behaviour,,0.99 (0.98–0.99)
+index ^{a},,
+"× gender",,
+Community environmental factor,,1.01(1.001–1.02)
+index ^{a},,
+"× gender",,
+Ethnicity diversity index ^{a},,
+"× gender",,1.00
+"",,(1.00–1.001)

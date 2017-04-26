@@ -1,0 +1,37 @@
+"Characteristic ","Overall ","0–6 times/week ","7 times/week ","p-value^{c} "
+n (%),"n=2,578","1,174 (50.4%)","1,404 (49.6%)",
+"Dinners cooked at home/week, mean ❶
+  char: 1; name: H11006; f: AdvPA264; fn: JDPPIE+AdvPA264; e: Dictionary
+ SE","5.3 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: JDPPIE+AdvPA264; e: Dictionary
+ 0.1","3.6 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: JDPPIE+AdvPA264; e: Dictionary
+ 0.10","7.0 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: JDPPIE+AdvPA264; e: Dictionary
+ 0.02",< 0.0001
+"Age group (years), %",,,,< 0.0001
+19–29,35.5,42.4,28.5,
+30–49,42.7,36.4,49.2,
+50–65,21.7,21.3,22.2,
+"Gender, %",,,,0.5
+Male,44.2,43.2,45.2,
+Female,55.8,56.8,54.8,
+"Race/ethnicity, %",,,,< 0.0001
+Non-Hispanic white,48.8,54.5,43.1,
+Non-Hispanic black,17.8,22.5,13.2,
+Mexican American,17.9,11.3,24.6,
+Other,15.4,11.7,19.1,
+"Education, %",,,,< 0.0001
+"< High school",38.8,29.9,47.9,
+High school,28.7,29.4,28.0,
+Some college,24.7,30.9,18.3,
+College degree,7.8,9.8,5.9,
+"SNAP participation, %",,,,0.06
+Did not receive SNAP beneftis within past year,52.2,56.1,48.2,
+Received SNAP beneftis within past year,47.8,43.9,51.8,
+"Weight status, %",,,,0.5
+Underweight,2.9,3.3,2.4,
+Normal weight,29.4,30.3,28.4,
+Overweight,29.4,29.5,29.2,
+Obese,38.4,36.9,40.0,
+"Physical activity, % in Q4 MET-minutes/week^{d}",25.2,24.8,25.6,0.7

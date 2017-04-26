@@ -1,0 +1,552 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1186_s12974-017-0817-6</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1186_s12974-017-0817-6/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">APC subtype </th>
+     <th class="cell">Cytokine </th>
+     <th class="cell">MS CTRL </th>
+     <th class="cell">MS FTY </th>
+     <th class="cell">p value </th>
+    </tr>
+    <tr>
+     <td class="cell">slanDC</td>
+     <td class="cell">IL-1beta</td>
+     <td class="cell">13,992.8 (+/−3452.7)</td>
+     <td class="cell">3762.3 (+/−1773.8)</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-6</td>
+     <td class="cell">68,729.8 (+/−22,461.7)</td>
+     <td class="cell">52,339.4 (+/−23,723.3)</td>
+     <td class="cell">n.s.</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">TNF-alpha</td>
+     <td class="cell">41,189.0 (+/−7526.0)</td>
+     <td class="cell">18,302.1 (+/−6363.5)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-12</td>
+     <td class="cell">484.9 (+/−99.3)</td>
+     <td class="cell">179.7 (+/−44.6)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-23</td>
+     <td class="cell">3298.2 (+/−990.9)</td>
+     <td class="cell">1304.6 (+/−326.2)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+    <tr>
+     <td class="cell">CD1 + DC</td>
+     <td class="cell">IL-1beta</td>
+     <td class="cell">405.1 (+/−48.3)</td>
+     <td class="cell">255.7 (+/−57.4)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-6</td>
+     <td class="cell">7556.1 (+/−3401.0)</td>
+     <td class="cell">5270.4 (+/−2260.8)</td>
+     <td class="cell">n.s.</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">TNF-alpha</td>
+     <td class="cell">1190.7 (+/−289.7)</td>
+     <td class="cell">653.1 (+/−19.6)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-12</td>
+     <td class="cell">166.1 (+/−54.0)</td>
+     <td class="cell">182.3 (+/−42.9)</td>
+     <td class="cell">n.s.</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-23</td>
+     <td class="cell">213.2 (+/−15.9)</td>
+     <td class="cell">188.7 (+/−28.8)</td>
+     <td class="cell">n.s.</td>
+    </tr>
+    <tr>
+     <td class="cell">Monocytes</td>
+     <td class="cell">IL-1beta</td>
+     <td class="cell">6517.8 (+/−1073.1)</td>
+     <td class="cell">4300.2 (+/−620.1)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">IL-6</td>
+     <td class="cell">110,065.0 (+/−17,602.5)</td>
+     <td class="cell">106,537.0 (+/−23,730.0)</td>
+     <td class="cell">n.s.</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">TNF-alpha</td>
+     <td class="cell">9018.8 (+/−2753.8)</td>
+     <td class="cell">4841.4 (+/−809.6)</td>
+     <td class="cell">&lt;0.05</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1186_s12974-017-0817-6/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1186_s12974-017-0817-6/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">APC subtype slanDC CD1+ DC Monocytes APC subtype slanDC CD1 + DC Monocytes </th>
+     <th class="cell">Cytokine IL-1beta IL-6 TNF-alpha IL-12 IL-23 IL-1beta IL-6 TNF-alpha IL-12 IL-23 IL-1beta IL-6 TNF-alpha Surface marker CD83 HLADR CD86 CD80 CD40 CD83 HLADR CD86 CD80 CD40 CD150 HLADR CD86 CD80 CD40 </th>
+     <th class="cell">Without 26,753.7 (+/−13,156.6) 69,634.3 (+/−18,883.2) 18,837.0 (+/−9012.4) 637.7 (+/−141.8) 4423.2 (+/−2068.8) 624.4(+/−282.8) 6889.3 (+/−1367.2) 2203.0 (+/−1140.7) 74.8 (+/−20.5) 250.7 (+/−36.1) 8670.9 (+/−4065.2) 105,741.0 (+/−24,004.5) 2050.2 (+/−622.3) Without 866.6 (+/−88.9) 243.1 (+/−40,9) 681.6 (+/−115.1) 896.5 (+/−42.3) 510.0 (+/−72.9) 720.9 (+/−135.9) 405.3 (+/−94.0) 810.8 (+/−189.2) 632.8 (+/−61.7) 556.5 (+/−44.3) 253.2 (+/−23.8) 131.1 (+/−17.7) 295.8 (+/−27.0) 165.8 (+/−29.6) 395.0 (+/−49.7) </th>
+     <th class="cell">FTY 750.8 (+/−277.3) 7180.5 (+/−1748.1) 1576.9 (+/−267.4) 92.2 (+/−19.5) 136.9 (+/−29.9) 266.2 (+/−37.1) 1259.1 (+/−91.5) 933.9 (+/−387.3) 66.4 (+/−6.6) 251.2 (+/−61.7) 4902.8 (+/−1932.1) 31,584.8 (+/−11,302.5) 1149.2 (+/−345.7) FTY 426.8 (+/−34.5) 254.7 (+/−56,7) 571.6 (+/−105.9) 812.5 (+/−39.1) 573.4 (+/−100.1) 587.8 (+/−128.7) 418.0 (+/−63.5) 703.3 (+/−64.8) 588.5 (+/−45.7) 650.0 (+/−75.6) 80.7 (+/−8.3) 177.0 (+/−36.5) 352.0 (+/−36.7) 171.3(+/−15.6) 459.5 (+/−58.2) </th>
+     <th class="cell">p value &lt;0.05 &lt;0.05 &lt;0.05 &lt;0.01 &lt;0.05 &lt;0.05 &lt;0.01 &lt;0.05 n.s. n.s. &lt;0.05 &lt;0.05 n.s. p value &lt;0.05 n.s. n.s. n.s. n.s. n.s. n.s. n.s. n.s. n.s. &lt;0.05 n.s. n.s. n.s. n.s. </th>
+     <th class="cell">FTYP 6835.1 (+/−2634.6) 46,643.9 (+/−8215.2) 5960.4 (+/−2131.8) 312.8 (+/−153.3) 1919.4 (+/−644.6) 284.3 (+/−15.7) 5413.8 (+/−1100.4) 468.6 (+/−37.9) 66.3 (+/−7.2) 189.1 (+/−22.9) 599.8 (+/−113.4) 32,223.6 (+/−8824.4) 705.1 (+/−164.8) FTYP 477.5 (+/−63.7) 300.0 (+/−73,5) 670.3 (+/−105.4) 906.5 (+/−63.7) 542.5 (+/−90.2) 707.0 (+/−111.3) 327.4 (+/−75.7) 893.4 (+/−197.2) 601.5 (+/−23.6) 578.6 (+/−50.8) 106.8 (+/−5.9) 109.1 (+/−18.5) 243.6 (+/−25.9) 162.8 (+/−22.4) 332.1 (+/−47.7) </th>
+     <th class="cell">p value &lt;0.05 &lt;0.05 &lt;0.05 n.s. &lt;0.05 &lt;0.05 n.s. &lt;0.05 n.s. n.s. &lt;0.05 &lt;0.05 &lt;0.05 p value &lt;0.05 n.s. n.s. n.s. n.s. n.s. n.s. n.s. n.s. n.s. &lt;0.05 n.s. n.s. n.s. n.s. </th>
+    </tr>
+    <tr>
+     <td class="cell">Sorted slanDCs, CD1+ DCs, and monocytes of eight healthy donors were stimulated in the absence (without) or presence of 30 ng/ml FTY or FTYP. Release of pro-</td>
+    </tr>
+    <tr>
+     <td class="cell">inflammatory cytokines and expression of surface maturation/activation markers was then evaluated. Mean values of cytokines in picograms per millliliter or MFI</td>
+    </tr>
+    <tr>
+     <td class="cell">of surface expression are presented, Bonferroni’s correction was used for multiple testing, and p values indicate level of statistical significance</td>
+    </tr>
+    <tr>
+     <td class="cell">n.s. not significant</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1186_s12974-017-0817-6/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1186_s12974-017-0817-6/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Patient Nr. </th>
+     <th class="cell">Sex </th>
+     <th class="cell">Age </th>
+     <th class="cell">Disease duration [years] </th>
+     <th class="cell">Pretreatment </th>
+     <th class="cell">EDSS </th>
+     <th class="cell">Stable disease course </th>
+    </tr>
+    <tr>
+     <td class="cell">1</td>
+     <td class="cell">F</td>
+     <td class="cell">23</td>
+     <td class="cell">3</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">2</td>
+     <td class="cell">F</td>
+     <td class="cell">54</td>
+     <td class="cell">9</td>
+     <td class="cell">None</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">3</td>
+     <td class="cell">M</td>
+     <td class="cell">28</td>
+     <td class="cell">4</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">4</td>
+     <td class="cell">M</td>
+     <td class="cell">33</td>
+     <td class="cell">14</td>
+     <td class="cell">Natalizumab</td>
+     <td class="cell">4</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">5</td>
+     <td class="cell">F</td>
+     <td class="cell">42</td>
+     <td class="cell">14</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">3</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">6</td>
+     <td class="cell">F</td>
+     <td class="cell">53</td>
+     <td class="cell">16</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">3.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">7</td>
+     <td class="cell">F</td>
+     <td class="cell">47</td>
+     <td class="cell">3</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">3</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">8</td>
+     <td class="cell">F</td>
+     <td class="cell">47</td>
+     <td class="cell">7</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">9</td>
+     <td class="cell">F</td>
+     <td class="cell">41</td>
+     <td class="cell">11</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">6</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">10</td>
+     <td class="cell">F</td>
+     <td class="cell">46</td>
+     <td class="cell">15</td>
+     <td class="cell">Natalizumab</td>
+     <td class="cell">4</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">11</td>
+     <td class="cell">F</td>
+     <td class="cell">42</td>
+     <td class="cell">2</td>
+     <td class="cell">None</td>
+     <td class="cell">1</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">12</td>
+     <td class="cell">F</td>
+     <td class="cell">19</td>
+     <td class="cell">2</td>
+     <td class="cell">None</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">13</td>
+     <td class="cell">F</td>
+     <td class="cell">30</td>
+     <td class="cell">11</td>
+     <td class="cell">Natalizumab</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">14</td>
+     <td class="cell">M</td>
+     <td class="cell">35</td>
+     <td class="cell">3</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">15</td>
+     <td class="cell">M</td>
+     <td class="cell">27</td>
+     <td class="cell">3</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">16</td>
+     <td class="cell">F</td>
+     <td class="cell">44</td>
+     <td class="cell">4</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">2.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">17</td>
+     <td class="cell">F</td>
+     <td class="cell">27</td>
+     <td class="cell">11</td>
+     <td class="cell">Natalizumab</td>
+     <td class="cell">2</td>
+     <td class="cell">No</td>
+    </tr>
+    <tr>
+     <td class="cell">18</td>
+     <td class="cell">F</td>
+     <td class="cell">29</td>
+     <td class="cell">15</td>
+     <td class="cell">Natalizumab</td>
+     <td class="cell">6</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">19</td>
+     <td class="cell">F</td>
+     <td class="cell">24</td>
+     <td class="cell">11</td>
+     <td class="cell">None</td>
+     <td class="cell">1</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">20</td>
+     <td class="cell">F</td>
+     <td class="cell">47</td>
+     <td class="cell">6</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">3</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">21</td>
+     <td class="cell">F</td>
+     <td class="cell">45</td>
+     <td class="cell">11</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">22</td>
+     <td class="cell">M</td>
+     <td class="cell">42</td>
+     <td class="cell">3</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">4</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">23</td>
+     <td class="cell">F</td>
+     <td class="cell">44</td>
+     <td class="cell">10</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">24</td>
+     <td class="cell">M</td>
+     <td class="cell">38</td>
+     <td class="cell">3</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">25</td>
+     <td class="cell">M</td>
+     <td class="cell">26</td>
+     <td class="cell">4</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">1.5</td>
+     <td class="cell">No</td>
+    </tr>
+    <tr>
+     <td class="cell">26</td>
+     <td class="cell">F</td>
+     <td class="cell">42</td>
+     <td class="cell">4</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">27</td>
+     <td class="cell">M</td>
+     <td class="cell">29</td>
+     <td class="cell">2</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">28</td>
+     <td class="cell">F</td>
+     <td class="cell">35</td>
+     <td class="cell">2</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">3</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">29</td>
+     <td class="cell">M</td>
+     <td class="cell">41</td>
+     <td class="cell">1</td>
+     <td class="cell">None</td>
+     <td class="cell">2</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">30</td>
+     <td class="cell">M</td>
+     <td class="cell">30</td>
+     <td class="cell">6</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">31</td>
+     <td class="cell">M</td>
+     <td class="cell">28</td>
+     <td class="cell">1</td>
+     <td class="cell">None</td>
+     <td class="cell">1.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">32</td>
+     <td class="cell">M</td>
+     <td class="cell">44</td>
+     <td class="cell">10</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">4</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">33</td>
+     <td class="cell">F</td>
+     <td class="cell">45</td>
+     <td class="cell">10</td>
+     <td class="cell">Interferon-beta</td>
+     <td class="cell">4</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">34</td>
+     <td class="cell">M</td>
+     <td class="cell">41</td>
+     <td class="cell">19</td>
+     <td class="cell">Natalizumab</td>
+     <td class="cell">3</td>
+     <td class="cell">Yes</td>
+    </tr>
+    <tr>
+     <td class="cell">35</td>
+     <td class="cell">F</td>
+     <td class="cell">33</td>
+     <td class="cell">8</td>
+     <td class="cell">Glatiramer acetate</td>
+     <td class="cell">2.5</td>
+     <td class="cell">Yes</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1186_s12974-017-0817-6/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

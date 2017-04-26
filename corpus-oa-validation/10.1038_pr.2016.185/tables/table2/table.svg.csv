@@ -1,0 +1,27 @@
+"","High medical risk (n = 38) ","Low medical risk (n = 25) ","P "
+"Infant gender, female, n (%)",21 (55),15 (60),0.710
+Infant ethnicity,,,0.129
+"Hispanic, n (%)",10 (28),3 (12),
+"Non-Hispanic, n (%)",26 (72),22 (88),
+Infant race,,,0.460
+"White, n (%)",24 (63),18 (72),
+"African-American, n (%)",3 (78),2 (8),
+"Asian, n (%)",1 (3),2 (8),
+"Multi-racial, n (%)",10 (26),3 (12),
+Maternal ethnicity,,,0.339
+"Hispanic, n (%)",7 (18),2 (8),
+"Non-Hispanic, n (%)",31 (82),23 (92),
+Maternal race,,,0.443
+"White, n (%)",27 (71),19 (76),
+"African-American, n (%)",4 (11),2 (8),
+"Asian, n (%)",2 (5),3 (12),
+"Multi-racial, n (%)",4 (11),0 (0),
+"Native American, n (%)",1 (3),1 (4),
+Maternal partner status,,,0.674
+"Has a partner, n (%)",32 (84),22 (88),
+"No partner, n (%)",6 (16),3 (12),
+Maternal education,,,0.373
+">High school, n (%)",21 (57),17 (68),
+"char: 8804; name: null; f: MyriadPro-Regular; fn: IYAAHI+MyriadPro-Regular; e: WinAnsi
+High school, n (%)",16 (43),8 (32),
+Total,38,25,

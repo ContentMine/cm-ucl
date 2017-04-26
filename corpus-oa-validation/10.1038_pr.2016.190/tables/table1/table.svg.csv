@@ -1,0 +1,101 @@
+"","No. adolescents ","% ","Physician diagnosed asthma^{a} ","%* ","P value "
+Total,392,100,100,25.5,---
+Demographic,,,,,
+Gender,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Male,193,49.2,61,31.6,0.01
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Female,199,50.8,39,19.6,
+Age on 9/11 (years at W3),,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+"< 2 (10❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+11)",93,23.7,25,26.9,NS
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+"2 to < 5 (12❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+14)",146,37.2,32,21.9,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+"5 to 8 (15❾
+  char: 8211; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+19)",153,39.0,43,28.1,
+Race/ethnicity,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+White,213,54.3,42,19.7,<0.0001
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+African American,22,5.6,14,63.6,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Hispanic,41,10.5,16,39.0,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Asian/Multiracial/Other,116,29.6,28,24.1,
+Household income (2010),,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+"char: 8804; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+$75,000",136,36.6,44,32.4,0.02
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+">$75,000",236,63.4,51,21.6,
+Unmet healthcare needs,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Yes,17,4.4,9,52.9,0.01
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+No,367,95.6,90,24.5,
+9/11 Exposures^{b},,,,,
+Dust cloud exposure,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Yes,166,42.4,57,34.3,0.001
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+No,221,57.6,43,19.5,
+"Witnessed ❾
+  char: 8805; name: null; f: MyriadPro-Regular; fn: HOCWIJ+MyriadPro-Regular; e: WinAnsi
+1 disturbing events",,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Yes,227,57.9,60,26.4,NS
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+No,165,42.1,40,24.2,
+Sustained injury,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Yes,22,5.6,7,31.8,NS
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+No,370,94.4,93,25.1,
+Family exposure,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Yes,135,34.4,37,27.4,NS
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+No,257,65.6,63,24.5,
+Behavioral screening measure,,,,,
+Strengths and Difficulties Questionnaire,,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Abnormal/borderline,48,12.4,16,33.3,NS
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Normal,338,87.6,82,24.3,
+Mental health screening measure,,,,,
+At least one mental health condition^{c},,,,,
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+Yes,57,14.5,19,33.3,NS
+"char: 8195; name: null; f: Symbol; fn: PMLBLO+Symbol; e: Dictionary
+",,,,,
+No,335,85.5,81,24.2,

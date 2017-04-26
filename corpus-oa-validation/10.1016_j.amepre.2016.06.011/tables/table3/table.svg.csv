@@ -1,0 +1,38 @@
+"Measures ","M char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ SE ","Multivariate-adjusted, ^{b} β(95% CI) ","n (%) ","Multivariate-adjusted, ^{b} OR (95% CI) "
+BMI-for-age Z score ^{c},,,,
+Higher-income,"0.59 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.04",ref,359 (19.0),ref
+nonparticipants,,,,
+Income-eligible,"0.56 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.05","0.11 (–0.05, 0.28)",295 (18.6),"1.15 (0.83, 1.59)"
+nonparticipants,,,,
+SNAP participants,"0.74 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.05","0.21 (0.01, 0.41)",303 (27.5),"1.59 (1.06, 2.39)"
+Waist circumference Z score ^{d},,,,
+Higher-income,"–0.05 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.04",ref,486 (33.6),ref
+nonparticipants,,,,
+Income-eligible,"0.03 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.05","0.09 (–0.06, 0.25)",447 (32.1),"1.21 (0.87, 1.68)"
+nonparticipants,,,,
+SNAP participants,"0.08 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.04","0.21 (0.03, 0.39)",364 (33.6),"1.48 (0.96, 2.27)"
+Waist-to-height ratio,,,,
+Higher-income,"0.49 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.003",ref,652 (37.1),ref
+nonparticipants,,,,
+Income-eligible,"0.50 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.004","0.01 (–0.01, 0.02)",604 (39.7),"1.01 (0.75, 1.38)"
+nonparticipants,,,,
+SNAP participants,"0.51 ❶
+  char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary
+ 0.004","0.02 (0.00, 0.03)",482 (43.6),"1.21 (0.80, 1.82)"

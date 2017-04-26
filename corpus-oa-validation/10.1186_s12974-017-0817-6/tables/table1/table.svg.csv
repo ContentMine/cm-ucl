@@ -1,0 +1,36 @@
+"Patient Nr. ","Sex ","Age ","Disease duration [years] ","Pretreatment ","EDSS ","Stable disease course "
+1,F,23,3,Interferon-beta,1.5,Yes
+2,F,54,9,None,2,Yes
+3,M,28,4,Interferon-beta,1.5,Yes
+4,M,33,14,Natalizumab,4,Yes
+5,F,42,14,Glatiramer acetate,3,Yes
+6,F,53,16,Interferon-beta,3.5,Yes
+7,F,47,3,Interferon-beta,3,Yes
+8,F,47,7,Interferon-beta,2,Yes
+9,F,41,11,Interferon-beta,6,Yes
+10,F,46,15,Natalizumab,4,Yes
+11,F,42,2,None,1,Yes
+12,F,19,2,None,1.5,Yes
+13,F,30,11,Natalizumab,2,Yes
+14,M,35,3,Glatiramer acetate,2,Yes
+15,M,27,3,Glatiramer acetate,2,Yes
+16,F,44,4,Interferon-beta,2.5,Yes
+17,F,27,11,Natalizumab,2,No
+18,F,29,15,Natalizumab,6,Yes
+19,F,24,11,None,1,Yes
+20,F,47,6,Glatiramer acetate,3,Yes
+21,F,45,11,Glatiramer acetate,1.5,Yes
+22,M,42,3,Glatiramer acetate,4,Yes
+23,F,44,10,Interferon-beta,1.5,Yes
+24,M,38,3,Glatiramer acetate,1.5,Yes
+25,M,26,4,Interferon-beta,1.5,No
+26,F,42,4,Glatiramer acetate,2,Yes
+27,M,29,2,Glatiramer acetate,2,Yes
+28,F,35,2,Glatiramer acetate,3,Yes
+29,M,41,1,None,2,Yes
+30,M,30,6,Interferon-beta,1.5,Yes
+31,M,28,1,None,1.5,Yes
+32,M,44,10,Interferon-beta,4,Yes
+33,F,45,10,Interferon-beta,4,Yes
+34,M,41,19,Natalizumab,3,Yes
+35,F,33,8,Glatiramer acetate,2.5,Yes

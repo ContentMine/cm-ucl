@@ -1,0 +1,19 @@
+"Cases ","Age ","Sex ","Diagnosis ","Tumor locations ","Approaches ","Resection ","Tumor size ","Extracted volume "
+1,62,M,DA,Rt. thalamus,T. Vent.,Subtotal,8.49 cm^{3},7.98 cm^{3}
+2,61,F,ML,Lt. frontal,T. Cort.,Biopsy,6.22 cm^{3},1.32 cm^{3}
+3,63,M,GBM,Lat. ventricle,T. Vent.,Partial,6.48 cm^{3},2.29 cm^{3}
+4,81,F,ML,Third & Lat. ventricle,T. Vent.,Biopsy,4.32 cm^{3},1.24 cm^{3}
+5,58,F,Meta,Rt. thalamus,T. Cort.,Gross total,7.22 cm^{3},7.22 cm^{3}
+6,54,F,ML,Lat. ventricle,T. Vent.,Biopsy,22.38 cm^{3},6.24 cm^{3}
+7,32,M,AA,Lt. frontal,T. Cort.,Gross total,18.42 cm^{3},18.42 cm ^{3}
+8,72,M,GBM,Lt. frontal,T. Cort.,Gross total,24.08 cm^{3},24.08 cm ^{3}
+9,26,M,Germ,Rt. putamen,T. Cort.,Biopsy,8.24 cm^{3},4.08 cm^{3}
+10,56,M,ML,Rt. Caud. head,T. Vent.,Biopsy,7.68 cm^{3},1.86 cm^{3}
+11,68,F,Meta,Rt. frontal,T. Cort.,Gross total,12.46 cm^{3},12.46 cm ^{3}
+12,59,M,ML,Lt. frontal,T. Cort.,Partial,22.68 cm^{3},12.88 cm ^{3}
+13,76,M,ML,Lt. thalamus,T. Vent.,Biopsy,8.58 cm^{3},1.98 cm^{3}
+14,32,M,Germ,Rt. thalamus,T. Vent.,Biopsy,6.78 cm^{3},2.04 cm^{3}
+15,55,F,MS,Rt. frontal,T. Cort.,Biopsy,18.32 cm^{3},3.88 cm^{3}
+16,70,M,ML,Lt. frontal,T. Cort.,Biopsy,10.22 cm^{3},2.98 cm^{3}
+17,26,M,CN,Rt. ventricle,T. Vent.,Partial,48.64 cm^{3},30.44 cm ^{3}
+18,11,M,MS,Lt. thalamus,T. Vent.,Biopsy,12.68 cm^{3},1.84 cm^{3}

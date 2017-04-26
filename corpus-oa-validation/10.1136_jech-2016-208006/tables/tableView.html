@@ -1,0 +1,177 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_jech-2016-208006</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-208006/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Biomarker </th>
+     <th class="cell">PAF (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">All four chemical exposures</td>
+     <td class="cell">0.13 (0.02 to 0.22)</td>
+    </tr>
+    <tr>
+     <td class="cell">MEP</td>
+     <td class="cell">0.01 (−0.02 to 0.05)</td>
+    </tr>
+    <tr>
+     <td class="cell">PCB 153</td>
+     <td class="cell">0.02 (−0.02 to 0.06)</td>
+    </tr>
+    <tr>
+     <td class="cell">p,p -DDE^{′}</td>
+     <td class="cell">0.06 (−0.05 to 0.15)</td>
+    </tr>
+    <tr>
+     <td class="cell">PFNA</td>
+     <td class="cell">0.06 (−0.02 to 0.13)</td>
+    </tr>
+    <tr>
+     <td class="cell">BMI</td>
+     <td class="cell">0.40 (0.16 to 0.53)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-208006/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-208006/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">European population, 70–75 years old Diabetes prevalence Prevalent diabetes, Europe Preventable cases Cost/case Preventable costs </th>
+     <th class="cell">18 045 093 6.5% 1 172 931 469 172 €29 585 €13.9 billion </th>
+     <th class="cell">152 481 €4.51 billion </th>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-208006/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-208006/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Biomarker </th>
+     <th class="cell">N </th>
+     <th class="cell">Median </th>
+     <th class="cell">25th centile </th>
+     <th class="cell">75th centile </th>
+    </tr>
+    <tr>
+     <td class="cell">MEP (ng/mL)</td>
+     <td class="cell">963</td>
+     <td class="cell">11.70</td>
+     <td class="cell">7.22</td>
+     <td class="cell">17.50</td>
+    </tr>
+    <tr>
+     <td class="cell">p,p -DDE (ng/g lipid)^{′}</td>
+     <td class="cell">953</td>
+     <td class="cell">1858</td>
+     <td class="cell">1024</td>
+     <td class="cell">3415</td>
+    </tr>
+    <tr>
+     <td class="cell">PCB 153 (ng/g lipid)</td>
+     <td class="cell">953</td>
+     <td class="cell">1427</td>
+     <td class="cell">1111</td>
+     <td class="cell">1843</td>
+    </tr>
+    <tr>
+     <td class="cell">PFNA (ng/mL)</td>
+     <td class="cell">965</td>
+     <td class="cell">0.71</td>
+     <td class="cell">0.53</td>
+     <td class="cell">0.97</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-208006/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

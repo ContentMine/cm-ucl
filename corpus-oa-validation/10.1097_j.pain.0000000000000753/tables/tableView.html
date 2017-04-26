@@ -1,0 +1,254 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1097_j.pain.0000000000000753</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">n (clusters) </th>
+     <th class="cell">2 </th>
+     <th class="cell">3 </th>
+     <th class="cell">4 </th>
+     <th class="cell">5 </th>
+     <th class="cell">6 </th>
+     <th class="cell">7 </th>
+     <th class="cell">8 </th>
+     <th class="cell">9 </th>
+    </tr>
+    <tr>
+     <td class="cell">*Mean silhouette width</td>
+     <td class="cell">0.29</td>
+     <td class="cell">0.25</td>
+     <td class="cell">0.23</td>
+     <td class="cell">0.20</td>
+     <td class="cell">0.15</td>
+     <td class="cell">0.17</td>
+     <td class="cell">0.19</td>
+     <td class="cell">0.19</td>
+     <td class="cell">0.21</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Sensory loss </th>
+     <th class="cell">Thermal hyperalgesia </th>
+     <th class="cell">Mechanical hyperalgesia </th>
+    </tr>
+    <tr>
+     <td class="cell">Original data set, n (%)</td>
+     <td class="cell">381 (42)</td>
+     <td class="cell">302 (33)</td>
+     <td class="cell">219 (24)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Sensory loss </th>
+     <th class="cell">Thermal hyperalgesia </th>
+     <th class="cell">Mechanical hyperalgesia </th>
+    </tr>
+    <tr>
+     <td class="cell">Original data set*</td>
+     <td class="cell">381 (42)</td>
+     <td class="cell">302 (33)</td>
+     <td class="cell">219 (24)</td>
+    </tr>
+    <tr>
+     <td class="cell">Age, y</td>
+     <td class="cell">59 ± 14</td>
+     <td class="cell">56 ± 14</td>
+     <td class="cell">59 ± 15</td>
+    </tr>
+    <tr>
+     <td class="cell">Female*</td>
+     <td class="cell">169 (39)</td>
+     <td class="cell">152 (35)</td>
+     <td class="cell">108 (25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Depression*</td>
+     <td class="cell">104 (47)‡</td>
+     <td class="cell">69 (31)</td>
+     <td class="cell">49 (22)</td>
+    </tr>
+    <tr>
+     <td class="cell">Pain intensity†</td>
+     <td class="cell">6.1 ± 3.1</td>
+     <td class="cell">5.8 ± 3.2</td>
+     <td class="cell">6.1 ± 3.0</td>
+    </tr>
+    <tr>
+     <td class="cell">Burning pain†</td>
+     <td class="cell">4.5 ± 3.4</td>
+     <td class="cell">4.3 ± 3.3</td>
+     <td class="cell">5.1 ± 3.2‡</td>
+    </tr>
+    <tr>
+     <td class="cell">Stabbing pain†</td>
+     <td class="cell">4.7 ± 3.2</td>
+     <td class="cell">4.3 ± 3.2</td>
+     <td class="cell">5.0 ± 3.0</td>
+    </tr>
+    <tr>
+     <td class="cell">Medication§</td>
+     <td class="cell">126 (86)‡</td>
+     <td class="cell">64 (71)</td>
+     <td class="cell">62 (78)</td>
+    </tr>
+    <tr>
+     <td class="cell">NSAID</td>
+     <td class="cell">28 (19)</td>
+     <td class="cell">18 (20)</td>
+     <td class="cell">13 (16)</td>
+    </tr>
+    <tr>
+     <td class="cell">SNRI</td>
+     <td class="cell">16 (11)</td>
+     <td class="cell">6 (7)</td>
+     <td class="cell">12 (15)</td>
+    </tr>
+    <tr>
+     <td class="cell">TCA</td>
+     <td class="cell">60 (41)‡</td>
+     <td class="cell">20 (22)</td>
+     <td class="cell">21 (26)</td>
+    </tr>
+    <tr>
+     <td class="cell">Anticonvulsant</td>
+     <td class="cell">41 (28)</td>
+     <td class="cell">34 (38)‡</td>
+     <td class="cell">20 (25)</td>
+    </tr>
+    <tr>
+     <td class="cell">Opioid</td>
+     <td class="cell">36 (25)</td>
+     <td class="cell">20 (22)</td>
+     <td class="cell">20 (25)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th />
+     <th class="cell">Validation data set </th>
+     <th class="cell">P </th>
+    </tr>
+    <tr>
+     <td class="cell">Age, y</td>
+     <td class="cell">58 ± 14</td>
+     <td class="cell">57 ± 14</td>
+     <td class="cell">0.834</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000753/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

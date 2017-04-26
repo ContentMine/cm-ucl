@@ -1,0 +1,383 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_j.ypmed.2016.12.035</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.ypmed.2016.12.035/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variable </th>
+     <th class="cell">Unadjusted model IRR (95% CI) </th>
+     <th class="cell">Adjusted model IRR (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">Main effects</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Community factors</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Male gender</td>
+     <td class="cell">1.00 (0.99–1.01)</td>
+     <td class="cell">1.01 (0.99–1.02)</td>
+    </tr>
+    <tr>
+     <td class="cell">Multiple child deprivation index ^{a}</td>
+     <td class="cell">1.05 (0.98–1.13)</td>
+     <td class="cell">1.23 (1.12–1.35)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal deprivation index ^{a}</td>
+     <td class="cell">0.88 (0.82–0.94)</td>
+     <td class="cell">1.06 (0.98–1.33)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal health seeking behaviour</td>
+     <td class="cell">0.78 (0.73–0.84)</td>
+     <td class="cell">0.64 (0.56–0.73)</td>
+    </tr>
+    <tr>
+     <td class="cell">index ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Community environmental factor index ^{a}</td>
+     <td class="cell">1.14 (1.05–1.22)</td>
+     <td class="cell">0.99(0.90–1.08)</td>
+    </tr>
+    <tr>
+     <td class="cell">Ethnicity diversity index ^{a}</td>
+     <td class="cell">1.006</td>
+     <td class="cell">1.005</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(1.003–1.008)</td>
+     <td class="cell">(1.002–1.007)</td>
+    </tr>
+    <tr>
+     <td class="cell">Interaction effects</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Multiple child deprivation index ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">× gender</td>
+     <td class="empty" />
+     <td class="cell">1.00 (0.99–1.01)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal deprivation index ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">× gender</td>
+     <td class="empty" />
+     <td class="cell">1.00 (0.99–1.01)</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal health seeking behaviour</td>
+     <td class="empty" />
+     <td class="cell">0.99 (0.98–0.99)</td>
+    </tr>
+    <tr>
+     <td class="cell">index ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">× gender</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Community environmental factor</td>
+     <td class="empty" />
+     <td class="cell">1.01(1.001–1.02)</td>
+    </tr>
+    <tr>
+     <td class="cell">index ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">× gender</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Ethnicity diversity index ^{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">× gender</td>
+     <td class="empty" />
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(1.00–1.001)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.ypmed.2016.12.035/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.ypmed.2016.12.035/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Variable </th>
+     <th class="cell">Mean </th>
+     <th class="cell">SD </th>
+     <th class="cell">Variance </th>
+    </tr>
+    <tr>
+     <td class="cell">Outcome variable</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Health services utilization per 1000 live births by</td>
+     <td class="cell">2.2</td>
+     <td class="cell">2.7</td>
+     <td class="cell">7.1</td>
+    </tr>
+    <tr>
+     <td class="cell">communities</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Community level factors</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Multiple childhood deprivation index ^{a}</td>
+     <td class="cell">0.0</td>
+     <td class="cell">1.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Risky birth interval (%)</td>
+     <td class="cell">17.1</td>
+     <td class="cell">9.2</td>
+     <td class="cell">83.9</td>
+    </tr>
+    <tr>
+     <td class="cell">High birth order (%)</td>
+     <td class="cell">44.7</td>
+     <td class="cell">16.0</td>
+     <td class="cell">257.2</td>
+    </tr>
+    <tr>
+     <td class="cell">Low birth weight (%)</td>
+     <td class="cell">13.3</td>
+     <td class="cell">10.3</td>
+     <td class="cell">105.2</td>
+    </tr>
+    <tr>
+     <td class="cell">Never breastfed (%)</td>
+     <td class="cell">2.6</td>
+     <td class="cell">3.8</td>
+     <td class="cell">14.6</td>
+    </tr>
+    <tr>
+     <td class="cell">High number of under-fives (%)</td>
+     <td class="cell">9.1</td>
+     <td class="cell">11.5</td>
+     <td class="cell">132.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal deprivation</td>
+     <td class="cell">0.0</td>
+     <td class="cell">1.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Poverty rate (%)</td>
+     <td class="cell">13.0</td>
+     <td class="cell">24.9</td>
+     <td class="cell">621.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Unemployment rate (%)</td>
+     <td class="cell">26.1</td>
+     <td class="cell">20.0</td>
+     <td class="cell">400.5</td>
+    </tr>
+    <tr>
+     <td class="cell">Illiteracy rate (%)</td>
+     <td class="cell">33.0</td>
+     <td class="cell">37.1</td>
+     <td class="cell">1376.3</td>
+    </tr>
+    <tr>
+     <td class="cell">Rural residency (%)</td>
+     <td class="cell">58.6</td>
+     <td class="cell">49.3</td>
+     <td class="cell">2428.9</td>
+    </tr>
+    <tr>
+     <td class="cell">Community environmental factor index ^{a}</td>
+     <td class="cell">0.0</td>
+     <td class="cell">1.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Safe water source (%)</td>
+     <td class="cell">27.4</td>
+     <td class="cell">32.5</td>
+     <td class="cell">1057.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Proper sanitation (%)</td>
+     <td class="cell">32.6</td>
+     <td class="cell">32.8</td>
+     <td class="cell">1072.7</td>
+    </tr>
+    <tr>
+     <td class="cell">Low pollution cooking fuel (%)</td>
+     <td class="cell">2.9</td>
+     <td class="cell">11.5</td>
+     <td class="cell">133.3</td>
+    </tr>
+    <tr>
+     <td class="cell">Maternal health-seeking behaviour index ^{a}</td>
+     <td class="cell">0.0</td>
+     <td class="cell">1.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Child received at least one vaccination (%)</td>
+     <td class="cell">66.1</td>
+     <td class="cell">19.4</td>
+     <td class="cell">375.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Ante-natal attendance (%)</td>
+     <td class="cell">16.2</td>
+     <td class="cell">19.4</td>
+     <td class="cell">378.1</td>
+    </tr>
+    <tr>
+     <td class="cell">Medical assistance at delivery (%)</td>
+     <td class="cell">50.1</td>
+     <td class="cell">35.4</td>
+     <td class="cell">1249.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Tetanus injection during pregnancy (%)</td>
+     <td class="cell">19.4</td>
+     <td class="cell">19.2</td>
+     <td class="cell">369.7</td>
+    </tr>
+    <tr>
+     <td class="cell">Ethnicity diversity index ^{a}</td>
+     <td class="cell">0.0</td>
+     <td class="cell">1.0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Male gender</td>
+     <td class="cell">17.8</td>
+     <td class="cell">9.4</td>
+     <td class="cell">48.0</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.ypmed.2016.12.035/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

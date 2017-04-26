@@ -1,0 +1,211 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_j.amepre.2016.07.016</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.07.016/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Food </th>
+     <th class="cell">Pounds per week </th>
+    </tr>
+    <tr>
+     <td class="cell">Meat and beans</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Black, brown, or Bayo beans, dry, cooked, fat</td>
+     <td class="cell">2.31</td>
+    </tr>
+    <tr>
+     <td class="cell">not added in cooking</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Lentils, dry, cooked, fat not added in cooking</td>
+     <td class="cell">2.31</td>
+    </tr>
+    <tr>
+     <td class="cell">Peanuts, roasted, without salt</td>
+     <td class="cell">0.43</td>
+    </tr>
+    <tr>
+     <td class="cell">Grains</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Rice, brown, cooked, regular, fat not added</td>
+     <td class="cell">0.875</td>
+    </tr>
+    <tr>
+     <td class="cell">in cooking</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Oatmeal, cooked, not specifeid as to regular,</td>
+     <td class="cell">0.875</td>
+    </tr>
+    <tr>
+     <td class="cell">quick or instant, fat not added in cooking</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Spaghetti, cooked, whole wheat, fat not</td>
+     <td class="cell">0.875</td>
+    </tr>
+    <tr>
+     <td class="cell">added in cooking</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Vegetables</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Carrots, raw</td>
+     <td class="cell">1.48</td>
+    </tr>
+    <tr>
+     <td class="cell">Broccoli, raw</td>
+     <td class="cell">1.48</td>
+    </tr>
+    <tr>
+     <td class="cell">Tomatoes, canned, low sodium</td>
+     <td class="cell">1.875</td>
+    </tr>
+    <tr>
+     <td class="cell">Beans, lima, immature, canned, low sodium,</td>
+     <td class="cell">1.875</td>
+    </tr>
+    <tr>
+     <td class="cell">fat not added in cooking</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Beans, string, cooked, from canned, not</td>
+     <td class="cell">1.875</td>
+    </tr>
+    <tr>
+     <td class="cell">specifed as to color, fat not added in</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">cooking</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Onions, mature, raw</td>
+     <td class="cell">1.48</td>
+    </tr>
+    <tr>
+     <td class="cell">Fruits</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Raisins</td>
+     <td class="cell">1.5</td>
+    </tr>
+    <tr>
+     <td class="cell">Apples, raw</td>
+     <td class="cell">1.5</td>
+    </tr>
+    <tr>
+     <td class="cell">Peach, cooked or canned, unsweetened,</td>
+     <td class="cell">1.51</td>
+    </tr>
+    <tr>
+     <td class="cell">water pack</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Banana, raw</td>
+     <td class="cell">1.51</td>
+    </tr>
+    <tr>
+     <td class="cell">Milk products</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Milk, soy, ready-to-drink, not baby’s</td>
+     <td class="cell">6.2</td>
+    </tr>
+    <tr>
+     <td class="cell">Rice beverage</td>
+     <td class="cell">6</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.07.016/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

@@ -1,0 +1,210 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_bph.13699</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button><button title="table5" class="tablinks" onClick="openTab(event, 'table5', 'tabcontent')">table5</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Human 11β-HSD1 IC _{50} Liver microsomal stability(% parent at 30 min) [n] Pharmacokinetics in dog Oral C _{max} (ng·mL ^{-1} ) Cl (mL·min ^{-1} ·kg ^{-1} ) t _{1/2} (h) Oral AUC _{(0➔} _{∞)} (ng.h·mL ^{-1} ) % F Plasma protein binding(% unbound) [n] Human hERG IC _{50} (μM) [n] Aqueous solubility at pH 7.4 (mg·mL ^{-1} ) [n] </th>
+     <th class="cell">in HEK293 cells (nM) [n] </th>
+     <th class="cell">24 ± 15 [31] Human 99 ± 1 [3] Dog 92 ± 5 [3] Rat 74 ± 1 [3] 4590 ± 546 4.68 ± 1.12 2.79 ± 0.84 31 730 ± 3746 170 ± 40 Human 30 ± 2 [2] Dog 44 ± 0 [1] Rat 26 ± 0 [2] &gt;30 ± 0 [2] 0.200 ± 0 [1] </th>
+     <th class="cell">7 ± 4 [5] Human 51 ± 3 [3] Dog 74 ± 1 [3] Rat 45 ± 5 [3] 3100 ± 908 8.68 ± 2.03 3.21 ± 1.61 9208 ± 2005 90 ± 40 Human 11 ± 2 [2] Dog 11 ± 0 [1] Rat 10 ± 1 [2] 3.1 ± 0.6 [2] 0.006 ± 0 [1] </th>
+    </tr>
+    <tr>
+     <td class="cell">Pharmacokinetics in dog was conducted by i.v. and p.o. administration (n = 3 dogs per route). The number of individual experiments [n] for mea-</td>
+    </tr>
+    <tr>
+     <td class="cell">surement of in vitro human 11β-HSD1 inhibition, liver microsomal stability, plasma protein binding, hERG inhibition and aqueous solubility are shown.</td>
+    </tr>
+    <tr>
+     <td class="cell">Date are reported as mean ± SD.</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">C _{max} T _{max} t _{1/2} (h) AUC _{0–12h} Oral clearance (L·h ^{-1} ) Ae _{(0–12h)} (μg) Ae _{(0–12h)} (%) </th>
+     <th class="cell">(ng·mL ^{-1} ) (h) ^{1} (ng h·mL^{.} ^{-1} ) </th>
+     <th class="cell">29.1 (61%) 6.0 (4–8) nd 207 (79%) nd 34.6 (50%) 0.35 (50%) </th>
+     <th class="cell">89.2 (71%) 4.0 (3–10) nd 623 (69%) nd 107 (92%) 0.54 (92%) </th>
+     <th class="cell">268 (34%) 4.0 (3–6) nd 1843 (33%) nd 362 (46%) 1.03 (46%) </th>
+     <th class="cell">207 (58%) 4.0 (3–6) 13.8 (21%) 1917 (66%) 7.24 (60%) 408 (46%) 4.08 (46%) </th>
+     <th class="cell">365 (29%) 3.0 (2–6) 11.2 (25%) 3175 (30%) 6.85 (33%) 644 (38%) 3.22 (38%) </th>
+     <th class="cell">892 (30%) 4.0 (3–6) 9.99 (14%) 7909 (36%) 5.02 (43%) 1345 (29%) 3.84 (29%) </th>
+    </tr>
+    <tr>
+     <td class="cell">Multiple ascending dose studies were conducted in eight healthy male subjects per dose level.</td>
+    </tr>
+    <tr>
+     <td class="cell">^{1 Median ± range}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">C _{max} T _{max} t _{1/2} (h) AUC _{0-t} AUC _{0-∞} Oral clearance (L·h ^{-1} ) Ae _{(0–120h)} (μg) Ae _{(0–120h)} (%) CL _{R} (L·h ^{-1} ) </th>
+     <th class="cell">(ng·mL ^{-1} ) (h) ^{1} (ng h·mL^{.} ^{-1} ) (ng h·mL^{.} ^{-1} ) </th>
+     <th class="cell">40.4 (62%) 3.5 (3–6) 18.7 (59%) 550 (90%) 856 (70%) 18.5 (75%) 52.5 (85%) 0.53 (85%) 0.07 (86%) </th>
+     <th class="cell">136 (46%) 4.0 (3–4) 13.6 (61%) 2291 (87%) 2581 (84%) 14.5 (90%) 300 (66%) 1.67 (66%) 0.16 (50%) </th>
+     <th class="cell">278 (30%) 4.0 (3–6) 10.5 (35%) 3486 (39%) 3825 (35%) 7.32 (38%) 438 (37%) 1.75 (37%) 0.13 (46%) </th>
+     <th class="cell">329 (37%) 4.0 (4–6) 11.4 (24%) 4016 (30%) 4261 (29%) 8.78 (28%) 501 (15%) 1.43 (15%) 0.12 (16%) </th>
+    </tr>
+    <tr>
+     <td class="cell">Single ascending dose studies were conducted in six healthy male and two healthy female subjects per dose level.</td>
+    </tr>
+    <tr>
+     <td class="cell">^{1 Median ± range}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">1 2 3 4 5 6 7 8 9 </th>
+     <th class="cell">OH OH OH OH OH F CN CN </th>
+     <th class="cell">F </th>
+     <th class="cell">22 ± 2 [2] 26 ± 8 [3] 12 ± 0 [1] 24 ± 15 [31] 37 ± 3 [2] 22 ± 10 [4] 7 ± 4 [5] 15 ± 0 [1] 13 ± 3 [3] </th>
+     <th class="cell">5.0 5.4 5.0 5.2 5.2 5.4 5.4 5.6 5.3 </th>
+     <th class="cell">419 ± 28 1270 ± 330 115 ± 48 1539 ± 657 589 ± 161 399 ± 99 1526 ± 212 291 ± 74 230 ± 33 </th>
+     <th class="cell">29 ± 10 31 ± 12 36 ± 12 173 ± 80 19 ± 17 108 ± 54 374 ± 184 9 ± 3 15 ± 1 </th>
+     <th class="cell">0.07 0.02 0.31 0.11 0.03 0.27 0.24 0.03 0.07 </th>
+    </tr>
+    <tr>
+     <td class="cell">Plasma and brain levels were determined as described in the</td>
+     <td class="cell">section using n = 3 rats per time point. The number of individual experiments [n] for</td>
+    </tr>
+    <tr>
+     <td class="cell">measurement of in vitro human 11β-HSD1 inhibition are shown. Data are reported as mean ± SD.</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table5" id="table5" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table5/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table5/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">C _{CSF,} _{5h} C _{max} (ng·mL ^{-1} ) T _{max} (h) ^{1} t _{1/2} (h) AUC _{0–12h} (ng.h mL ^{-1} ) </th>
+     <th class="cell">(ng·mL ^{-1} ) </th>
+     <th class="cell">nd 235 (60%) 5.1 (4–6) 6.24 (82%) 1710 (66%) </th>
+     <th class="cell">69.8 (44%) 708 (59%) 5.1 (3–5) 8.97 (39%) 5670 (81%) </th>
+    </tr>
+    <tr>
+     <td class="cell">The study was conducted in four healthy subjects.</td>
+    </tr>
+    <tr>
+     <td class="cell">^{1 Median ± range}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_bph.13699/tables/table5/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

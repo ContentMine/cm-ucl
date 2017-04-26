@@ -1,0 +1,173 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_ejn.13396</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_ejn.13396/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Study </th>
+     <th class="cell">Sample </th>
+     <th class="cell">Main results </th>
+    </tr>
+    <tr>
+     <td class="cell">Ardouin et al. (2006)</td>
+     <td class="cell">7 PD patients with PG</td>
+     <td class="cell">After STN DBS PG resolved, possibly due to reduction in dopaminergic medication</td>
+    </tr>
+    <tr>
+     <td class="cell">Bandini et al. (2007)</td>
+     <td class="cell">2 PD patients with PG</td>
+     <td class="cell">After STN DBS and reduction in dopaminergic medication PG resolved</td>
+    </tr>
+    <tr>
+     <td class="cell">Castrioto et al. (2014)</td>
+     <td class="cell">20 PD patients after STN DBS</td>
+     <td class="cell">IGT score signifcantly improved after STN DBS and reduction in dopaminergic medication</td>
+    </tr>
+    <tr>
+     <td class="cell">Contarino et al. (2007)</td>
+     <td class="cell">11 PD patients after STN DBS</td>
+     <td class="cell">Transient ICD after STN DBS surgery</td>
+    </tr>
+    <tr>
+     <td class="cell">Dodd et al. (2005)</td>
+     <td class="cell">11 PD patients with PG</td>
+     <td class="cell">Strong association with DA, PG did not develop under L-dopa monotherapy, but L-dopa might</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">be contributory</td>
+    </tr>
+    <tr>
+     <td class="cell">Funkiewiez et al. (2003)</td>
+     <td class="cell">50 PD patients after STN DBS</td>
+     <td class="cell">Transient ICDs after STN DBS surgery</td>
+    </tr>
+    <tr>
+     <td class="cell">Frank et al. (2007)</td>
+     <td class="cell">32 PD patients</td>
+     <td class="cell">Higher impulsivity on STN DBS</td>
+    </tr>
+    <tr>
+     <td class="cell">Gallagher et al. (2007)</td>
+     <td class="cell">177 PD patients with PG</td>
+     <td class="cell">Strongest association with DA; no clear difference between each DA; L-dopa the most frequently</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">co-prescribed medication</td>
+    </tr>
+    <tr>
+     <td class="cell">€</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Halbig et al. (2009)</td>
+     <td class="cell">53 PD patients</td>
+     <td class="cell">Higher BIS scores in PD patients with STN DBS; ICD more frequent in patients after STN DBS</td>
+    </tr>
+    <tr>
+     <td class="cell">Voon et al. (2006)</td>
+     <td class="cell">297 patients with PD</td>
+     <td class="cell">PG more frequent in patients with DA monotherapy and DA + L-dopa then L-dopa monotherapy;</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">no association to dose</td>
+    </tr>
+    <tr>
+     <td class="cell">Weintraub et al. (2006)</td>
+     <td class="cell">272 patients with PD</td>
+     <td class="cell">No difference between each DA; higher LEDD associated with ICDs</td>
+    </tr>
+    <tr>
+     <td class="cell">Weintraub et al. (2010)</td>
+     <td class="cell">3090 patients with PD</td>
+     <td class="cell">Highest ICD frequency in patients under combined DA and L-dopa therapy; strong association</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">with DA; no difference between DA medications</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_ejn.13396/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

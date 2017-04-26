@@ -1,0 +1,9 @@
+"Group ","Treatment ","n ","Mean (h) ","SD (min) ","Independent t-test "
+80 lM at peak,Control,6,14.44,376,t = -1.360
+"",Ryanodine,6,18.69,264,P = 0.207
+80 lM at trough,Control,4,17.37,91,t = -1.615
+"",Ryanodine,4,19.46,125,P = 0.162
+100 nM at peak,Control,6,20.97,227,t = 0.424
+"",Ryanodine,6,20.1,217,P = 0.681
+100 nM at trough,Control,6,16.54,192,t = -1.696
+"",Ryanodine,6,20.43,278,P = 0.125

@@ -1,0 +1,55 @@
+"","Low connectivity/amenities (n=545 (23.2%)) ","p for equality of coefficients (low vs high income)§ ","Average connectivity/ amenities (n=409 (17.4%)) ","p for equality of coefficients (average vs high income)§ ","High connectivity/ amenities (n=1398 (59.4%)) "
+Low income (first tertile),,,,,
+White¶,−0.13 (−0.65 to 0.40),0.29,0.16 (−0.28 to 0.59),0.05,1.00
+Female,−0.07 (−0.39 to 0.26),0.0001,−0.11 (−0.39 to 0.17),0.09,1.00
+Education**,−0.26 (−0.54 to 0.02),0.14,−0.20 (−0.42 to 0.03),0.45,1.00
+Age (years),0.03 (0.01 to 0.07),0.16,0.01 (−0.03 to 0.04),0.15,1.00
+Neighbourhood deprivation score,−0.24 (−0.71 to 0.23),0.14,−0.05 (−0.49 to 0.40),<0.001,1.00
+Percentage white population,0.01 (−0.0002 to 0.03)*,0.36,0.01 (−0.004 to 0.02),0.002,1.00
+Percentage population ≤18 years,0.10 (0.07 to 0.14)*,0.25,0.07 (0.04 to 0.10)*,0.48,1.00
+Percentage rental properties,−0.03 (−0.04 to −0.01)*,0.10,−0.02 (−0.04 to −0.01)*,0.80,1.00
+Home price index,−0.002 (−0.01 to 0.01),0.15,0.003 (−0.005 to 0.01),0.12,1.00
+Neighbourhood land area,0.35 (0.26 to 0.44)*,0.11,−0.10 (−0.20 to −0.01)*,0.03,1.00
+Examination year,,,,,
+Year 0,0.00,−,0.00,−,1.00
+Year 7,−0.46 (−1.02 to 0.10),0.14,−0.32 (−0.81 to 0.16),0.46,1.00
+Year 10,−0.14 (−0.79 to 0.51),0.89,−0.26 (−0.80 to 0.29),0.81,1.00
+Year 15,−0.15 (−1.05 to 0.76),0.63,−0.35 (−1.14 to 0.43),0.94,1.00
+Year 20,−0.26 (−1.77 to 1.26),0.33,−0.40 (−1.60 to 0.81),0.37,1.00
+Year 25,−0.34 (−1.68 to 0.99),0.68,−0.42 (−1.47 to 0.63),0.76,1.00
+Baseline city††,,,,,
+Birmingham,1.38 (0.25 to 2.52)*,0.45,−0.31 (−1.20 to 0.59),0.13,1.00
+Chicago,,−,,−,1.00
+Minneapolis,3.40 (2.02 to 4.77)*,0.97,0.67 (−0.49 to 1.84),0.21,1.00
+Oakland,3.52 (2.04 to 5.00)*,0.97,0.56 (−0.66 to 1.79),0.57,1.00
+Medium income (second tertile),,,,,
+White¶,0.04 (−0.72 to 0.81),0.16,0.30 (−0.10 to 0.71),0.10,1.00
+Female,−0.02 (−0.43 to 0.39),0.0001,0.01 (−0.34 to 0.36),0.20,1.00
+Education**,−0.40 (−0.81 to 0.02),0.07,−0.31 (−0.64 to 0.03),0.30,1.00
+Age (years),0.01 (−0.04 to 0.07),0.20,0.02 (−0.02 to 0.06),0.08,1.00
+Neighbourhood deprivation score,−0.28 (−0.79 to 0.23),0.10,0.16 (−0.34 to 0.66),0.001,1.00
+Percentage white population,0.01 (−0.01 to 0.02),0.15,0.01 (−0.01 to 0.03),0.01,1.00
+Percentage population ≤18 years,0.12 (0.07 to 0.17)*,0.42,0.08 (0.05 to 0.12)*,0.65,1.00
+Percentage rental properties,−0.04 (−0.06 to −0.02)*,0.04,−0.04 (−0.05 to −0.02)*,0.32,1.00
+Home price index,0.0002 (−0.01 to 0.01),0.20,0.003 (−0.01 to 0.01),0.14,1.00
+Neighbourhood land area,0.36 (0.24 to 0.47)*,0.01,−0.12 (−0.21 to −0.03)*,0.03,1.00
+Examination year,,,,,
+Year 0,0.00,−,0.00,−,1.00
+Year 7,0.07 (−0.69 to 0.83),0.77,−0.23 (−0.86 to 0.39),0.61,1.00
+Year 10,−0.16 (−1.14 to 0.81),0.92,−0.49 (−1.29 to 0.32),0.49,1.00
+Year 15,−0.23 (−1.53 to 1.06),0.71,−0.52 (−1.62 to 0.59),0.90,1.00
+Year 20,−0.89 (−3.10 to 1.31),0.60,−0.89 (−2.67 to 0.88),0.56,1.00
+Year 25,−0.74 (−2.68 to 1.19),0.91,−1.24 (−2.84 to 0.36),0.70,1.00
+Baseline city ††,,,,,
+Birmingham,1.37 (0.0003 to 2.74)*,0.38,−0.58 (−1.39 to 0.24),0.36,1.00
+Chicago,0.00,−,0.00,−,1.00
+Minneapolis,3.66 (2.17 to 5.16)*,0.76,0.21 (−0.74 to 1.15),0.70,1.00
+Oakland,4.18 (2.44 to 5.93)*,0.44,0.67 (−0.41 to 1.75),0.44,1.00
+High income (third tertile),,,,,
+White ¶,−0.68 (−1.56 to 0.20),−,−0.63 (−1.26 to 0.0001),−,1.00
+Female,1.07 (0.59 to 1.54)*,−,0.33 (−0.11 to 0.77),−,1.00
+Education**,0.29 (−0.37 to 0.96),−,0.09 (−0.60 to 0.78),−,1.00
+Age (year),−0.05 (−0.14 to 0.05),−,−0.05 (−0.12 to 0.02),−,1.00
+Neighbourhood deprivation score,0.21 (−0.36 to 0.77),−,1.04 (0.45 to 1.63)*,−,1.00
+Percentage white population,0.03 (−0.0003 to 0.05)*,−,0.03 (0.02 to 0.05)*,−,1.00
+Percentage population ≤18 years,0.16 (0.07 to 0.25)*,−,0.10 (0.02 to 0.18)*,−,1.00

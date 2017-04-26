@@ -1,0 +1,246 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1097_WNR.0000000000000705</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_WNR.0000000000000705/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Participant type </th>
+     <th class="cell">Hemispheric position </th>
+     <th class="cell">Interactions </th>
+    </tr>
+    <tr>
+     <td class="cell">Occipital</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">P1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Amplitude</td>
+     <td class="cell">MACT &gt; non-</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">MACT</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Latency</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">N1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Amplitude</td>
+     <td class="cell">MACT &lt; non-</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">MACT</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Latency</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="cell">Centrofrontal</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">N1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Amplitude</td>
+     <td class="cell">MACT &lt; non-</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">MACT</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Latency</td>
+     <td class="cell">MACT &gt; non-</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">MACT</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">P2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Amplitude</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+     <td class="cell">MACT-right &gt; non-</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">MACT-right</td>
+    </tr>
+    <tr>
+     <td class="cell">Latency</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+     <td class="cell">NS</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_WNR.0000000000000705/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_WNR.0000000000000705/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Score </th>
+     <th class="cell">Cue type </th>
+     <th class="cell">MACT group (n = 15) </th>
+     <th class="cell">Non-MACT group (n = 15) </th>
+    </tr>
+    <tr>
+     <td class="cell">Accuracy (mean ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi SD) (%)</td>
+     <td class="cell">Valid cue</td>
+     <td class="cell">97.1 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 3.3</td>
+     <td class="cell">97.0 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 7.2</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Invalid cue</td>
+     <td class="cell">89.7 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 19.0</td>
+     <td class="cell">90.3 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 18.4</td>
+    </tr>
+    <tr>
+     <td class="cell">Reaction time (mean ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi SD) (ms)</td>
+     <td class="cell">Valid cue</td>
+     <td class="cell">474.7 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 115.2</td>
+     <td class="cell">530.4 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 140.8</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Invalid cue</td>
+     <td class="cell">608.2 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 179.2</td>
+     <td class="cell">623.6 ❾ char: 177; name: plusminus; f: AdvTT3f84ef53; fn: HNENDI+AdvTT3f84ef53; e: WinAnsi 224.2</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_WNR.0000000000000705/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

@@ -1,0 +1,200 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1111_ejn.13440</h1><div class="tab"><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1111_ejn.13440/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">V </th>
+     <th class="cell">A </th>
+     <th class="cell">AV </th>
+     <th class="cell">V </th>
+     <th class="cell">A </th>
+     <th class="cell">AV </th>
+    </tr>
+    <tr>
+     <td class="cell">20 ms</td>
+     <td class="cell">0.27 (-1.02)</td>
+     <td class="cell">0.35 (1.42)</td>
+     <td class="cell">0.51 (-2.91)</td>
+     <td class="cell">0.54 (-7.63)</td>
+     <td class="cell">0.85 (4.11)</td>
+     <td class="cell">0.88 (0.86)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">0.45</td>
+     <td class="cell">0.78</td>
+     <td class="cell">1.01</td>
+     <td class="cell">0.47</td>
+     <td class="cell">1.36</td>
+     <td class="cell">1.51</td>
+    </tr>
+    <tr>
+     <td class="cell">40 ms</td>
+     <td class="cell">0.29 (-2.86)</td>
+     <td class="cell">0.49 (0.40)</td>
+     <td class="cell">0.51 (-4.53)</td>
+     <td class="cell">0.45 (-12.4)</td>
+     <td class="cell">0.82 (0.82)</td>
+     <td class="cell">0.85 (2.49)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">0.49</td>
+     <td class="cell">0.97</td>
+     <td class="cell">0.98</td>
+     <td class="cell">0.50</td>
+     <td class="cell">1.32</td>
+     <td class="cell">1.54</td>
+    </tr>
+    <tr>
+     <td class="cell">100 ms</td>
+     <td class="cell">0.28 (0.28)</td>
+     <td class="cell">0.47 (-2.30)</td>
+     <td class="cell">0.49 (-3.00)</td>
+     <td class="cell">0.50 (-11.1)</td>
+     <td class="cell">0.84 (-0.80)</td>
+     <td class="cell">0.88 (-0.72)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">0.45</td>
+     <td class="cell">0.87</td>
+     <td class="cell">0.91</td>
+     <td class="cell">0.59</td>
+     <td class="cell">1.33</td>
+     <td class="cell">1.67</td>
+    </tr>
+    <tr>
+     <td class="cell">200 ms</td>
+     <td class="cell">0.26 (-10.1)</td>
+     <td class="cell">0.53 (-2.04)</td>
+     <td class="cell">0.47 (-2.24)</td>
+     <td class="cell">0.42 (-10.2)</td>
+     <td class="cell">0.82 (-0.83)</td>
+     <td class="cell">0.90 (-1.74)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">0.52</td>
+     <td class="cell">1.02</td>
+     <td class="cell">0.95</td>
+     <td class="cell">0.60</td>
+     <td class="cell">1.43</td>
+     <td class="cell">1.88</td>
+    </tr>
+    <tr>
+     <td class="cell">500 ms</td>
+     <td class="cell">0.39 (-3.15)</td>
+     <td class="cell">0.53 (-0.12)</td>
+     <td class="cell">0.62 (-5.55)</td>
+     <td class="cell">0.70 (-3.40)</td>
+     <td class="cell">0.87 (-0.80)</td>
+     <td class="cell">0.93 (-2.40)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">0.69</td>
+     <td class="cell">1.15</td>
+     <td class="cell">1.35</td>
+     <td class="cell">1.20</td>
+     <td class="cell">1.78</td>
+     <td class="cell">2.23</td>
+    </tr>
+    <tr>
+     <td class="cell">1000 ms</td>
+     <td class="cell">0.33 (3.23)</td>
+     <td class="cell">0.69 (-6.56)</td>
+     <td class="cell">0.61 (-3.33)</td>
+     <td class="cell">0.73 (-4.07)</td>
+     <td class="cell">0.93 (-1.09)</td>
+     <td class="cell">0.96 (-0.23)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">0.69</td>
+     <td class="cell">1.26</td>
+     <td class="cell">1.31</td>
+     <td class="cell">1.57</td>
+     <td class="cell">2.05</td>
+     <td class="cell">2.39</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1111_ejn.13440/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

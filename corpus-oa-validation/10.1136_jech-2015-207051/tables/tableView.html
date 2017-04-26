@@ -1,0 +1,563 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_jech-2015-207051</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2015-207051/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">AUDIT Score ≥8 OR (95% CI) </th>
+     <th class="cell">Frequency of heavy episodic drinking (ordinal) OR (95% CI) </th>
+     <th class="cell">Smoking (ordinal) OR (95% CI) </th>
+     <th class="cell">Years of regular smoking (age 23–42) IRR (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">Men (N=4970)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 1: Married in 20s/early 30s, married once (REF)</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">0.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 2: Divorced at late 30s not remarried</td>
+     <td class="cell">1.32 (1.07 to 1.82)</td>
+     <td class="cell">1.21 (1.01 to 1.63)</td>
+     <td class="cell">1.86 (1.46 to 2.72)</td>
+     <td class="cell">0.24 (0.19 to 0.32)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 3: Cohabiting, not married</td>
+     <td class="cell">1.52 (1.23 to 2.12)</td>
+     <td class="cell">1.27 (1.04 to 1.73)</td>
+     <td class="cell">1.55 (1.22 to 2.24)</td>
+     <td class="cell">0.30 (0.24 to 0.40)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 4: Married in mid/late 30s, married once</td>
+     <td class="cell">1.18 (0.97 to 1.62)</td>
+     <td class="cell">1.02 (0.86 to 1.34)</td>
+     <td class="cell">1.08 (0.86 to 1.53)</td>
+     <td class="cell">0.09 (0.03 to 0.19)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 5: Divorced in 30s, later remarried</td>
+     <td class="cell">1.33 (0.89 to 2.51)</td>
+     <td class="cell">1.55 (1.10 to 2.63)</td>
+     <td class="cell">1.22 (0.78 to 2.49)</td>
+     <td class="cell">0.01 (−0.11 to 0.20)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 6: Never married or cohabited</td>
+     <td class="cell">1.41 (1.16 to 1.89)</td>
+     <td class="cell">1.16 (0.97 to 1.55)</td>
+     <td class="cell">1.67 (1.34 to 2.37)</td>
+     <td class="cell">0.37 (0.31 to 0.46)</td>
+    </tr>
+    <tr>
+     <td class="cell">Women (N=5256)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 1: Married in early 20s, married once (REF)</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">0.00</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 2: Married in late 20s/early 30s, married once</td>
+     <td class="cell">1.18 (0.94 to 1.68)</td>
+     <td class="cell">0.97 (0.84 to 1.22)</td>
+     <td class="cell">0.70 (0.59 to 0.92)</td>
+     <td class="cell">−0.15 (-0.19 to 0.09)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 3: Cohabiting, not married</td>
+     <td class="cell">1.21 (0.91 to 1.91)</td>
+     <td class="cell">1.19 (0.98 to 1.61)</td>
+     <td class="cell">1.67 (1.31 to 2.46)</td>
+     <td class="cell">0.14 (0.10 to 0.20)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 4: Divorced in 20s/early 30s, cohabited or remarried</td>
+     <td class="cell">1.17 (0.83 to 1.99)</td>
+     <td class="cell">1.13 (0.91 to 1.59)</td>
+     <td class="cell">1.46 (1.09 to 2.30)</td>
+     <td class="cell">0.08 (0.03 to 0.16)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 5: Divorced in mid/late 30s, not remarried</td>
+     <td class="cell">1.75 (1.37 to 2.59)</td>
+     <td class="cell">1.54 (1.27 to 2.08)</td>
+     <td class="cell">1.57 (1.23 to 2.29)</td>
+     <td class="cell">0.25 (0.21 to 0.32)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 6: Never married or cohabited</td>
+     <td class="cell">1.32 (1.03 to 1.96)</td>
+     <td class="cell">1.21 (1.01 to 1.59)</td>
+     <td class="cell">1.28 (1.04 to 1.76)</td>
+     <td class="cell">0.11 (0.08 to 0.17)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2015-207051/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2015-207051/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Class </th>
+     <th class="cell">Hours physical activity per week B (95% CI) </th>
+     <th class="cell">Hours sedentary time per week B (95% CI) </th>
+     <th class="cell">BMI≥25 (ref: &lt;25) OR (95% CI) </th>
+     <th class="cell">Raised WHR OR (95% CI) </th>
+     <th class="cell">Index of poor health behaviours (ordinal) OR (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">Men (N=4970)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 1: Married in 20s/early 30s, married</td>
+     <td class="cell">0.00</td>
+     <td class="cell">0.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">once (REF)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 2: Divorced at late 30s not remarried</td>
+     <td class="cell">0.29 (0.08 to 0.62)</td>
+     <td class="cell">−0.08 (–0.14 to 0.01)</td>
+     <td class="cell">0.94 (0.73 to 1.39)</td>
+     <td class="cell">1.17 (0.93 to 1.66)</td>
+     <td class="cell">2.00 (1.58 to 2.52)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 3: Cohabiting, not married</td>
+     <td class="cell">−0.14 (−0.41 to 0.29)</td>
+     <td class="cell">−0.05 (−0.10 to 0.04)</td>
+     <td class="cell">0.73 (0.56 to 1.08)</td>
+     <td class="cell">1.12 (0.89 to 1.60)</td>
+     <td class="cell">1.30 (1.01 to 1.69)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 4: Married in mid/late 30s, married once</td>
+     <td class="cell">−0.09 (−0.25 to 0.15)</td>
+     <td class="cell">0.03 (−0.02 to 0.11)</td>
+     <td class="cell">0.93 (0.73 to 1.35)</td>
+     <td class="cell">1.01 (0.82 to 1.38)</td>
+     <td class="cell">1.06 (0.86 to 1.31)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 5: Divorced in 30s, later remarried</td>
+     <td class="cell">−0.50 (−1.12 to 0.47)</td>
+     <td class="cell">−0.12 (−0.25 to 0.08)</td>
+     <td class="cell">1.66 (0.94 to 4.04)</td>
+     <td class="cell">1.42 (0.91 to 2.82)</td>
+     <td class="cell">1.81 (1.15 to 2.85)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 6: Never married or cohabited</td>
+     <td class="cell">−0.31 (−0.50 to 0.00)</td>
+     <td class="cell">−0.09 (−0.15 to 0.00)</td>
+     <td class="cell">0.56 (0.44 to 0.80)</td>
+     <td class="cell">1.06 (0.87 to 1.45)</td>
+     <td class="cell">1.10 (0.88 to 1.36)</td>
+    </tr>
+    <tr>
+     <td class="cell">Women (N=5256)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 1: Married in early 20s, married once</td>
+     <td class="cell">0.00</td>
+     <td class="cell">0.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+     <td class="cell">1.00</td>
+    </tr>
+    <tr>
+     <td class="cell">(REF)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 2: Married in late 20s/early 30s, married</td>
+     <td class="cell">−0.14 (−0.27 to 0.07)</td>
+     <td class="cell">−0.03 (−0.08 to 0.04)</td>
+     <td class="cell">0.71 (0.6 to 0.93)</td>
+     <td class="cell">0.96 (0.81 to 1.27)</td>
+     <td class="cell">0.86 (0.73 to 1.03)</td>
+    </tr>
+    <tr>
+     <td class="cell">once</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 3: Cohabiting, not married</td>
+     <td class="cell">−0.08 (−0.27 to 0.21)</td>
+     <td class="cell">0.09 (0.02 to 0.20)</td>
+     <td class="cell">0.71 (0.56 to 1.05)</td>
+     <td class="cell">0.92 (0.73 to 1.33)</td>
+     <td class="cell">0.99 (0.77 to 1.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">Class 4: Divorced in 20s/early 30s, cohabited</td>
+     <td class="cell">0.06 (−0.15 to 0.39)</td>
+     <td class="cell">0.02 (−0.05 to 0.14)</td>
+     <td class="cell">0.76 (0.58 to 1.17)</td>
+     <td class="cell">0.85 (0.63 to 1.34)</td>
+     <td class="cell">1.00 (0.75 to 1.32)</td>
+    </tr>
+    <tr>
+     <td class="cell">or remarried</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 5: Divorced in mid/late 30s, not</td>
+     <td class="cell">0.02 (−0.15 to 0.28)</td>
+     <td class="cell">0.06 (0.00 to 0.15)</td>
+     <td class="cell">0.70 (0.56 to 1.00)</td>
+     <td class="cell">0.93 (0.74 to 1.32)</td>
+     <td class="cell">1.07 (0.85 to 1.33)</td>
+    </tr>
+    <tr>
+     <td class="cell">remarried</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Class 6: Never married or cohabited</td>
+     <td class="cell">−0.04 (−0.22 to 0.24)</td>
+     <td class="cell">0.13 (0.07 to 0.22)</td>
+     <td class="cell">0.80 (0.64 to 1.11)</td>
+     <td class="cell">1.14 (0.93 to 1.56)</td>
+     <td class="cell">0.89 (0.72 to 1.11)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2015-207051/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2015-207051/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">N </th>
+     <th class="cell">Per cent </th>
+     <th class="cell">N </th>
+     <th class="cell">Per cent </th>
+    </tr>
+    <tr>
+     <td class="cell">AUDIT Score*</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&lt;8</td>
+     <td class="cell">3071</td>
+     <td class="cell">65.8</td>
+     <td class="cell">4059</td>
+     <td class="cell">86.1</td>
+    </tr>
+    <tr>
+     <td class="cell">8 or more</td>
+     <td class="cell">1594</td>
+     <td class="cell">34.2</td>
+     <td class="cell">653</td>
+     <td class="cell">13.9</td>
+    </tr>
+    <tr>
+     <td class="cell">Frequency of HED*</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="cell">1011</td>
+     <td class="cell">23.0</td>
+     <td class="cell">2056</td>
+     <td class="cell">48.0</td>
+    </tr>
+    <tr>
+     <td class="cell">Monthly or less</td>
+     <td class="cell">1269</td>
+     <td class="cell">28.9</td>
+     <td class="cell">1347</td>
+     <td class="cell">31.5</td>
+    </tr>
+    <tr>
+     <td class="cell">Monthly</td>
+     <td class="cell">619</td>
+     <td class="cell">14.1</td>
+     <td class="cell">366</td>
+     <td class="cell">8.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Weekly</td>
+     <td class="cell">1490</td>
+     <td class="cell">34.0</td>
+     <td class="cell">513</td>
+     <td class="cell">12.0</td>
+    </tr>
+    <tr>
+     <td class="cell">Smoking†</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never smoked</td>
+     <td class="cell">2020</td>
+     <td class="cell">44.9</td>
+     <td class="cell">2136</td>
+     <td class="cell">46.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Ex-smoker or occasional smoker</td>
+     <td class="cell">1400</td>
+     <td class="cell">31.1</td>
+     <td class="cell">1321</td>
+     <td class="cell">28.8</td>
+    </tr>
+    <tr>
+     <td class="cell">Current smoker</td>
+     <td class="cell">1076</td>
+     <td class="cell">23.9</td>
+     <td class="cell">1126</td>
+     <td class="cell">24.6</td>
+    </tr>
+    <tr>
+     <td class="cell">Years regular smoking 23–42, mean</td>
+     <td class="cell">4387</td>
+     <td class="cell">5.9 (0.12)</td>
+     <td class="cell">4647</td>
+     <td class="cell">5.7 (0.12)</td>
+    </tr>
+    <tr>
+     <td class="cell">(SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">BMI*</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&lt;25</td>
+     <td class="cell">1140</td>
+     <td class="cell">24.9</td>
+     <td class="cell">2027</td>
+     <td class="cell">43.8</td>
+    </tr>
+    <tr>
+     <td class="cell">25 or more</td>
+     <td class="cell">3445</td>
+     <td class="cell">75.2</td>
+     <td class="cell">2598</td>
+     <td class="cell">56.2</td>
+    </tr>
+    <tr>
+     <td class="cell">Waist/hip ratio*</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">&lt;0.90/0.85</td>
+     <td class="cell">1421</td>
+     <td class="cell">30.7</td>
+     <td class="cell">3496</td>
+     <td class="cell">74.9</td>
+    </tr>
+    <tr>
+     <td class="cell">≥0.85/0.90</td>
+     <td class="cell">3208</td>
+     <td class="cell">69.3</td>
+     <td class="cell">1174</td>
+     <td class="cell">25.1</td>
+    </tr>
+    <tr>
+     <td class="cell">Hours moderate/vigorous physical</td>
+     <td class="cell">2873</td>
+     <td class="cell">15.4 (16.5)</td>
+     <td class="cell">2953</td>
+     <td class="cell">9.4 (11.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">activity per week,* mean (SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Hours sedentary behaviour per</td>
+     <td class="cell">3632</td>
+     <td class="cell">44.2 (20.4)</td>
+     <td class="cell">3693</td>
+     <td class="cell">17.7</td>
+    </tr>
+    <tr>
+     <td class="cell">week,* mean (SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Index of poor health behaviours</td>
+     <td class="cell">2701</td>
+     <td class="cell">2.4 (1.1)</td>
+     <td class="cell">2652</td>
+     <td class="cell">1.7 (1.1)</td>
+    </tr>
+    <tr>
+     <td class="cell">(0–6), mean (SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2015-207051/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

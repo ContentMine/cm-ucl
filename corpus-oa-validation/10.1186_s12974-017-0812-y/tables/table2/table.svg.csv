@@ -1,0 +1,41 @@
+"",,"Detection limit (pg/ml) ","Intra-assay variation (%) ","Recovery percentage range (90–110%) "
+BCA1/CXCL13,Chemokine (C-X-C motif) ligand 13 (CXCL13) or,0.42–6694,6.0,100
+"",B lymphocyte chemoattractant (BLC) or,,,
+"",B cell-attracting chemokine 1 (BCA-1),,,
+SDF1αβ/CXCL12,C-X-C motif chemokine 12 (CXCL12) or stromal,"12.73–160,858",5.4,104
+"",cell-derived factor 1 (SDF1),,,
+6Ckine/CCL21,Chemokine (C-C motif) ligand 21,"11.30–160,686",4.0,104
+IP10/CXCL10,C-X-C motif chemokine 10 (CXCL10) or interferon,"1.04–14,668",1.5,95
+"",gamma-induced protein 10 (IP-10),,,
+BAFF/TNFSF13B,B cell activating factor (BAFF) or tumour necrosis,"70.19–197,936",6.3,100
+"",factor ligand superfamily member 13B (TNFSF13B),,,
+APRIL/TNFSF13,"A proliferation-inducing ligand (APRIL), or tumour","906.31–4,745,900",7.5,103
+"",necrosis factor ligand superfamily member 13 (TNFSF13),,,
+TWEAK/TNFSF12,TNF-related weak inducer of apoptosis (TWEAK) or tumour,3.59–6346,4.4,106
+"",necrosis factor ligand superfamily member 12,,,
+LIGTH/TNFSF14,Tumour necrosis factor superfamily member 14 (TNFSF14),1.92–4647,5.8,98
+TNFα,Tumour necrosis factor alpha,"0.24–13,148",2.5,99
+sTNFR1,Soluble- tumour necrosis factor-receptor 1,"2.33–48,047",5.0,100
+sTNFR2,Soluble- tumour necrosis factor-receptor 2,"3.72–63,484",4.2,98
+MIP3β/CCL19,Chemokine (C-C motif) ligand 19 (CCL19) or EBI1 ligand,"3.08–49,150",2.8,103
+"",chemokine (ELC) or macrophage inflammatory,,,
+"",protein-3-beta (MIP-3-beta),,,
+MIG/CXCL9,Chemokine (C-X-C motif) ligand 9 (CXCL9) or monokine,"1.19–23,643",5.4,97
+"",induced by gamma interferon (MIG),,,
+sCD163,Soluble-CD163 (Cluster of Differentiation 163),"0.38–10,497",6.0,102
+GM-CSF,Granulocyte-macrophage colony-stimulating factor,"2.32–34,028",5.2,104
+"",(GM-CSF) or colony-stimulating factor 2 (CSF2),,,
+INFα2,Interferon alpha-2,"1.24–19,334",5.3,99
+INFβ,Interferon beta,1.50–8727,6.0,100
+INFγ,Interferon gamma,1.50–2326,3.0,99
+IL1β,Interleukin-1 beta,0.15–2326,2.0,102
+IL2,Interleukin-2,"0.47–10,334",4.0,98
+IL4,Interleukin-4,0.35–5258,6.0,100
+IL6,Interleukin-6,"0.68–57,162",3.0,99
+IL8/CXCL8,Interleukin-8 (C-X-C motif) or chemokine,11.56–8523,1.0,103
+"","ligand 8, CXCL8)",,,
+IL10,Interleukin-10,0.84–2997,3.0,98
+OPN,Osteopontin,"123.64–286,066",7.3,100
+MMP1,Matrix metallopeptidase 1,"298.2–216,430",4.5,100
+MMP2,Matrix metallopeptidase 2,"90.63–2,109,030",3.3,104
+MIF,Macrophage migration inhibitor factor,"8.25–456,461",2.6,103

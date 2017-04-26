@@ -1,0 +1,636 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s00213-016-4519-z</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4519-z/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Study </th>
+     <th class="cell">SDLP PBO (SD) </th>
+     <th class="cell">SDLP ALC (SD) </th>
+     <th class="cell">ΔSDLP (95% CI) </th>
+     <th class="cell">F </th>
+     <th class="cell">p </th>
+     <th class="cell">Dunlap’s ES </th>
+     <th class="cell">Improved/ impaired </th>
+    </tr>
+    <tr>
+     <td class="cell">Ramaekers et al. 1992</td>
+     <td class="cell">All^{a}</td>
+     <td class="cell">20.2 (4.0)</td>
+     <td class="cell">23.2 (4.6)</td>
+     <td class="cell">3.0 (0.9–5.2)</td>
+     <td class="cell">8.9</td>
+     <td class="cell">&lt;0.01</td>
+     <td class="cell">0.69</td>
+     <td class="cell">00/08</td>
+    </tr>
+    <tr>
+     <td class="cell">Vermeeren and O’Hanlon 1998</td>
+     <td class="cell">All</td>
+     <td class="cell">21.9 (5.7)</td>
+     <td class="cell">25.5 (7.3)</td>
+     <td class="cell">3.6 (1.9–5.3)</td>
+     <td class="cell">19.0</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.52</td>
+     <td class="cell">02/15</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">22.2 (5.6)</td>
+     <td class="cell">25.3 (7.1)</td>
+     <td class="cell">3.1 (−0.3–6.4)</td>
+     <td class="cell">–</td>
+     <td class="cell">NS</td>
+     <td class="cell">0.47</td>
+     <td class="cell">02/06</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">21.6 (6.1)</td>
+     <td class="cell">25.8 (7.8)</td>
+     <td class="cell">4.1 (2.6–5.7)</td>
+     <td class="cell">34.5</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.42</td>
+     <td class="cell">00/09</td>
+    </tr>
+    <tr>
+     <td class="cell">Ramaekers et al. 2000</td>
+     <td class="cell">All^{a}</td>
+     <td class="cell">22.3 (4.8)</td>
+     <td class="cell">24.4 (3.4)</td>
+     <td class="cell">2.0 (0.5–3.5)</td>
+     <td class="cell">8.3</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.45</td>
+     <td class="cell">02/08</td>
+    </tr>
+    <tr>
+     <td class="cell">Vermeeren et al. 2002a</td>
+     <td class="cell">All</td>
+     <td class="cell">20.0 (3.6)</td>
+     <td class="cell">22.3 (3.9)</td>
+     <td class="cell">2.3 (1.5–3.1)</td>
+     <td class="cell">37.3</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.59</td>
+     <td class="cell">00/10</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">19.5 (4.4)</td>
+     <td class="cell">21.1 (4.4)</td>
+     <td class="cell">1.6 (0.4–2.9)</td>
+     <td class="cell">8.9</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.37</td>
+     <td class="cell">00/03</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">20.5 (2.8)</td>
+     <td class="cell">23.5 (3.3)</td>
+     <td class="cell">3.0 (1.9–4.0)</td>
+     <td class="cell">39.5</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.93</td>
+     <td class="cell">00/07</td>
+    </tr>
+    <tr>
+     <td class="cell">Vermeeren et al. 2002b</td>
+     <td class="cell">All</td>
+     <td class="cell">17.7 (3.0)</td>
+     <td class="cell">19.4 (3.7)</td>
+     <td class="cell">1.7 (0.7–2.6)</td>
+     <td class="cell">12.9</td>
+     <td class="cell">&lt;0.01</td>
+     <td class="cell">0.49</td>
+     <td class="cell">00/07</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">18.0 (3.2)</td>
+     <td class="cell">20.3 (4.2)</td>
+     <td class="cell">2.3 (0.3–4.2)</td>
+     <td class="cell">6.4</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.58</td>
+     <td class="cell">00/06</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">17.4 (2.7)</td>
+     <td class="cell">18.5 (2.8)</td>
+     <td class="cell">1.1 (0.6–1.5)</td>
+     <td class="cell">24.3</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.40</td>
+     <td class="cell">00/01</td>
+    </tr>
+    <tr>
+     <td class="cell">Kuypers et al. 2006</td>
+     <td class="cell">All</td>
+     <td class="cell">20.6 (3.9)</td>
+     <td class="cell">23.5 (4.0)</td>
+     <td class="cell">2.9 (1.2–4.5)</td>
+     <td class="cell">13.5</td>
+     <td class="cell">&lt;0.01</td>
+     <td class="cell">0.73</td>
+     <td class="cell">00/09</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">20.2 (3.9)</td>
+     <td class="cell">23.8 (3.8)</td>
+     <td class="cell">3.6 (1.1–6.0)</td>
+     <td class="cell">11.2</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.92</td>
+     <td class="cell">00/05</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">21.1 (4.0)</td>
+     <td class="cell">23.3 (4.4)</td>
+     <td class="cell">2.2 (−0.5–4.8)</td>
+     <td class="cell">–</td>
+     <td class="cell">NS</td>
+     <td class="cell">0.51</td>
+     <td class="cell">00/04</td>
+    </tr>
+    <tr>
+     <td class="cell">van der Sluiszen et al. 2016</td>
+     <td class="cell">All</td>
+     <td class="cell">17.0 (2.6)</td>
+     <td class="cell">19.4 (3.4)</td>
+     <td class="cell">2.5 (1.7–3.2)</td>
+     <td class="cell">46.7</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.72</td>
+     <td class="cell">00/12</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">17.2 (2.2)</td>
+     <td class="cell">18.9 (2.8)</td>
+     <td class="cell">1.7 (0.6–2.8)</td>
+     <td class="cell">11.5</td>
+     <td class="cell">&lt;0.01</td>
+     <td class="cell">0.63</td>
+     <td class="cell">00/03</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">16.8 (3.1)</td>
+     <td class="cell">20.0 (4.0)</td>
+     <td class="cell">3.2 (2.2–4.1)</td>
+     <td class="cell">50.3</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.79</td>
+     <td class="cell">00/09</td>
+    </tr>
+    <tr>
+     <td class="cell">Schumacher et al. 2011</td>
+     <td class="cell">All</td>
+     <td class="cell">18.3 (4.1)</td>
+     <td class="cell">20.7 (3.3)</td>
+     <td class="cell">2.4 (1.2–3.6)</td>
+     <td class="cell">18.4</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.61</td>
+     <td class="cell">00/10</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">18.5 (4.5)</td>
+     <td class="cell">20.5 (3.6)</td>
+     <td class="cell">2.0 (0.5–3.6)</td>
+     <td class="cell">8.1</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.47</td>
+     <td class="cell">00/06</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">17.9 (3.4)</td>
+     <td class="cell">21.3 (2.7)</td>
+     <td class="cell">3.4 (1.1–5.8)</td>
+     <td class="cell">16.4</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">1.06</td>
+     <td class="cell">00/04</td>
+    </tr>
+    <tr>
+     <td class="cell">Schumacher 2014</td>
+     <td class="cell">All</td>
+     <td class="cell">19.7 (3.3)</td>
+     <td class="cell">21.5 (3.2)</td>
+     <td class="cell">1.9 (0.6–3.2)</td>
+     <td class="cell">10.1</td>
+     <td class="cell">&lt;0.01</td>
+     <td class="cell">0.58</td>
+     <td class="cell">00/07</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male</td>
+     <td class="cell">19.2 (5.2)</td>
+     <td class="cell">22.0 (3.9)</td>
+     <td class="cell">2.8 (0.3–5.2)</td>
+     <td class="cell">8.0</td>
+     <td class="cell">&lt;0.05</td>
+     <td class="cell">0.52</td>
+     <td class="cell">00/03</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female</td>
+     <td class="cell">20.0 (1.6)</td>
+     <td class="cell">21.3 (2.9)</td>
+     <td class="cell">1.3 (−0.4–3.0)</td>
+     <td class="cell">–</td>
+     <td class="cell">NS</td>
+     <td class="cell">0.48</td>
+     <td class="cell">00/04</td>
+    </tr>
+    <tr>
+     <td class="cell">Total</td>
+     <td class="cell">All 182</td>
+     <td class="cell">19.6 (4.3)</td>
+     <td class="cell">22.1 (4.8)</td>
+     <td class="cell">2.5 (2.0–2.9)</td>
+     <td class="cell">132.8</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.54</td>
+     <td class="cell">04/86</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male 75^{b}</td>
+     <td class="cell">19.2 (4.3)</td>
+     <td class="cell">21.6 (4.8)</td>
+     <td class="cell">2.4 (1.7–3.1)</td>
+     <td class="cell">42.8</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.51</td>
+     <td class="cell">02/32^{b}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 73^{b}</td>
+     <td class="cell">19.2 (4.0)</td>
+     <td class="cell">21.7 (5.0)</td>
+     <td class="cell">2.5 (2.0–3.1)</td>
+     <td class="cell">93.1</td>
+     <td class="cell">&lt;0.001</td>
+     <td class="cell">0.51</td>
+     <td class="cell">00/38^{b}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4519-z/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-016-4519-z/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Study </th>
+     <th class="cell">Sample size </th>
+     <th class="cell">Age range (y) </th>
+     <th class="cell">Alcohol dosing </th>
+     <th class="cell">Time of dosing until start driving test </th>
+     <th class="cell">Time of testing </th>
+     <th class="cell">BAC start driving-BAC end driving (in g/L) </th>
+    </tr>
+    <tr>
+     <td class="cell">Ramaekers et al. 1992</td>
+     <td class="cell">All 16^{a}</td>
+     <td class="cell">22–35</td>
+     <td class="cell">0.72 g/kg</td>
+     <td class="cell">3 h</td>
+     <td class="cell">Noon</td>
+     <td class="cell">0.37–0.20</td>
+    </tr>
+    <tr>
+     <td class="cell">Vermeeren and</td>
+     <td class="cell">All 24</td>
+     <td class="cell">22–44</td>
+     <td class="cell">7 constant 5.6 g, a 10 g,</td>
+     <td class="cell">3 h</td>
+     <td class="cell">Noon</td>
+     <td class="cell">0.45–0.37</td>
+    </tr>
+    <tr>
+     <td class="cell">O’Hanlon 1998</td>
+     <td class="cell">Male 12</td>
+     <td class="empty" />
+     <td class="cell">and 2 adjustable doses</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 12_{a}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Ramaekers et al. 2000</td>
+     <td class="cell">All 18</td>
+     <td class="cell">20–28</td>
+     <td class="cell">0.60 g/kg</td>
+     <td class="cell">1.5 h</td>
+     <td class="cell">Evening</td>
+     <td class="cell">0.50–0.35</td>
+    </tr>
+    <tr>
+     <td class="cell">Vermeeren et al.</td>
+     <td class="cell">All 19</td>
+     <td class="cell">21–45</td>
+     <td class="cell">Males 0.43 g/kg</td>
+     <td class="cell">1 h</td>
+     <td class="cell">Morning</td>
+     <td class="cell">0.42–0.23</td>
+    </tr>
+    <tr>
+     <td class="cell">2002a</td>
+     <td class="cell">Male 9</td>
+     <td class="empty" />
+     <td class="cell">Females 0.36 g/kg</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 10</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Vermeeren et al.</td>
+     <td class="cell">All 30</td>
+     <td class="cell">21–45</td>
+     <td class="cell">Males 0.43 g/kg</td>
+     <td class="cell">2.15 h</td>
+     <td class="cell">Noon</td>
+     <td class="cell">0.37–0.24</td>
+    </tr>
+    <tr>
+     <td class="cell">2002b</td>
+     <td class="cell">Male15</td>
+     <td class="empty" />
+     <td class="cell">Females 0.36 g/kg</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 15</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Kuypers et al. 2006</td>
+     <td class="cell">All 18</td>
+     <td class="cell">20–37</td>
+     <td class="cell">0.70 g/kg</td>
+     <td class="cell">2 h</td>
+     <td class="cell">Noon</td>
+     <td class="cell">0.37–0.29</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male 9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">van der Sluiszen</td>
+     <td class="cell">All 25</td>
+     <td class="cell">21–45</td>
+     <td class="cell">Males 3 doses</td>
+     <td class="cell">1 h</td>
+     <td class="cell">Noon</td>
+     <td class="cell">0.45–0.30</td>
+    </tr>
+    <tr>
+     <td class="cell">et al. 2016</td>
+     <td class="cell">Male 12</td>
+     <td class="empty" />
+     <td class="cell">(0.23, 0.14, 0.14 g/kg)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 13</td>
+     <td class="empty" />
+     <td class="cell">Females 3 doses</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(0.21, 0.13, 0.13 g/kg)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Schumacher et al.</td>
+     <td class="cell">All 17</td>
+     <td class="cell">23–58</td>
+     <td class="cell">Males 3 doses</td>
+     <td class="cell">1 h</td>
+     <td class="cell">Morning</td>
+     <td class="cell">0.49–0.39</td>
+    </tr>
+    <tr>
+     <td class="cell">2011</td>
+     <td class="cell">Male 12</td>
+     <td class="empty" />
+     <td class="cell">(0.23, 0.14, 0.14 g/kg)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 5</td>
+     <td class="empty" />
+     <td class="cell">Females 3 doses</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(0.21, 0.13, 0.13 g/kg)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Schumacher 2014</td>
+     <td class="cell">All 15</td>
+     <td class="cell">23–59</td>
+     <td class="cell">Males 3 doses</td>
+     <td class="cell">1 h</td>
+     <td class="cell">Morning</td>
+     <td class="cell">0.50–0.35</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Male 6</td>
+     <td class="empty" />
+     <td class="cell">(0.23, 0.14, 0.14 g/kg)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Female 9</td>
+     <td class="empty" />
+     <td class="cell">Females 3 doses</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">(0.21, 0.13, 0.13 g/kg)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-016-4519-z/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

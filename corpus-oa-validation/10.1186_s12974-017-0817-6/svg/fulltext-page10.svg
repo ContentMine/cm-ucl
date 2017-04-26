@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
+ <defs id="defs1">
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M137.82 247.562 L137.82 256.349 L146.607 256.349 L146.607 247.562 Z"/>
+  </clipPath>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 790.0 L0.0 790.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M56.693 662.328 L56.693 697.477 L290.551 697.477 L290.551 662.328 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M484.271 110.762 L484.271 132.589 L538.583 132.589 L538.583 110.762 Z"/>
+  </clipPath>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M56.693 709.213 L56.693 730.076 L166.224 730.076 L166.224 709.213 Z"/>
+  </clipPath>
+ </defs>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M60.718 87.745 L534.557 87.745 L534.557 87.972 L60.718 87.972 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M60.718 87.745 L534.557 87.745 L534.557 87.972 L60.718 87.972 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M534.557 87.745 L535.294 87.802 C536.852 87.974 538.334 89.514 538.526 91.033 L538.582 91.713 L538.355 91.713 L538.299 91.09 C538.084 89.611 536.751 88.253 535.237 88.028 L534.557 87.972 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M534.557 87.745 L535.294 87.802 C536.852 87.974 538.334 89.514 538.526 91.033 L538.582 91.713 L538.355 91.713 L538.299 91.09 C538.084 89.611 536.751 88.253 535.237 88.028 L534.557 87.972 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M538.583 91.714 L538.583 584.035 L538.356 584.035 L538.356 91.714 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M538.583 91.714 L538.583 584.035 L538.356 584.035 L538.356 91.714 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M538.583 584.035 L538.526 584.715 C538.237 586.452 536.965 587.59 535.295 588.004 L534.558 588.06 L534.558 587.777 L535.238 587.72 C536.812 587.43 537.986 586.282 538.3 584.715 L538.356 584.035 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M538.583 584.035 L538.526 584.715 C538.237 586.452 536.965 587.59 535.295 588.004 L534.558 588.06 L534.558 587.777 L535.238 587.72 C536.812 587.43 537.986 586.282 538.3 584.715 L538.356 584.035 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M534.557 588.06 L60.718 588.06 L60.718 587.777 L534.557 587.777 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M534.557 588.06 L60.718 588.06 L60.718 587.777 L534.557 587.777 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M60.718 588.06 L59.981 588.003 C58.31 587.59 57.039 586.452 56.749 584.715 L56.693 584.035 L56.92 584.035 L56.976 584.715 C57.29 586.282 58.463 587.43 60.038 587.72 L60.718 587.777 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M60.718 588.06 L59.981 588.003 C58.31 587.59 57.039 586.452 56.749 584.715 L56.693 584.035 L56.92 584.035 L56.976 584.715 C57.29 586.282 58.463 587.43 60.038 587.72 L60.718 587.777 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M56.693 584.035 L56.693 91.714 L56.92 91.714 L56.92 584.035 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M56.693 584.035 L56.693 91.714 L56.92 91.714 L56.92 584.035 "/>
+ <path stroke="black" clip-path="url(#clipPath1)" fill="#131313" stroke-width="0.0" d="M56.693 91.714 L56.75 91.034 C56.941 89.514 58.423 87.975 59.981 87.802 L60.718 87.746 L60.718 87.972 L60.038 88.029 C58.524 88.253 57.192 89.611 56.976 91.09 L56.92 91.714 "/>
+ <path fill="none" clip-path="url(#clipPath1)" stroke="#131313" stroke-width="0.0" d="M56.693 91.714 L56.75 91.034 C56.941 89.514 58.423 87.975 59.981 87.802 L60.718 87.746 L60.718 87.972 L60.038 88.029 C58.524 88.253 57.192 89.611 56.976 91.09 L56.92 91.714 "/>
+ <image transform="matrix(0.23995075318683945,-0.0,-0.0,0.23995159166037006,63.83599853515625,93.98098754882812)" xlink:href="fulltext.p10.i1.png" x="0.0" y="0.0" width="1949.0" height="1983.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICBE+TxtpxxAdvTT99c4c969" svgx:width="500.0" x="62.702" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">F</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICBE+TxtpxxAdvTT99c4c969" svgx:width="250.0" x="66.702" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICBE+TxtpxxAdvTT99c4c969" svgx:width="572.0" x="68.702" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICBE+TxtpxxAdvTT99c4c969" svgx:width="229.0" x="73.278" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICBE+TxtpxxAdvTT99c4c969" svgx:width="531.0" x="77.438" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">3</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="260.0" x="84.134" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">(</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="458.0" x="86.214" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">S</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="479.0" x="89.878" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="479.0" x="93.71" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="208.0" x="99.894" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="479.0" x="101.558" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="541.0" x="105.39" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="479.0" x="109.718" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="531.0" x="113.55" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="541.0" x="117.798" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="531.0" x="124.438" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="531.0" x="128.685" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="531.0" x="135.325" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="479.0" x="139.573" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="427.0" x="143.405" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">x</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="302.0" x="146.821" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="541.0" x="151.597" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="447.0" x="155.925" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="541.0" x="159.501" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="479.0" x="163.829" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="166.0" x="167.661" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBNE+GcrjcjAdvTTb5929f4c" svgx:width="260.0" x="168.989" y="581.767" font-size="8.0" font-family="Helvetica" font-weight="normal">)</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="489.0" x="56.694" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="552.0" x="60.606" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">h</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="541.0" x="65.022" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="833.0" x="69.35" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="479.0" x="76.014" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="395.0" x="79.846" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="447.0" x="85.326" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="312.0" x="88.902" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="93.83" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="218.0" x="97.99" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="208.0" x="99.734" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="354.0" x="103.75" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">J</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="106.582" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="110.742" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="312.0" x="114.902" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="531.0" x="117.398" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="121.646" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="218.0" x="125.806" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="129.941" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="281.0" x="134.101" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">f</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="625.0" x="138.725" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">N</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="447.0" x="143.725" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="147.301" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="312.0" x="151.461" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="153.957" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="218.0" x="158.117" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="531.0" x="159.861" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="281.0" x="164.109" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">f</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="218.0" x="166.277" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="168.021" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="802.0" x="172.181" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">m</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="802.0" x="178.597" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">m</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="185.013" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="312.0" x="189.173" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="218.0" x="191.669" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="520.0" x="193.413" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPICMC+XvldbtAdvTT7329fd89.I" svgx:width="531.0" x="197.573" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="212.0" x="204.157" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal"> </text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="284.0" x="205.853" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">(</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="208.124" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="212.228" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">0</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="216.332" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="220.436" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">7</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="284.0" x="224.54" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">)</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="212.0" x="226.812" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal"> </text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="228.508" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="232.612" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">4</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="207.0" x="236.716" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">:</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="238.372" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">4</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="513.0" x="242.476" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="MyriadPro-Regular" svgx:width="212.0" x="246.58" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal"> </text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="531.0" x="491.985" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">P</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="479.0" x="496.233" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="552.0" x="500.065" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="500.0" x="504.481" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="510.0" x="510.865" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="510.0" x="514.945" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">0</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="541.0" x="521.409" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="291.0" x="525.737" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="510.0" x="530.424" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#131313" clip-path="url(#clipPath1)" svgx:fontName="OPIBND+WvrxpkAdvTTe45e47d2" svgx:width="510.0" x="534.504" y="38.142" font-size="8.0" font-family="Helvetica" font-weight="normal">3</text>
+</svg>

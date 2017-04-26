@@ -1,0 +1,8 @@
+"Variable ","Crude ","Adjusted "
+Household food security status (categorical),,
+Full food security,0.00 (ref),0.00 (ref)
+Marginal food security,"1.80 (–1.32, 4.91)","1.16 (–1.96, 4.28)"
+Low food security,"1.19 (–1.45, 3.83)","0.76 (–1.84, 3.35)"
+Very low food security,"–0.65 (–4.19, 2.89)","–0.58 (–4.22, 3.05)"
+Household food security status (continuous),"0.06 (–0.90, 1.03)","0.00 (–0.98, 0.98)"
+"p, trend",0.900,0.997

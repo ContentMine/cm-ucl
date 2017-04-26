@@ -1,0 +1,209 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1007_s00213-017-4564-2</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-017-4564-2/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">testified responses (and 95% confidence intervals) for correct (out of 10), incorrect (out of 10) and misled (out of 5) responses </th>
+     <th class="cell">Proportion testified </th>
+     <th class="cell">Alcohol </th>
+     <th class="cell">Control </th>
+     <th class="cell">Reverse Placebo </th>
+    </tr>
+    <tr>
+     <td class="cell">for each condition (alcohol,</td>
+     <td class="cell">Correct responses</td>
+     <td class="cell">.49 [.416, .561]</td>
+     <td class="cell">.50 [.427, .573]</td>
+     <td class="cell">.50 [.432, .575]</td>
+    </tr>
+    <tr>
+     <td class="cell">control and reverse placebo)</td>
+     <td class="cell">Incorrect responses</td>
+     <td class="cell">.10 [.061, .146]</td>
+     <td class="cell">.04 [.002, .087]</td>
+     <td class="cell">.09 [.051, .135]</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Misled responses</td>
+     <td class="cell">.30 [.213, .380]^{a}</td>
+     <td class="cell">.50 [.420, .587]^{ab}</td>
+     <td class="cell">.27 [.189, .353]^{b}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-017-4564-2/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-017-4564-2/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">intervals) of confidence ratings to correct, incorrect and misled responses for each condition (alcohol, control and reverse </th>
+     <th class="cell">Confidence % </th>
+     <th class="cell">Alcohol </th>
+     <th class="cell">_{a} </th>
+     <th class="cell">Control </th>
+     <th class="cell">b </th>
+     <th class="cell">Reverse placebo </th>
+     <th class="cell">c </th>
+    </tr>
+    <tr>
+     <td class="cell">placebo)</td>
+     <td class="cell">Correct responses</td>
+     <td class="cell">74.30 [66.61, 81.98]</td>
+     <td class="cell">70.64 [62.63, 78.66]</td>
+     <td class="cell">73.20 [64.81, 81.58]</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Incorrect responses</td>
+     <td class="cell">33.80 [23.43, 44.16]^{a}</td>
+     <td class="cell">37.25 [26.44, 48.05]^{b}</td>
+     <td class="cell">39.56 [27.79, 50.41]^{c}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Misled responses</td>
+     <td class="cell">57.13 [48.76, 65.51]^{a}</td>
+     <td class="cell">65.14 [56.41, 73.87]^{b}</td>
+     <td class="cell">69.29 [60.15, 78.42]^{c}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Testified responses</td>
+     <td class="cell">78.41 [72.36, 84.47]^{d}</td>
+     <td class="cell">79.19 [73.25, 85.13]^{e}</td>
+     <td class="cell">80.86 [74.93, 86.80]^{f}</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">Withheld responses</td>
+     <td class="cell">35.85 [28.92, 42.78]^{d}</td>
+     <td class="cell">39.99 [33.19, 46.79]^{e}</td>
+     <td class="cell">38.07 [31.27, 44.87]^{f}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-017-4564-2/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1007_s00213-017-4564-2/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Item </th>
+     <th class="cell">Control </th>
+     <th class="cell">Misleading </th>
+     <th class="cell">Control </th>
+     <th class="cell">Misleading </th>
+     <th class="cell">Control </th>
+     <th class="cell">Misleading </th>
+    </tr>
+    <tr>
+     <td class="cell">Correct responses</td>
+     <td class="cell">.52 [.422, .615]^{a}</td>
+     <td class="cell">.46 [.360, .558]^{a}</td>
+     <td class="cell">.60 [.503, .697]^{b}</td>
+     <td class="cell">.40 [.301, .499]^{b}</td>
+     <td class="cell">.54 [.448, .638]^{c}</td>
+     <td class="cell">.46 [.367, .561]^{c}</td>
+    </tr>
+    <tr>
+     <td class="cell">Misled responses</td>
+     <td class="cell">.20 [.134, .266]</td>
+     <td class="cell">.30 [.213, .380]^{d}</td>
+     <td class="cell">.13 [.067, .199]</td>
+     <td class="cell">.50 [.420, .587]^{de}</td>
+     <td class="cell">.17 [.114, .243]</td>
+     <td class="cell">.27 [.189, .353]^{e}</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1007_s00213-017-4564-2/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

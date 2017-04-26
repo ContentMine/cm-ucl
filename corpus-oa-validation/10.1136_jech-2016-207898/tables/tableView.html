@@ -1,0 +1,1320 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1136_jech-2016-207898</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-207898/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">B </th>
+     <th class="cell">SE </th>
+     <th class="cell">B </th>
+     <th class="cell">SE </th>
+     <th class="cell">B </th>
+     <th class="cell">SE </th>
+     <th class="cell">B </th>
+     <th class="cell">SE </th>
+     <th class="cell">B </th>
+     <th class="cell">SE </th>
+    </tr>
+    <tr>
+     <td class="cell">Scout/guide</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="cell">2.68***</td>
+     <td class="cell">(0.45)</td>
+     <td class="cell">2.22***</td>
+     <td class="cell">(0.45)</td>
+     <td class="cell">2.28***</td>
+     <td class="cell">(0.46)</td>
+     <td class="cell">2.38***</td>
+     <td class="cell">(0.62)</td>
+     <td class="cell">2.08***</td>
+     <td class="cell">(0.62)</td>
+    </tr>
+    <tr>
+     <td class="cell">Government Office Region participation (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.015</td>
+     <td class="cell">(0.039)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Not scout/guide by GOR</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Scout/guide by GOR</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">−0.065</td>
+     <td class="cell">(0.066)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Voluntary group</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">−1.98**</td>
+     <td class="cell">(0.76)</td>
+     <td class="cell">−1.99**</td>
+     <td class="cell">(0.76)</td>
+     <td class="cell">−3.31**</td>
+     <td class="cell">(1.24)</td>
+     <td class="cell">−1.22</td>
+     <td class="cell">(0.97)</td>
+    </tr>
+    <tr>
+     <td class="cell">Current</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.97</td>
+     <td class="cell">(0.96)</td>
+     <td class="cell">0.95</td>
+     <td class="cell">(0.96)</td>
+     <td class="cell">0.89</td>
+     <td class="cell">(1.47)</td>
+     <td class="cell">1.04</td>
+     <td class="cell">(1.28)</td>
+    </tr>
+    <tr>
+     <td class="cell">Church group</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">−0.60</td>
+     <td class="cell">(0.74)</td>
+     <td class="cell">−0.59</td>
+     <td class="cell">(0.74)</td>
+     <td class="cell">−1.06</td>
+     <td class="cell">(1.13)</td>
+     <td class="cell">−0.21</td>
+     <td class="cell">(1.00)</td>
+    </tr>
+    <tr>
+     <td class="cell">Current</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">−0.18</td>
+     <td class="cell">(0.70)</td>
+     <td class="cell">−0.16</td>
+     <td class="cell">(0.70)</td>
+     <td class="cell">−0.18</td>
+     <td class="cell">(1.11)</td>
+     <td class="cell">−0.12</td>
+     <td class="cell">(0.91)</td>
+    </tr>
+    <tr>
+     <td class="cell">Constant</td>
+     <td class="cell">74.0***</td>
+     <td class="cell">(0.23)</td>
+     <td class="cell">68.4***</td>
+     <td class="cell">(1.61)</td>
+     <td class="cell">68.4***</td>
+     <td class="cell">(1.62)</td>
+     <td class="cell">71.7***</td>
+     <td class="cell">(2.83)</td>
+     <td class="cell">66.8***</td>
+     <td class="cell">(2.14)</td>
+    </tr>
+    <tr>
+     <td class="cell">Observations</td>
+     <td class="cell">9603</td>
+     <td class="empty" />
+     <td class="cell">9603</td>
+     <td class="empty" />
+     <td class="cell">9603</td>
+     <td class="empty" />
+     <td class="cell">4733</td>
+     <td class="empty" />
+     <td class="cell">4870</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">R^{2}</td>
+     <td class="cell">0.004</td>
+     <td class="empty" />
+     <td class="cell">0.03</td>
+     <td class="empty" />
+     <td class="cell">0.03</td>
+     <td class="empty" />
+     <td class="cell">0.03</td>
+     <td class="empty" />
+     <td class="cell">0.03</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-207898/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-207898/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Model 4 OR </th>
+     <th class="cell">95% CI </th>
+    </tr>
+    <tr>
+     <td class="cell">Scout/guide</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="cell">1.00</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="cell">0.82***</td>
+     <td class="cell">(0.74 to 0.92)</td>
+    </tr>
+    <tr>
+     <td class="cell">Voluntary group</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="cell">1.00</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="cell">1.27**</td>
+     <td class="cell">(1.06 to 1.52)</td>
+    </tr>
+    <tr>
+     <td class="cell">Current</td>
+     <td class="cell">1.00</td>
+     <td class="cell">(0.78 to 1.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">Church group</td>
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="cell">1.00</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="cell">1.03</td>
+     <td class="cell">(0.86 to 1.23)</td>
+    </tr>
+    <tr>
+     <td class="cell">Current</td>
+     <td class="cell">0.99</td>
+     <td class="cell">(0.83 to 1.18)</td>
+    </tr>
+    <tr>
+     <td class="cell">Observations</td>
+     <td class="cell">9603</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-207898/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1136_jech-2016-207898/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Never % (Col.) </th>
+     <th class="cell">Previous % (Col.) </th>
+     <th class="cell">Total % (Col.) </th>
+     <th class="cell">Test for difference in proportion p value </th>
+    </tr>
+    <tr>
+     <td class="cell">Scout/guide participation</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="empty" />
+     <td class="cell">72.4</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="empty" />
+     <td class="cell">27.6</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Voluntary group participation</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">90.6</td>
+     <td class="cell">83.3</td>
+     <td class="cell">88.6</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.5</td>
+     <td class="cell">11.6</td>
+     <td class="cell">7.2</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Current</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">3.9</td>
+     <td class="cell">5.1</td>
+     <td class="cell">4.2</td>
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Church participation</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Never</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">87.3</td>
+     <td class="cell">73.9</td>
+     <td class="cell">83.6</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Previous</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.4</td>
+     <td class="cell">14.5</td>
+     <td class="cell">7.9</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Current</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.3</td>
+     <td class="cell">11.6</td>
+     <td class="cell">8.5</td>
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Sex</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">50.3</td>
+     <td class="cell">51.7</td>
+     <td class="cell">50.7</td>
+     <td class="cell">0.24</td>
+    </tr>
+    <tr>
+     <td class="cell">Male</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">49.7</td>
+     <td class="cell">48.3</td>
+     <td class="cell">49.3</td>
+     <td class="cell">0.24</td>
+    </tr>
+    <tr>
+     <td class="cell">RGSC: Social class of Mother’s Husband (GRO 1951)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Social class I</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">4.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Social class II</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">12.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">17.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">14.1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Social class III</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">11.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">10.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">non-manual</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Social class III</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">50.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">49.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">50.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.57</td>
+    </tr>
+    <tr>
+     <td class="cell">manual</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Social class IV</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">12.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">11.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Social class V</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">8.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Family difficulties— mental illness (1965)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">No</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">89.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">90.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">89.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.13</td>
+    </tr>
+    <tr>
+     <td class="cell">Do not know</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">8.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.12</td>
+    </tr>
+    <tr>
+     <td class="cell">Yes</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.71</td>
+    </tr>
+    <tr>
+     <td class="cell">Parental hopes child’s school leaving (1969)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Leave min age</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.3</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">2.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">4.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Stay on longer</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">74.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">84.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">77.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Do not know yet</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">20.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">13.3</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">18.1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Pupil goes to clubs outside school (1969)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Most days</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">19.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">43.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">26.3</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Sometimes</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">21.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">28.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">23.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Hardly ever</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">58.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">28.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">50.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Government Office Region at age 16</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">North</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">North West</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">11.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">12.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">11.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.24</td>
+    </tr>
+    <tr>
+     <td class="cell">East and West</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">8.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Riding of Yorkshire</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">North Midlands</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.29</td>
+    </tr>
+    <tr>
+     <td class="cell">Midlands</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">10.1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">8.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">East</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">8.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">9.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.30</td>
+    </tr>
+    <tr>
+     <td class="cell">South East</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">17.1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">18.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">17.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.08</td>
+    </tr>
+    <tr>
+     <td class="cell">South</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.3</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.16</td>
+    </tr>
+    <tr>
+     <td class="cell">South West</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.7</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.64</td>
+    </tr>
+    <tr>
+     <td class="cell">Wales</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">6.3</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">3.8</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">5.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Scotland</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">7.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">15.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">10.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">How often plays outdoor games and sport (1974)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Often</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">36.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">39.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">37.4</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">Sometimes</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">35.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">35.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">35.9</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.98</td>
+    </tr>
+    <tr>
+     <td class="cell">Hardly ever</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">24.5</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">21.2</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">23.6</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt;0.01</td>
+    </tr>
+    <tr>
+     <td class="cell">No chance</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">3.1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">3.0</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">3.1</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.77</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1136_jech-2016-207898/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

@@ -1,0 +1,16 @@
+"Studied parameters ","KGNOP1 ","KGOP1 ","KGNOP3 ","Morphine ","Tramadol "
+Cold hyperalgesia,,,
+ED_{50},,,
+", mmol/kg",0.0031 (49.7),0.29 (9),12.1 (16.6)
+"E , %_{0}","char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi
+19.48 (10.1)","char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi
+20.1 (20.7)","char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi
+26.4 (21.6)"
+E_{max},,,
+", %","char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi
+92.52 (2)","char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi
+76 (5.1)","char: 50; name: two; f: AdvPS586B; fn: KLDBPB+AdvPS586B; e: WinAnsi
+92 (5.6)"
+g,1.12 (31),10*,6.1 (45.8)
+T_{max},,,
+", min",5,5,5

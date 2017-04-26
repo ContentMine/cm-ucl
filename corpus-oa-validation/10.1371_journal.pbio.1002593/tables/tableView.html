@@ -1,0 +1,102 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1371_journal.pbio.1002593</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1371_journal.pbio.1002593/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">^{1 Classification accuracy.} ^{2 Number of days with fNIRS classification accuracy above chance-level threshold.} ^{3 Total number of days in which training or feedback and open question sessions were performed.} ^{4 Percentage of days for which fNIRS classification accuracy was above chance-level threshold.} ^{5 Number of delivered sentences with fNIRS classification accuracy above chance-level threshold.} ^{6 Total number of sentences delivered during training or feedback and open question sessions.} ^{7 Percentage of sentences for which fNIRS classification accuracy was above chance-level threshold.} ^{8 Maximum chance level threshold (or chance-level upper limit).} ^{9 Mean fNIRS classification accuracy of sessions above chance-level threshold.} ^{10 fNIRS classification accuracy standard deviation of sessions above chance-level threshold.} * FB: Feedback session during which participant received feedback for known questions. ++OQ: Open question session during which participant received feedback for open questions. </th>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1371_journal.pbio.1002593/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1371_journal.pbio.1002593/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Table 1 data is located at: https://doi.org/10.5281/zenodo.192386; https://doi.org/10.5281/zenodo.192388; https://doi.org/10.5281/zenodo.192390; https:// </th>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1371_journal.pbio.1002593/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

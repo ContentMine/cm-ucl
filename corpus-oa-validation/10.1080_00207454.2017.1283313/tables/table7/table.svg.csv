@@ -1,0 +1,6 @@
+"Measure ","Estimated difference in change in raw volume ","p Value ","Estimated difference in change in fractional volume (95% CI) ","p Value "
+Thalamus,¡0.025,0.959,¡0.00012,0.658
+Caudate,¡0.052,0.639,¡0.00009,0.458
+Putamen,0.581,0.240,0.00045,0.247
+Globus pallidus,¡0.082,0.617,¡0.00009,0.383
+Deep gray matter,0.422,0.676,0.00013,0.837

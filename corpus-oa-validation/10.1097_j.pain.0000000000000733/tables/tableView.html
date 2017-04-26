@@ -1,0 +1,776 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1097_j.pain.0000000000000733</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Single-region consulters </th>
+     <th class="cell">Recurrent regional pain consultation </th>
+     <th class="cell">ACR-1990 baseline and 3 years </th>
+    </tr>
+    <tr>
+     <td class="cell">Number</td>
+     <td class="cell">1979</td>
+     <td class="cell">1786</td>
+     <td class="cell">1190</td>
+    </tr>
+    <tr>
+     <td class="cell">Mean age (SD)</td>
+     <td class="cell">64 (9)</td>
+     <td class="cell">65 (9)</td>
+     <td class="cell">64 (9)</td>
+    </tr>
+    <tr>
+     <td class="cell">Female, number (%)</td>
+     <td class="cell">959 (48)</td>
+     <td class="cell">1084 (61)</td>
+     <td class="cell">758 (64)</td>
+    </tr>
+    <tr>
+     <td class="cell">Consultation-based health</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean somatic symptom count (SD)</td>
+     <td class="cell">1.24 (1.41)</td>
+     <td class="cell">2.66 (2.10)</td>
+     <td class="cell">2.21 (1.99)</td>
+    </tr>
+    <tr>
+     <td class="cell">One or more recorded somatic symptoms (%)</td>
+     <td class="cell">1258 (64)</td>
+     <td class="cell">1567 (88)</td>
+     <td class="cell">963 (81)</td>
+    </tr>
+    <tr>
+     <td class="cell">Mean nonmusculoskeletal consultation</td>
+     <td class="cell">27 (20)</td>
+     <td class="cell">44 (27)</td>
+     <td class="cell">39 (25)</td>
+    </tr>
+    <tr>
+     <td class="cell">count (SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean musculoskeletal consultation</td>
+     <td class="cell">2 (2)</td>
+     <td class="cell">12 (8)</td>
+     <td class="cell">8 (9)</td>
+    </tr>
+    <tr>
+     <td class="cell">count (SD)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Frequent attenders (nonmusculoskeletal</td>
+     <td class="cell">101 (5)</td>
+     <td class="cell">405 (23)</td>
+     <td class="cell">209 (18)</td>
+    </tr>
+    <tr>
+     <td class="cell">consultations); number (%)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Self-reported mental and physical health*</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean (SD) SF-12 physical component summary</td>
+     <td class="cell">44.5 (11.7)</td>
+     <td class="cell">36.8 (11.8)</td>
+     <td class="cell">31.7 (10.6)</td>
+    </tr>
+    <tr>
+     <td class="cell">(0 worst health–100 best health)†</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean (SD) anxiety score (0 best health–21 worst</td>
+     <td class="cell">6.1 (4.0)</td>
+     <td class="cell">7.5 (4.1)</td>
+     <td class="cell">8.5 (4.4)</td>
+    </tr>
+    <tr>
+     <td class="cell">health)‡</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean (SD) depression score (0 best health–21</td>
+     <td class="cell">3.9 (3.3)</td>
+     <td class="cell">5.2 (3.5)</td>
+     <td class="cell">6.4 (3.8)</td>
+    </tr>
+    <tr>
+     <td class="cell">worst health)‡</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Mean (SD) cognitive impairment score</td>
+     <td class="cell">10.9 (19.9)</td>
+     <td class="cell">16.1 (22.8)</td>
+     <td class="cell">21.7 (25.8)</td>
+    </tr>
+    <tr>
+     <td class="cell">(0 best health–100 worst health)§</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Number (%) reporting sleep problems on most</td>
+     <td class="cell">683 (35)</td>
+     <td class="cell">818 (46)</td>
+     <td class="cell">710 (60)</td>
+    </tr>
+    <tr>
+     <td class="cell">nights‖</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th class="cell">Number (%)/mean (SD) </th>
+     <th class="cell">Effect estimate (95% CI) </th>
+     <th class="cell">Type of effect estimate </th>
+    </tr>
+    <tr>
+     <td class="cell">Consultation-based</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Frequent attendance*</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter and</td>
+     <td class="cell">121 (27)</td>
+     <td class="cell">7.07 (5.21 to 9.58)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter not</td>
+     <td class="cell">284 (21)</td>
+     <td class="cell">4.99 (3.87 to 6.43)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain not recurrent</td>
+     <td class="cell">88 (12)</td>
+     <td class="cell">2.55 (1.86 to 3.48)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">regional pain consulter</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Single-region consulters not persistent</td>
+     <td class="cell">87 (5)</td>
+     <td class="cell">Reference</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">self-reported widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(reference)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">One or more somatic symptoms‡</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter and</td>
+     <td class="cell">396 (89)</td>
+     <td class="cell">4.73 (3.45 to 6.47)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter not</td>
+     <td class="cell">1171 (87)</td>
+     <td class="cell">4.03 (3.34 to 4.86)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain not recurrent</td>
+     <td class="cell">567 (76)</td>
+     <td class="cell">1.89 (1.55 to 2.30)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">regional pain consulter</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Single-region consulters not persistent</td>
+     <td class="cell">1111 (62)</td>
+     <td class="cell">Reference</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">self-reported widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(reference)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Self-reported</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Reporting of sleep problems on most nights§</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter and</td>
+     <td class="cell">269 (60)</td>
+     <td class="cell">3.07 (2.47 to 3.81)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter not</td>
+     <td class="cell">549 (41)</td>
+     <td class="cell">1.42 (1.22 to 1.64)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain not recurrent</td>
+     <td class="cell">441 (59)</td>
+     <td class="cell">2.97 (2.48 to 3.54)</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">regional pain consulter</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Single-region consulters not persistent</td>
+     <td class="cell">573 (32)</td>
+     <td class="cell">Reference</td>
+     <td class="cell">Odds ratio†</td>
+    </tr>
+    <tr>
+     <td class="cell">self-reported widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(reference)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">SF-12 physical component summary‖</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter and</td>
+     <td class="cell">30.3 (9.5)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 15.53 (❾ char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 16.72 to char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 14.34)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter not</td>
+     <td class="cell">39.0 (11.7)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 6.42 (❾ char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 7.23 to char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 5.61)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain not recurrent</td>
+     <td class="cell">32.6 (11.1)</td>
+     <td class="cell">char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 13.18 (❾ char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 14.15 to char: 50; name: two; f: AdvPS586B; fn: KKCEJH+AdvPS586B; e: WinAnsi 12.21)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">regional pain consulter</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Single-region consulters not persistent</td>
+     <td class="cell">45.7 (11.1)</td>
+     <td class="cell">Reference</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">self-reported widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(reference)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">HADS anxiety score#</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter and</td>
+     <td class="cell">8.8 (4.2)</td>
+     <td class="cell">2.72 (2.30 to 3.15)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter not</td>
+     <td class="cell">7.0 (4.0)</td>
+     <td class="cell">1.07 (0.78 to 1.36)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain not recurrent</td>
+     <td class="cell">8.4 (4.4)</td>
+     <td class="cell">2.34 (1.99 to 2.69)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">regional pain consulter</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Single-region consulters not persistent</td>
+     <td class="cell">5.9 (3.9)</td>
+     <td class="cell">reference</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">self-reported widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(reference)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">HADS depression score#</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter and</td>
+     <td class="cell">6.6 (3.6)</td>
+     <td class="cell">2.95 (2.60 to 3.31)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Recurrent regional pain consulter not</td>
+     <td class="cell">4.7 (3.3)</td>
+     <td class="cell">1.00 (0.75 to 1.24)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">persistent widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain not recurrent</td>
+     <td class="cell">6.3 (4.0)</td>
+     <td class="cell">2.65 (2.36 to 2.94)</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">regional pain consulter</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Single-region consulters not persistent</td>
+     <td class="cell">3.7 (3.1)</td>
+     <td class="cell">reference</td>
+     <td class="cell">Mean difference{</td>
+    </tr>
+    <tr>
+     <td class="cell">self-reported widespread pain</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">(reference)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th />
+     <th />
+     <th />
+     <th />
+     <th class="cell">Self-reported pain </th>
+     <th class="cell">No recorded musculoskeletal pain </th>
+     <th class="cell">Single-region musculoskeletal pain </th>
+     <th class="cell">Other musculoskeletal consultations </th>
+     <th class="cell">Recurrent regional pain consulters </th>
+     <th class="cell">Total </th>
+    </tr>
+    <tr>
+     <td class="cell">No self-reported pain</td>
+     <td class="cell">532</td>
+     <td class="cell">44.0%</td>
+     <td class="cell">331</td>
+     <td class="cell">27.4%</td>
+     <td class="cell">288</td>
+     <td class="cell">23.8%</td>
+     <td class="cell">59</td>
+     <td class="cell">4.9%</td>
+     <td class="cell">1210</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(31.8%)</td>
+     <td class="empty" />
+     <td class="cell">(16.7%)</td>
+     <td class="empty" />
+     <td class="cell">(10.1%)</td>
+     <td class="empty" />
+     <td class="cell">(3.3%)</td>
+     <td class="empty" />
+     <td class="cell">(14.6%)</td>
+    </tr>
+    <tr>
+     <td class="cell">Pain that is not widespread</td>
+     <td class="cell">873</td>
+     <td class="cell">20.8%</td>
+     <td class="cell">1116</td>
+     <td class="cell">26.6%</td>
+     <td class="cell">1429</td>
+     <td class="cell">34.0%</td>
+     <td class="cell">785</td>
+     <td class="cell">18.7%</td>
+     <td class="cell">4203</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(52.1%)</td>
+     <td class="empty" />
+     <td class="cell">(56.4%)</td>
+     <td class="empty" />
+     <td class="cell">(50.2%)</td>
+     <td class="empty" />
+     <td class="cell">(44.0%)</td>
+     <td class="empty" />
+     <td class="cell">(50.7%)</td>
+    </tr>
+    <tr>
+     <td class="cell">Non-persistent widespread pain (baseline or 3 years)</td>
+     <td class="cell">192</td>
+     <td class="cell">11.4%</td>
+     <td class="cell">338</td>
+     <td class="cell">20.1%</td>
+     <td class="cell">656</td>
+     <td class="cell">39.0%</td>
+     <td class="cell">497</td>
+     <td class="cell">29.5%</td>
+     <td class="cell">1683</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(11.5%)</td>
+     <td class="empty" />
+     <td class="cell">(17.1%)</td>
+     <td class="empty" />
+     <td class="cell">(23.0%)</td>
+     <td class="empty" />
+     <td class="cell">(27.8%)</td>
+     <td class="empty" />
+     <td class="cell">(20.3%)</td>
+    </tr>
+    <tr>
+     <td class="cell">Persistent widespread pain (baseline and 3 years)</td>
+     <td class="cell">78</td>
+     <td class="cell">6.6%</td>
+     <td class="cell">194</td>
+     <td class="cell">16.3%</td>
+     <td class="cell">473</td>
+     <td class="cell">39.7%</td>
+     <td class="cell">445</td>
+     <td class="cell">37.4%</td>
+     <td class="cell">1190</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="cell">(4.7%)</td>
+     <td class="empty" />
+     <td class="cell">(9.8%)</td>
+     <td class="empty" />
+     <td class="cell">(16.6%)</td>
+     <td class="empty" />
+     <td class="cell">(24.9%)</td>
+     <td class="empty" />
+     <td class="cell">(14.4%)</td>
+    </tr>
+    <tr>
+     <td class="cell">Total</td>
+     <td class="cell">1675</td>
+     <td class="cell">20.2%</td>
+     <td class="cell">1979</td>
+     <td class="cell">23.9%</td>
+     <td class="cell">2846</td>
+     <td class="cell">34.3%</td>
+     <td class="cell">1786</td>
+     <td class="cell">21.6%</td>
+     <td class="cell">8286</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Consultation-based pain definition </th>
+     <th class="cell">n </th>
+     <th class="cell">Crude </th>
+     <th class="cell">Standardized* </th>
+    </tr>
+    <tr>
+     <td class="cell">Fibromyalgia</td>
+     <td class="cell">290</td>
+     <td class="cell">0.37 (0.33-0.42)</td>
+     <td class="cell">0.36 (0.32-0.40)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1097_j.pain.0000000000000733/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>

@@ -1,0 +1,772 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function openTab(evt, currentTabId, tabClass) {
+    var i, element, tablinks;
+
+    element = document.getElementsByClassName(tabClass);
+    for (i = 0; i < element.length; i++) {
+        element[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(currentTabId).style.display = "block";
+    evt.currentTarget.className += " active";
+    
+}
+</script>
+<style>
+ /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/* th */
+th {
+	background-color: #fdd;
+}
+
+/* td */
+td.cell {
+	background-color: #ddf;
+	padding: 1px;
+}
+td.empty {
+	background-color: #eef;
+	padding: 1px;
+}
+</style></head><body><h1>10.1016_j.amepre.2016.06.011</h1><div class="tab"><button title="table2" class="tablinks" onClick="openTab(event, 'table2', 'tabcontent')">table2</button><button title="table4" class="tablinks" onClick="openTab(event, 'table4', 'tabcontent')">table4</button><button title="table3" class="tablinks" onClick="openTab(event, 'table3', 'tabcontent')">table3</button><button title="table1" class="tablinks" onClick="openTab(event, 'table1', 'tabcontent')">table1</button></div><div class="tabcontentdiv"><table title="table2" id="table2" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table2/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table2/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Dietary components </th>
+     <th class="cell">M </th>
+     <th class="cell">Median </th>
+     <th class="cell">10th, 90th percentile </th>
+     <th class="cell">% meeting guideline </th>
+     <th class="cell">Relative difference ^{b} (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">Vegetables (servings/day)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income non-participants</td>
+     <td class="cell">1.3</td>
+     <td class="cell">1.3</td>
+     <td class="cell">0.7, 2.2</td>
+     <td class="cell">0</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible nonparticipants</td>
+     <td class="cell">1.5</td>
+     <td class="cell">1.4</td>
+     <td class="cell">0.7, 2.4</td>
+     <td class="cell">0</td>
+     <td class="cell">1.07 (0.90, 1.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">1.3</td>
+     <td class="cell">1.2</td>
+     <td class="cell">0.6, 2.1</td>
+     <td class="cell">0</td>
+     <td class="cell">1.05 (0.86, 1.28)</td>
+    </tr>
+    <tr>
+     <td class="cell">Fruit (servings/day)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income non-participants</td>
+     <td class="cell">0.8</td>
+     <td class="cell">0.5</td>
+     <td class="cell">0.1, 1.9</td>
+     <td class="cell">0.8</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible nonparticipants</td>
+     <td class="cell">1.0</td>
+     <td class="cell">0.7</td>
+     <td class="cell">0.1, 2.2</td>
+     <td class="cell">1.2</td>
+     <td class="cell">1.57 (1.19, 2.08)</td>
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">0.8</td>
+     <td class="cell">0.6</td>
+     <td class="cell">0.1, 2.0</td>
+     <td class="cell">1.0</td>
+     <td class="cell">1.40 (0.99, 1.98)</td>
+    </tr>
+    <tr>
+     <td class="cell">100% fruit juice (servings/day)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income non-participants</td>
+     <td class="cell">0.3</td>
+     <td class="cell">0.2</td>
+     <td class="cell">0.0, 0.8</td>
+     <td class="cell">—</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible nonparticipants</td>
+     <td class="cell">0.5</td>
+     <td class="cell">0.3</td>
+     <td class="cell">0.1, 1.1</td>
+     <td class="cell">—</td>
+     <td class="cell">0.81 (0.52, 1.26)</td>
+    </tr>
+    <tr>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">0.58 ^{c}</td>
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">0.4</td>
+     <td class="cell">0.2</td>
+     <td class="cell">0.0, 0.9</td>
+     <td class="cell">—</td>
+     <td class="cell">(0.37, 0.91)</td>
+    </tr>
+    <tr>
+     <td class="cell">Whole grains (servings/day)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income non-participants</td>
+     <td class="cell">0.5</td>
+     <td class="cell">0.4</td>
+     <td class="cell">0.1, 1.0</td>
+     <td class="cell">0</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible nonparticipants</td>
+     <td class="cell">0.4</td>
+     <td class="cell">0.3</td>
+     <td class="cell">0.1, 0.9</td>
+     <td class="cell">0</td>
+     <td class="cell">0.96 (0.72, 1.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">0.4</td>
+     <td class="cell">0.3</td>
+     <td class="cell">0.1, 0.9</td>
+     <td class="cell">0</td>
+     <td class="cell">0.89 (0.67, 1.19)</td>
+    </tr>
+    <tr>
+     <td class="cell">Sugary beverages (servings/day)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income non-participants</td>
+     <td class="cell">3.0</td>
+     <td class="cell">2.9</td>
+     <td class="cell">1.2, 5.0</td>
+     <td class="cell">2.2</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible nonparticipants</td>
+     <td class="cell">3.1</td>
+     <td class="cell">2.9</td>
+     <td class="cell">1.3, 5.2</td>
+     <td class="cell">2.3</td>
+     <td class="cell">0.98 (0.81, 1.18)</td>
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">3.0</td>
+     <td class="cell">2.8</td>
+     <td class="cell">1.4, 4.8</td>
+     <td class="cell">1.4</td>
+     <td class="cell">1.06 (0.87, 1.29)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table2/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table4" id="table4" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table4/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table4/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Measures </th>
+     <th class="cell">Boys </th>
+     <th class="cell">Girls </th>
+     <th class="cell">Multivariate- adjusted, ^{c} β(95% CI) </th>
+     <th class="cell">Boys </th>
+     <th class="cell">Girls </th>
+     <th class="cell">Multivariate- adjusted,^{d} OR (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">Systolic blood pressure (in mmHg)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table4/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table3" id="table3" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table3/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table3/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Measures </th>
+     <th class="cell">M char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary SE </th>
+     <th class="cell">Multivariate-adjusted, ^{b} β(95% CI) </th>
+     <th class="cell">n (%) </th>
+     <th class="cell">Multivariate-adjusted, ^{b} OR (95% CI) </th>
+    </tr>
+    <tr>
+     <td class="cell">BMI-for-age Z score ^{c}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income</td>
+     <td class="cell">0.59 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.04</td>
+     <td class="cell">ref</td>
+     <td class="cell">359 (19.0)</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">nonparticipants</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible</td>
+     <td class="cell">0.56 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.05</td>
+     <td class="cell">0.11 (–0.05, 0.28)</td>
+     <td class="cell">295 (18.6)</td>
+     <td class="cell">1.15 (0.83, 1.59)</td>
+    </tr>
+    <tr>
+     <td class="cell">nonparticipants</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">0.74 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.05</td>
+     <td class="cell">0.21 (0.01, 0.41)</td>
+     <td class="cell">303 (27.5)</td>
+     <td class="cell">1.59 (1.06, 2.39)</td>
+    </tr>
+    <tr>
+     <td class="cell">Waist circumference Z score ^{d}</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income</td>
+     <td class="cell">–0.05 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.04</td>
+     <td class="cell">ref</td>
+     <td class="cell">486 (33.6)</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">nonparticipants</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible</td>
+     <td class="cell">0.03 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.05</td>
+     <td class="cell">0.09 (–0.06, 0.25)</td>
+     <td class="cell">447 (32.1)</td>
+     <td class="cell">1.21 (0.87, 1.68)</td>
+    </tr>
+    <tr>
+     <td class="cell">nonparticipants</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">0.08 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.04</td>
+     <td class="cell">0.21 (0.03, 0.39)</td>
+     <td class="cell">364 (33.6)</td>
+     <td class="cell">1.48 (0.96, 2.27)</td>
+    </tr>
+    <tr>
+     <td class="cell">Waist-to-height ratio</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income</td>
+     <td class="cell">0.49 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.003</td>
+     <td class="cell">ref</td>
+     <td class="cell">652 (37.1)</td>
+     <td class="cell">ref</td>
+    </tr>
+    <tr>
+     <td class="cell">nonparticipants</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible</td>
+     <td class="cell">0.50 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.004</td>
+     <td class="cell">0.01 (–0.01, 0.02)</td>
+     <td class="cell">604 (39.7)</td>
+     <td class="cell">1.01 (0.75, 1.38)</td>
+    </tr>
+    <tr>
+     <td class="cell">nonparticipants</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">SNAP participants</td>
+     <td class="cell">0.51 ❶ char: 1; name: H11006; f: AdvPA264; fn: DIKLIF+AdvPA264; e: Dictionary 0.004</td>
+     <td class="cell">0.02 (0.00, 0.03)</td>
+     <td class="cell">482 (43.6)</td>
+     <td class="cell">1.21 (0.80, 1.82)</td>
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table3/table.svg.html</p>
+  </td>
+ </tr>
+</table><table title="table1" id="table1" class="tabcontent">
+ <tr>
+  <td>
+   <img src="table1/table.svg.png" />
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table1/table.svg.png</p>
+  </td>
+  <td>
+   <table class="table">
+    <caption />
+    <tr>
+     <th class="cell">Characteristics </th>
+     <th class="cell">Higher-income nonparticipants, n/mean (%/SE) (n=1,773) </th>
+     <th class="cell">Low-income nonparticipants, n/mean (%/SE) (n=1,468) </th>
+     <th class="cell">SNAP participants, n/mean (%/SE) (n=1,209) </th>
+     <th class="cell">p-value ^{a} </th>
+    </tr>
+    <tr>
+     <td class="cell">Adolescent characteristics</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Age</td>
+     <td class="cell">15.2 (0.1)</td>
+     <td class="cell">16.0 (0.1)</td>
+     <td class="cell">15.1 (0.08)</td>
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">Female</td>
+     <td class="cell">825 (48.0)</td>
+     <td class="cell">729 (51.4)</td>
+     <td class="cell">603 (50.3)</td>
+     <td class="cell">0.24</td>
+    </tr>
+    <tr>
+     <td class="cell">Race/ethnicity</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Non-Hispanic white</td>
+     <td class="cell">468 (60.3)</td>
+     <td class="cell">321 (48.2)</td>
+     <td class="cell">208 (38.2)</td>
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">Non-Hispanic black</td>
+     <td class="cell">529 (14.3)</td>
+     <td class="cell">357 (14.6)</td>
+     <td class="cell">561 (31.9)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Hispanic</td>
+     <td class="cell">688 (18.9)</td>
+     <td class="cell">728 (30.3)</td>
+     <td class="cell">389 (23.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Other or multi-racial</td>
+     <td class="cell">88 (6.5)</td>
+     <td class="cell">62 7.0</td>
+     <td class="cell">51 (6.2)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Parental characteristics</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Birthplace</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">Born in the U.S.</td>
+     <td class="cell">1,221 (80.0)</td>
+     <td class="cell">793 (66.7)</td>
+     <td class="cell">894 (76.9)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Born outside of the U.S.</td>
+     <td class="cell">507 (17.5)</td>
+     <td class="cell">621 (30.1)</td>
+     <td class="cell">279 (19.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Educational attainment</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">&lt; 12 years</td>
+     <td class="cell">484 (16.5)</td>
+     <td class="cell">622 (33.4)</td>
+     <td class="cell">599 (40.1)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">High school diploma/</td>
+     <td class="cell">450 (27.7)</td>
+     <td class="cell">354 (25.7)</td>
+     <td class="cell">335 (33.5)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">equivalent</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Any college</td>
+     <td class="cell">581 (37.9)</td>
+     <td class="cell">354 (30.5)</td>
+     <td class="cell">206 (19.5)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">College graduate</td>
+     <td class="cell">210 (15.4)</td>
+     <td class="cell">72 (6.8)</td>
+     <td class="cell">30 (3.4)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Missing</td>
+     <td class="cell">48 (2.6)</td>
+     <td class="cell">66 (3.6)</td>
+     <td class="cell">39 (3.4)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Marital status</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">Married/living with</td>
+     <td class="cell">1,130 (67.1)</td>
+     <td class="cell">728 (49.1)</td>
+     <td class="cell">428 (40.5)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">partner</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Not partnered</td>
+     <td class="cell">568 (28.2)</td>
+     <td class="cell">609 (40.2)</td>
+     <td class="cell">677 (51.5)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Missing</td>
+     <td class="cell">75 (2.2)</td>
+     <td class="cell">131 (3.1)</td>
+     <td class="cell">104 (1.8)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Household characteristics</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Income as ratio to FPL</td>
+     <td class="cell">2.14 (0.02)</td>
+     <td class="cell">0.77 (0.02)</td>
+     <td class="cell">0.64 (0.01)</td>
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">(mean)</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Income as ratio to FPL</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">—</td>
+    </tr>
+    <tr>
+     <td class="cell">0–50% FPL</td>
+     <td class="cell">—</td>
+     <td class="cell">379 (26.9)</td>
+     <td class="cell">445 (33.2)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">50.1–100% FPL</td>
+     <td class="cell">—</td>
+     <td class="cell">626 (37.9)</td>
+     <td class="cell">598 (52.7)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">100.1–130% FPL</td>
+     <td class="cell">—</td>
+     <td class="cell">463 (35.2)</td>
+     <td class="cell">166 (14.1)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">130.1–200% FPL</td>
+     <td class="cell">876 (42.9)</td>
+     <td class="cell">—</td>
+     <td class="cell">—</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">200.1–300% FPL</td>
+     <td class="cell">897 (57.1)</td>
+     <td class="cell">—</td>
+     <td class="cell">—</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Household size</td>
+     <td class="cell">4.3 (0.1)</td>
+     <td class="cell">4.3 (0.1)</td>
+     <td class="cell">4.7 (0.1)</td>
+     <td class="cell">0.001</td>
+    </tr>
+    <tr>
+     <td class="cell">WIC participation</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">—</td>
+    </tr>
+    <tr>
+     <td class="cell">WIC participant</td>
+     <td class="cell">79 (2.2)</td>
+     <td class="cell">243 (12.5)</td>
+     <td class="cell">365 (26.1)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Income-eligible</td>
+     <td class="cell">578 (29.0)</td>
+     <td class="cell">1,057 (75.2)</td>
+     <td class="cell">816 (71.2)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">nonparticipant</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Higher-income</td>
+     <td class="cell">976 (62.2)</td>
+     <td class="cell">0</td>
+     <td class="cell">0</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">nonparticipant</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Missing</td>
+     <td class="cell">140 (6.6)</td>
+     <td class="cell">168 (12.3)</td>
+     <td class="cell">28 (2.7)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Food security</td>
+     <td class="empty" />
+     <td class="empty" />
+     <td class="empty" />
+     <td class="cell">&lt; 0.0001</td>
+    </tr>
+    <tr>
+     <td class="cell">Food secure</td>
+     <td class="cell">1,261 (76.0)</td>
+     <td class="cell">741 (51.3)</td>
+     <td class="cell">588 (51.3)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Marginally food secure</td>
+     <td class="cell">120 (5.6)</td>
+     <td class="cell">118 (7.1)</td>
+     <td class="cell">190 (14.6)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Food insecure</td>
+     <td class="cell">212 (8.8)</td>
+     <td class="cell">287 (16.5)</td>
+     <td class="cell">376 (29.4)</td>
+     <td class="empty" />
+    </tr>
+    <tr>
+     <td class="cell">Missing</td>
+     <td class="cell">180 (9.5)</td>
+     <td class="cell">322 (25.1)</td>
+     <td class="cell">55 (4.7)</td>
+     <td class="empty" />
+    </tr>
+   </table>
+   <p>corpus-oa-validation/10.1016_j.amepre.2016.06.011/tables/table1/table.svg.html</p>
+  </td>
+ </tr>
+</table></div></body></html>
